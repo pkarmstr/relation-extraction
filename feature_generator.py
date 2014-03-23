@@ -1,48 +1,44 @@
 """Necessità 'l ci 'nduce, e non diletto."""
+import re
 from feature_functions import *
+from file_reader import FeatureRow, feature_list_reader
 
 __author__ = 'keelan'
 
 import codecs
 import argparse
 
-def feature_list_reader(file_path):
-    ls = []
-    with open(file_path, "r") as f_in:
-        for line in f_in:
-            ls.append(eval(line.rstrip()))
-
-    return ls
-
 class Featurizer:
+    INT_INDEXES = [2, 3, 4, 7, 8, 9]
+
     def __init__(self, file_path, features, no_tag=False):
         self.file_path = file_path
         self.feature_functions = features
         self.no_tag = no_tag
         self.original_data = self.get_original_data()
 
+    def prepare_line(self, line):
+        line = line.rstrip().split()
+        if self.no_tag:
+            line.insert(0, "")
+        line.remove(12)
+        line.remove(6)
+        i_token = line[6]
+        j_token = line[11]
+        for i in self.INT_INDEXES:
+            line[i] = int(line[i])
+        line.append(self._clean(i_token))
+        line.append(self._clean(j_token))
+
+        return line
+
 
     def get_original_data(self):
         gold_data = []
         with codecs.open(self.file_path, "r") as f_in:
             for line in f_in:
-                line = line.rstrip().split()
-                i_token = line[5]
-                j_token = line[10]
-                line[1] = int(line[1])
-                line[2] = int(line[2])
-                line[3] = int(line[3])
-                line[6] = int(line[6])
-                line[7] = int(line[7])
-                line[8] = int(line[8])
-                if self.no_tag:
-                    line.append(self._clean(i_token))
-                    line.append(self._clean(j_token))
-                    line.append("")
-                else:
-                    line.insert(-1, self._clean(i_token))
-                    line.insert(-1, self._clean(j_token))
-                gold_data.append(FeatureRow(*line))
+                prepped = self.prepare_line(line)
+                gold_data.append(FeatureRow(*prepped))
 
         return gold_data
 
@@ -52,7 +48,7 @@ class Featurizer:
         2) Removes possessive 's from the end
         3) Removes O', d', and ;T from anywhere (O'Brien becomes Brien, d'Alessandro becomes Alessandro, etc.)
         """
-        return "_".join([re.sub(r"\W", r"", word) for word in token.split("_")])
+        return [re.sub(r"\W", r"", word) for word in token.split("_")]
 
     def build_features(self):
         self.new_features = []
@@ -81,7 +77,7 @@ if __name__ == "__main__":
     feature_funcs = []
     feature_funcs.extend(feature_list_reader(all_args.feature_list))
     if all_args.answers:
-        feature_funcs.insert(0, is_coreferent)
+        feature_funcs.insert(0, relation_type)
     f = Featurizer(all_args.input_file, feature_funcs, not all_args.answers)
     f.build_features()
     f.write_new_features(all_args.output_file)
