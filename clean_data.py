@@ -3,17 +3,15 @@ provides"""
 
 __author__ = 'keelan'
 
-from corenlp import parse_parser_xml_results
-from file_reader import FeatureRow
+from file_reader import FeatureRow, all_stanford
 import sys
-import os
 
 
 class Cleaner:
     """better than a Polish maid"""
 
     def __init__(self, input_file, tokenized, basedir):
-        self.data_dict = {}
+        self.data_dict = all_stanford
         self.bad_rows = 0
         self.total_rows = 0
         self.original_data = self.open_gold_data(input_file)
@@ -24,14 +22,6 @@ class Cleaner:
     def write_log(self):
         with open("cleaning_log.txt", "w") as f_out:
             f_out.write("\n".join(self.log))
-
-    def open_and_parse_xml_file(self, file_name):
-        with open(file_name, "r") as f_in:
-            return parse_parser_xml_results(f_in.read())
-
-    def update_cache(self, file_name):
-        path = os.path.join(self.basedir, file_name + ".raw.xml")
-        self.data_dict[file_name] = self.open_and_parse_xml_file(os.path.join(path))
 
     def preprocess_tokenize(self, output_file):
         out = []
@@ -81,13 +71,9 @@ class Cleaner:
                 return (-1, -1)
         return (offset_begin, offset_end)
 
-    def _clean_the_clean(self, sentence):
-        for i in range(len(sentence)):
-            pass
-
     def build_new_data(self):
         referent_cache = []
-        ref_offset = []
+        j_offset = []
         all_new = []
         for i, fr in enumerate(self.original_data):
             try:
@@ -96,38 +82,38 @@ class Cleaner:
                 self.update_cache(fr.article)
                 nlp_data = self.data_dict[fr.article]
 
-            referent_tmp = [fr.token_ref, fr.sentence_ref]
+            referent_tmp = [fr.j_token, fr.j_sentence]
             if referent_tmp != referent_cache:
-                sentence_ref = nlp_data["sentences"][int(fr.sentence_ref)]["text"]
+                j_sentence = nlp_data["sentences"][int(fr.j_sentence)]["text"]
                 tokenized_referent = self.tokenized[i][1]
                 begin_ref, end_ref = self.get_correct_offset(tokenized_referent,
-                                                      sentence_ref,
+                                                      j_sentence,
                                                       int(fr.offset_begin_ref)-1,
                                                       int(fr.offset_end_ref)-1
                 )
-                ref_offset = [tokenized_referent, begin_ref, end_ref]
+                j_offset = [tokenized_referent, begin_ref, end_ref]
                 referent_cache = referent_tmp
 
             tokenized = self.tokenized[i][0]
-            sentence = nlp_data["sentences"][int(fr.sentence)]["text"]
+            i_sentence = nlp_data["sentences"][fr.i_sentence]["text"]
             offset_begin, offset_end = self.get_correct_offset(tokenized,
-                                                               sentence,
+                                                               i_sentence,
                                                                int(fr.offset_begin)-1,
                                                                int(fr.offset_end)-1
             )
-            if offset_begin == -1 or ref_offset[1] == -1:
+            if offset_begin == -1 or j_offset[1] == -1:
                 if offset_begin == -1:
                     self.log.append("word: {:s} | offset: ({}, {}) | sentence: {:s}".format(
-                        tokenized, fr.offset_begin, fr.offset_end, sentence))
+                        tokenized, fr.i_offset_begin, fr.i_offset_end, i_sentence))
                 else:
                     self.log.append("word: {:s} | offset: ({}, {}) | sentence: {:s}".format(
-                        ref_offset[0], fr.offset_begin_ref, fr.offset_end_ref, sentence_ref))
+                        j_offset[0], fr.j_offset_begin, fr.j_offset_end, j_sentence))
 
                 continue
             new_row = " ".join([fr.article, fr.sentence, str(offset_begin), str(offset_end),
                                 fr.entity_type, "_".join(tokenized), fr.sentence_ref,
-                                str(ref_offset[1]), str(ref_offset[2]), fr.entity_type_ref,
-                                "_".join(ref_offset[0]), fr.is_referent])
+                                str(j_offset[1]), str(j_offset[2]), fr.entity_type_ref,
+                                "_".join(j_offset[0]), fr.is_referent])
             all_new.append(new_row)
         print "{:d} out of {:d} rows didn't have a match".format(self.bad_rows, self.total_rows)
         self.write_log()

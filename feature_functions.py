@@ -1,5 +1,7 @@
 __author__ = 'keelan'
 
+from file_reader import RAW_SENTENCES, SYNTAX_PARSE_SENTENCES, POS_SENTENCES
+
 ###################
 # basic functions #
 ###################

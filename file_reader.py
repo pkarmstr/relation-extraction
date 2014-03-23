@@ -72,7 +72,7 @@ def stanford_tree_reader(nlp):
     return all_sentences
 
 def stanford_general_opener(file_path, f_name):
-    with open(os.path.join(file_path, f_name+".xml"), "r") as f_in:
+    with open(os.path.join(file_path, f_name+".head.coref.raw.xml"), "r") as f_in:
         return parse_parser_xml_results(f_in.read())
 
 
@@ -83,24 +83,23 @@ FeatureRow = namedtuple("FeatureRow", ["relation_type", "article", "i_sentence",
                                        "j_offset_end", "j_entity_type",
                                        "j_token", "i_cleaned", "j_cleaned"])
 
-###########################
-# `final` data structures #
-###########################
+##########################
+# final` data structures #
+##########################
+
 basedir = "stanford-full-pipeline"
 
 all_stanford = LazyDict(basedir, stanford_general_opener)
 RAW_SENTENCES = SuperLazyDict(all_stanford, stanford_raw_reader)
 POS_SENTENCES = SuperLazyDict(all_stanford, stanford_pos_reader)
-SYNTAX_PARSE_SENTENCES = SuperLazyDict(all_stanford, stanford_tree_reader())
+SYNTAX_PARSE_SENTENCES = SuperLazyDict(all_stanford, stanford_tree_reader)
 
-TITLE_SET=set(["chairman", "Chairman", "director", "Director", "president",
-              "President", "manager", "Manager", "executive", "CEO", "Officer",
-              "officer", "consultant","Chief", "CFO", "COO", "CTO", "CMO",
-              "founder", "shareholder", "researcher", "professor",
-              "principal", "Principal","minister","Minister","prime","Prime","chief", "Chief",
-              "prosecutor","Prosecutor","queen","Queen","leader","Leader","secretary","Secretary","ex-Leader",
-              "ex-leader","coach","Coach","composer","Composer","head","Head","governor","Governor","judge",
-              "Judge","democrat","Democrat","republican","Republican","senator","Senator","congressman",
-              "Congressman","congresswoman", "Congresswoman","analyst","Analyst","sen","Sen","Rep","rep","MP",
-              "mp","justice","Justice","co-chairwoman","co-chair","co-chairman","Mr.","mr.","Mr","mr","Ms.","ms.",
-              "Mrs.","mrs.",])
+TITLE_SET= {"chairman", "Chairman", "director", "Director", "president", "President", "manager", "Manager", "executive",
+            "CEO", "Officer", "officer", "consultant", "Chief", "CFO", "COO", "CTO", "CMO", "founder", "shareholder",
+            "researcher", "professor", "principal", "Principal", "minister", "Minister", "prime", "Prime", "chief",
+            "Chief", "prosecutor", "Prosecutor", "queen", "Queen", "leader", "Leader", "secretary", "Secretary",
+            "ex-Leader", "ex-leader", "coach", "Coach", "composer", "Composer", "head", "Head", "governor", "Governor",
+            "judge", "Judge", "democrat", "Democrat", "republican", "Republican", "senator", "Senator", "congressman",
+            "Congressman", "congresswoman", "Congresswoman", "analyst", "Analyst", "sen", "Sen", "Rep", "rep", "MP",
+            "mp", "justice", "Justice", "co-chairwoman", "co-chair", "co-chairman", "Mr.", "mr.", "Mr", "mr", "Ms.",
+            "ms.", "Mrs.", "mrs."}

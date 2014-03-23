@@ -1,3 +1,4 @@
+# coding=utf-8
 """Necessità 'l ci 'nduce, e non diletto."""
 import re
 from feature_functions import *
@@ -21,8 +22,8 @@ class Featurizer:
         line = line.rstrip().split()
         if self.no_tag:
             line.insert(0, "")
-        line.remove(12)
-        line.remove(6)
+        del line[12]
+        del line[6]
         i_token = line[6]
         j_token = line[11]
         for i in self.INT_INDEXES:
