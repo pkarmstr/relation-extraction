@@ -1,0 +1,92 @@
+(S1 (NP (NP (CD APW20001218.0541.0172) (NN NEWS) (NN STORY)) (QP (CD 2000-12-18) (CD 05:41:23))))
+
+(S1 (NP (NN High-Court)))
+
+(S1 (S (NP (NN Court) (NN Skid)) (VP (NNS Stamps) (NP (NP (NN Docket)) (PP (IN of) (NP (NN History)))))))
+
+(S1 (S (NP (NP (NNP WASHINGTON)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VP (VBZ _) (NP (NP (DT The) (NNP Supreme) (NNP Court) (POS 's)) (NN postelection) (NN skid)) (PP (IN into) (NP (DT the) (JJ once-shunned) (`` ``) (JJ political) (NN thicket) ('' ')))) (: ') (VP (VBZ leaves) (NP (DT an) (JJ indelible) (NN stamp)) (PP (IN on) (NP (NP (NP (DT the) (NN docket)) (PP (IN of) (NP (NN history)))) (CC and) (NP (NP (DT a) (NN case)) (SBAR (WHNP (IN that)) (S (NP (NNS citizens)) (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (VB debate) (ADVP (ADVP (RB as) (RB long)) (SBAR (IN as) (S (NP (DT the) (NN republic)) (VP (VBZ chooses) (S (NP (NNS presidents))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN Unlike) (NP (NP (JJ many)) (PP (IN of) (NP (NP (NP (DT the) (NN court) (POS 's)) (NNS decisions)) (VP (VBG shaping) (NP (NP (NP (DT the) (NN country) (POS 's)) (NN response)) (PP (TO to) (NP (NP (JJ difficult) (NNS issues)) (PP (IN from) (NP (NN slavery))))) (PP (TO to) (NP (NN abortion))))))))) (, ,) (NP (NP (DT this) (NN opinion)) (PP (IN by) (NP (DT a) (JJ fractured) (NN bench)))) (VP (VBZ raises) (NP (NP (DT a) (NN swarm)) (PP (IN of) (NP (JJ unanswered) (NNS questions))))) (. .)))
+
+(S1 (FRAG (PP (IN While) (NP (NNP Bush) (NNP v))) (. .)))
+
+(S1 (S (S (NP (NNP Gore)) (VP (VP (VBD ended) (NP (NP (NNP Al) (NNP Gore) (POS 's)) (NN quest)) (PP (IN for) (NP (DT the) (NNP White) (NNP House)))) (CC and) (VP (ADVP (RB effectively)) (VBD made) (NP (NP (NNP George) (NNP W.) (NNP Bush)) (NP (DT the) (NN president) (NN -elect)))))) (, ,) (NP (PRP it)) (VP (VBD left) (S (VP (VBN unsettled) (NP (NP (DT the) (NN question)) (PP (IN of) (SBAR (WHNP (WP who)) (S (VP (VBD won) (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (NP (NNP Florida) (POS 's)) (JJ presidential) (NNS votes)))))))))))) (. .)))
+
+(S1 (S (CC And) (NP (NP (PRP$ its) (NNS implications)) (PP (IN for) (NP (DT the) (NN future))) (PP (IN of) (NP (DT the) (JJ electoral) (NN process)))) (VP (MD can) (ADVP (RB only)) (VP (VB be) (VP (VBD guessed) (PP (IN at))))) (. .)))
+
+(S1 (S (ADVP (NP (QP (CD Two) (CD hundred)) (NNS years)) (RB ago)) (, ,) (S (VP (VBN shoehorned) (PP (IN into) (NP (NP (JJ cramped) (NNS quarters)) (PP (IN in) (NP (NP (DT this) (NN city) (POS 's)) (JJ new) (NNP Capitol))) (, ,) (VP (VBG intervening) (PP (IN in) (NP (DT a) (JJ disputed) (JJ presidential) (NN election)))))))) (VP (VBD was) (RB not) (NP (NP (DT a) (JJ likely) (NN option)) (PP (IN for) (S (NP (DT a) (NN court)) (ADVP (RB still)) (VP (VBG finding) (NP (PRP$ its) (JJ constitutional) (NN role))))))) (. .)))
+
+(S1 (S (NP (NNS Presidents)) (VP (VBD sought) (ADVP (RB instead)) (S (VP (TO to) (VP (VB shape) (NP (DT the) (NN court) (S (VP (TO to) (VP (VB buttress) (NP (NP (PRP$ their) (JJ often-conflicting) (NNS views)) (PP (IN of) (NP (NP (DT the) (NN course)) (SBAR (S (NP (DT the) (JJ young) (NN republic)) (VP (MD should) (VP (VB follow)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN By) (S (VP (VBG flickering) (NP (NN candlelight))))) (, ,) (PP (IN in) (NP (NP (DT the) (JJ last) (NNS hours)) (PP (IN of) (NP (PRP$ his) (NN administration))))) (, ,) (NP (NNP President) (NNP John) (NNP Adams)) (VP (VBD appointed) (NP (NP (NNS members)) (PP (IN of) (NP (PRP$ his) (NNP Federalist) (NNP Party)))) (PP (TO to) (NP (JJ federal) (NNS judgeships))) (, ,) (S (VP (VBG hoping) (SBAR (S (NP (PRP they)) (VP (MD would) (VP (VB control) (NP (NP (DT the) (JJ much-feared) (ADJP (`` ``) (JJ radical) ('' ')) ('' ') (NNS notions)) (PP (IN of) (NP (NP (NNP Thomas) (NNP Jefferson)) (CC and) (NP (PRP$ his) (JJ political) (NNS allies)))))))))))) (. .)))
+
+(S1 (S (`` ``) (NP (NN Midnight) (NNS judges)) (, ,) ('' '') (NP (DT the) (NNP Jeffersonians)) (VP (VBD scoffed)) (. .)))
+
+(S1 (S (S (NP (DT The) (NNPS Federalists)) (`` ``) (VP (VBD retreated) (PP (IN into) (NP (NP (DT the) (NN judiciary)) (PP (IN as) (NP (NP (DT a) (NN stronghold)) (, ,) (NP (NP (DT the) (NN tenure)) (PP (IN of) (SBAR (WHNP (WDT which)) (S (VP (VBZ renders) (S (NP (PRP it)) (ADJP (JJ difficult)) (S (VP (TO to) (VP (VB dislodge) (NP (PRP them))))))))))))))))) (, ,) ('' '') (NP (NNP Jefferson)) (VP (VBD wrote) (PP (ADVP (RB soon)) (IN after) (NP (PRP$ his) (CD 1801) (NN inauguration)))) (. .)))
+
+(S1 (S (NP (NP (CD One)) (PP (IN of) (NP (DT those) (JJ difficult-to-dislodge) (NNS judges)))) (VP (VBD was) (NP (NP (NNP John) (NNP Marshall)) (, ,) (VP (VBN nominated) (PP (IN by) (NP (NNP Adams))) (S (VP (TO to) (VP (VB be) (NP (NN chief) (NN justice)))))))) (. .)))
+
+(S1 (FRAG (ADVP (NP (CD Three) (NNS years)) (RB later)) (, ,) (PP (IN in) (NP (NNP Marbury) (NNP v))) (. .)))
+
+(S1 (S (NP (NNP Madison)) (PRN (, ,) (S (NP (DT a) (NN case)) (VP (VBG growing) (PP (IN out) (PP (IN of) (NP (NP (NNP Adams) (POS ')) (JJ last-minute) (JJ judicial) (NNS appointments)))))) (, ,)) (NP (NNP Marshall)) (VP (VBD established) (NP (NP (DT the) (NN court) (POS 's)) (NN power)) (S (VP (TO to) (`` ``) (VP (VB say) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN law)) (VP (VBZ is)))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Marshall)) (VP (VBD declared) (NP (NP (DT the) (NN supremacy)) (PP (IN of) (NP (DT the) (NNP Constitution))) (PP (IN over) (NP (NP (DT any) (NN law)) (VP (VBN passed) (PP (IN by) (NP (NNP Congress)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD claimed) (PP (IN for) (NP (DT the) (NNP Supreme) (NNP Court))) (NP (DT the) (NN power) (S (VP (TO to) (VP (VB declare) (NP (DT a) (NN law)) (S (ADJP (JJ unconstitutional))))))) (, ,) (S (VP (VBG establishing) (NP (NP (DT the) (NN power)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ its) (JJ ultimate) (NN weapon))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN court)) (VP (VBZ has) (ADVP (RB always)) (VP (VBN moved) (ADVP (RB cautiously)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB take) (NP (DT another) (NN half-century)) (SBAR (IN before) (S (NP (DT the) (NNS justices)) (VP (ADVP (RB again)) (VBD declared) (S (NP (NP (DT an) (NN act)) (PP (IN of) (NP (NNP Congress)))) (ADJP (JJ invalid)))))))) (. .)))
+
+(S1 (S (S (VP (VBG Moving) (S (VP (TO to) (VP (VB refashion) (S (NP (DT the) (NN court)) (VP (TO to) (VP (VB suit) (NP (PRP$ their) (JJ own) (NNS views)))))))))) (, ,) (NP (NP (NP (NNP Jefferson) (POS 's)) (NNS friends)) (PP (IN in) (NP (NNP Congress)))) (VP (VBN impeached) (NP (NNP Justice) (NNP Samuel) (NNP Chase)) (PP (IN in) (NP (CD 1804))) (, ,) (SBAR (NP (RB just) (NNS months)) (IN after) (S (NP (NP (PRP he)) (CC and) (NP (PRP$ his) (NNS colleagues))) (VP (VBD had) (VP (VBN declared) (SBAR (IN that) (S (NP (NP (DT an) (NN act)) (PP (IN of) (NP (NNP Congress)))) (VP (VBD violated) (NP (DT the) (NNP Constitution)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN attempt) (S (VP (TO to) (VP (VB weaken) (NP (NP (NP (DT the) (NN court) (POS 's)) (NN freedom)) (PP (IN of) (NP (NN action)))))))) (VP (VBD collapsed) (SBAR (WHADVP (WRB when)) (S (NP (NNP Chase)) (VP (VBD was) (VP (VBN acquitted) (PP (IN after) (NP (NP (DT a) (NN trial)) (PP (IN in) (NP (DT the) (NNP Senate)))))))))) (. .)))
+
+(S1 (S (NP (JJ Other) (NNS bids) (S (VP (VP (TO to) (VP (VB curb) (NP (NP (DT the) (NN power)) (PP (IN of) (NP (DT the) (NN court)))))) (CC or) (VP (TO to) (VP (VB influence) (NP (PRP$ its) (NNS decisions)) (PP (IN by) (NP (NP (NNS appointments)) (PP (TO to) (NP (PRP$ its) (NN bench)))))))))) (VP (VBP have) (VP (VBN been) (ADJP (RB relatively) (JJ commonplace)))) (. .)))
+
+(S1 (FRAG (NP (NNP Sen)) (. .)))
+
+(S1 (S (NP (NP (NNP Robert) (NNP LaFollette)) (, ,) (NP (DT the) (NNP Wisconsin) (NNP Progressive)) (, ,)) (VP (VBD proposed) (S (VP (VBG overriding) (NP (DT the) (NN court)) (PP (IN by) (NP (DT a) (JJ two-thirds) (JJ congressional) (NN majority)))))) (. .)))
+
+(S1 (S (NP (NNP President) (NNP Franklin) (NNP D.) (NNP Roosevelt)) (VP (VBD sought) (S (VP (TO to) (VP (VB pack) (NP (DT the) (NN court)) (PP (IN with) (NP (NP (JJ new) (NNS justices)) (SBAR (S (VP (TO to) (VP (VB change) (NP (PRP$ its) (NN direction)))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Presidential) (NNS elections)) (, ,) (PP (VBG including) (NP (NP (DT the) (CD one)) (VP (ADVP (RB just)) (VBN ended)))) (, ,)) (ADVP (RB routinely)) (VP (VBP include) (NP (NP (NNS discussions)) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT a) (JJ new) (JJ chief) (NN executive) (POS 's)) (NNS nominations) (S (VP (TO to) (VP (VB fill) (NP (JJ vacant) (NNS positions)))))) (VP (MD might) (VP (VB change) (NP (NP (DT the) (NN court) (POS 's)) (JJ philosophical) (NN bent))))))))) (. .)))
+
+(S1 (S (NP (PRP$ Its) (NNS decisions)) (VP (VBP have) (ADVP (RB rarely)) (VP (VBN been) (ADJP (JJ exempt) (PP (IN from) (NP (NN criticism)))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN court)) (VP (VBZ has) (ADVP (RB often)) (VP (VBN evolved) (PP (IN with) (NP (NN society))) (, ,) (S (VP (VBG tempering) (NP (PRP$ its) (NNS opinions)) (ADVP (RB accordingly)))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NNS times))) (, ,) (ADVP (RB however)) (, ,) (NP (NN posterity)) (VP (VBZ has) (VP (VBN judged) (S (NP (PRP it)) (VP (TO to) (VP (VB have) (VP (VBN been) (PP (IN on) (NP (NP (DT the) (JJ wrong) (NN side)) (PP (IN of) (NP (NN history))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT the) (NNP Dred) (NNP Scott) (NN case)) (PP (IN of) (NP (CD 1857))))) (, ,) (NP (NP (DT the) (NN court)) (PP (IN under) (NP (NNP Chief) (NNP Justice) (NNP Roger) (NNP B.) (NNP Taney)))) (VP (VBD ruled) (SBAR (IN that) (S (NP (DT a) (NN slave)) (VP (VBD had) (NP (NP (DT no) (NN claim)) (PP (TO to) (NP (NN freedom)))) (ADVP (RB just)) (SBAR (IN because) (S (NP (PRP he)) (VP (VBD had) (VP (VBN lived) (PP (IN in) (NP (NP (NNP U.S.) (NNS territories)) (SBAR (WHADVP (WRB where)) (S (NP (NN slavery)) (VP (VBD was) (RB not) (VP (VBN permitted))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN court)) (ADVP (RB further)) (VP (VBD ruled) (SBAR (SBAR (IN that) (S (NP (NNS slaves)) (VP (MD could) (ADVP (RB never)) (VP (VB obtain) (NP (NNP U.S.) (NN citizenship)))))) (CC and) (SBAR (IN that) (S (NP (NNP Congress)) (VP (VBD had) (NP (DT no) (NN power) (S (VP (TO to) (VP (VB limit) (NP (NP (DT the) (NN expansion)) (PP (IN of) (NP (NN slavery)))))))) (, ,) (SBAR (IN as) (S (NP (PRP it)) (VP (VBD had) (VP (VBN done) (PP (IN in) (NP (DT the) (NNP Missouri) (NN Compromise)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Taney) (POS 's)) (NN decision)) (ADVP (RB further)) (VP (VBD inflamed) (NP (NNP North) (JJ -South) (NNS divisions))) (. .)))
+
+(S1 (S (NP (DT Some)) (VP (NN credit) (NP (PRP it)) (PP (IN with) (S (VP (VBG hastening) (NP (NP (DT the) (NN outbreak)) (PP (IN of) (NP (DT the) (NNP Civil) (NNP War)))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (DT the) (JJ mid-20th) (NN century))) (, ,) (NP (NNS politics)) (VP (VBD represented) (NP (NP (DT the) (CD one) (JJ major) (NN area)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN court)) (VP (VBD was) (ADJP (JJ reluctant) (S (VP (TO to) (VP (VB intervene)))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (NNS Courts)) (MD ought) (RB not) (VP (TO to) (VP (VB enter) (NP (DT this) (JJ political) (NN thicket))))) (, ,) ('' '') (NP (NNP Justice) (NNP Felix) (NNP Frankfurter)) (VP (VBD wrote)) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1946))) (, ,) (NP (DT the) (CD nine) (NNS justices)) (VP (VBD dismissed) (NP (NP (DT a) (NN case)) (VP (VBG involving) (NP (NP (DT the) (NN apportionment)) (PP (IN of) (NP (JJ congressional) (NNS districts))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN view)) (VP (MD would) (ADVP (RB slowly)) (VP (VB change))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1962))) (, ,) (NP (DT the) (NN court)) (VP (VBD abandoned) (NP (PRP$ its) (NN caution))) (. .)))
+
+(S1 (S (S (VP (VBG Finding) (NP (NNS remedies)) (PP (TO to) (NP (NP (DT the) (JJ unequal) (NN distribution)) (PP (IN of) (NP (JJ political) (NN power))))))) (VP (VBD was) (ADVP (RB indeed)) (PP (IN within) (NP (PRP$ its) (JJ constitutional) (NN authority)))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NNP Supreme) (NNP Court) (NNS justices)) (VP (VBD were) (VP (VBN named) (PP (TO to) (NP (NP (DT the) (ADJP (RB congressionally) (VBN appointed)) (JJ electoral) (NN commission)) (SBAR (WHNP (WDT that)) (S (VP (VBD examined) (NP (DT the) (ADJP (JJ deadlocked) (CD 1876)) (JJ presidential) (NN election))))))))))) (, ,) (NP (PRP it)) (VP (VBD was) (RB not) (PP (IN until) (NP (NNP Bush) (NNP v)))) (. .)))
+
+(S1 (S (VP (VB Gore) (SBAR (IN that) (S (NP (NP (DT the) (NN court)) (NP (PRP itself))) (VP (VBD weighed) (NP (NP (DT the) (NNS remedies)) (PP (IN in) (NP (DT a) (JJ disputed) (JJ presidential) (NN election)))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (DT the) (NN decision)) (VP (MD will) (VP (VB be) (VP (ADVP (RB long)) (VBN debated)))))) (, ,) (NP (NP (DT the) (NN court) (POS 's)) (NN word) (CC and) (NN authority)) (VP (VBD was) (ADJP (JJ final))) (. .)))
+
+(S1 (S (`` ``) (S (S (VP (VB Let) (S (NP (EX there)) (VP (VB be) (NP (DT no) (NN doubt)))))) (, ,) (S (SBAR (IN while) (S (NP (PRP I)) (VP (ADVP (RB strongly)) (VBP disagree) (PP (IN with) (NP (NP (DT the) (NN court) (POS 's)) (NN decision)))))) (, ,) (NP (PRP I)) (VP (VBP accept) (NP (PRP it))))) (, ,) ('' '') (NP (NNP Gore)) (VP (VBD told) (NP (DT the) (NN nation))) (. .)))
+
+(S1 (NP (NNP ___)))
+
+(S1 (S (NP (NP (NNP EDITOR) (POS 'S)) (NN NOTE)) (VP (VBZ _) (SBAR (S (NP (NNP Lawrence) (NNP L.) (NNP Knutson)) (VP (VBZ has) (VP (VBN covered) (NP (NP (DT the) (NNP White) (NNP House)) (, ,) (NP (NNP Congress)) (CC and) (NP (NP (NP (NNP Washington) (POS 's)) (NN history)) (PP (IN for) (NP (QP (JJR more) (IN than) (CD 30)) (NNS years)))))))))) (. .)))
+

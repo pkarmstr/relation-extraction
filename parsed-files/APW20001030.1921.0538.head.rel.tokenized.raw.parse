@@ -1,0 +1,110 @@
+(S1 (NP (NP (CD APW20001030.1921.0538) (NN NEWS) (NN STORY)) (JJ 2000-10-30) (CD 19:59:00)))
+
+(S1 (NP (JJ Indonesia-US)))
+
+(S1 (FRAG (NP (NNP U.S)) (. .)))
+
+(S1 (S (NP (NP (NN Embassy)) (PP (IN in) (NP (NNP Jakarta)))) (ADVP (RB Still)) (VP (VBN Closed))))
+
+(S1 (S (NP (NP (NP (NNP JAKARTA)) (, ,) (NP (NNP Indonesia))) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (NP (NNP The) (NNP U.S))) (. .)))
+
+(S1 (S (NP (NNP ambassador)) (ADVP (RB sharply)) (VP (VBZ criticizes) (NP (NP (NNP Indonesia) (POS 's)) (NN reform) (NNS efforts))) (. .)))
+
+(S1 (S (NP (JJ Indonesian) (NNS leaders)) (VP (VBP criticize) (NP (NP (PRP him)) (ADVP (RB right) (RB back))) (, ,) (S (VP (VBG calling) (NP (PRP him)) (NP (DT an) (VBG interfering) (NN bully))))) (. .)))
+
+(S1 (S (NP (JJ Angry) (NNPS Indonesians)) (VP (VBP search) (NP (NNS hotels)) (PP (IN for) (NP (NNPS Americans)))) (. .)))
+
+(S1 (NP (NP (DT The) (NNP U.S)) (. .)))
+
+(S1 (S (NP (NNP Embassy)) (VP (VBZ closes) (NP (PRP$ its) (NNS doors)) (PP (TO to) (NP (DT the) (NN public)))) (. .)))
+
+(S1 (S (NP (NP (NP (NNS Relations)) (PP (IN between) (NP (DT the) (NNP United) (NNPS States)))) (CC and) (NP (DT this) (JJ sprawling) (ADJP (JJ southeast) (JJ Asian)) (NN nation))) (VP (VBP have) (VP (VBD soured) (PP (IN in) (NP (JJ recent) (NNS months))) (, ,) (PP (VBN poisoned) (PP (IN in) (NP (NP (NN part)) (PP (IN by) (NP (NP (JJ bitter) (NNS exchanges)) (PP (IN between) (NP (DT the) (NNP U.S)))))))))) (. .)))
+
+(S1 (FRAG (NP (NP (NN ambassador)) (CC and) (NP (JJ local) (NNS officials))) (. .)))
+
+(S1 (S (NP (DT The) (NN problem)) (VP (VBZ has) (VP (VBN been) (VP (VBN compounded) (PP (IN by) (NP (NP (NN anger)) (PP (IN in) (NP (NP (NNP Indonesia)) (, ,) (NP (NP (DT the) (NN world) (POS 's)) (ADJP (RBS most) (JJ populous)) (NNP Muslim) (NN country)) (, ,))) (PP (IN over) (NP (NP (NP (NNP Washington) (POS 's)) (NN stance)) (PP (IN on) (NP (NP (DT the) (JJ Israeli) (JJ -Palestinian) (NN violence) (NN _)) (SBAR (S (NP (NP (JJ many)) (ADVP (RB here))) (VP (VBP say) (SBAR (S (NP (DT the) (NNP United) (NNPS States)) (VP (VBZ has) (VP (VBN taken) (NP (NP (NNP Israel) (POS 's)) (NN side)))))))))))))))))) (. .)))
+
+(S1 (S (S (VP (VB Add) (NP (DT the) (NNS factors)) (PRT (RP together)))) (, ,) (CC and) (S (NP (NNP U.S))) (. .)))
+
+(S1 (S (S (NP (NNS officials)) (VP (VBP do) (RB n't) (VP (VB like) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP see))))))) (: :) (S (NP (PRP They)) (VP (VBP have) (VP (VBN advised) (NP (NNP U.S))))) (. .)))
+
+(S1 (S (NP (NP (NNS citizens)) (PP (IN in) (NP (NNP Indonesia)))) (VP (TO to) (VP (VB be) (ADJP (JJ wary)))) (. .)))
+
+(S1 (FRAG (PP (IN On) (NP (NNP Monday))) (, ,) (NP (DT the) (NNP U.S)) (. .)))
+
+(S1 (S (NP (NNP Embassy)) (VP (VBD condemned) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBD described) (PP (IN as) (NP (NP (`` ``) (JJ hostile) (NNS actions) ('' ')) ('' ') (SBAR (WHNP (WDT that)) (S (VP (VP (VBP threaten) (NP (NNP American) (NNS lives))) (CC and) (VP (VB endanger) (NP (NP (NNS relations)) (PP (IN along) (PP (IN with) (NP (NN trade) (, ,) (NN investment) (CC and) (NN tourism))))))))))))))) (: :)))
+
+(S1 (S (ADVP (RBR _Over) (NP (DT the) (NN weekend))) (, ,) (NP (NNP Islamic) (NNS militants)) (VP (VBD went) (PP (TO to) (NP (NP (NNS hotels)) (PP (IN in) (NP (NP (DT the) (JJ central) (NNP Javanese) (NN city)) (PP (IN of) (NP (NNP Solo))) (, ,) (VP (VBG demanding) (SBAR (IN that) (S (NP (JJ American) (NNS tourists)) (VP (VBP leave) (NP (DT the) (NN country)) (PP (IN within) (NP (CD 48) (NNS hours)))))))))))) (. .)))
+
+(S1 (S (NP (NNP _The) (NNP <ORG)) (VP (VP (VBD id=) (NP (NP (`` ``) (CD e6-58) ('' '') (NNS type=)) (`` ``) (NP (JJ NOM) (`` ``) (JJ ><FAC) (JJ id=) (`` ``) (CD e26-57) ('' '') (NNS type=))) (`` ``) (S (NP (NNP NOM)) (`` ``) (VP (VBZ >embassy<) (VP (VBN located) (PP (IN across) (NP (NP (NP (NNP Jakarta) (POS 's)) (JJ main) (NN park)) (PP (IN from) (NP (DT the) (JJ presidential) (NN palace))))))))) (, ,) (VP (VBD suspended) (NP (PRP$ its) (JJ public) (NNS functions)) (PP (IN for) (NP (NP (ADVP (IN at) (JJS least)) (DT a) (NN week)) (PP (IN after) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS protests) (CC and) (NNS threats))))))))) (. .)))
+
+(S1 (S (NP (NNP Muslim) (NNS youths)) (ADVP (RB recently)) (VP (VBD staged) (NP (DT a) (JJ half) (NN dozen) (NNS rallies)) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (DT the) (NN embassy))))) (S (VP (TO to) (VP (VB protest) (NP (NP (NP (NNP Washington) (POS 's)) (VBN perceived) (NN bias)) (PP (IN in) (NP (NP (NN favor)) (PP (IN of) (NP (NNP Israel)))))))))) (. .)))
+
+(S1 (NP (NNP _The) (NNP U.S) (. .)))
+
+(S1 (S (S (NP (NP (NP (NN consulate)) (PP (IN in) (NP (NP (NNP Indonesia) (POS 's)) (JJ second-largest) (NN city)))) (, ,) (NP (NNP Surabaya)) (, ,)) (ADVP (RB also)) (VP (VBZ has) (VP (VBN been) (VP (VBN attacked))))) (, ,) (CC and) (S (NP (NNP American) (CC and) (NNP Israeli) (NNS flags)) (VP (VBP are) (ADVP (RB regularly)) (VP (VBN burned) (PP (IN in) (NP (DT the) (NNS streets)))))) (. .)))
+
+(S1 (NP (NNP _A) (NNP U.S) (. .)))
+
+(S1 (S (NP (NNP tourist)) (VP (VBD was) (VP (VP (VBN detained)) (CC and) (VP (VBN accused) (PP (IN of) (S (VP (VBG spying) (PP (IN after) (S (VP (VBG photographing) (NP (NP (DT a) (NN riot)) (PP (IN in) (NP (NP (DT the) (NN province)) (PP (IN of) (NP (NNP Irian) (NNP Jaya))))))))))))))) (. .)))
+
+(S1 (S (ADVP (NP (RB Just) (DT a) (NN year)) (RB ago)) (, ,) (NP (NNP Washington)) (VP (VBD was) (VP (VBG offering) (NP (NP (JJ enthusiastic) (NN backing)) (PP (IN for) (NP (NP (NNP Indonesia) (POS 's)) (JJ nascent) (NN democracy)))))) (. .)))
+
+(S1 (S (CC But) (PP (IN in) (NP (DT the) (NNS months) (RB since))) (, ,) (NP (NN reform)) (VP (VBZ has) (VP (VBN stalled) (PP (IN amid) (NP (NP (JJ rampant) (NN violence)) (, ,) (NP (JJ political) (NN infighting)) (CC and) (NP (NN scandal)))))) (. .)))
+
+(S1 (S (S (NP (NP (NN Sectarian)) (VP (VBG fighting) (ADVP (RB regularly)) (NP (NNS claims)))) (VP (VBZ lives) (PP (IN in) (NP (JJ several) (JJ Indonesian) (NNS regions))))) (CC and) (S (NP (JJ pro-Indonesian) (NNS militias)) (VP (VBP continue) (S (VP (TO to) (VP (VB attack) (NP (NP (NNS peacekeepers)) (PP (IN in) (NP (NP (NNP East) (NNP Timor)) (, ,) (NP (NP (DT the) (NN territory)) (SBAR (WHNP (WDT that)) (S (VP (VBD gained) (NP (NP (NN independence)) (PP (IN from) (NP (NNP Indonesia)))) (NP (JJ last) (NN year)))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Such) (NNS problems)) (VP (VBP have) (VP (VBN led) (PP (TO to) (NP (NP (VBG growing) (NN discord)) (PP (IN between) (NP (NP (JJ Indonesian) (NNS officials)) (CC and) (NP (NNP U.S)))))))) (. .)))
+
+(S1 (NP (NNP Ambassador) (NNP Robert) (NNP Gelbard) (. .)))
+
+(S1 (S (NP (NNP Gelbard)) (VP (VBD arrived) (PP (IN in) (NP (NNP Jakarta))) (NP (JJ last) (NN year)) (PP (IN after) (S (VP (VBG earning) (NP (NP (DT a) (NN reputation)) (PP (IN as) (NP (DT a) (JJ tough) (NN talker)))) (PP (IN as) (NP (NP (NP (NNP President) (NNP Clinton) (POS 's)) (NN envoy)) (PP (TO to) (NP (DT the) (NNPS Balkans))))))))) (. .)))
+
+(S1 (S (PP (IN Among) (NP (JJ other) (NNS things))) (, ,) (NP (PRP he)) (VP (VBZ has) (ADVP (RB publicly)) (VP (VBN insisted) (SBAR (IN that) (S (NP (NP (NNP Indonesia) (POS 's)) (NN government)) (VP (VB make) (ADJP (JJ good)) (PP (IN on) (NP (NP (NNS promises)) (SBAR (S (VP (TO to) (VP (VB take) (NP (NP (JJ difficult) (NNS steps)) (SBAR (S (VP (TO to) (VP (VP (VB fix) (NP (DT the) (NN economy))) (CC and) (VP (VB bring) (PP (TO to) (NP (NN justice))) (PP (NP (NP (DT those)) (ADJP (JJ responsible) (PP (IN for) (NP (NP (DT the) (JJ bloody) (NN destruction)) (PP (IN of) (NP (NNP East) (NNP Timor))))))) (IN after) (NP (DT the) (NN independence) (NN vote)))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (JJ Indonesian) (NNS lawmakers)) (VP (VBP have) (VP (VBN been) (VP (JJ irritated) (PP (IN by) (NP (NP (NNP Gelbard) (POS 's)) (JJ blunt) (NN style))))))) (: :) (S (NP (PRP They)) (VP (VBP prefer) (S (VP (TO to) (VP (VB conduct) (NP (NNS politics)) (PP (IN in) (NP (NP (DT a) (ADJP (JJ polite) (CC and) (JJ non-confrontational)) (NN way)) (SBAR (WHNP (WDT that)) (S (VP (VBZ follows) (NP (NP (DT the) (NNS traditions)) (PP (IN of) (NP (NP (DT the) (JJ main) (NN island)) (PP (IN of) (NP (NNP Java)))))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN week)) (NP (NP (DT some) (NNS members)) (PP (IN of) (NP (DT a) (JJ parliamentary) (NN committee)))) (VP (VBD urged) (S (NP (DT the) (NN government)) (VP (TO to) (VP (VB declare) (S (NP (NNP Gelbard)) (`` ``) (NP (NN persona) (NN non) (NN grata))))))) (. .) ('' '')))
+
+(S1 (S (NP (DT The) (NN call)) (VP (VBD was) (VP (VBN rejected) (PP (IN by) (NP (NNP President) (NNP Abdurrahman) (NNP Wahid))))) (. .)))
+
+(S1 (S (`` ``) (S (S (NP (PRP We)) (VP (VBP do) (RB n't) (VP (VB hate) (NP (NNP America)) (PP (IN as) (NP (DT a) (NN nation)))))) (, ,) (CC but) (S (NP (PRP we)) (VP (VBP regret) (NP (DT the) (NN ambassador))))) (, ,) ('' '') (NP (NN commission) (NN chairman) (NNP Ananta) (NNP Baharuddin)) (VP (VBD said) (PP (IN at) (NP (DT a) (NN committee) (NN hearing)))) (. .)))
+
+(S1 (S (NP (NNS Legislators)) (VP (VBP accuse) (NP (NP (NNP Gelbard)) (CC and) (NP (NNP Washington))) (PP (IN of) (S (VP (VBG bullying) (NP (DT the) (NN government)))))) (. .)))
+
+(S1 (S (NP (JJ Military) (NNS leaders)) (VP (VBP accuse) (NP (PRP them)) (PP (IN of) (S (VP (VBG interfering) (PP (IN in) (NP (NP (NNP Indonesia) (POS 's)) (JJ internal) (NNS affairs))))))) (. .)))
+
+(S1 (FRAG (PP (IN In) (NP (NNP September))) (, ,) (NP (NP (CD three)) (PP (IN of) (NP (DT the) (NNP U.N)))) (. .)))
+
+(S1 (S (NP (NP (NNS workers)) (VP (VBN stationed) (PP (IN in) (NP (NNP East) (NNP Timor))))) (VP (VBD were) (VP (VBN killed) (PP (IN in) (NP (JJ Indonesian) (JJ -controlled) (NNP West) (NNP Timor))))) (. .)))
+
+(S1 (SINV (S (NP (DT The) (NNP United) (NNPS States)) (VP (VBZ is) (VP (VBN seen) (PP (IN as) (NP (NP (DT the) (VBG driving) (NN force)) (PP (IN behind) (NP (NP (JJ international) (NN pressure)) (PP (IN on) (NP (NNP Indonesia))))))) (PP (IN in) (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (DT those) (NNS deaths)))))))) (, ,) (VP (VBD said)) (NP (NP (NNP Dewi) (NNP Fortuna) (NNP Anwar)) (, ,) (NP (NP (DT an) (NN adviser)) (PP (TO to) (NP (NP (NP (NNP Wahid) (POS 's)) (NN predecessor)) (, ,) (NP (NNP B.J.) (NNP Habibie)))))) (. .)))
+
+(S1 (S (`` ``) (NP (NNS People)) (VP (VBP find) (S (NP (PRP it)) (ADJP (RB very) (JJ unfair)) (SBAR (IN that) (S (NP (DT the) (NNP United) (NNPS States)) (ADVP (RB harshly)) (VP (VBZ criticizes) (NP (NNP Indonesia)) (PP (IN over) (NP (NP (DT the) (NNS deaths)) (PP (IN of) (NP (CD three) (NNS U.N)))))))))) (. .)))
+
+(S1 (S (S (NP (NNS workers) (CC and) (RB then)) (VP (VBZ does) (RB not) (VP (VB condemn) (NP (NNP Israel)) (PP (IN over) (NP (NP (DT the) (NNS deaths)) (PP (IN of) (NP (QP (JJR more) (IN than) (CD 100)) (NNPS Palestinians)))))))) (, ,) ('' '') (NP (PRP she)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (NP (NNS Countries)) (VP (VBG going) (PP (IN through) (NP (NN transition))))) (VP (VBP are) (ADVP (RB always)) (ADJP (RBR more) (JJ nationalistic) (CC and) (JJ sensitive) (PP (TO to) (NP (JJ outside) (NNS influences))))) (. .)))
+
+(S1 (S (S (CC But) (NP (DT this)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT a) (NN matter)) (PP (IN of) (NP (NN personality)))))) (, ,) ('' '') (NP (NNP Anwar)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (SBAR (WHNP (WP What)) (S (NP (NNP Gelbard)) (VP (VBZ has) (VP (VBN been) (PRT (RP up)) (PP (TO to)))))) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN straw)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN broken) (NP (NP (DT the) (NNP camel) (POS 's)) (NN back))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Gelbard)) (VP (VP (VBD was) (ADJP (RB not) (JJ available) (PP (IN for) (NP (NN comment)))) (NP (NNP Monday))) (, ,) (CC but) (VP (PP (IN in) (NP (DT the) (NN past))) (VBZ has) (VP (VBN maintained) (SBAR (IN that) (S (NP (DT the) (NNP United) (NNPS States)) (ADVP (RB still)) (VP (ADVP (RB strongly)) (VBZ supports) (NP (NP (JJ democratic) (NNS reforms)) (PP (IN in) (NP (NNP Indonesia)))))))))) (. .)))
+
+(S1 (S (NP (NNP Anwar) (CC and) (NNS others)) (VP (VBP warn) (SBAR (IN that) (S (NP (JJ anti-American) (NN sentiment)) (VP (MD could) (VP (VB rise) (PRN (, ,) (PP (ADVP (RB particularly)) (IN among) (NP (NP (NNP Wahid) (POS 's)) (JJ political) (NNS opponents))) (, ,)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG pressing) (PP (IN for) (NP (PRP$ his) (NN resignation)))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (CC But) (NP (RB just)) (VP (VB remember) (PRN (, ,) (SBAR (IN if) (S (NP (NNS relations)) (VP (VBP are) (VP (VBN allowed) (S (VP (TO to) (VP (VB deteriorate) (ADVP (RB any) (RB further))))))))) (, ,)) (SBAR (S (NP (NP (NNP Indonesia)) (CC and) (NP (PRP$ its) (NNS people))) (VP (VBP have) (NP (NP (RB far) (JJR more)) (SBAR (S (VP (TO to) (VP (VB lose) (SBAR (IN than) (S (NP (DT the) (NNP United) (NNPS States)) (VP (VBZ does)))))))))))))) (, ,) ('' '') (NP (DT The) (NNP Jakarta) (NNP Post)) (VP (VBD said) (PP (IN in) (NP (DT an) (NN editorial))) (NP (NNP Monday))) (. .)))
+
+(S1 (S (NP (DT The) (NNP United) (NNPS States)) (VP (VP (VBZ gives) (NP (NNP Indonesia)) (NP (NP (NNS millions)) (PP (IN of) (NP (NP (NNS dollars)) (PP (IN in) (NP (NN aid))))))) (CC and) (VP (VBZ is) (NP (NP (DT a) (JJ major) (NN market)) (PP (IN for) (NP (NP (DT the) (NN country) (POS 's)) (NNS exports)))))) (. .)))
+
+(S1 (S (NP (NNP President) (NNP Wahid)) (ADVP (RB initially)) (VP (VBD enjoyed) (NP (NP (JJ warm) (NNS relations)) (PP (IN with) (NP (DT the) (NNP United) (NNPS States))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (NP (NP (NNP Indonesia) (POS 's)) (JJ first) (ADJP (RB democratically) (VBN chosen)) (NN head)) (PP (IN of) (NP (NP (NN state)) (PP (IN in) (NP (CD four) (NNS decades))))))) (, ,) (S (NP (PRP he)) (VP (VBD visited) (NP (NNP Clinton)) (ADVP (RB twice)) (PP (IN at) (NP (DT the) (NNP White) (NNP House))))) (, ,) (CC and) (S (NP (NNP Washington)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (JJ strong) (NN supporter)) (PP (IN of) (NP (NNP International) (NNP Monetary) (NNP Fund)))) (NP (NP (NN aid)) (PP (TO to) (NP (NNP Indonesia))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (NNS relations)) (VP (VBD became) (ADJP (JJ strained)) (SBAR (IN after) (S (NP (NP (NNP Wahid) (POS 's)) (NN commitment) (PP (TO to) (NP (NN reform)))) (VP (VBD appeared) (S (VP (TO to) (VP (VB waver)))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD deteriorated) (ADVP (RBR further)) (SBAR (WHADVP (WRB when)) (S (NP (NNP Wahid)) (VP (VBD made) (NP (NP (DT an) (JJ official) (NN visit)) (PP (TO to) (NP (NNP Cuba)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ has) (ADVP (RB also)) (VP (VBN announced) (NP (NNS plans) (S (VP (TO to) (VP (VB travel) (PP (TO to) (NP (NNP Iraq))))))))) (. .)))
+

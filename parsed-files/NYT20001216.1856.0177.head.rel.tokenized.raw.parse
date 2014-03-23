@@ -1,0 +1,80 @@
+(S1 (NP (NP (CD NYT20001216.1856.0177) (NN NEWS) (NN STORY)) (QP (CD 2000-12-16) (CD 18:58:00))))
+
+(S1 (NP (NP (CD A2361) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (FW i) (NNP BC-HAIDER-POPE-1STLD-WRI)) (QP (CD 12-16) (CD 0803)))))
+
+(S1 (NP (NNP BC-HAIDER-POPE-1STLD-WRITETHRU-TRIM-NYT)))
+
+(S1 (S (NP (NP (NN RIGHT-WINGER)) (PP (IN FROM) (NP (NNP AUSTRIA)))) (VP (VBZ MEETS) (NP (NP (NNP POPE)) (CC AND) (NP (JJ FEW) (NNP CHEER))))))
+
+(S1 (NP (NP (PRN (-LRB- -LRB-) (S (NP (NNS SUBS)) (VP (TO to) (VP (VB add) (NP (NP (NN graf) (CD 5)) (PP (IN on) (NP (NNS clashes)))) (NP (NNP w) (NNS police)) (: :) (`` ``) (SBAR (IN After) (S (NP (NNP Haider)) (VP (VBD left) (NP (DT the) (NN area))) (: ...) ('' '') (-RRB- -RRB-)))))) (-RRB- -RRB-)) (NNS &QL)) (: ;) (NP (NP (NN &UR)) (: ;) (NP (NNP By) (NNP ALESSANDRA) (NNP STANLEY) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NP (NNP ROME) (NNP _)) (PP (IN In) (NP (NP (DT an) (NN encounter)) (VP (VBN bracketed) (PP (IN by) (NP (NP (JJ political) (NNS clashes)) (CC and) (NP (JJ public) (NN protest)))))))) (, ,) (NP (NNP Pope) (NNP John) (NNP Paul) (NNP II)) (VP (VBD met) (PP (ADVP (RB briefly)) (IN on) (NP (NNP Saturday))) (PP (IN at) (NP (DT the) (NNP Vatican))) (PP (IN with) (NP (NP (NNP Joerg) (NNP Haider)) (, ,) (NP (DT the) (JJ far-right) (JJ Austrian) (NN politician)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (NP (NP (NN persona) (NN non) (NN grata)) (PP (TO to) (NP (JJ many) (NNPS Europeans)))))))))) (. .)))
+
+(S1 (S (NP (NNP Haider)) (, ,) (S (VP (VP (VBG leading) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (CD 250) (NNPS Austrians))))) (CC and) (VP (VBG presenting) (NP (NP (DT a) (NN gift)) (PP (IN of) (NP (NP (DT an) (JJ 80-foot) (NNP Christmas) (NN tree)) (PP (IN from) (NP (NP (NNP Carinthia)) (, ,) (NP (NP (DT the) (NN state)) (SBAR (WHPP (IN of) (WHNP (WDT which))) (S (NP (PRP he)) (VP (VBZ is) (NP (NN governor)))))))))))))) (, ,) (VP (VBD did) (RB not) (VP (VB receive) (NP (DT a) (JJ private) (NN audience)) (PP (IN with) (NP (DT the) (NN pope))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Vatican) (NN spokesman)) (, ,) (NP (NNP Joaquin) (NNP Navarro-Valls)) (, ,)) (VP (VBD explained) (SBAR (IN that) (S (NP (NP (NNP Haider)) (CC and) (NP (NP (NNP Bishop) (NNP Egon) (NNP Kapellari)) (PP (IN of) (NP (NNP Carinthia))))) (VP (VBD spoke) (PP (IN with) (NP (NP (DT the) (NN pope)) (PP (IN for) (NP (NP (DT a) (JJ few) (NNS minutes)) (PP (IN before) (NP (DT the) (NN meeting))))))) (PP (ADVP (RB only)) (TO to) (NP (NN exchange) (NNS greetings))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNP Haider)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ seems) (S (VP (TO to) (VP (VB relish) (NP (RB even) (JJ hostile) (NN attention)))))))) (, ,)) (VP (VBD walked) (PP (IN across) (NP (NP (NNP St.) (NNP Peter) (POS 's)) (NNP Square))) (PP (TO to) (NP (DT the) (NNP Vatican))) (PP (IN from) (NP (NP (PRP$ his) (JJ nearby) (NN hotel)) (ADVP (RB separately) (PP (IN from) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (NP (DT the) (NN delegation)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD included) (NP (NP (PRP$ his) (NN wife)) (CC and) (NP (CD two) (NNS children)))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD was) (VP (VBN surrounded) (PP (IN by) (NP (NP (DT a) (JJ tense) (NN phalanx)) (PP (IN of) (NP (NP (NN security) (NNS officers)) (CC and) (NP (VBG jostling) (NNS cameramen)))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NNS weeks))) (NP (JJ Italian) (JJ Jewish) (NNS groups)) (, ,) (NP (NP (NNP World) (NNP War) (NNP II)) (NP (NP (NNS veterans)) (CC and) (NP (JJ leftist) (JJ political) (NNS parties)))) (VP (VBP have) (VP (VBD staged) (NP (NNS protests)) (PP (IN against) (NP (NP (DT a) (NN meeting)) (PP (IN between) (NP (DT the) (NNP pope) (CC and) (NNP Haider))))) (, ,) (S (VP (VBG arguing) (SBAR (IN that) (S (NP (DT a) (JJ papal) (NN encounter)) (VP (MD would) (VP (VB lend) (NP (DT the) (JJ Austrian) (NN politician) (NN legitimacy)))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Saturday))) (, ,) (NP (QP (RB about) (CD 1,000)) (NNS students)) (VP (VBD marched) (PP (IN in) (NP (NP (DT another) (NN section)) (PP (IN of) (NP (JJ central) (NNP Rome))))) (, ,) (S (VP (VBG carrying) (NP (NP (NNS banners)) (SBAR (WHNP (WDT that)) (S (VP (VBP read) (`` ``) (NP (NNP Haider))))))))) (. ?)))
+
+(S1 (S (RB No) (VP (VB thank) (NP (PRP you))) (. .) ('' '')))
+
+(S1 (S (S (NP (DT No) (NNS demonstrations)) (VP (VBD were) (VP (VBN allowed) (PP (IN near) (NP (NNP St.) (NNP Peter) (POS 's)))))) (, ,) (CC and) (S (NP (NP (NN security)) (PP (IN around) (NP (DT the) (NN tree))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN erected) (PP (IN in) (NP (NP (DT the) (NN middle)) (PP (IN of) (NP (NP (NNP St.) (NNP Peter) (POS 's)) (NNP Square))))))))) (, ,)) (VP (VBD was) (VP (ADVP (RB discreetly)) (VBN tightened)))) (. .)))
+
+(S1 (S (SBAR (IN After) (S (NP (NNP Haider)) (VP (VBD left) (NP (DT the) (NN area))))) (, ,) (NP (NP (NNS scores)) (PP (IN of) (NP (NNS protesters)))) (VP (VBD clashed) (PP (IN with) (NP (NP (NN riot) (NNS police)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD fired) (S (VP (VB tear) (NP (NP (NN gas)) (SBAR (S (VP (TO to) (VP (VB disperse) (NP (DT the) (NNS crowds))))))))))))))) (. .)))
+
+(S1 (S (S (S (NP (CD Four) (NNS people)) (VP (VBD were) (ADVP (RB slightly)) (VP (VBN injured)))) (CC and) (S (NP (CD two)) (VP (VBD were) (VP (VBN detained))))) (, ,) (NP (DT the) (JJ Italian) (NN news) (NN agency) (NNP ANSA)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (JJ Jewish) (NNS merchants)) (PP (IN in) (NP (NNP Rome)))) (VP (VBD announced) (SBAR (S (NP (PRP they)) (VP (MD would) (VP (VB turn) (PRT (RP off)) (S (NP (PRP$ their) (NNS lights)) (VP (TO to) (VP (VB protest) (NP (NP (NP (NNP Haider) (POS 's)) (NN presence)) (PP (IN in) (NP (NNP Rome)))))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NNS reporters)) (VP (VBD asked) (NP (NNP Haider)) (PP (IN about) (NP (DT this) (NN action)))))) (, ,) (NP (PRP he)) (VP (VBD retorted) (, ,) (`` ``) (S (SBAR (IN If) (S (NP (PRP they)) (VP (VBP want) (S (VP (TO to) (VP (VB save) (NP (NN electricity)))))))) (, ,) (VP (VB let) (NP (PRP them))))) (. .) ('' '')))
+
+(S1 (S (PP (IN Inside) (NP (NP (DT an) (JJ ornate) (NN reception) (NN room)) (PP (IN in) (NP (DT the) (JJ papal) (NNS apartments))))) (, ,) (NP (NP (NNP Haider)) (, ,) (NP (DT a) (NNP Roman) (NNP Catholic)) (, ,)) (VP (VP (VBD kissed) (NP (NP (DT the) (NN pope) (POS 's)) (NN ring))) (CC and) (VP (VBD sat) (PP (IN in) (NP (DT the) (NN front) (NN row))) (PP (IN with) (NP (NP (JJ other) (NNS dignitaries)) (VP (VBG facing) (NP (NP (DT the) (NN pope) (POS 's)) (NN armchair))))))) (. .)))
+
+(S1 (S (S (NP (NNP Haider)) (VP (VBD wore) (NP (DT a) (JJ blue) (NN business) (NN suit)))) (, ,) (CC but) (S (NP (NP (JJ many)) (PP (IN in) (NP (PRP$ his) (NN group)))) (VP (VP (VBD wore) (NP (JJ traditional) (NNS costumes))) (CC and) (VP (VBD sang) (NP (NNP Christmas) (NNS carols))))) (. .)))
+
+(S1 (S (NP (DT The) (NN pope)) (VP (VP (VBD thanked) (NP (DT the) (NNS visitors)) (PP (IN for) (NP (DT the) (NN tree)))) (CC but) (VP (VBD made) (NP (NP (DT no) (NN mention)) (PP (IN of) (NP (NP (JJ such) (NNS issues)) (PP (IN as) (NP (NP (NP (NN racism)) (CC and) (NP (NN immigration))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (VP (VBN tracked) (NP (NP (NP (NNP Haider) (POS 's)) (JJ tense) (NN visit)) (PP (TO to) (NP (NNP Italy))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN copy)) (PP (IN of) (NP (NP (NP (NP (DT the) (NN pope) (POS 's)) (ADJP (RB recently) (VBN released)) (NNP New) (NN Year) (POS 's)) (NNP Day) (NN message)) (PP (IN of) (NP (NN peace))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ calls) (SBAR (IN for) (S (NP (NNS countries)) (VP (TO to) (VP (VP (VB welcome) (NP (NNS immigrants))) (CC and) (VP (VB avoid) (NP (NN intolerance)))))))))) (, ,)) (VP (VBD was) (VP (VBN distributed) (PP (TO to) (NP (NP (NNS leaders)) (PP (IN of) (NP (DT the) (NN delegation))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (DT the) (NN meeting))) (, ,) (NP (NNP Haider)) (VP (VBD told) (NP (NNS reporters)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD had) (RB not) (VP (VBN discussed) (NP (JJ political) (NNS issues)) (PP (IN with) (NP (DT the) (NN pope))) (, ,) (SBAR (IN that) (S (NP (NNP John) (NNP Paul) (NNP II)) (VP (VBD had) (VP (VBN given) (S (NP (DT the) (NN group)) (UCP (DT a) (`` ``) (ADJP (JJ warm) (JJ welcome)) ('' ') ('' ') (CC and) (SBAR (IN that) (`` ``) (S (NP (PRP he)) (VP (VBD seemed) (ADJP (RB very) (JJ happy) (PP (IN with) (NP (DT the) (NN gift)))))))))))))))))) (. .) ('' '')))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (PP (IN in) (NP (DT the) (NN past))) (NP (DT the) (NN pope)) (VP (VBZ has) (VP (VBD stirred) (NP (NN controversy)) (PP (IN by) (S (VP (VBG meeting) (PP (IN with) (NP (JJ former) (NNP U.N)))))))) (. .)))
+
+(S1 (S (NP (NN secretary)) (VP (JJ -general) (NP (NP (NP (NNP Kurt) (NNP Waldheim)) (, ,) (SBAR (WHNP (WHNP (WP$ whose) (NNS activities)) (PP (IN in) (NP (DT the) (NNP Nazi) (NN era)))) (S (VP (VBD came) (PP (IN under) (NP (NN question)))))) (, ,)) (CC and) (NP (NNP Fidel) (NNP Castro)))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (VP (VB BEGIN) (NP (JJ OPTIONAL) (NNP TRIM))) (-RRB- -RRB-)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NNP Haider)) (VP (VBD arrived) (PP (IN in) (NP (NNP Venice))) (NP (RBR earlier) (DT this) (NN week))))) (, ,) (NP (NP (NNS protesters)) (PP (IN on) (NP (NNS boats)))) (VP (VBD threw) (NP (NP (NNS stones)) (CC and) (NP (NP (NNS fireworks)) (PP (IN along) (NP (DT the) (NNS canals)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Haider) (POS 's)) (NNS comments) (S (VP (VBG criticizing) (NP (NP (NNP Italy) (POS 's)) (NN immigration) (NN policy)) (PP (IN as) (`` ``) (ADJP (RB too) (JJ generous)) ('' ')))) ('' ')) (VP (VBD were) (VP (VBN denounced) (PP (IN by) (NP (NNP President) (NNP Carlo) (NNP Azeglio) (NNP Ciampi))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS comments)) (VP (VBN set) (PRT (RP off)) (NP (DT an) (NN election) (NN campaign)) (NP (NN storm)) (, ,) (SBAR (IN as) (S (NP (NP (NNS leaders)) (PP (IN of) (NP (NP (NNP Italy) (POS 's)) (JJ left-wing) (NN government)))) (VP (VBN leveraged) (NP (NP (DT the) (NN dislike)) (PP (IN of) (NP (NNP Haider)))) (S (VP (TO to) (VP (VB cast) (NP (DT a) (NN shadow)) (PP (IN on) (NP (NP (NNP Italy) (POS 's)) (JJ own) (JJ right-wing) (NNS parties)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN coalition)) (PP (IN of) (NP (NP (NNP Italy) (POS 's)) (JJ center-right) (NN opposition)))) (VP (VBZ includes) (NP (NP (DT the) (ADJP (ADJP (RB formerly) (JJ separatist)) (CC and) (ADJP (RB still) (RB fiercely) (JJ right-wing))) (NN party)) (, ,) (NP (NP (DT the) (NNP Northern) (NNP League)) (, ,) (SBAR (WHNP (WDT which)) (S (PRN (, ,) (PP (IN like) (NP (NP (NNP Haider) (POS 's)) (NNP Freedom) (NNP Party))) (, ,)) (VP (VBZ opposes) (NP (NN immigration)))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Friday))) (, ,) (NP (NNP Prime) (NNP Minister) (NNP Giuliano) (NNP Amato)) (VP (VP (VBD denounced) (NP (NP (NNP Haider) (POS 's)) (NNS comments)) (PP (IN as) (`` ``) (ADJP (JJ unacceptable)) ('' '))) ('' ') (CC and) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB complain) (PP (TO to) (NP (NP (NNP Chancellor) (NNP Wolfgang) (NNP Schuessel)) (PP (IN of) (NP (NNP Austria))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Italy)) (VP (VBZ is) (RB not) (NP (DT the) (RB only) (JJ European) (NN country) (S (VP (TO to) (VP (VB have) (NP (NP (JJ fierce) (NNS reservations)) (PP (IN about) (NP (NNP Haider)))))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ has) (VP (VBN had) (NP (ADJP (RBR more) (JJ direct)) (NN exposure))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ Austrian) (NN leader)) (VP (VBZ has) (VP (VBN made) (NP (NP (JJ several) (NNS visits)) (PP (TO to) (NP (NP (JJ northern) (NNP Italy)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NP (PRP$ his) (NN friendship)) (PP (IN with) (NP (DT some) (JJ right-wing) (NNS mayors)))) (VP (VBG _) (CC and) (NNS suggestions) (SBAR (IN that) (S (NP (NP (JJ southern) (NNP Austria)) (CC and) (NP (NP (NNS parts)) (PP (IN of) (NP (JJ northern) (NNP Italy))))) (VP (MD should) (VP (VB merge) (PP (IN into) (NP (NP (DT a) (`` ``) (NN maxi-region) ('' ')) ('' ') (SBAR (S (NP (NNS _)) (VP (VBP have) (VP (VBD enraged) (NP (NP (NNP Italy) (POS 's)) (JJ center-left) (NN government)))))))))))))))))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (VP (VB END) (NP (JJ OPTIONAL) (NNP TRIM))) (-RRB- -RRB-)))
+
+(S1 (S (NP (NP (DT Some) (NNS people)) (PP (IN in) (NP (NP (NNP Haider) (POS 's)) (NN delegation)))) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBN disappointed) (PP (IN by) (NP (NP (DT the) (NN clamor)) (VP (VBG surrounding) (NP (NP (NNP Saturday) (POS 's)) (NN visit)))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (DT The) (NNP Christmas) (NN tree)) (VP (VBZ has) (NP (NP (NN nothing)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (NNS politics)))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NP (NNP Frank) (NNP Telsnig)) (, ,) (NP (CD 22))) (, ,) (NP (NP (DT a) (NN teacher)) (PP (IN from) (NP (NNP Weitensfeld))))) (, ,) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD prepared) (S (VP (TO to) (VP (VB play) (NP (NN saxophone)) (PP (IN in) (NP (NP (DT the) (NN delegation) (POS 's)) (NN band))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBD did) (RB n't) (VP (VB vote) (PP (IN for) (NP (NNP Haider)))))) (, ,) (CC but) (S (NP (DT this)) (VP (VBZ is) (RB not) (PP (IN about) (NP (PRP him))))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (VBZ is) (PP (IN about) (NP (NNP Christmas))))) (, ,) (CC and) (S (NP (DT this)) (VP (VBZ is) (RB not) (NP (NP (DT the) (JJ right) (NN place)) (CC or) (NP (NP (DT the) (JJ right) (NN time)) (PP (IN for) (NP (DT these) (NNS protests))))))) (. .) ('' '')))
+
+(S1 (NP (CD NYT-12-16-00) (NN 1858EST)))
+

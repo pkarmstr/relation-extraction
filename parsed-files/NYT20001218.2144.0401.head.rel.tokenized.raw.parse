@@ -1,0 +1,76 @@
+(S1 (NP (NP (CD NYT20001218.2144.0401) (NN NEWS) (NN STORY)) (QP (CD 2000-12-18) (CD 22:24:00))))
+
+(S1 (NP (NP (CD A4670) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP f) (NNP BC-LVMH-DONNA-KARAN-NYT) (NN &LR)) (: ;) (NP (QP (CD 12-18) (CD 0851))))))
+
+(S1 (NP (NNP BC-LVMH-DONNA-KARAN-NYT)))
+
+(S1 (S (NP (NNP LVMH)) (VP (VBZ MAKES) (NP (NP (DT A) (JJ TWO-PART) (NN OFFER)) (PP (IN FOR) (NP (NNP DONNA) (NNP KARAN)))))))
+
+(S1 (NP (NP (NP (NNP &UR) (PRN (: ;) (-LRB- -LRB-) (NP (NNP ATTN) (. .)) (: :) (NP (NP (NNP N.Y) (. .)) (, ,) (NP (NP (NNP Md) (. .)) (, ,) (NP (NNP France)))) (-RRB- -RRB-)) (NN &LR)) (: ;) (NP (CD &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NNP By) (NNP LESLIE) (NNP KAUFMAN) (NN &LR)) (: ;) (NP (CD &QC)) (: ;) (NP (CD &QL)) (: ;) (NP (NN &UR))) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NP (DT The) (NN fashion) (NN house)) (PP (IN of) (NP (NP (NNP Donna) (NNP Karan)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (ADVP (RB long)) (VP (VBN struggled) (S (VP (TO to) (VP (VB achieve) (NP (JJ financial) (NN equilibrium))))))))) (, ,)))) (VP (VBZ has) (ADVP (RB finally)) (VP (VBN found) (NP (DT a) (JJ potential) (NN buyer)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ giant) (NN luxury) (NN conglomerate) (NNS LVMH) (NN -Moet) (NNP Hennessy) (NNP Louis) (NNP Vuitton)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN been) (PP (IN on) (NP (DT a) (JJ sustained) (NN acquisition) (NN bid))))))) (, ,)) (VP (VBZ has) (VP (VBN offered) (S (VP (TO to) (VP (VB acquire) (NP (NNP Donna) (NNP Karan) (NNP International)) (PP (IN for) (NP (NP (QP ($ $) (CD 195) (CD million))) (PP (IN in) (NP (NP (DT a) (NN cash) (NN deal)) (PP (IN with) (NP (DT the) (NN idea) (SBAR (IN that) (S (NP (PRP it)) (VP (MD could) (VP (VP (VB expand) (NP (NP (DT the) (NN company) (POS 's)) (NNS revenues))) (CC and) (VP (VB beef) (PRT (RP up)) (NP (NP (NNS accessories)) (CC and) (NP (JJ overseas) (NNS sales))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP ($ $) (CD 8.50)) (NP (DT a) (NN share)))) (, ,) (NP (DT the) (NNP LVMH) (NN offer)) (VP (VBZ represents) (NP (NP (DT a) (NN premium)) (PP (IN of) (NP (QP (RB nearly) (CD 75)) (NN percent))) (PP (TO to) (NP (DT the) (NN closing) (NN stock) (NN price)))) (PP (IN on) (NP (NNP Friday)))) (. .)))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (ADJP (RB significantly) (JJR less)) (PP (IN than) (NP (NP (NP (DT the) (QP ($ $) (CD 24))) (NP (DT a) (NN share))) (SBAR (WHPP (IN at) (WHNP (WDT which))) (S (NP (DT the) (NN company)) (VP (VBD went) (ADJP (JJ public)) (PP (IN in) (NP (CD 1996)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ final) (NN price)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (QP (JJR less) (IN than) (NN one-third))) (PP (IN of) (NP (NP (NP (DT the) (NN company) (POS 's)) (JJ annual) (NN revenue)) (PP (IN of) (NP (NP (QP ($ $) (CD 662) (CD million))) (, ,) (NP (NP (DT a) (ADJP (RB significantly) (JJR smaller)) (NN multiple)) (SBAR (IN than) (S (NP (NP (JJ European) (NN luxury) (NN fashion) (NNS houses)) (PP (IN like) (NP (NNP Fendi)))) (VP (VBD were) (VP (VBG receiving) (NP (JJ last) (NN year))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN deal)) (VP (VBZ is) (ADVP (RB still)) (ADJP (JJ subject) (PP (TO to) (NP (NN board) (NN approval)))))) (, ,) (CC but) (S (S (PP (IN in) (NP (NP (DT a) (VBN related) (NN move)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (ADVP (RB surely)) (VP (VB help) (S (VP (VB pave) (NP (DT the) (NN way)))))))))) (, ,) (NP (NNP LVMH)) (VP (VBD purchased) (NP (NNP Gabrielle) (NN Studio)))) (, ,) (NP (DT the) (NN company)) (VP (VBN held) (PP (IN by) (NP (NP (DT the) (NN designer)) (CC and) (NP (NP (PRP$ her) (NN husband)) (, ,) (NP (NNP Stephan) (NNP Weiss)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBZ holds) (NP (NP (DT all)) (PP (IN of) (NP (DT the) (NNP Donna) (NNP Karan) (NNS trademarks)))) (, ,) (PP (IN for) (NP (QP ($ $) (CD 450) (CD million)))))))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN price)) (VP (MD would) (VP (VB be) (VP (VBN reduced) (PP (IN by) (NP (QP (RB as) (JJ much) (IN as) ($ $) (CD 50) (CD million)))) (SBAR (IN if) (S (NP (NNP LVMH)) (VP (VBZ enters) (PP (IN into) (NP (DT an) (NN agreement) (S (VP (TO to) (VP (VB acquire) (NP (NNP DKI)) (PP (IN within) (NP (CD one) (NN year)))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (NN press) (NN release))) (, ,) (NP (NNP LVMH)) (VP (VBD said) (SBAR (SBAR (S (NP (PRP it)) (VP (VBD aimed) (S (VP (TO to) (VP (VB combine) (NP (NP (NNP Gabrielle)) (CC and) (NP (NNP Donna) (NNP Karan) (NNP International))))))))) (CC and) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD expected) (SBAR (IN that) (S (NP (NP (NNP Karan)) (CC and) (NP (PRP$ her) (NN husband))) (`` ``) (VP (MD will) (VP (VP (VB exchange) (NP (NP (DT a) (JJ significant) (NN portion)) (PP (IN of) (NP (PRP$ their) (NNP DKI) (NNS shares)))) (PP (IN for))) (, ,) (CC and) (VP (VB purchase) (NP (JJ additional) (NN stock)) (PRT (RP in))) (, ,) (NP (DT the) (JJ combined) (NN entity))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Karan)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB stay) (PRT (RP on)) (PP (IN as) (NP (NP (JJ chief) (NN designer) (CC and) (JJ creative) (NN leader)) (PP (IN for) (NP (DT the) (NN design) (NN studio))))))))) (, ,)) (VP (VBD called) (S (NP (DT the) (NN decision)) (VP (TO to) (VP (VB sell) (NP (NP (NNP Gabrielle)) (CC and) (ADVP (RB possibly)) (NP (NP (PRP$ her) (NN namesake) (NN design) (NN studio)) (PRN (, ,) (SBAR (WHPP (IN of) (WHNP (WDT which))) (S (NP (NP (PRP she)) (CC and) (NP (NNP Weiss))) (ADVP (RB still)) (VP (VBP own) (NP (QP (RB about) (CD 22)) (NN percent))))) (, ,)))) (PP (RB as) (ADJP (RB very) (JJ emotional))))))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBD added) (, ,) (`` ``) (S (S (INTJ (UH Yes)) (, ,) (NP (PRP I)) (VP (VBP am) (RB extraordinarily) (VP (VBN tied) (PP (TO to) (NP (PRP it)))))) (, ,) (CC but) (S (PP (IN after) (NP (JJ lengthy) (NNS discussions))) (NP (PRP I)) (VP (VBP believe) (PP (IN with) (NP (PDT all) (PRP$ my) (NN heart))) (SBAR (IN that) (S (NP (NNP LVMH)) (VP (VBZ has) (NP (NP (DT the) (NN expertise)) (, ,) (NP (NNS resources)) (, ,) (NP (JJ global) (NN scale)) (CC and) (, ,) (ADVP (RBS most) (RB importantly)) (, ,) (NP (DT the) (NN vision)) (, ,) (SBAR (S (VP (TO to) (VP (VB make) (NP (NP (DT this) (DT the) (NN luxury) (NNS goods) (NN brand)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB always)) (NP (PRP$ our) (NN dream)))))))))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Karan)) (ADVP (RB also)) (VP (VBD expressed) (NP (NN satisfaction)) (SBAR (IN that) (S (NP (NP (DT the) (NNP Paris) (JJ -based) (NN LVMH)) (, ,) (SBAR (WHNP (WDT which)) (S (PP (IN like) (NP (JJ many) (JJ European) (NNS acquirers))) (VP (VBZ has) (VP (VBN been) (ADJP (RB largely) (JJ indifferent) (PP (TO to) (NP (JJ established) (JJ American) (NN design) (NNS houses)))))))) (, ,)) (VP (VBD was) (ADJP (JJ interested) (PP (IN in) (S (VP (VBG purchasing) (NP (JJ hers)))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP It)) (VP (VBZ is) (ADJP (RB very) (JJ flattering)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP realize) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT the) (NNS trademarks))))))))) (, ,) ('' '') (NP (PRP she)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNS Investors)) (VP (VBD reacted) (ADVP (RB enthusiastically)) (, ,) (S (VP (VBG sending) (NP (DT the) (NN stock)) (ADVP (RB up) (NP ($ $) (CD 3.63)) (PP (TO to) (NP ($ $) (CD 8.50))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (ADVP (RB Ultimately)) (, ,) (PP (IN for) (NP (PRP them))) (, ,) (NP (NN acquisition)) (VP (VBZ is) (S (NP (DT the) (JJS best) (NN route)) (VP (TO to) (VP (VB go)))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NP (NNP Harvey) (NNP Robinson)) (, ,) (NP (NP (DT an) (NN apparel) (NN analyst)) (PP (IN with) (NP (DT the) (NNP Chapman) (NNP Co)))) (. .)) (, ,) (NP (DT a) (NNP Baltimore) (JJ -based) (NN investment) (NN bank) (CC and) (NN brokerage) (NN firm))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP We)) (VP (VBP think) (SBAR (S (NP (NNP LVMH)) (VP (VBZ is) (VP (VBG getting) (NP (DT a) (JJ well-recognized) (NN brand)) (PP (IN with) (NP (NP (NNS lots)) (PP (IN of) (NP (NN cachet))))))))))) (CC and) (S (NP (PRP we)) (VP (VBP believe) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB maximize) (PP (IN on) (NP (DT the) (NN acquisition))))))))))))) (. .) ('' '')))
+
+(S1 (S (SBAR (IN Since) (S (NP (NNP Donna) (NNP Karan) (NNP International)) (VP (VBD went) (ADJP (JJ public)) (PP (IN in) (NP (CD 1996)))))) (, ,) (NP (PRP$ its) (NN stock)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (JJ favorite) (VBG whipping) (NN boy)) (PP (IN of) (NP (NNP Wall) (NNP Street)))))) (. .)))
+
+(S1 (S (NP (NNS Investors)) (VP (VBD grumbled) (PP (IN over) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBD saw) (PP (IN as) (NP (JJ excessive) (CC and) (JJ uncontrolled) (NN spending))) (SBAR (IN as) (S (S (NP (NP (NNP Karan)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD acted) (PP (IN as) (NP (NP (JJ chief) (NN designer)) (CONJP (RB as) (RB well) (IN as)) (NP (JJ chief) (NN executive))))))) (, ,)) (VP (VBD spent) (ADVP (RB heavily)) (PP (IN on) (NP (JJ foreign) (NN travel))) (PP (IN for) (NP (DT a) (JJ large) (NN retinue))))) (CC and) (S (PP (IN for) (NP (NP (JJ expensive) (NNS swaths)) (PP (IN of) (NP (NN fabric))))) (, ,) (NP (NP (RB only) (DT a) (JJ tiny) (NN fraction)) (WHPP (IN of) (WHNP (WDT which)))) (VP (VBD were) (VP (VBN used) (PP (IN for) (NP (PRP$ her) (NN collection))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NNS expenses)) (VP (VBD ballooned)))) (, ,) (NP (NNS sales)) (VP (VBD stumbled) (, ,) (S (VP (VBG leaving) (NP (DT the) (NNP Donna) (NNP Karan) (NNP International) (JJ initial) (NN public) (NN offering)) (PP (IN as) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS greatest) (NNS disasters)) (PP (IN of) (NP (DT the) (NN year)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1997))) (, ,) (NP (DT the) (NN company)) (VP (VBD hired) (NP (NNP John) (NNP D.) (NNP Idol)) (S (VP (TO to) (VP (VB take) (PRT (RP over)) (PP (IN as) (NP (JJ chief) (NN executive))))))) (. .)))
+
+(S1 (S (NP (NNP Idol)) (VP (VBD was) (ADJP (JJ able) (S (VP (TO to) (VP (VB increase) (NP (NN revenue)) (PP (IN by) (S (VP (VP (VBG signing) (NP (JJ copious) (NN licensing) (NNS agreements))) (CC and) (VP (VBG cutting) (NP (DT some) (NNS expenses))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBZ estimates) (SBAR (S (NP (NP (NNS earnings)) (PP (IN per) (NP (NN share)))) (VP (MD will) (VP (VB be) (NP (CD 66) (NNS cents)) (PP (IN for) (NP (NP (DT the) (JJ fiscal) (NN year)) (VP (VBG ending) (NP (NNP Dec)))))))))) (. .)))
+
+(S1 (S (NP (CD 31)) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (DT a) (NN loss)) (PP (IN of) (NP (NP ($ $) (CD 3.78)) (NP (DT a) (NN share))))))) (PP (IN in) (NP (DT the) (NN year))) (NP (PRP he)) (VP (VBD took) (NP (DT the) (NN job))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ unclear)) (SBAR (WHNP (WP what)) (S (VP (MD will) (VP (VB happen) (PP (TO to) (NP (NNP Idol))) (SBAR (IN if) (S (NP (NP (NNP Donna) (NNP Karan) (NNP International)) (CC and) (NP (NNP Gabrielle))) (VP (VBP merge))))))))) (. .)))
+
+(S1 (S (PP (IN Despite) (NP (DT the) (JJ apparent) (JJ financial) (NN improvement))) (, ,) (NP (NNS investors)) (VP (VBP have) (VP (VBN continued) (S (VP (TO to) (VP (VB shun) (NP (DT the) (NN company)) (PP (ADVP (RB largely)) (IN because) (IN of) (NP (NP (NP (NNP Karan) (POS 's)) (JJ separate) (NN deal)) (PP (IN with) (NP (NP (NNP Gabrielle) (NN studio)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (JJ many)) (VP (VBD felt) (SBAR (S (VP (VBD was) (ADJP (RB overly) (JJ indulgent)) (PP (VBG considering) (NP (NP (DT the) (NN company) (POS 's)) (JJ financial) (NN performance)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT That) (NN company)) (, ,) (VP (ADVP (RB privately)) (VBN owned) (PP (IN by) (NP (NNP Karan) (CC and) (NNP Weiss)))) (, ,)) (VP (VBZ collects) (NP (NP (DT a) (NN royalty)) (PP (IN of) (NP (NP (CD 1.75) (NN percent)) (PP (IN of) (NP (NP (DT the) (JJ first) (QP ($ $) (CD 250) (CD million))) (PP (IN of) (NP (NP (JJ net) (NNS sales)) (NP (DT a) (NN year))))))))) (, ,) (PP (VBG rising) (PP (TO to) (NP (NP (CD 3.5) (NN percent)) (PP (IN of) (NP (NP (NNS sales)) (SBAR (WHNP (WDT that)) (S (VP (VBP exceed) (NP (QP ($ $) (CD 1.5) (CD billion)))))))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN year)) (, ,) (NP (NNP Donna) (NNP Karan) (NNP International)) (VP (VBD paid) (NP (NNP Karan) (CC and) (NNP Weiss)) (NP (NP (QP ($ $) (CD 25) (CD million))) (PP (IN in) (NP (DT a) (NN year)))) (SBAR (IN that) (S (NP (DT the) (NN design) (NN house)) (VP (VBD made) (NP (NP (QP (RB only) ($ $) (CD 10) (CD million))) (PP (IN in) (NP (NN profit)))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (NNP LVMH)) (VP (VP (VBZ succeeds) (PP (IN in) (S (VP (VBG acquiring) (NP (NNP Donna) (NNP Karan) (NNP International)))))) (CC and) (VP (VBZ combines) (NP (PRP it)) (PP (IN with) (NP (NNP Gabrielle))))))) (, ,) (NP (DT the) (NN royalty) (NN arrangement)) (VP (MD would) (VP (VB be) (ADJP (JJ moot)))) (. .)))
+
+(S1 (S (CC But) (NP (JJ several) (NN industry) (NNS insiders)) (VP (VBD wondered) (SBAR (IN whether) (S (NP (NNP LVMH)) (VP (VBZ is) (VP (VBG getting) (NP (PDT such) (DT a) (JJ great) (NN deal))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Karan) (POS 's)) (NN name)) (VP (VBZ is) (VP (ADVP (RB already)) (VBN licensed) (PP (TO to) (NP (NP (DT a) (JJ wide) (NN array)) (PP (IN of) (NP (NNS products)))))))) (, ,) (CC and) (S (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB widely)) (VP (VBN distributed) (PP (IN through) (NP (NN midprice) (NN department) (NNS stores))))))) (, ,) (NP (PRP it)) (VP (VBZ lacks) (NP (NP (DT the) (JJ exclusive) (NN appeal)) (PP (IN of) (NP (NP (NNS names)) (PP (IN like) (NP (NP (NNP Marc) (NNP Jacobs)) (CC and) (NP (NNP Michael) (NNP Kors))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Myron) (NNP Ullman)) (, ,) (NP (NP (NNP LVMH) (POS 's)) (NN managing) (NN director)) (, ,)) (VP (NNS counters) (SBAR (IN that) (S (NP (NNP Karan)) (VP (VBZ has) (VP (VBN built) (NP (DT a) (`` ``) (JJ well-respected) (JJ global) (NN brand)) (PP (IN with) (NP (NP (NNS opportunities)) (PP (IN in) (NP (NP (NNS accessories)) (CC and) (S (VP (TO to) (VP (VB expand) (PP (IN outside) (NP (NP (DT the) (NNP U.S.) (POS ')) ('' ') (SBAR (S (NP (NNP Donna) (NNP Karan) (NNP International)) (VP (VBZ gets) (NP (NP (CD 35) (NN percent)) (PP (IN of) (NP (PRP$ its) (NNS revenues)))) (PP (IN from) (NP (NN overseas)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Idol)) (VP (VBZ calls) (S (NP (PRP it)) (NP (NP (DT the) (JJ fastest-growing) (NN area)) (PP (IN of) (NP (DT the) (NN company)))))) (. .)))
+
+(S1 (NP (CD NYT-12-18-00) (NN 2224EST)))
+

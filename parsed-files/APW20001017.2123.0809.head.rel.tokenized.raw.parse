@@ -1,0 +1,60 @@
+(S1 (NP (NP (CD APW20001017.2123.0809) (NN NEWS) (NN STORY)) (JJ 2000-10-17) (CD 21:40:51)))
+
+(S1 (NP (NN Space-Shuttle)))
+
+(S1 (S (NP (NNS Astronauts)) (VP (VBP Install) (NP (NNP Power) (NNP Equipment)))))
+
+(S1 (NP (NP (NNP CAPE) (NNP CANAVERAL)) (, ,) (NP (NNP Fla)) (. .)))
+
+(S1 (S (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-) (VP (VBD _) (SBAR (S (NP (CD Two) (JJ spacewalking) (NNS astronauts)) (VP (VP (VBN clamped) (NP (NN power) (NN equipment)) (PP (IN onto) (NP (DT the) (JJ international) (NN space) (NN station))) (PP (IN on) (NP (NNP Tuesday)))) (CC and) (VP (ADVP (RB inadvertently)) (VBN added) (PP (TO to) (NP (NP (DT the) (NN collection)) (PP (IN of) (NP (NN junk) (NN whizzing))))) (PP (IN around) (NP (NNP Earth)))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN cap)) (PP (IN for) (NP (DT a) (NN depressurization) (NN valve)))) (VP (VBD floated) (PRT (RP away)) (NP (NNS moments)) (SBAR (IN after) (S (NP (NNP Bill) (NNP McArthur)) (VP (VBD emerged) (PP (IN from) (NP (NN space) (NN shuttle) (NNP Discovery))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN aluminum) (NN cover)) (, ,) (PP (IN about) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (NP (DT a) (NN gas) (NN cap)) (PP (IN on) (NP (DT a) (NN car))))))) (, ,) (VP (VBD bounced) (PP (PP (IN against) (NP (DT the) (NN space) (NN station))) (, ,) (RB then) (PP (IN against) (NP (DT the) (NN shuttle) (NN robot) (NN arm))))) (. .)))
+
+(S1 (S (ADVP (RB Then)) (NP (PRP it)) (VP (VBD was) (ADJP (VBN gone))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (JJ nice) (NN billiard) (NN shot)))) (, ,) ('' '') (NP (NNP McArthur)) (VP (VBD radioed)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (VBZ 's) (VP (VBN become) (NP (NP (DT the) (JJS latest) (NN addition)) (PP (TO to) (NP (NP (JJ tiny) (NNS bodies)) (PP (VBG orbiting) (NP (DT the) (NNP Earth)))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Mission) (NNP Control)) (VP (VBD said) (SBAR (S (NP (DT the) (JJ lost) (NN cap)) (VP (VBD was) (NP (NP (DT no) (NN reason)) (PP (IN for) (NP (NN concern)))))))) (. .)))
+
+(S1 (S (NP (PRP$ Its) (NN tether)) (ADVP (RB either)) (VP (VBD came) (ADJP (JJ loose) (CC or) (JJ broke))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ main) (NN purpose)) (PP (IN of) (NP (NP (NNP Tuesday) (POS 's)) (NN spacewalk)))) (VP (VBZ _) (NP (DT the) (JJ third)) (PP (IN in) (NP (NP (ADJP (RB as) (JJ many)) (NNS days)) (SBAR (S (NP (NNP _)) (VP (VBD was) (S (VP (TO to) (VP (VB mount) (NP (NP (CD two) (NN power) (NNS converters)) (PP (IN on) (NP (NP (NP (DT the) (NN space) (NN station) (POS 's)) (JJ new) (NN aluminum) (NN framework)) (, ,) (CC or) (NP (NN truss)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Astronaut) (NNP Leroy) (NNP Chiao)) (VP (VBD performed) (NP (DT the) (NN job)) (PP (IN from) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (NP (NNP Discovery) (POS 's)) (NN robot) (NN arm)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD removed) (S (NP (DT the) (JJ 175-pound) (NNS converters)) (NP (NP (CD one)) (PP (IN by) (NP (NP (CD one)) (PP (IN from) (NP (DT the) (NN shuttle) (NN cargo) (NN bay)))))))) (. .)))
+
+(S1 (S (PP (IN From) (PP (IN inside) (NP (DT the) (NN shuttle)))) (, ,) (NP (NNP Michael) (NNP Lopez-Alegria)) (VP (VBD used) (NP (DT the) (NN robot) (NN arm)) (S (VP (TO to) (VP (VB give) (NP (NNP Chiao)) (NP (DT a) (NN lift)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS converters)) (VP (MD will) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB regulate) (NP (NN power)) (SBAR (IN once) (S (NP (NP (DT a) (NN pair)) (PP (IN of) (NP (JJ solar) (NNS wings)))) (VP (VBZ _) (VP (VBG stretching) (NP (CD 240) (NNS feet)) (PP (IN from) (NP (NN tip))) (S (VP (TO to) (VP (VB tip) (SBAR (S (NP (NNS _)) (VP (VBP are) (VP (VBN installed) (PP (IN during) (NP (DT the) (JJ next) (NN construction) (NN mission))) (, ,) (PP (IN in) (NP (NNP December)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Chiao) (CC and) (NNP McArthur)) (ADVP (RB clearly)) (VP (VBD enjoyed) (NP (PRP$ their) (JJ 240-mile-high) (NN construction) (NN work))) (. .)))
+
+(S1 (SBARQ (`` ``) (WHADVP (WRB How)) (SQ (MD would) (NP (PRP you)) (VP (VB like) (S (VP (TO to) (VP (VB live) (PP (IN on) (NP (DT this) (NN thing))) (PP (IN for) (NP (DT a) (JJ few) (NNS months)))))))) (. ?) ('' '')))
+
+(S1 (S (NP (NNP McArthur)) (VP (VBD asked)) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (MD would) (VP (VB be) (ADJP (RB pretty) (JJ cool)))))))) (, ,) ('' '') (NP (NNP Chiao)) (VP (VBD replied)) (. .)))
+
+(S1 (S (PP (IN By) (NP (NP (DT the) (NN time)) (SBAR (S (NP (DT the) (JJ seven-hour) (NN spacewalk)) (VP (VBD ended)))))) (, ,) (NP (DT the) (CD two)) (VP (VBD had) (VP (VBN completed) (NP (PDT all) (PRP$ their) (NX (NX (NN cable) (NNS connections)) (, ,) (NX (NN toolbox) (NN work)) (CC and) (NX (JJ other) (NNS chores)))))) (. .)))
+
+(S1 (S (NP (CD One) (NN spacewalk)) (VP (VBZ remains)) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Wednesday))) (, ,) (NP (NNP Lopez-Alegria) (CC and) (NNP Jeff) (NNP Wisoff)) (VP (MD will) (VP (VP (VB go) (ADVP (RB back) (RP out) (S (VP (TO to) (VP (VB clean) (NP (NP (DT the) (NN top)) (PP (IN of) (NP (DT the) (NN truss)))) (PP (IN for) (NP (NP (DT the) (NN arrival)) (PP (IN of) (NP (DT the) (JJ solar) (NNS wings)))))))))) (, ,) (VP (VB test) (NP (PRP$ their) (JJ mini) (NNS jetpacks))) (CC and) (VP (VB practice) (VP (VBG carrying) (NP (DT each) (JJ other)))))) (. .)))
+
+(S1 (S (NP (NNP NASA)) (VP (VBZ wants) (S (VP (TO to) (VP (VB see) (SBAR (WHADVP (WRB how) (JJ hard)) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (SBAR (IN for) (S (NP (DT a) (NN spacewalker)) (VP (TO to) (VP (VB rescue) (NP (DT an) (JJ incapacitated) (NN colleague)))))))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NNP Discovery)) (VP (VBZ pulls) (ADVP (RB away)) (NP (NNP Friday))))) (, ,) (NP (PRP it)) (VP (MD will) (VP (VB leave) (ADVP (RB behind)) (NP (NP (CD 10) (NNS tons)) (PP (IN of) (NP (JJ new) (NN space) (NN station) (NNS pieces)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN station) (POS 's)) (JJ first) (JJ permanent) (NN crew)) (VP (VBZ is) (VP (VBN supposed) (S (VP (TO to) (VP (VB arrive) (PP (IN in) (NP (JJ early) (NNP November)))))))) (. .)))
+
+(S1 (NP (NNP ___)))
+
+(S1 (PP (IN On) (NP (DT the) (NN Net)) (: :)))
+
+(S1 (NP (NNP NASA) (: :) (NP (NNS http)) (: :)))
+

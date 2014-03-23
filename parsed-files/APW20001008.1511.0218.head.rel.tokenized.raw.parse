@@ -1,0 +1,74 @@
+(S1 (NP (NP (CD APW20001008.1511.0218) (NN NEWS) (NN STORY)) (QP (CD 2000-10-08) (CD 15:34:30))))
+
+(S1 (NP (NNP Yugoslavia)))
+
+(S1 (NP (NP (NNP Kostunica)) (VP (VBG Forming) (NP (NNP New) (NNP Government)))))
+
+(S1 (S (S (NP (NP (NNP BELGRADE) (, ,) (NNP Yugoslavia)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (PP (IN With) (NP (NNP Vojislav) (NNP Kostunica))) (PP (IN in) (NP (NN office))) (PP (IN as) (NP (NN president))))) (, ,) (NP (NP (NNS backers)) (PP (IN of) (NP (DT the) (JJ pro-democracy) (NN leader)))) (VP (VBD embarked) (NP (NNP Sunday)) (PP (IN on) (NP (NP (DT the) (ADJP (RB potentially) (JJ volatile)) (NN task)) (PP (IN of) (S (VP (VBG forming) (NP (NP (DT a) (NN government)) (SBAR (WHNP (WDT that)) (S (VP (VBZ tries) (S (VP (TO to) (VP (VB exclude) (NP (NP (NNS backers)) (PP (IN of) (NP (JJ former) (NN leader) (NNP Slobodan) (NNP Milosevic))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Kostunica) (POS 's)) (NN team)) (VP (VBD was) (VP (VBN faced) (PP (IN with) (NP (NP (DT a) (JJ difficult) (NN task)) (: :) (S (VP (VBG Putting) (ADVP (RB together)) (NP (DT a) (NN government)))))) (PP (IN with) (NP (NP (QP (RB as) (JJ few)) (JJ old) (NNS faces)) (PP (IN as) (ADJP (JJ possible))))) (, ,) (SBAR (IN while) (S (VP (VBG placating) (NP (NP (DT a) (JJ Milosevic) (NN wing)) (SBAR (WHNP (WDT that)) (S (ADVP (RB still)) (VP (VBZ wields) (NP (JJ considerable) (NN power))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP We)) (VP (VBP need) (NP (NP (DT a) (NN government)) (PP (IN of) (NP (NN discontinuity)))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NN opposition) (NN leader) (NNP Zoran) (NNP Djindjic)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD helped) (S (VP (VB manage) (NP (NP (NP (NNP Kostunica) (POS 's)) (NN rise)) (PP (TO to) (NP (NN power) (NNS _))) (PP (IN from) (NP (PRP$ his) (NN election) (NN campaign)))) (PP (IN through) (NP (NP (DT the) (JJ brief) (NN revolt)) (SBAR (WHNP (WDT that)) (S (VP (VBD forced) (S (NP (NNP Milosevic)) (VP (TO to) (VP (VB concede) (NP (NP (NN defeat)) (CC and) (NP (NP (NP (NNP Kostunica) (POS 's)) (NN swearing-in)) (NP (NNP Saturday)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Milosevic)) (NP (PRP himself))) (VP (VBZ has) (VP (VBN said) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VB remain) (PP (IN in) (NP (NNP Yugoslavia))) (PP (IN as) (NP (DT a) (JJ political) (NN force))))))))) (. .)))
+
+(S1 (S (NP (NNP Kostunica)) (VP (VBZ has) (VP (VBN said) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VBP defy) (S (NP (NNP Western) (NNS demands)) (VP (TO to) (VP (VB surrender) (NP (NP (DT the) (JJ outgoing) (NN president)) (CC and) (NP (NP (NNS others)) (VP (VBN indicted) (PP (IN by) (NP (DT the) (NNP U.N))))))))))))))) (. .)))
+
+(S1 (S (NP (NN war) (NNS crimes)) (VP (NN tribunal) (PP (IN in) (NP (DT The) (NNP Hague)))) (. .)))
+
+(S1 (S (CC And) (NP (NP (NNP Serbia)) (, ,) (NP (DT the) (JJ main) (NNP Yugoslav) (NN republic)) (, ,)) (ADVP (RB still)) (VP (VBZ is) (VP (VBN run) (PP (IN by) (NP (NP (DT a) (NN government)) (PP (IN of) (NP (NP (JJ Milosevic) (NNS cronies)) (PP (VBG including) (NP (NNP Serbian) (NNP President) (NNP Milan) (NNP Milutinovic) (NNP _))) (PP (IN like) (NP (NNP Milosevic))))) (, ,) (VP (VBN indicted) (PP (IN by) (NP (DT the) (NN tribunal)))))))) (. .)))
+
+(S1 (S (NP (NNP Milutinovic)) (VP (VP (VBZ controls) (NP (QP (RB approximately) (CD 100,000)) (NNS policemen)) (PP (IN in) (NP (PRP$ his) (NN republic)))) (CC and) (, ,) (ADVP (RB indirectly)) (, ,) (NP (NP (JJ much)) (PP (IN of) (NP (NP (DT the) (NN republic) (POS 's)) (NN economy))))) (. .)))
+
+(S1 (S (NP (NP (NNP Kostunica) (POS 's)) (JJ pro-democracy) (NNS forces)) (VP (VBP have) (VP (VBN said) (SBAR (S (NP (PRP they)) (VP (MD would) (VP (VB demand) (NP (NP (JJ early) (NNS elections)) (PP (IN for) (NP (NP (JJ new) (JJ Serbian) (NN parliament)) (CC and) (NP (NN president))))))))))) (. .)))
+
+(S1 (S (NP (NNP Kostunica)) (VP (VBD scored) (NP (NP (DT a) (JJ stunning) (NN upset)) (PP (IN over) (NP (NNP Milosevic)))) (PP (IN in) (NP (DT the) (NNP Sept)))) (. .)))
+
+(S1 (FRAG (NP (CD 24) (JJ presidential) (NN election)) (. .)))
+
+(S1 (S (S (NP (NP (NNP Milosevic) (POS 's)) (NN attempt) (S (VP (TO to) (VP (VB deny) (NP (NP (NNP Kostunica) (POS 's)) (NN victory)))))) (VP (VBD sparked) (NP (DT a) (JJ national) (NN uprising)))) (, ,) (CC and) (S (NP (PRP he)) (VP (VBD conceded) (NP (NN defeat)) (NP (NNP Friday)))) (. .)))
+
+(S1 (S (NP (NP (NP (NP (NNP Norway) (POS 's)) (NNP Foreign) (NNP Minister) (NNP Thorbjoern) (NNP Jagland)) (CC and) (NP (NNP Mladjan) (NNP Dinkic))) (, ,) (NP (NP (DT the) (NN head)) (PP (IN of) (NP (DT an) (JJ influential) (NN group))) (PP (IN of) (NP (NNS economists)))) (, ,)) (VP (VBD demanded) (NP (NNP Sunday)) (SBAR (IN that) (S (NP (NNP Milosevic)) (VP (VB be) (VP (VBN punished) (PP (IN for) (NP (NN vote-rigging)))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP We)) (ADVP (RB now)) (VP (VBP expect) (S (NP (NN state) (NNS prosecutors)) (VP (TO to) (VP (VB bring) (NP (NP (NNS charges)) (PP (IN against) (NP (NNP Slobodan) (NNP Milosevic))))))))) (, ,) ('' '') (NP (NNP Dinkic)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NP (DT A) (JJ human) (NNS rights) (NN group)) (PP (IN in) (NP (NNP Yugoslavia)))) (, ,) (NP (DT the) (JJ Humanitarian) (NNP Law) (NNP Fund)) (, ,)) (ADVP (RB also)) (VP (VBD demanded) (NP (NP (NN punishment)) (PP (IN for) (NP (DT the) (VBN ousted) (NN autocrat)))) (, ,) (S (VP (VBG issuing) (NP (NP (JJ long) (NNS lists)) (PP (IN of) (NP (PRP$ his) (JJ alleged) (NNS misdeeds))))))) (. .)))
+
+(S1 (S (NP (NNP Dinkic)) (ADVP (RB also)) (VP (VBD called) (PP (IN for) (NP (NP (NP (DT a) (NN donor) (POS 's)) (NN conference)) (PP (IN on) (NP (NNP Yugoslavia))) (PP (IN with) (NP (NP (DT the) (NN aim)) (PP (IN of) (S (VP (VBG injecting) (NP (QP (IN at) (JJS least) ($ $) (CD 500) (CD million))) (PP (IN into) (NP (DT the) (JJ cash-strapped) (NN country))) (PP (IN over) (NP (DT the) (JJ next) (NN year))))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Cleaning) (NP (NN house)) (PP (IN at) (NP (JJ top) (NNS levels))))) (VP (VBZ is) (ADVP (RB also)) (VP (VBN seen) (ADJP (ADJP (RB as) (JJ important)) (PP (IN for) (NP (NNP Yugoslavia)))) (PP (IN in) (NP (PRP$ its) (NNS efforts) (S (VP (TO to) (VP (VB break) (PP (IN out) (PP (IN of) (NP (NP (DT a) (NN decade)) (PP (IN of) (NP (NP (NNS sanctions) (CC and) (JJ international) (NN isolation)) (VP (VBN meant) (S (VP (TO to) (VP (VB bring) (NP (NNP Milosevic)) (PP (TO to) (NP (NN heel))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Milosevic)) (VP (VBZ is) (VP (VBN blamed) (PP (IN by) (NP (DT the) (NNP West))) (PP (IN for) (S (VP (VP (VBG starting) (NP (NNS _))) (CC and) (VP (ADVP (RB then)) (VBG losing) (NP (NP (QP (CD _) (CD four)) (NNP Balkan) (NNS wars)) (SBAR (WHNP (WDT that)) (S (VP (VBD broke) (PRT (RP out)) (PP (IN in) (NP (DT the) (JJ last) (NN decade))) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNS parts)) (PP (IN of) (NP (NNP Yugoslavia)))) (VP (VBD began) (S (VP (TO to) (VP (VB seek) (NP (NN independence)))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT Those) (NNS conflicts)) (VP (VBD were) (VP (VBN marked) (PP (IN by) (NP (NP (JJ horrific) (NNS acts)) (PP (IN of) (NP (NP (NN violence)) (PP (IN against) (NP (NP (NNS civilians)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD prompted) (S (NP (JJ Western) (NNS governments)) (VP (TO to) (VP (VP (VB impose) (NP (NNS sanctions))) (CC and) (VP (VB isolate) (NP (DT the) (NN government)) (PP (IN in) (NP (NNP Belgrade)))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT A) (JJ new) (NN government)) (VP (MD should) (`` ``) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VP (VB show) (PRT (RP up)) (PP (IN in) (NP (NNP Brussels) (CC and) (NNP Washington)))) (CC and) (VP (VB say) (: :) (`` `) (S (NP (DT the) (NN country)) (VP (VBZ has) (VP (VBN democratized) (VP (VBN ..)))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP we)) (VP (VBP ask) (PP (IN from) (NP (PRP you))) (S (VP (TO to) (VP (VB lift) (NP (DT the) (NNS sanctions))))))) (, ,) ('' '') ('' ') (NP (NNP Djindjic)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (CC Both) (NP (DT the) (NNP United) (NNPS States)) (CC and) (NP (DT the) (NNP European) (NNP Union))) (VP (VBP have) (VP (VBN said) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB begin) (S (VP (TO to) (VP (VB lift) (NP (NNS sanctions)) (SBAR (IN once) (S (NP (DT the) (JJ new) (NN government)) (VP (VBZ is) (PP (IN in) (NP (NN place))))))))))))))) (. .)))
+
+(S1 (S (NP (JJ French) (NNP Foreign) (NNP Minister) (NNP Hubert) (NNP Vedrine)) (VP (VBD confirmed) (NP (NNP Sunday)) (SBAR (IN that) (S (NP (DT the) (NN EU)) (VP (MD would) (ADVP (RB partially)) (VP (VB lift) (NP (NNS sanctions)) (PP (IN on) (NP (NNP Monday)))))))) (. .)))
+
+(S1 (S (NP (NNP Djindjic)) (VP (VBD spoke) (PP (IN after) (NP (NP (DT the) (JJ inaugural) (NN session)) (PP (IN of) (NP (DT the) (NNP Yugoslav) (NNP Parliament))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP Kostunica)) (VP (VBD took) (NP (NN office)))))))) (. .)))
+
+(S1 (S (NP (NNP Kostunica)) (VP (VP (VBD pledged) (S (VP (TO to) (VP (VB follow) (NP (NP (PRP$ his) (NN conscience)) (PP (IN in) (NP (JJ leading) (NNP Yugoslavia)))))))) (CC and) (VP (VBD urged) (NP (NNS lawmakers)) (S (VP (TO to) (VP (VB bury) (NP (NP (JJ past) (NNS enmities)) (SBAR (WHNP (WDT that)) (S (VP (VBD led) (PP (TO to) (NP (NN bloodshed) (CC and) (NN chaos)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ 56-year-old) (JJ legal) (NN scholar)) (VP (VBD promised) (S (VP (TO to) (VP (VP (VB return) (NP (NNP Yugoslavia)) (PP (TO to) (NP (NN democracy)))) (CC and) (VP (VB end) (NP (DT the) (NX (NX (JJ ethnic) (NN conflict)) (CC and) (NX (JJ economic) (NN devastation))) (SBAR (WHNP (WDT that)) (S (VP (VBD marked) (NP (NP (DT the) (CD 13) (NNS years)) (PP (IN of) (NP (NP (NNP Milosevic) (POS 's)) (NN rule))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (NN Everything)) (VP (VBZ is) (ADJP (JJ peaceful)))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (NP (NNP Yugoslavia)) (CC and) (NP (NNP Serbia))) (VP (VBP have) (VP (VBN joined) (NP (NP (DT the) (NN family)) (PP (IN of) (NP (JJ democratic) (NNS nations)))))) (. .) ('' '')))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (NN discord)) (VP (MD could) (VP (VB resurface) (, ,) (PP (ADVP (IN at) (JJS least)) (IN in) (NP (NN parliament))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN swearing-in)) (NP (PRP itself))) (VP (VBD was) (VP (ADVP (RB repeatedly)) (VBN delayed) (PP (IN by) (NP (NP (JJ Milosevic) (NNS allies)) (SBAR (WHNP (WP who)) (S (VP (VBD contested) (NP (NP (NNS parts)) (PP (IN of) (NP (DT the) (NNP Sept))))))))))) (. .)))
+
+(S1 (NP (CD 24) (NN vote) (. .)))
+
+(S1 (S (CC And) (PP (IN with) (NP (NP (NP (NNP Kostunica) (POS 's)) (JJ 18-party) (NN opposition) (NN block)) (ADVP (JJ short) (PP (IN of) (NP (DT an) (JJ absolute) (NN majority)))))) (, ,) (NP (PRP it)) (VP (VBZ appears) (VP (VBN compelled) (S (VP (TO to) (VP (VB deal) (PP (IN with) (NP (NP (NP (DT the) (NNP Socialist) (NNPS People) (POS 's)) (NNP Party)) (PP (IN of) (NP (NP (NNP Montenegro)) (, ,) (NP (DT the) (JJR smaller) (NNP Yugoslav) (NN republic))))))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN party)) (VP (VBD backed) (NP (NNP Milosevic)) (SBAR (IN until) (S (NP (PRP$ his) (NN downfall)) (ADVP (CC and) (RB now)) (VP (VBZ seeks) (S (VP (TO to) (VP (VB have) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ its) (JJ own)))) (VP (VBN appointed) (SBAR (IN as) (S (NP (NP (NNP Yugoslavia) (POS 's)) (JJ prime) (NN minister)) (VP (VBZ _) (SBAR (S (NP (DT the) (NN constitution)) (VP (VBZ says) (SBAR (IN that) (S (SBAR (IN if) (S (NP (DT the) (NN president)) (VP (VBZ is) (PP (IN from) (NP (NNP Serbia)))))) (, ,) (NP (DT the) (JJ prime) (NN minister)) (VP (MD must) (VP (VB be) (NP (NNP Montenegrin))))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN With) (NP (NP (DT the) (NN opposition)) (VP (VBD outnumbered) (PP (IN in) (NP (NN parliament)))))) (, ,) (NP (NP (DT a) (JJ nonpartisan) (NN government)) (PP (IN of) (NP (NNS experts)))) (, ,) (SBAR (IN as) (S (VP (VBN favored) (PP (IN by) (NP (NP (JJ many)) (PP (IN in) (NP (DT the) (NNP Kostunica) (NN camp)))))))) (, ,) (VP (VBZ has) (NP (NP (JJ little) (NN chance)) (PP (IN of) (S (VP (VBG being) (VP (VBN formed))))))) (. .)))
+

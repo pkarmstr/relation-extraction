@@ -1,0 +1,70 @@
+(S1 (NP (NP (CD NYT20001101.2212.0429) (NN NEWS) (NN STORY)) (QP (CD 2000-11-01) (CD 22:12:00))))
+
+(S1 (NP (NP (CD A4398) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP f) (NNP BC-AOL-MARKETPLACE-NYT) (NN &LR)) (: ;) (NP (QP (CD 11-01) (CD 0711))))))
+
+(S1 (NP (NNP BC-AOL-MARKETPLACE-NYT)))
+
+(S1 (NP (NN MARKET) (NN PLACE) (: :) (S (NP (NNP TIME) (NNP WARNER) (NNS HOLDERS)) (VP (VBP LOOK) (PP (IN FOR) (NP (NP (JJ HAPPY) (NNS DAYS)) (PP (IN AFTER) (NP (DT THE) (NN AOL)))))))))
+
+(S1 (NP (NP (NN MERGER) (NNS &QL)) (: ;) (NP (NP (NNP By) (NNP ALEX) (NNP BERENSON) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NN &LR)) (: ;) (ADVP (RB Back) (PP (IN in) (NP (NP (NNP January)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Internet) (NNS stocks)) (VP (VBD were) (ADJP (JJ hot))))))))) (, ,) (NP (NNP America) (NNP Online))) (VP (VBD agreed) (S (VP (TO to) (VP (VB buy) (NP (NNP Time) (NNP Warner)) (PP (IN with) (NP (JJ AOL) (NN stock))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN deal)) (, ,) (SBAR (IN if) (S (VP (VBN approved) (PP (IN by) (NP (NNS regulators)))))) (, ,) (VP (MD would) (VP (VB leave) (NP (JJ AOL) (NNS shareholders)) (PP (IN with) (NP (NP (CD 55) (NN percent)) (PP (IN of) (NP (DT the) (JJ merged) (NN company))))) (, ,) (SBAR (RB even) (IN though) (S (NP (NP (NNP Time) (NNP Warner) (POS 's)) (NX (NX (NN revenue)) (CC and) (NX (NN cash) (NN flow)))) (VP (VBP are) (ADJP (RB far) (JJR greater))))))) (. .)))
+
+(S1 (S (PP (IN Since) (NP (RB then))) (, ,) (NP (NP (NNP AOL) (POS 's)) (NN stock)) (VP (VBZ has) (VP (VBN fallen) (PP (IN by) (NP (RB almost) (DT a) (JJ third))) (, ,) (S (VP (VBG destroying) (NP (NP (JJS most)) (PP (IN of) (NP (NP (DT the) (NN premium)) (SBAR (S (NP (DT the) (NN company)) (VP (VBD had) (VP (VBN offered) (PP (IN for) (NP (NP (NN control)) (PP (IN of) (NP (NNP Time) (NNP Warner)))))))))))))))) (. .)))
+
+(S1 (S (IN So) (NP (DT a) (NNP Time) (NNP Warner) (NN shareholder)) (VP (MD might) (VP (VB conclude) (SBAR (IN that) (S (NP (NP (NP (NNP America) (NNP Online) (POS 's)) (NN chairman)) (, ,) (NP (NNP Stephen) (NNP Case)) (, ,)) (VP (VBD had) (VP (VBN bamboozled) (NP (NP (PRP$ his) (NNP Time) (NNP Warner) (NN counterpart)) (, ,) (NP (NNP Gerald) (NNP Levin)) (, ,)) (PP (IN into) (S (VP (VBG taking) (NP (NP (NNP AOL) (POS 's)) (NNS shares)) (PP (IN at) (NP (DT the) (JJS worst) (JJ possible) (NN time)))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (JJ Short) (NN term)) (, ,) (NP (NN anyone) (JJ objective)) (VP (MD would) (VP (VB say) (SBAR (RB probably) (S (NP (NNP Steve)) (VP (VBD got) (NP (NP (DT the) (JJR better) (NN part)) (PP (IN of) (NP (DT the) (NN deal)))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Larry) (NNP Haverty)) (, ,) (NP (NP (NP (DT a) (JJ senior) (NN vice) (NN president)) (PP (IN at) (NP (NP (NNP State) (NNP Street) (NNP Research)) (PP (IN in) (NP (NNP Boston)))))) (CC and) (NP (DT a) (JJ longtime) (NNS media) (NN investor)))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Haverty)) (, ,) (PP (IN like) (NP (JJ many) (JJ other) (NNP Time) (NNP Warner) (NNS shareholders) (CC and) (NN industry) (NNS analysts))) (, ,) (VP (ADVP (RB hardly)) (VBZ cares)) (. .)))
+
+(S1 (S (PP (IN With) (NP (NP (DT the) (NN merger)) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (VP (VBN completed) (NP (RB later) (DT this) (NN month))))))))) (, ,) (NP (PRP he)) (VP (VBZ predicts) (SBAR (IN that) (S (NP (DT the) (JJ merged) (NN company)) (VP (MD will) (VP (VB grow) (ADVP (RB quickly)) (PP (IN by) (S (VP (VBG combining) (NP (NP (NP (NNP AOL) (POS 's)) (NN marketing) (NNS skills) (CC and) (NN captive) (NN base)) (PP (IN of) (NP (NN online) (NNS users)))) (PP (IN with) (NP (NP (NP (NNP Time) (NNP Warner) (POS 's)) (JJ huge) (NN library)) (PP (IN of) (NP (NP (NNS films)) (, ,) (NP (NNS magazines)) (CC and) (NP (DT the) (JJ like)) (CC and) (NP (NP (PRP$ its) (NNS relationships)) (PP (IN with) (NP (JJ major) (NNS advertisers)))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (DT The) (NN deal)) (VP (ADVP (RB strategically) (CC and) (RB financially)) (VBZ makes) (NP (NP (PDT all) (DT the) (NN sense)) (PP (IN in) (NP (DT the) (NN world)))))) (, ,) ('' '') (NP (NNP Haverty)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (ADVP (NP (CD Five) (NNS years)) (IN out)) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP 're) (NP (NP (DT a) (NN shareholder)) (PP (IN in) (NP (DT this) (NN company))))))) (, ,) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB be) (NP (DT a) (JJ happy) (NN camper))))))) (. .) ('' '')))
+
+(S1 (S (NP (DT That) (NN view)) (VP (VBZ is) (ADVP (RB widely)) (VP (VBN shared))) (. .)))
+
+(S1 (SINV (`` ``) (S (ADVP (RB Strategically)) (, ,) (NP (PRP it)) (VP (VBZ makes) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN sense)))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Tom) (NNP Wolzien)) (PP (IN of) (NP (NNP Sanford) (NNP C.) (NNP Bernstein)))) (. .)))
+
+(S1 (S (`` ``) (NP (DT These) (NNS companies)) (VP (VBP fill) (NP (NP (DT the) (NNS holes)) (PP (IN of) (NP (DT the) (JJ other) (CD one))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP 're) (VP (VBG subscription-advertising) (NP (NNP combo) (NNS models)))) (. .)))
+
+(S1 (S (NP (DT The) (NN reality)) (VP (VBZ is) (SBAR (S (NP (DT the) (NNS pieces)) (VP (VBP are) (ADJP (RB very) (JJ compatible)))))) (. .) ('' '')))
+
+(S1 (S (S (VP (TO To) (VP (VB be) (ADJP (JJ sure))))) (, ,) (NP (NP (DT the) (JJ recent) (NN history)) (PP (IN of) (NP (JJ big) (NNS media) (NNS mergers)))) (VP (VBZ is) (ADVP (RB hardly)) (ADJP (JJ comforting) (PP (IN for) (NP (NP (NNS shareholders)) (PP (IN in) (NP (DT either) (NNP AOL) (CC or) (NNP Time) (NNP Warner))))))) (. .)))
+
+(S1 (S (S (NP (NNP Disney)) (VP (VBD stumbled) (ADVP (RB badly)) (SBAR (IN after) (S (NP (PRP it)) (VP (VBD bought) (NP (NNP Capital) (NNPS Cities)) (PP (IN in) (NP (CD 1996)))))))) (, ,) (CC and) (S (NP (NNP Time) (NNP Warner)) (VP (VBD stagnated) (PP (IN for) (NP (CD five) (NNS years))) (SBAR (IN after) (S (NP (PRP it)) (VP (VBD was) (VP (VBN created) (PP (IN in) (NP (CD 1990))) (PP (IN by) (NP (NP (DT the) (NN merger)) (PP (IN of) (NP (NNP Time) (CC and) (NNP Warner))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (JJ Huge) (NNS deals)) (VP (VBP are) (ADJP (RB really) (JJ hard) (SBAR (S (VP (TO to) (VP (VB do) (CC and) (VB create) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN uncertainty))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Roger) (NNP McNamee)) (PP (IN of) (NP (JJ Integral) (NN Capital))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD sold) (NP (NP (PRP$ its) (CD 404,000) (JJ AOL) (NNS shares)) (NP (DT the) (NN day))) (SBAR (S (NP (DT the) (NN merger)) (VP (VBD was) (VP (VBN announced))))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN if) (S (NP (DT the) (JJ merged) (NN company)) (VP (MD can) (VP (VB overcome) (NP (DT that) (NN hurdle)))))) (, ,) (NP (PRP it)) (VP (MD will) (VP (VB have) (NP (NP (JJ big) (NNS advantages)) (PP (IN over) (NP (NP (UCP (NNP Disney) (CC and) (JJ other)) (JJ traditional) (NNS media) (NNS companies)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADVP (RB still)) (VP (VBG struggling) (S (VP (TO to) (VP (VB figure) (PRT (RP out)) (SBAR (WHADVP (WRB how)) (S (NP (PRP they)) (VP (MD can) (VP (VB profit) (PP (IN from) (NP (NP (DT the) (NNP Internet)) (, ,) (VP (VBD said) (NP (NP (NNP Jessica) (NNP Reif)) (PP (IN of) (NP (NNP Merrill) (NNP Lynch))))))))))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (PP (VBN Given) (NP (NP (DT the) (JJ multiple) (NN distribution) (NNS platforms)) (SBAR (WHNP (WDT that)) (S (NP (PRP they)) (VP (VBP have)))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB obviously)) (NP (DT a) (ADJP (RB very) (JJ powerful)) (NN consumer) (NN engine)))) (, ,) ('' '') (NP (NNP Reif)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN reason)) (SBAR (WHNP (IN that)) (S (NP (PRP you)) (VP (VBP see) (NP (NNP Disney)) (PRN (CC and) (PP (TO to) (NP (DT a) (JJR lesser) (NN extent)))) (S (NP (NNP NBC)) (VP (VBG screaming) (PP (IN in) (NP (NNP Washington)))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP John) (NNP Schreiber)) (, ,) (NP (NP (DT an) (JJ assistant) (NN portfolio) (NN manager)) (PP (IN at) (NP (NP (NNP Janus) (NNP Capital)) (, ,) (NP (NP (DT the) (JJ mutual) (NN fund) (NN company)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (NP (NP (NNP Time) (NNP Warner) (POS 's)) (JJS largest) (NN shareholder)) (, ,) (PP (IN with) (NP (QP (JJR more) (IN than) (CD 120) (CD million)) (NNS shares))))))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS companies)) (VP (VBD had) (ADVP (RB already)) (VP (VBN begun) (S (VP (TO to) (VP (VB demonstrate) (SBAR (WHADVP (WRB how)) (S (NP (PRP they)) (VP (MD would) (VP (VB work) (ADVP (RB together)))))))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN example))) (, ,) (NP (NNP AOL)) (VP (VBZ has) (VP (VBN pitched) (NP (NP (NNP Time) (NNP Warner) (POS 's)) (NNS magazines)) (PP (TO to) (NP (PRP$ its) (NNS users))) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS thousands)) (PP (IN of) (NP (JJ new) (NNS subscriptions))))))))))) (. .)))
+
+(S1 (S (S (CC And) (NP (DT the) (NNS companies)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB sell) (NP (JJ big) (NNS advertisers)) (PP (IN on) (NP (NP (NP (NNS deals)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB reach) (NP (DT both) (NNP America) (NNP Online) (NNS users))))))) (CC and) (NP (NP (DT the) (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VP (VBP watch) (NP (NP (NNP Time) (NNP Warner)) (NN cable) (NNS channels))) (CC and) (VP (VBP read) (NP (PRP$ its) (NNS magazines))))))))))))))) (, ,) (NP (NNP Schreiber)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (S (SBAR (RB Once) (S (NP (DT the) (NN merger)) (VP (VBZ closes)))) (, ,) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP you)) (VP (MD 'll) (VP (VB see) (NP (NP (DT some) (ADJP (RB very) (JJ powerful)) (JJ cross-promotional) (NNS deals)) (PP (IN across) (NP (NP (DT all)) (PP (IN of) (NP (NP (NNP Time) (NNP Warner) (POS 's)) (NNS advertisers)))))))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNP Schreiber)) (ADVP (RB also)) (VP (VBZ says) (SBAR (S (NP (NP (DT the) (NN risk)) (PP (IN of) (NP (NP (JJ cultural) (NNS clashes)) (PP (IN between) (NP (DT the) (NNS companies)))))) (VP (VBZ is) (ADJP (JJ limited)) (, ,) (SBAR (IN because) (S (NP (DT the) (NNS companies)) (VP (VBD disclosed) (ADVP (RB publicly)) (SBAR (WHADVP (WRB where)) (S (NP (JJ top) (NNS executives)) (VP (MD would) (VP (VB stand) (PP (IN in) (NP (DT the) (JJ combined) (NN company))) (ADVP (RB only)) (SBAR (NP (DT a) (JJ few) (NNS weeks)) (IN after) (S (NP (DT the) (NN merger)) (VP (VBD was) (VP (VBN announced)))))))))))))))) (. .)))
+
+(S1 (S (S (S (ADVP (RB So)) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP feel) (SBAR (S (NP (PRP$ their) (NNS responsibilities)) (VP (VBP have) (VP (VBN been) (VP (VBN diminished)))))))))) (VP (VBP have) (VP (VBN had) (NP (NP (NNS months)) (SBAR (S (VP (TO to) (VP (VB look) (PP (IN for) (NP (JJ new) (NNS jobs))))))))))) (, ,) (CC and) (S (NP (DT some)) (VP (VBP have) (ADVP (RB already)) (VP (VBN left))))) (, ,) (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (VBN Given) (NP (NP (DT the) (NN strength)) (SBAR (S (NP (PRP he)) (VP (VBZ sees) (PP (IN in) (NP (DT the) (JJ combined) (NN company)))))))) (, ,) (NP (NNP Schreiber)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN question)) (PP (IN of) (SBAR (IN whether) (S (NP (NNP Levin)) (VP (MD could) (VP (VB have) (VP (VBN negotiated) (NP (NP (DT a) (JJR better) (NN deal)) (PP (IN with) (NP (NNP America) (NNP Online))))))))))) (VP (VBZ is) (ADJP (JJ moot)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Shares)) (PP (IN in) (NP (NP (NN cable) (NNS companies)) (PP (IN like) (NP (NNP Comcast)))))) (VP (VBP have) (VP (VBN fallen) (NP (QP (CD 15) (NN percent) (CC or) (JJR more))) (NP (DT this) (NN year)) (, ,) (SBAR (IN while) (S (NP (JJ big) (NNS media) (NNS companies)) (VP (VBP have) (VP (VP (VBN been) (ADJP (JJ flat))) (CC or) (VP (ADVP (RB up) (RB slightly))))))))) (. .)))
+
+(S1 (S (IN So) (S (`` ``) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (SBAR (IN as) (IN if) (S (NP (NNP Time) (NNP Warner) (NNS shareholders)) (VP (VBP have) (VP (VBN lost) (PRT (RP out)) (PP (IN on) (NP (NP (DT a) (JJ great) (NN deal)) (PP (IN of) (NP (RB upside))))))))))) (, ,) ('' '') (NP (NNP Schreiber)) (VP (VBD said))) (. .)))
+
+(S1 (NP (CD NYT-11-01-00) (NN 2212EST)))
+

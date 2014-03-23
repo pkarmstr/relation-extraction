@@ -1,0 +1,90 @@
+(S1 (NP (NP (CD APW20001207.2118.0838) (NN NEWS) (NN STORY)) (JJ 2000-12-07) (CD 21:23:39)))
+
+(S1 (NP (NN Ancient-Bird)))
+
+(S1 (NP (JJ Ancient) (NN Bird) (NNS Fuels) (NN Dinosaur) (NN Debate)))
+
+(S1 (S (S (NP (NP (NNP WASHINGTON) (PRN (-LRB- -LRB-) (NNP AP) (-RRB- -RRB-)) (NNP _) (NN Fossil) (NNS remains)) (PP (IN of) (NP (NP (DT a) (ADJP (CD 120) (NN million-year-old)) (NN bird)) (PP (IN with) (NP (JJ unique) (NNS feathers)))))) (VP (VBD cast) (NP (NN doubt)) (PP (IN on) (NP (NP (DT the) (NN theory)) (PP (IN of) (NP (NP (NNS birds)) (VP (VBG evolving) (PP (IN from) (NP (NNS dinosaurs)))))))))) (PRN (, ,) (S (NP (DT some) (NNS experts)) (VP (VBP say))) (, ,)) (CC but) (S (NP (NNS others)) (VP (VBP disagree))) (. .)))
+
+(S1 (S (NP (CD Two) (JJ Chinese) (NNS researchers)) (VP (VBP report) (SBAR (IN that) (S (NP (NP (DT a) (NN fossil)) (VP (VBD called) (NP (NNP Protopteryx) (CD _)) (PP (IN from) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (VBG flying) (NNS animals))) (VP (VBN called) (NP (NNP Enantiornithine) (CD _))))))) (VP (VBZ includes) (NP (NP (NNS feathers)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (`` ``) (ADJP (JJ different) (PP (IN from) (NP (NP (DT those)) (PP (IN of) (NP (DT all) (JJ other) (VBN known) (UCP (NN fossil) (CC and) (JJ modern)) (NNS feathers)))))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Fucheng) (NNP Zhang)) (CC and) (NP (NP (NNP Zhonghe) (NNP Zhou)) (PP (IN of) (NP (NP (DT the) (NNP Chinese) (NNP Academy)) (PP (IN of) (NP (NNPS Sciences))))))) (VP (VBP suggest) (PP (IN in) (NP (DT the) (NN journal) (NNP Science))) (SBAR (IN that) (S (NP (DT the) (NN discovery)) (VP (VBZ supports) (NP (DT the) (NN idea) (SBAR (IN that) (S (NP (NNS feathers)) (VP (VBD evolved) (PP (IN from) (NP (NP (NNS scales)) (, ,) (PP (IN like) (NP (NP (DT those)) (VP (VBN found) (PP (IN in) (NP (NNS reptiles)))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN study)) (VP (VBD was) (S (VP (TO to) (VP (VB be) (VP (VBN published) (NP (NNP Friday))))))) (. .)))
+
+(S1 (S (NP (NP (DT Some) (NNS researchers)) (SBAR (WHNP (WP who)) (S (VP (VBP oppose) (NP (DT the) (NN idea) (SBAR (IN that) (S (NP (NNS birds)) (VP (VBD evolved) (PP (IN from) (NP (NNS dinosaurs))))))))))) (VP (VBD embraced) (NP (DT the) (JJ new) (NN fossil)) (PP (IN as) (NP (NN proof) (SBAR (IN that) (S (NP (NNS birds) (CC and) (NNS dinosaurs)) (VP (VBD evolved) (ADVP (RB independently) (PP (IN from) (NP (DT a) (JJ common) (JJ reptilian) (NN ancestor)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNS others)) (VP (VBP say) (SBAR (S (NP (NNP Protopteryx)) (VP (VBZ adds) (NP (NN nothing)) (PP (TO to) (NP (DT the) (JJ dino-bird) (NN debate))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (EX There)) (VP (VBZ is) (NP (NP (NN nothing)) (PP (IN in) (NP (NP (DT the) (NN skeleton)) (PP (IN of) (NP (NP (DT this) (NN bird)) (SBAR (WHNP (WDT that)) (S (VP (VBZ disputes) (NP (NP (DT the) (NN dinosaur) (NN origin)) (PP (IN of) (NP (NNS birds)))))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Thomas) (NNP R.) (NNP Holtz) (NNP Jr) (. .)) (, ,) (NP (NP (DT a) (NAC (NNP University) (PP (IN of) (NP (NNP Maryland)))) (NN paleobiologist)) (CC and) (NP (NP (NNS specialists)) (PP (IN on) (NP (NN bird) (NN evolution)))))) (. .)))
+
+(S1 (S (`` ``) (NP (DT The) (NN fact) (SBAR (IN that) (S (NP (DT this) (NNP Protopteryx)) (VP (VBZ has) (NP (DT these) (JJ weird) (JJ flat) (NNS feathers)) (ADVP (RB really)))))) (VP (VBZ does) (RB n't) (VP (VB affect) (NP (DT that) (NN issue)))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Alan) (NNP Feduccia)) (, ,) (NP (NP (DT an) (JJ evolutionary) (NN biologist)) (PP (IN at) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP North) (NNP Carolina)))))) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (JJ Chinese) (NN study)) (PP (IN of) (NP (NNP Protopteryx)))) (`` ``) (VP (VBZ is) (NP (DT a) (JJ hot) (NN paper) (NN ..)))))) (. .)))
+
+(S1 (S (NP (DT that)) (VP (ADVP (RB directly)) (VBZ contradicts) (NP (DT the) (NN idea) (SBAR (IN that) (S (NP (NNS birds)) (VP (VBD evolved) (PP (IN from) (NP (NNS dinosaurs)))))))) (. .) ('' '')))
+
+(S1 (S (NP (DT The) (JJ new) (NN fossil)) (VP (VBD was) (VP (VBN unveiled) (SBAR (NP (DT the) (NN day)) (IN after) (S (NP (NNS researchers)) (VP (VBD announced) (SBAR (IN that) (S (NP (NP (DT another) (JJ ancient) (JJ Chinese) (NN bird)) (, ,) (VP (VBN called) (S (NP (NNP Microraptor) (NNP zhaoianus)))) (, ,)) (VP (VBD supported) (NP (NP (DT the) (NN dinosaur) (NN origin)) (PP (IN of) (NP (NNS birds)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NN study))) (, ,) (NP (NNP Zhang) (CC and) (NNP Zhou)) (VP (VBD described) (NP (NP (DT the) (NN feather) (CC and) (NN bone) (NN structure)) (VP (VBN found) (PP (IN in) (NP (NP (DT a) (NN fossil)) (PP (IN of) (NP (NP (DT a) (JJ starling-sized) (NN bird)) (VP (VBN uncovered) (PP (IN in) (NP (NP (JJ northern) (NNP China)) (, ,) (NP (NP (DT the) (NN site)) (PP (IN of) (NP (JJ many) (NN dinosaur) (NN fossil) (NNS finds)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Chinese) (NNS researchers)) (VP (VBD said) (SBAR (S (S (NP (DT the) (NNS feathers)) (VP (VBP have) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS characteristics)) (PP (IN of) (NP (JJ modern) (NNS feathers)))))))) (, ,) (CC but) (S (NP (DT the) (NN structure)) (VP (VBZ is) (ADJP (RBR more) (JJ primitive) (PP (IN than) (NP (NP (NNS feathers)) (VP (VBN found) (PP (IN on) (NP (NP (NNP Archaeopteryx)) (, ,) (NP (DT the) (JJS earliest) (JJ known) (NN bird))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Archaeopteryx)) (VP (VBD appeared) (ADVP (NP (QP (RB about) (CD 145) (CD million)) (NNS years)) (RB ago)) (, ,) (SBAR (IN while) (S (NP (NNP Protopteryx)) (VP (VBD was) (VP (VBN dated) (PP (IN as) (ADJP (RBR more) (JJ recent))) (, ,) (ADVP (NP (QP (RB about) (CD 120) (CD million)) (NNS years)) (RB ago))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Microraptor)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (NP (NP (RB about) (DT the) (NN size)) (PP (IN of) (NP (DT a) (NN crow))))))) (, ,)) (VP (VBD lived) (ADVP (NP (QP (RB about) (CD 125) (CD million)) (NNS years)) (RB ago))) (. .)))
+
+(S1 (SINV (S (NP (NP (DT Some) (NNS elements)) (PP (IN of) (NP (DT the) (NNP Protopteryx) (NN wing) (NN bone) (CC and) (NN muscle) (NN structure)))) (VP (VBP match) (NP (NP (DT those)) (PP (IN of) (NP (JJ modern) (NNS birds)))))) (, ,) (VP (VBD said)) (NP (NNP Zhang) (CC and) (NNP Zhou)) (, ,) (CC but) (S (NP (DT the) (NN wing)) (VP (VBZ retains) (NP (NP (DT a) (NN claw)) (VP (VBN found) (PP (IN on) (NP (DT some) (JJ primitive) (JJ birdlike) (NNS animals))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ modern) (NNS birds))) (, ,) (NP (DT that) (NN claw)) (VP (VP (VBZ has) (VP (VBN disappeared))) (CC and) (VP (VBN been) (VP (VBN replaced) (PP (IN with) (NP (NP (DT a) (NN structure)) (SBAR (WHNP (WDT that)) (S (VP (VBZ adds) (NP (NN lift)) (PP (TO to) (NP (DT the) (NN wing))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Nonetheless)) (, ,) (NP (NNP Protopteryx)) (VP (VBZ is) (VP (VBN thought) (S (VP (TO to) (VP (VB have) (VP (VBN been) (NP (DT a) (JJ competent) (NN flier)))))))) (. .)))
+
+(S1 (S (NP (JJS Most) (NN dinosaur) (NNS researchers)) (VP (VBP believe) (SBAR (S (NP (NNS birds)) (VP (VBD evolved) (PP (ADVP (NP (QP (CD 150) (TO to) (CD 180) (CD million)) (NNS years)) (RB ago)) (IN from) (NP (NP (DT a) (NN dinosaur) (NN group)) (VP (VBN called) (S (NP (NNP Theropods)))))))))) (. .)))
+
+(S1 (S (NP (NNS Researchers)) (VP (VBP cite) (NP (JJ fundamental) (NN skeleton) (NNS similarities)) (S (VP (TO to) (VP (VB support) (NP (DT the) (NN theory)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN evolution)) (PP (IN of) (NP (NNS feathers)))) (, ,) (ADVP (RB however)) (, ,) (VP (VBZ has) (VP (VBN been) (ADJP (RBR less) (JJ clear)))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS experts)) (VP (VBP believe) (SBAR (S (NP (NNS feathers)) (VP (VBD evolved) (ADVP (RB specifically)) (S (VP (TO to) (VP (VB support) (NP (NN flight))))) (, ,) (SBAR (IN while) (S (NP (NNS others)) (VP (VBP say) (SBAR (S (NP (NNS feathers)) (VP (VBD evolved) (ADVP (RB first)) (S (VP (TO to) (VP (VB provide) (NP (NP (NN warmth)) (CC or) (NP (NP (NN protection)) (PP (IN from) (NP (NN water)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Fossils)) (PP (IN of) (NP (CD three) (NNS theropods)))) (VP (VBP bear) (NP (JJ hairlike) (NNS images) (SBAR (IN that) (S (NP (DT some)) (VP (VBP say) (SBAR (S (VP (MD could) (VP (VB be) (NP (NP (DT the) (JJ early) (NNS precursors)) (PP (TO to) (NP (NNS feathers))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Feduccia)) (VP (VP (VBZ dismisses) (NP (DT the) (JJ theropod) (NN hair)) (PP (IN as) (`` ``) (NP (NN dino) (NN fuzz)) ('' '))) ('' ') (CC and) (VP (VBZ cites) (NP (DT the) (NNP Zhang) (CC and) (NNP Zhou) (NN paper)) (PP (IN as) (NP (NN proof) (SBAR (SBAR (IN that) (S (NP (NNS feathers)) (VP (VBD evolved) (PP (IN from) (NP (JJ reptilian) (NNS scales)))))) (CC and) (SBAR (IN that) (S (NP (DT this)) (VP (MD could) (VP (VB mean) (SBAR (IN that) (S (NP (NNS birds)) (VP (VBD evolved) (ADJP (JJ independent) (PP (IN of) (NP (NNS dinosaurs)))))))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (NN Bird) (NNS feathers)) (VP (VBP are) (ADJP (ADVP (RB very) (RB closely)) (VBN related) (PP (TO to) (NP (NNS scales)))))) (, ,) ('' '') (VP (VBD said)) (NP (NNP Feduccia)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (VBZ is) (ADJP (JJ clear) (SBAR (S (NP (PRP they)) (VP (VBD evolved) (PP (IN from) (NP (JJ elongated) (NNS scales)))))))) (. .)))
+
+(S1 (S (NP (NNP Dino) (NN fuzz)) (VP (VBZ has) (NP (NP (NN nothing)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (NNS feathers))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Larry) (NNP Martin)) (, ,) (NP (DT a) (NAC (NNP University) (PP (IN of) (NP (NNP Kansas)))) (NN paleontologist)) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (JJ Chinese) (NNS researchers) (POS ')) (NN paper)) (`` ``) (VP (VBZ is) (NP (DT the) (JJS strongest) (NN evidence)) (ADVP (RB yet)) (SBAR (SBAR (IN that) (S (NP (NN bird) (NNS feathers)) (VP (VBD evolved) (PP (IN for) (NP (NN flight)))))) (CC and) (SBAR (IN that) (S (NP (PRP they)) (VP (VBD were) (VP (VBN derived) (PP (IN from) (NP (NNS scales)))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Holtz)) (, ,) (ADVP (RB however)) (, ,) (VP (VBZ notes) (SBAR (IN that) (S (NP (NP (NNP Protopteryx)) (, ,) (PP (IN with) (NP (PRP$ its) (JJ primitive) (NNS feathers))) (, ,)) (VP (VBD lived) (NP (NP (NNS millions)) (PP (IN of) (NP (NP (NNS years)) (PP (IN after) (NP (NP (NNP Archaeopteryx)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (NP (NP (NNS feathers)) (ADJP (RB almost) (JJ identical) (PP (TO to) (NP (NP (DT those)) (PP (IN of) (NP (JJ modern) (NNS birds))))))))))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (DT This)) (VP (VBZ means) (SBAR (S (NP (NP (DT the) (NNS feathers)) (PP (IN on) (NP (NNP Protopteryx)))) (VP (VBD were) (ADVP (RB probably)) (NP (DT an) (JJ evolutionary) (NN reversal))))))) (, ,) ('' '') (VP (VBD said)) (NP (NNP Holtz)) (, ,) (S (VP (VBG adding) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ many) (NNS examples)) (SBAR (WHADVP (WRB where)) (S (NP (JJ such) (NNS reversals)) (VP (VBP occur) (PP (IN in) (NP (NN nature)))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (DT This)) (ADVP (RB just)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NNS feathers)) (VP (VBP are) (NP (ADJP (RB extremely) (JJ adaptable)) (NNS structures))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNP Michael) (NNP Novacek)) (, ,) (NP (NP (DT a) (NN dinosaur) (NN expert)) (PP (IN at) (NP (NP (DT the) (NNP American) (NNP Museum)) (PP (IN of) (NP (JJ Natural) (NN History))) (PP (IN in) (NP (NNP New) (NNP York)))))) (, ,)) (VP (VBZ says) (SBAR (IN that) (S (NP (DT the) (NNP Zhang) (CC and) (NNP Zhou) (NN study)) (VP (VBZ is) (ADJP (`` ``) (JJ ambiguous) ('' ')) ('' ') (PP (IN on) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NNS dinosaurs) (CC and) (NNS birds))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (DT The) (NN fact) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP see) (NP (NP (DT a) (NN resemblance)) (PP (IN between) (NP (NNS scales) (CC and) (NNS feathers)))))))) (VP (VBZ does) (RB n't) (VP (VB eliminate) (NP (NP (NNS dinosaurs)) (PP (IN as) (NP (NP (JJ close) (NNS relatives)) (PP (TO to) (NP (NNS birds))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NNP Novacek)) (. .)))
+
+(S1 (S (NP (PRP He)) (, ,) (ADVP (RB too)) (, ,) (VP (VBD said) (SBAR (IN that) (S (NP (NN evolution) (NNS reversals)) (VP (VBP are) (RB not) (ADJP (JJ rare)))))) (. .)))
+
+(S1 (S (S (NP (PRP He)) (VP (VBD said) (PRN (, ,) (PP (IN for) (NP (NN example))) (, ,)) (SBAR (IN that) (S (NP (NN whale) (NNS ancestors)) (VP (VP (VBD lived) (PP (IN on) (NP (NN land)))) (CC and) (VP (VBD had) (NP (NN fur)))))))) (, ,) (CC but) (S (NP (NN evolution)) (VP (VBD carried) (NP (DT the) (JJ huge) (NNS mammals)) (ADVP (RB back) (PP (TO to) (NP (DT the) (NN sea)))))) (. .)))
+
+(S1 (S (NP (NNP Holtz)) (VP (VBD said) (SBAR (S (NP (DT the) (NNP Zhang) (CC and) (NNP Zhou) (NN study)) (VP (VBZ is) (ADJP (JJ important)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ adds) (NP (NP (JJ new) (NN understanding)) (PP (IN about) (NP (NP (DT the) (NNP Enantiornithine)) (, ,) (NP (NP (DT a) (NN bird) (NN group)) (SBAR (WHNP (WDT that)) (S (VP (VBD dominated) (NP (NP (DT the) (JJ latter) (NN part)) (PP (IN of) (NP (NP (DT the) (NN age)) (PP (IN of) (NP (NNS dinosaurs)))))))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (DT The) (NNP Enantiornithine)) (VP (VBD got) (VP (VBN clobbered) (PP (IN in) (NP (NP (DT the) (NN extinction) (NN event) ('' ')) ('' ') (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (PRT (RP off)) (NP (DT the) (NNS dinosaurs))))))) (ADVP (NP (QP (RB about) (CD 65) (CD million)) (NNS years)) (RB ago))))) (, ,) (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (S (NP (DT This)) (VP (VBD was) (VP (VBN followed) (PP (IN by) (NP (NP (DT the) (NN dominance)) (PP (IN of) (NP (DT another) (NN bird) (NN group)))))))) (, ,) (NP (NP (DT the) (NNP Ornithurae)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB later)) (VP (VBD evolved) (PP (IN into) (NP (JJ modern) (NNS birds)))))) (, ,)) (VP (VBD said) (NP (NNP Holtz))) (. .)))
+
+(S1 (NP (NNP ___)))
+
+(S1 (PP (IN On) (NP (DT the) (NN Net)) (: :)))
+
+(S1 (NP (NP (NN Science) (NN journal)) (: :) (NP (CD http)) (: :)))
+
+(S1 (NP (NP (NNS Dinosaurs)) (: :) (NP (CD http)) (: :)))
+

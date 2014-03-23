@@ -1,0 +1,50 @@
+(S1 (NP (NP (CD APW20001220.1709.0630) (NN NEWS) (NN STORY)) (QP (CD 2000-12-20) (CD 17:44:45))))
+
+(S1 (NP (NNS Wall-Street-Stocks)))
+
+(S1 (NP (NP (NNP Big) (NNPS Movers)) (PP (IN in) (NP (DT the) (NNP Stock) (NN Market)))))
+
+(S1 (S (NP (NP (NNP NEW) (NNP YORK)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (NP (NP (NNS Stocks)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBG moving) (ADVP (RB substantially) (CC or) (NN trading)) (ADVP (RB heavily))))))) (NP (NNP Wednesday)) (PP (IN on) (NP (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)) (CC and) (NP (DT the) (NNP Nasdaq) (NNP Stock) (NN Market))))) (. .)))
+
+(S1 (NP (NNP NYSE)))
+
+(S1 (NP (NP (NNP International) (NNP Paper) (NNP Co) (. .)) (, ,) (ADVP (RB down) (NP (CD 69) (NNS cents)) (PP (IN at) (NP ($ $) (CD 38.81))))))
+
+(S1 (S (NP (NP (NNP International) (NNP Paper)) (PP (IN on) (NP (NNP Wednesday)))) (VP (VBD warned) (SBAR (IN that) (S (NP (JJ fourth-quarter) (NNS earnings)) (VP (MD will) (VP (VB fall) (ADVP (RB short) (PP (IN of) (NP (NNS expectations))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Dow) (NNP Jones)) (ADVP (JJ industrial)) (VP (VBD cited) (NP (NP (DT an) (JJ economic) (NN slowdown)) (, ,) (NP (JJ strong) (NNP U.S.) (NN dollar)) (CC and) (NP (JJ high) (NN energy) (NNS costs)))) (. .)))
+
+(S1 (NP (NP (NNP Exxon) (NNP Mobil) (NNP Corp) (. .)) (, ,) (ADVP (RB down) (NP ($ $) (CD 1.25)) (PP (IN at) (NP ($ $) (CD 85.94))))))
+
+(S1 (S (NP (NP (DT An) (NNP Alabama) (NN jury)) (PP (IN on) (NP (NNP Tuesday)))) (VP (VBD returned) (NP (NP (DT a) (ADJP (QP ($ $) (CD 3.5) (CD billion))) (NN verdict)) (PP (IN against) (NP (NNP Exxon)))) (, ,) (S (VP (VBG finding) (SBAR (S (NP (DT the) (NN oil) (NN company)) (VP (VBD defrauded) (NP (DT the) (NN state)) (PP (IN on) (NP (NP (NNS royalties)) (PP (IN from) (NP (NP (JJ natural) (NN gas) (NNS wells)) (PP (IN in) (NP (NN state) (NNS waters))))))))))))) (. .)))
+
+(S1 (NP (NP (NP (NNP Glaxo) (NNP Wellcome) (NNP PLC)) (, ,) (ADVP (RB up) (NP ($ $) (CD 1.06)) (PP (IN at) (NP ($ $) (CD 55.50)))) (, ,)) (CC and) (NP (NP (NNP SmithKline) (NNP Beecham) (NNP PLC)) (, ,) (ADVP (RB up) (NP (CD 94) (NNS cents)) (PP (IN at) (NP ($ $) (CD 62.75)))))))
+
+(S1 (S (NP (DT The) (NN drug) (NNS companies)) (VP (VBD passed) (NP (DT the) (JJ final) (JJ regulatory) (NN hurdle)) (PP (TO to) (NP (NP (PRP$ their) (ADJP (QP ($ $) (CD 72) (CD billion))) (NN merger)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB create) (NP (NP (DT the) (NN world) (POS 's)) (JJS largest) (JJ pharmaceutical) (NN company))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Britain) (POS 's)) (NNP High) (NNP Court)) (PP (IN on) (NP (NNP Wednesday))) (VP (VBD approved) (NP (PRP$ their) (NN plan) (S (VP (TO to) (VP (VB begin) (S (VP (VBG trading) (NP (NP (NNS shares)) (PP (IN in) (NP (NP (PRP$ their) (JJ combined) (NN business)) (, ,) (NP (NNP GlaxoSmithKline)))))))))))) (. .)))
+
+(S1 (NP (NNP NASDAQ)))
+
+(S1 (NP (NP (NNP Cisco) (NNPS Systems)) (, ,) (ADVP (IN down) (NP ($ $) (CD 4.38)) (PP (IN at) (NP ($ $) (CD 37.38))))))
+
+(S1 (S (NP (NP (DT An) (NN anlayst)) (PP (IN for) (NP (NNP Merrill) (NNP Lynch)))) (VP (VBD lowered) (NP (NP (PRP$ his) (JJ intermediate-term) (NN rating)) (PP (IN for) (NP (NNP Cisco)))) (PP (TO to) (NP (`` ``) (NP (VBP accumulate) (POS ')) (POS '))) (PP (IN from) (`` ``) (NP (NN buy))) (, ,) ('' '') (S (VP (VBG citing) (NP (NP (NNS concerns)) (PP (IN over) (NP (NP (DT a) (NN slowdown)) (PP (IN in) (NP (NN technology) (NN capital) (NN spending))))))))) (. .)))
+
+(S1 (NP (NP (NNP Onvia.com) (NNP Inc) (. .)) (, ,) (ADVP (RB down) (NP (CD 34) (NNS cents)) (PP (IN at) (NP ($ $) (CD 1.16))))))
+
+(S1 (S (S (VP (VBG Joining) (NP (NP (DT a) (JJ long) (NN line)) (PP (IN of) (NP (VBG floundering) (NN dot-com) (NNS companies)))))) (, ,) (NP (NNP Onvia.com)) (VP (VBD said) (NP (NNP Tuesday)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB cut) (NP (CD 180) (NNS jobs)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ lets) (S (NP (NNP Firstsource) (NNP Corp))))))))))) (. .)))
+
+(S1 (S (VP (VB take) (PRT (RP over)) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (PRP$ its) (JJ online) (NNS goods) (CC and) (NNS services))))) (. .)))
+
+(S1 (S (NP (NNP Onvia)) (VP (VBZ is) (NP (DT a) (JJ business-to-business) (NN marketplace)) (PP (IN for) (NP (NN small-business) (NNS buyers) (CC and) (NNS sellers)))) (. .)))
+
+(S1 (NP (NP (NNP Applied) (NNP Micro) (NNS Circuits) (NNP Corp) (. .)) (, ,) (ADVP (RB up) (NP (CD 88) (NNS cents)) (PP (IN at) (NP ($ $) (CD 62.44))))))
+
+(S1 (S (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (NP (NNS chips)) (VP (VBN used) (PP (IN in) (NP (JJ fiber-optic) (NNS telecommunicatons))))))) (VP (MD will) (VP (VB replace) (NP (NNP J.P.) (NNP Morgan) (CC &) (NNP Co)))) (. .)))
+
+(S1 (FRAG (PP (IN in) (NP (NP (DT the) (NNP Standard) (CC &) (NNP Poor) (POS 's)) (CD 500) (NN Index)) (PP (IN after) (NP (NP (DT the) (NN close)) (PP (IN of) (NP (NP (NN trading)) (PP (IN on) (NP (NNP Dec)))))))) (. .)))
+
+(S1 (FRAG (NP (CD 29)) (. .)))
+
+(S1 (S (NP (NP (NNP Chase) (NNP Manhattan) (NNP Corp) (. .)) (, ,) (ADJP (NP (DT a) (NNP Dow) (NNP Jones)) (JJ industrial)) (, ,)) (VP (VBZ is) (VP (VBG buying) (NP (NNP J.P.) (NNP Morgan)) (NP (RB later) (DT this) (NN month)))) (. .)))
+

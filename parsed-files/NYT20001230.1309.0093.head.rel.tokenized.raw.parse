@@ -1,0 +1,60 @@
+(S1 (NP (NP (CD NYT20001230.1309.0093) (NN NEWS) (NN STORY)) (JJ 2000-12-30) (CD 14:23:00)))
+
+(S1 (NP (NP (CD A5284) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP a) (NNP BC-SEATTLE-ELEPHANT-NYT) (NN &LR)) (: ;) (NP (QP (CD 12-30) (CD 0473))))))
+
+(S1 (NP (NNP BC-SEATTLE-ELEPHANT-NYT)))
+
+(S1 (S (NP (JJ RARE) (NN BABY) (NN ELEPHANT)) (VP (VBZ DELIGHTS) (NP (NNP SEATTLE)))))
+
+(S1 (NP (NP (NP (NN &UR)) (: ;) (NP (NNP By) (NNP SAM) (NNP HOWE) (NNP VERHOVEK) (NNP &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR))) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NNP SEATTLE)) (VP (VBD _) (NP (NP (NP (DT The) (NNS answers)) (PP (TO to) (NP (NP (DT the) (CD three) (ADJP (RBS most) (RB commonly) (VBN asked)) (NNS questions)) (PP (IN at) (NP (NP (DT the) (NNP Woodland) (NNP Park) (NN Zoo)) (PP (IN in) (NP (NNP Seattle))) (SBAR (S (NP (DT these) (NNS days)) (VP (VBP are))))))))) (: :) (NP (NP (CD one)) (, ,) (NP (NP (NP (CD 235) (NNS pounds)) (: ;) (NP (NP (CD two) (, ,) (CD 22) (NNS months)) (PRN (-LRB- -LRB-) (NP (NP (DT the) (JJS longest) (NN pregnancy)) (PP (IN of) (NP (NP (DT any) (NN mammal)) (PP (IN in) (NP (DT the) (NN world)))))) (-RRB- -RRB-)))) (: ;) (NP (CD three))) (, ,))) (NP (JJ natural) (NN insemination)) (, ,) (SBAR (IN after) (S (NP (PRP$ her) (JJ 8,800-pound) (NN mother)) (VP (VBD was) (VP (VBN transported) (NP (NP (CD 2,000) (NNS miles)) (PP (IN for) (NP (NP (DT a) (NN tryst)) (PP (IN in) (NP (NNP Missouri))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS questions) (NN concern)) (NP (NP (DT a) (NN baby) (NNP Asian) (NN elephant)) (, ,) (NP (DT the) (JJ first) (CD one))) (VP (VBN born) (PP (IN at) (NP (NP (DT the) (NN zoo)) (PP (IN in) (NP (PRP$ its) (JJ 100-year) (NN history)))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ 8-week-old) (NN elephant)) (VP (VBZ has) (ADVP (RB quickly)) (VP (VBN become) (NP (DT a) (JJ local) (NN sensation))))) (, ,) (CC and) (S (NP (PRP$ her) (NN presence)) (VP (VBZ has) (VP (VP (VBN doubled) (NP (DT the) (JJ normal) (NN attendance) (NNS figures))) (CC and) (VP (VBN inspired) (S (NP (DT some) (NNS visitors)) (VP (TO to) (VP (VB wait) (ADVP (ADVP (RB as) (RB long)) (SBAR (IN as) (S (NP (CD two) (NNS hours)) (VP (VBD _) (INTJ (UH yes)) (, ,) (PP (ADVP (RB often)) (IN in) (NP (DT the) (NN rain))) (PP (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (NP (NN year)) (VP (VBN _) (S (VP (TO to) (VP (VB look) (PP (IN at) (NP (PRP her)))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (CD three) (NNS questions)) (VP (VBP are)) (: :) (SBARQ (WHADVP (WRB How) (RB much)) (SQ (VBD did) (NP (PRP she)) (VP (VB weigh) (PP (IN at) (NP (NN birth))))) (. ?))))
+
+(S1 (SBARQ (WHADVP (WRB How) (RB long)) (SQ (VBD was) (NP (PRP she)) (VP (PP (IN in) (NP (RB there))))) (. ?)))
+
+(S1 (SBARQ (WHADVP (WRB How)) (SQ (VBD was) (NP (PRP she)) (VP (VBN conceived))) (. ?)))
+
+(S1 (S (NP (NP (DT The) (NN answer)) (PP (TO to) (NP (DT the) (JJ last) (NN question)))) (VP (VBZ is) (PP (IN of) (NP (NP (JJ particular) (NN interest)) (PP (TO to) (NP (NP (NN elephant) (NNS experts)) (PP (IN around) (NP (DT the) (NN world))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP consider) (NP (NP (DT any) (JJ successful) (NN experiment)) (PP (IN in) (NP (VBG breeding)))) (NP (DT an) (JJ important) (NN victory)) (SBAR (IN because) (S (NP (NNS elephants)) (VP (VBP are) (ADJP (VBN endangered)) (PRN (, ,) (ADVP (RB especially)) (NP (NP (DT the) (JJ Asian) (NNS species)) (, ,) (SBAR (WHNP (WP$ whose) (NNS numbers)) (S (VP (VBP have) (VP (VBN declined) (ADVP (RB steadily)) (PP (TO to) (NP (QP (RB about) (CD 40,000)))) (PP (IN in) (NP (DT the) (JJ wild)))))))))))))))))))) (. .)))
+
+(S1 (SINV (S (NP (NP (DT The) (NN baby) (NN elephant)) (PP (IN in) (NP (NNP Seattle)))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (CD three) (JJ Asian) (NNS elephants)) (VP (VBN born) (PP (IN in) (NP (NP (NNP North) (NNP American) (NNS zoos)) (NP (DT this) (NN year))))) (, ,) (SBAR (WHNP (CD one) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBD died) (PP (ADVP (RB shortly)) (IN after) (NP (NN birth))))))))))) (, ,) (VP (VBD said)) (NP (NP (NNP Mike) (NNP Keele)) (, ,) (NP (NP (DT the) (NN coordinator)) (PP (IN for) (NP (NP (DT the) (NN elephant) (NNS species) (NN survival) (NN program)) (PP (IN of) (NP (JJ American) (NN Zoo) (CC and) (NN Aquarium) (NN Association))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Keele)) (, ,) (NP (NP (DT an) (JJ assistant) (NN director)) (PP (IN at) (NP (DT the) (NNP Oregon) (NN Zoo))) (PP (IN in) (NP (NNP Portland)))) (, ,)) (VP (VBD said) (SBAR (IN that) (S (NP (JJ artificial) (NN insemination)) (VP (VBD had) (VP (VBN worked) (PP (IN in) (NP (NP (RB only) (DT a) (NN handful)) (PP (IN of) (NP (NNS cases))) (NP (NNP worldwide))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (NNP Seattle) (NN zoo))) (, ,) (NP (NNS efforts) (S (VP (TO to) (VP (ADVP (RB artificially)) (VB inseminate) (NP (DT a) (JJ 21-year-old) (NNP Asian) (NN elephant)))))) (VP (VBD failed) (S (VP (TO to) (VP (VB produce) (NP (DT a) (NN pregnancy)) (PP (IN after) (NP (CD six) (NNS years))))))) (. .)))
+
+(S1 (S (RB So) (PP (IN in) (NP (NNP September) (CD 1998))) (, ,) (NP (DT the) (NN zoo)) (VP (VP (VBD loaded) (NP (NP (DT the) (NN elephant)) (, ,) (SBAR (WHNP (WP$ whose) (NN name)) (S (VP (VBZ is) (NP (NNP Chai))))) (, ,)) (PP (IN on) (NP (DT a) (JJ flatbed) (NN truck)))) (CC and) (VP (VBD sent) (NP (PRP her)) (PP (TO to) (NP (NP (DT the) (NNP Dickerson) (NNP Park) (NN Zoo)) (PP (IN in) (NP (NP (NNP Springfield)) (, ,) (NP (NNP Mo)))))))) (. .)))
+
+(S1 (S (NP (EX There)) (, ,) (NP (NNP Chai)) (VP (VBD met) (PRT (RP up)) (PP (IN with) (NP (NP (NNP Onyx)) (, ,) (NP (DT an) (JJ 11,000-pound) (NN sire))))) (. .)))
+
+(S1 (S (NP (JJ Female) (NNS elephants)) (VP (VP (VB ovulate) (ADVP (RB once)) (NP (DT every) (CD 16) (NNS weeks))) (CC and) (VP (ADVP (RB then)) (VB have) (NP (RB only) (RB about) (DT a) (JJ 24-hour) (NN window) (S (VP (TO to) (VP (VB become) (ADJP (JJ pregnant)))))))) (. .)))
+
+(S1 (S (SBAR (IN After) (S (NP (DT the) (JJ first) (NN attempt)) (VP (VBD failed)))) (, ,) (NP (NN zoo) (NNS officials)) (VP (VBD said) (SBAR (S (NP (NNP Chai)) (VP (VP (VBD appeared) (S (VP (TO to) (VP (VB enter) (PP (IN into) (NP (NP (DT a) (NN funk)) (PP (IN in) (NP (PRP$ her) (JJ unfamiliar) (NNS surroundings))))))))) (CC and) (VP (VBD lost) (NP (QP (RB about) (CD 1,000)) (NNS pounds))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN in) (NP (DT the) (JJ second) (NN cycle))) (, ,) (PP (IN in) (NP (NNP January) (CD 1999))) (, ,) (NP (PRP she)) (VP (VP (VBD became) (ADJP (JJ pregnant))) (CC and) (ADVP (RB quickly)) (VP (VBD regained) (NP (DT the) (NN weight)))) (. .)))
+
+(S1 (S (NP (DT The) (JJ 22-month-long) (NN gestation)) (VP (VBD ended) (PP (IN at) (NP (CD 4:48) (RB a.m)))) (. .)))
+
+(S1 (FRAG (PP (IN on) (NP (NNP Nov))) (. .)))
+
+(S1 (FRAG (NP (CD 3)) (. .)))
+
+(S1 (S (NP (DT The) (NN birth)) (VP (VBD was) (VP (VBN captured) (PP (IN on) (NP (NP (DT a) (NN video)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ available)) (PP (IN at) (NP (NP (DT the) (NNP Seattle) (NN zoo) (POS 's)) (NNP Web) (NN site))) (, ,) (NP (NN www.zoo.org))))))))) (. .)))
+
+(S1 (S (NP (DT Another) (JJ frequent) (NN question)) (VP (VBZ is) (NP (NP (DT this)) (: :) (SQ (VBZ Does) (NP (DT the) (NN baby)) (VP (VB have) (NP (DT a) (NN name)))))) (. ?)))
+
+(S1 (FRAG (ADVP (RB Not) (RB yet)) (. .)))
+
+(S1 (S (S (NP (DT The) (NN zoo)) (VP (VBZ plans) (S (VP (TO to) (VP (VB have) (NP (DT a) (NN contest) (S (VP (TO to) (VP (VB name) (NP (DT the) (NN baby)) (PP (VBG beginning) (PP (IN in) (NP (NNP February))))))))))))) (, ,) (NP (NP (NNP David) (NNP L.) (NNP Towne)) (, ,) (NP (NP (NP (NN president)) (CC and) (NP (NN director))) (PP (IN of) (NP (DT the) (NN zoo)))) (, ,)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN person)) (SBAR (WHNP (WP who)) (S (VP (VBZ submits) (NP (NP (DT the) (VBG winning) (NN name)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP Towne)) (VP (VBD said) (SBAR (MD should) (S (VP (VBP evoke) (NP (NP (DT the) (NN elephant) (POS 's)) (JJ Asian) (NN heritage)))))))) (, ,)))))) (VP (MD will) (VP (VB receive) (NP (NP (DT a) (NN trip)) (PP (IN for) (NP (CD two))) (PP (TO to) (NP (NP (NNP Thailand)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP Chai)) (VP (VBZ is) (NP (IN from)))))))))) (. .)))
+
+(S1 (NP (CD NYT-12-30-00) (NN 1423EST)))
+

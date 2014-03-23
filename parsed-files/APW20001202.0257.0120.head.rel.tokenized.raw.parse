@@ -1,0 +1,42 @@
+(S1 (NP (NP (CD APW20001202.0257.0120) (NN NEWS) (NN STORY)) (QP (CD 2000-12-02) (CD 03:26:26))))
+
+(S1 (NP (NN FBC-Arizona-St-Coach)))
+
+(S1 (S (NP (NNP Koetter)) (VP (VBZ Accepts) (NP (NNP ASU) (NN Coaching) (NNP Job)))))
+
+(S1 (S (NP (NP (NNP PHOENIX) (PRN (-LRB- -LRB-) (NNP AP) (-RRB- -RRB-)) (NNP _) (NNP Boise) (NNP State) (NN coach) (NNP Dirk) (NNP Koetter)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (NP (RB just) (DT a) (NN day)) (RBR earlier)) (VP (VBD was) (ADVP (RB reportedly)) (VP (VBN headed) (PP (IN for) (NP (NNP Oklahoma) (NNP State))))))) (, ,)) (VP (VBZ has) (VP (VBN agreed) (PP (TO to) (NP (DT a) (NN contract))) (S (VP (TO to) (VP (VB coach) (NP (NNP Arizona) (NNP State))))))) (. .)))
+
+(S1 (S (NP (NNP Oklahoma) (NNP State) (JJ athletic) (NN director) (NNP Terry) (NNP Don) (NNP Phillips)) (VP (VBD confirmed) (NP (NP (NNP Koetter) (POS 's)) (NN decision)) (PP (IN in) (NP (NP (DT a) (NN news) (NN release)) (VP (VBN issued) (NP (NNP Friday) (NN night)))))) (. .)))
+
+(S1 (S (`` ``) (NP (NNP Coach) (NNP Koetter)) (VP (VBD informed) (NP (PRP me)) (PP (IN at) (NP (QP (RB approximately) (CD 7)) (NN p.m)))) (. .)))
+
+(S1 (S (S (-LRB- -LRB-) (NP (NNP CST)) (-RRB- -RRB-) (VP (NN tonight) (SBAR (IN that) (S (NP (PRP he)) (VP (VP (VBD had) (VP (VBN been) (VP (VBN tendered) (NP (NP (DT an) (NN offer)) (PP (IN from) (NP (NNP Arizona) (NNP State) (NNP University))))))) (CC and) (VP (VBD had) (VP (VBN accepted)))))))) (, ,) ('' '') (NP (NNP Phillips)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNP Koetter)) (, ,) (NP (CD 41)) (, ,)) (VP (VBZ replaces) (NP (NP (NNP Bruce) (NNP Snyder)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN fired) (PP (IN after) (NP (CD nine) (NNS seasons))))))))) (. .)))
+
+(S1 (S (NP (NNP Snyder)) (VP (MD will) (VP (VB coach) (NP (NP (NNP Arizona) (NNP State)) (PP (IN in) (NP (DT a) (NN bowl) (NN game))) (, ,) (ADJP (RBS most) (JJ likely))) (NP (DT the) (NNP Las) (NNP Vegas) (NNP Bowl)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Daily) (NNP Oklahoman)) (CC and) (NP (NP (JJ several) (NN TV) (CC and) (NN radio) (NNS stations)) (PP (IN in) (NP (NNP Oklahoma))))) (VP (VBD had) (VP (VBN reported) (NP (NNP Thursday) (CC and) (NNP Friday)) (SBAR (IN that) (S (NP (NNP Koetter)) (VP (VBD had) (VP (VBN accepted) (NP (DT the) (NNP Oklahoma) (NNP State) (NN job)))))))) (. .)))
+
+(S1 (S (CC But) (S (NP (NNP Phillips)) (ADVP (RB never)) (VP (VBD confirmed) (NP (DT those) (NNS reports)))) (, ,) (CC and) (S (NP (NNP Koetter)) (VP (MD would) (RB not) (VP (VB comment) (PP (IN on) (NP (NP (DT any) (NN job) (NNS possibilities)) (PP (IN at) (NP (NP (NP (NNP Boise) (NNP State) (POS 's)) (NN practice)) (NP (NNP Friday))))))))) (. .)))
+
+(S1 (S (NP (NNP Koetter)) (VP (VBD said) (ADVP (RBR earlier) (PP (IN in) (NP (DT the) (NN week)))) (SBAR (S (NP (PRP he)) (VP (VBD had) (VP (VBN interviewed) (PP (PP (IN with) (NP (NNP Phillips))) (CC and) (PP (IN with) (NP (NNP Arizona) (NNP State) (JJ athletic) (NN director) (NNP Gene) (NNP Smith))))))))) (. .)))
+
+(S1 (S (NP (NNP Koetter)) (VP (VBZ is) (VP (VBN considered) (S (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN country) (POS 's)) (JJ top) (JJ young) (NN coaching) (NNS prospects))))))) (. .)))
+
+(S1 (S (S (VP (VBG Using) (NP (DT an) (JJ innovative) (, ,) (JJ wide-open) (NN offense)))) (, ,) (NP (PRP he)) (VP (VBD guided) (NP (NNP Boise) (NNP State)) (PP (TO to) (NP (NP (DT a) (JJ 25-10) (NN record)) (PP (IN in) (NP (CD three) (NNS seasons)))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (JJ first) (NN team)) (VP (VBD went) (NP (CD 6-5)) (, ,) (S (VP (VBN followed) (PP (IN by) (NP (NP (NP (JJ last) (NN year) (POS 's)) (JJ 10-3) (NN record)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD included) (NP (NP (DT a) (JJ 34-31) (NN victory)) (PP (IN over) (NP (NNP Louisville)))) (PP (IN in) (NP (DT the) (JJ Humanitarian) (NNP Bowl))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT This) (NN year) (POS 's)) (NN team)) (VP (VBZ is) (ADJP (JJ 9-2)) (, ,) (PP (IN with) (NP (NP (PRP$ its) (JJ only) (NNS losses)) (NP (NP (NP (CD 38-31)) (PP (IN at) (NP (NNP Arkansas)))) (CC and) (NP (NP (CD 42-25)) (PP (IN at) (NP (NNP Washington) (NNP State)))))))) (. .)))
+
+(S1 (S (NP (NNP Koetter)) (VP (MD may) (RB not) (VP (VB have) (VP (VBN been) (NP (NP (NNP Arizona) (NNP State) (POS 's)) (JJ top) (NN choice))))) (. .)))
+
+(S1 (S (NP (NNP Phoenix) (NN radio) (NN station) (NNP KMVP)) (VP (VBD reported) (NP (NNP Friday)) (SBAR (IN that) (S (NP (NNP Smith)) (VP (VBD had) (ADVP (RB quietly)) (VP (VBN been) (VP (VBG working) (PP (IN on) (NP (NP (DT a) (NN deal)) (PP (IN with) (NP (NNP TCU) (NN coach) (NNP Dennis) (NNP Franchione))) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB have) (VP (VBN matched) (NP (NP (DT the) (NN one)) (VP (VBN offered) (PP (IN by) (NP (NNP Alabama)))))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Franchione)) (ADVP (RB apparently)) (VP (MD could) (RB n't) (VP (VB resist) (NP (NP (DT the) (NN lure)) (PP (IN of) (NP (NP (CD one)) (PP (IN of) (NP (NP (NN college) (NN football) (POS 's)) (JJS most) (JJ storied) (NNS programs)))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (JJ recent) (NN speculation)))) (VP (VBD centered) (PP (IN on) (NP (NNP Koetter)))))) (, ,) (NP (EX there)) (VP (VBD was) (NP (NP (NN pressure)) (PP (IN from) (NP (DT some) (NNP Arizona) (NNP State) (NNS boosters))) (S (VP (TO to) (VP (VB hire) (NP (NP (NNP Danny) (NNP White)) (, ,) (NP (NP (DT the) (JJ former) (NNP Arizona) (NNP State) (CC and) (NNP Dallas) (NNPS Cowboys) (NN quarterback)) (SBAR (WHNP (WP who)) (S (NP (NNS coaches)) (NP (NP (DT the) (NNP Arizona) (NNPS Rattlers)) (PP (IN of) (NP (DT the) (NN Arena) (NNP Football) (NNP League))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Snyder)) (VP (VBD was) (VP (VBN fired) (SBAR (IN after) (S (NP (PRP$ his) (NNS teams)) (VP (VP (VBD went) (NP (JJ 6-6) (JJ last) (NN year))) (CC and) (VP (VBD 6-5) (NP (DT this) (NN season)))))))) (. .)))
+

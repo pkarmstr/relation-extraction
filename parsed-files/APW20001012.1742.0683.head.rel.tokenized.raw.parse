@@ -1,0 +1,10 @@
+(S1 (NP (NP (CD APW20001012.1742.0683) (NN NEWS) (NN STORY)) (QP (CD 2000-10-12) (CD 17:59:47))))
+
+(S1 (NP (NN US-Mideast)))
+
+(S1 (S (NP (NNP Clinton)) (VP (VBZ Urges) (NP (JJ Mideast) (NN Cease-Fire)))))
+
+(S1 (S (NP (NNP WASHINGTON) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-)) (NNP _) (NNP President) (NNP Clinton)) (VP (VP (VBD urged) (NP (NNPS Israelis) (CC and) (NNPS Palestinians)) (S (VP (TO to) (VP (VB undertake) (NP (NP (DT an) (JJ immediate) (NN cease-fire)) (PP (IN after) (NP (NP (DT a) (JJ new) (NN outbreak)) (PP (IN of) (NP (JJ bloodshed)))))))))) (CC and) (VP (VBD called) (PP (IN on) (NP (DT both) (NNS sides))) (S (VP (TO to) (VP (VB condemn) (NP (NP (DT all) (NNS acts)) (PP (IN of) (NP (NN violence))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (RB Now)) (VP (VBZ is) (NP (NP (DT the) (NN time)) (SBAR (S (VP (VP (TO to) (VP (VB stop) (NP (DT the) (JJ bloodshed)))) (, ,) (VP (TO to) (VP (VB restore) (ADJP (JJ calm)))) (, ,) (VP (TO to) (VP (VB return) (PP (TO to) (NP (NN dialogue))))) (CC and) (VP (ADVP (RB ultimately)) (PP (TO to) (NP (DT the) (NN peace) (NN process)))))))))) (, ,) ('' '') (NP (DT the) (NN president)) (VP (VBD said) (NP (NNP Thursday) (NN afternoon)) (PP (IN in) (NP (DT the) (NNP White) (NNP House))) (NP (NNP Rose) (NNP Garden))) (. .)))
+

@@ -1,0 +1,52 @@
+(S1 (NP (NP (CD NYT20001210.2233.0155) (NN NEWS) (NN STORY)) (JJ 2000-12-10) (CD 22:38:00)))
+
+(S1 (NP (NP (CD A5816) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP a) (NNP BC-OBIT-GRESSER-NYT) (NN &LR)) (: ;) (NP (QP (CD 12-10) (CD 0288))))))
+
+(S1 (NP (NNP BC-OBIT-GRESSER-NYT)))
+
+(S1 (NP (NP (NNP GISELA) (NNP KAHN) (NNP GRESSER)) (, ,) (NP (CD 94)) (, ,) (NP (JJ NATIONAL) (NN CHESS) (NN CHAMPION))))
+
+(S1 (NP (NP (NP (NNP &UR) (PRN (: ;) (-LRB- -LRB-) (NP (NP (NNP ATTN)) (: :) (NP (NNP Mich)) (. .)) (-RRB- -RRB-)) (NN &LR)) (: ;) (NP (CD &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NNP By) (NNP EUN) (NNP LEE) (NNP KOH) (NN &LR)) (: ;) (NP (CD &QC)) (: ;) (NP (CD &QL)) (: ;) (NP (NN &UR))) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NP (NNP Gisela) (NNP Kahn) (NNP Gresser)) (, ,) (NP (NP (NP (DT a) (NN pioneer)) (PP (IN in) (NP (NP (NNS women) (POS 's)) (NN chess)))) (CC and) (NP (DT a) (JJ nine-time) (JJ national) (NN champion))) (, ,)) (VP (VBD died) (NP (NNP Dec))) (. .)))
+
+(S1 (NP (NP (CD 4)) (PP (IN in) (NP (PRP$ her) (NNP New) (NNP York) (NN home))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBD was) (NP (CD 94))) (. .)))
+
+(S1 (S (NP (NP (NNP Gresser)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN born) (PP (IN in) (NP (CD 1906))) (PP (IN in) (NP (NNP Detroit))))))) (, ,)) (VP (VBD taught) (NP (PRP herself)) (S (VP (TO to) (VP (VB play) (NP (NP (NN chess)) (VP (VBG using) (NP (NP (DT a) (NN book)) (SBAR (WHNP (WDT that)) (S (NP (DT a) (NN fellow) (NN passenger)) (VP (VBD gave) (NP (PRP her)) (PP (IN on) (NP (NP (DT a) (NN cruise)) (PP (IN in) (NP (CD 1939))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBD was) (PP (IN at) (NP (NP (DT the) (NN forefront)) (PP (IN of) (NP (NP (NP (NNS women) (POS 's)) (NN chess)) (PP (IN in) (NP (NP (DT the) (NNP United) (NNPS States)) (PP (IN for) (NP (QP (JJR more) (IN than) (CD three)) (NNS decades)))))))))) (. .)))
+
+(S1 (S (NP (NP (PRP She)) (CC and) (NP (NP (DT a) (NN handful)) (PP (IN of) (NP (NP (JJ other) (NNS women)) (, ,) (PP (VBG including) (NP (NP (NNP Sonja) (NNP Graf) (NNP Stevenson)) (, ,) (NP (NNP Mary) (NNP Bain)) (CC and) (NP (NNP Mona) (NNP May) (NNP Karff)))) (, ,))))) (VP (VBD dominated) (NP (NP (NN tournament) (NN competition)) (PP (PP (IN from) (NP (DT the) (CD 1940s))) (PP (TO to) (NP (DT the) (NNS 1970s)))))) (. .)))
+
+(S1 (S (NP (NNP Gresser)) (VP (VBD entered) (NP (PRP$ her) (JJ first) (NN chess) (NN competition)) (PP (IN in) (NP (CD 1940)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1944))) (, ,) (NP (PRP she)) (VP (VBD won) (NP (PRP$ her) (JJ first) (NP (NNP U.S.) (NNP Women) (POS 's)) (NN Chess) (NN Championship))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBD went) (PRT (RP on)) (S (VP (TO to) (VP (VB win) (NP (DT the) (NN championship)) (UCP (NP (CD eight) (JJR more) (NNS times)) (, ,) (CC and) (VP (VBD became) (S (NP (NP (DT the) (JJ first) (NN woman)) (PP (IN in) (NP (DT the) (NNP United) (NNPS States)))) (VP (TO to) (VP (VB earn) (NP (NP (DT a) (NN master) (POS 's)) (NN rating))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1950))) (, ,) (NP (PRP she)) (VP (VBD was) (ADVP (RB also)) (VP (VBN awarded) (NP (DT an) (JJ international) (NN woman) (NN master) (NN title)))) (. .)))
+
+(S1 (S (PP (IN Throughout) (NP (PRP$ her) (NN career))) (, ,) (NP (NNP Gresser)) (VP (VBD represented) (NP (NP (DT the) (NNP United) (NNPS States)) (PP (IN in) (NP (JJ several) (JJ international) (NNS events))))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBD played) (PP (IN in) (NP (NP (CD five) (NP (NNS Women) (POS 's)) (NNS Candidates) (NNS tournaments)) (CC and) (NP (NP (CD three) (NNS Women) (POS 's)) (NN Chess) (NNS Olympiads))))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBD was) (ADVP (RB also)) (NP (NP (NNP Women) (POS 's)) (NNP World) (NN Chess) (NNP Championship) (NNP challenger)) (PP (IN in) (NP (CD 1949) (CC and) (CD 1950)))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBD retired) (PP (IN from) (NP (JJ professional) (NN chess))) (PP (IN at) (NP (CD 82)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1992))) (NP (PRP she)) (VP (VBD became) (NP (NP (DT the) (JJ first) (NN woman)) (VP (VBN inducted) (PP (IN into) (NP (NP (DT the) (NNP U.S.) (NN Chess) (NN Hall)) (PP (IN of) (NP (NNP Fame)))))))) (. .)))
+
+(S1 (S (NP (NNP Gresser)) (VP (VP (VBD studied) (NP (NP (NNS classics)) (PP (IN as) (NP (DT an) (NN undergraduate)))) (PP (IN at) (NP (NNP Radcliffe) (NNP College)))) (CC and) (VP (VBD won) (NP (DT a) (NNP fellowship)) (PP (IN for) (NP (NP (JJ classical) (NNS studies)) (PP (IN at) (NP (NP (DT the) (NNP American) (NNP School)) (PP (IN of) (NP (JJ Classical) (NNPS Studies))) (PP (IN in) (NP (NNP Athens) (, ,) (NNP Greece))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1927))) (NP (PRP she)) (VP (VBD married) (NP (NP (NNP William) (NNP Gresser)) (, ,) (NP (NP (DT a) (NNP New) (NNP York) (NN lawyer)) (CC and) (NP (NN musicologist))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD died) (PP (IN in) (NP (CD 1992)))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBZ is) (VP (VBN survived) (PP (IN by) (NP (NP (CD two) (NNS sons)) (, ,) (NP (NP (NNP Ion) (CC and) (NNP Julian)) (, ,) (CC and) (NP (NP (DT a) (NN brother)) (, ,) (NP (NNP Julius) (NNP Kahn) (NNP Jr)))))))) (. .)))
+
+(S1 (NP (CD NYT-12-10-00) (NN 2238EST)))
+

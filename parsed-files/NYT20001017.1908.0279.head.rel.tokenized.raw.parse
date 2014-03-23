@@ -1,0 +1,44 @@
+(S1 (NP (NP (CD NYT20001017.1908.0279) (NN NEWS) (NN STORY)) (JJ 2000-10-17) (CD 19:56:20)))
+
+(S1 (NP (NP (CD A7744) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP f) (NNP BC-DEL-BUSINESS-TAX-NYT) (NN &LR)) (: ;) (NP (QP (CD 10-17) (CD 0462))))))
+
+(S1 (NP (NNP BC-DEL-BUSINESS-TAX-NYT)))
+
+(S1 (S (VP (VB JUDGE) (NP (NP (NNS RULES)) (PP (IN AGAINST) (NP (NN COMPANY)))) (PP (IN IN) (NP (NN TAX) (NN SCHEME) (NN CASE))))))
+
+(S1 (NP (NP (NP (NN &UR)) (: ;) (NP (NNP By) (NNP DAVID) (NNP CAY) (NNP JOHNSTON) (NNP &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR))) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NP (DT A) (JJ federal) (NN judge)) (PP (IN in) (NP (NNP Delaware)))) (, ,) (PP (IN in) (NP (NP (DT a) (NN decision)) (VP (VBN made) (S (ADJP (JJ public) (PP (IN on) (NP (NNP Tuesday)))))))) (, ,) (VP (VBD held) (SBAR (IN that) (S (NP (NP (CD one) (NN company) (POS 's)) (JJ corporate) (NN tax) (NN shelter)) (VP (VP (VBD was) (NP (DT a) (NN sham))) (CC and) (VP (VBD noted) (SBAR (IN that) (S (NP (CD 85) (JJ other) (JJ large) (NNS corporations)) (VP (VBD used) (NP (DT the) (JJ same) (NN deduction)) (S (VP (TO to) (VP (VB avoid) (S (VP (VBG paying) (NP (NP (QP ($ $) (CD 6) (CD billion))) (PP (IN in) (NP (JJ corporate) (NN income) (NNS taxes))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP U.S.) (NNP District) (NNP Court)) (NP (NNP Judge) (NNP Murray) (NNP Schwartz))) (PP (IN in) (NP (NP (NNP Wilmington)) (, ,) (NP (NNP Del.)) (, ,)))) (VP (VBD ruled) (SBAR (IN that) (S (NP (NNP Camelot) (NNP Music)) (VP (MD could) (RB not) (VP (VB deduct) (NP (NP (NN interest)) (PP (IN on) (NP (NP (NNS loans)) (SBAR (S (NP (PRP it)) (VP (VBD took) (PRT (RP out)) (PP (IN against) (NP (NP (NN life) (NN insurance)) (PP (IN on) (NP (PRP$ its) (CD 1,430) (NNS employees))))) (PP (IN in) (NP (CD 1990))))))))) (PP (IN through) (NP (CD 1993)))))))) (. .)))
+
+(S1 (S (NP (NNP Camelot) (NNP Music)) (VP (VBZ is) (VP (VBN owned) (PP (IN by) (NP (NP (NNP Trans) (NNP World) (NNP Entertainment)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD bought) (NP (DT the) (NN company)) (NP (JJ last) (NN year)) (PP (IN for) (NP (QP ($ $) (CD 451.9) (CD million))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN decision)) (VP (MD could) (VP (VB affect) (NP (NP (JJ many)) (PP (IN of) (NP (DT the) (JJ other) (CD 85) (NNS companies))) (, ,) (SBAR (WHNP (WDT which)) (S (NP (DT the) (NN judge)) (VP (VBD did) (RB not) (VP (VB identify) (PP (IN by) (NP (NN name))) (, ,) (SBAR (IN because) (S (NP (PRP$ his) (NN ruling)) (VP (VBZ applies) (PP (TO to) (NP (NP (DT every) (NN company)) (VP (VBN organized) (PP (IN in) (NP (NP (NNP Delaware)) (, ,) (SBAR (WHNP (WP$ whose) (JJ corporate-governance) (NNS laws)) (S (VP (VBP have) (VP (VBN made) (NP (PRP it)) (NP (NP (DT a) (JJ major) (NN center)) (PP (IN for) (NP (JJ large) (NNS companies)))))))))) (S (VP (TO to) (VP (VB have) (NP (PRP$ their) (JJ nominal) (NN headquarters)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP American) (NNP Electric) (NNP Power)) (, ,) (NP (NP (DT an) (JJ electric) (NN utility)) (PP (IN in) (NP (NP (NNP Columbus)) (, ,) (NP (NNP Ohio))))) (, ,)) (VP (VBZ has) (NP (NP (DT a) (NN case)) (VP (VBG involving) (NP (NP (ADJP (RB almost) (JJ identical)) (NNS issues)) (VP (VBN scheduled) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (NP (NN trial)) (PP (IN in) (NP (CD two) (NNS weeks))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Pat) (NNP D.) (NNP Hemlepp)) (, ,) (NP (NP (DT a) (NN spokesman)) (PP (IN for) (NP (DT the) (NN company)))) (, ,)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (QP ($ $) (CD 240) (CD million))) (PP (IN in) (NP (NNS taxes)))) (VP (VBD were) (PP (IN at) (NP (NN issue))))))) (. .)))
+
+(S1 (S (NP (NNP Camelot)) (VP (VBD took) (PRT (RP out)) (NP (NN life) (NN insurance)) (PP (IN from) (S (NP (DT the) (NNP Hartford) (NNP Group)) (VP (VBG beginning) (PP (IN in) (NP (CD 1990))) (PP (IN on) (NP (PRP$ its) (CD 1,430) (NNS workers))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD paid) (PP (IN for) (NP (DT the) (NN insurance))) (, ,) (S (VP (VBG taking) (NP (DT a) (NN deduction)) (PP (IN for) (NP (DT this) (NN expense))) (, ,) (CC and) (ADVP (RB then)) (VP (VBN borrowed) (PRT (RP back)) (NP (DT the) (NN premium)) (PP (IN through) (NP (NP (DT a) (NN loan)) (PP (IN against) (NP (DT the) (NN insurance) (NN policy))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (PRP$ its) (JJ corporate) (NN income) (NN tax) (NNS returns))) (NP (DT the) (NN company)) (VP (VBD took) (NP (NP (QP ($ $) (CD 13.8) (CD million))) (PP (IN of) (NP (NP (NNS deductions)) (PP (IN in) (NP (CD 1990)))))) (PP (IN through) (NP (NP (CD 1993) (NN tax) (NNS returns)) (PP (IN for) (NP (NP (NN interest)) (SBAR (S (NP (PRP it)) (VP (VBD paid) (PP (IN on) (NP (DT the) (NNS loans))))))))))) (. .)))
+
+(S1 (S (NP (NNP Schwartz)) (VP (VBD said) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (DT no) (VP (VB build) (PRT (RP up)) (PP (IN in) (NP (NP (DT the) (NN cash) (NN value)) (PP (IN of) (NP (DT the) (NN insurance) (NNS policies)))))) (CC and) (VP (PP (IN because) (IN of) (NP (NP (DT the) (NN way)) (SBAR (S (NP (DT the) (NNS loans)) (VP (VBD were) (VP (VBN structured) (ADVP (RB there)))))))) (VBD was) (NP (DT no) (JJ reasonable) (NN prospect) (SBAR (IN that) (S (NP (DT the) (NN company)) (VP (MD would) (VP (VB profit) (PP (IN from) (S (VP (VBG buying) (NP (DT the) (NN insurance))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD called) (S (NP (DT the) (NN arrangement)) (NP (`` ``) (NP (DT a) (JJ factual) (NN sham) ('' ')) ('' ') (SBAR (WHNP (WDT that)) (`` ``) (S (VP (VBD lacked) (NP (NP (JJ objective) (JJ economic) (NN substance)) (CC and) (NP (NP (DT a) (JJ subjective) (NN business) (NN purpose)) (ADJP (JJ other) (PP (IN than) (NP (NP (DT the) (NN tax) (NNS benefits)) (VP (VBG flowing) (PP (IN from) (NP (DT the) (NN interest) (NNS deductions))))))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (DT The) (NN judge)) (VP (VBD said) (SBAR (S (NP (DT the) (NN deal)) (VP (`` ``) (VBD crossed) (NP (DT the) (NN line) ('' ')) ('' ') (PP (IN on) (NP (NP (JJ permissible) (NNS deductions)) (PP (IN by) (NP (PDT such) (DT a) (JJ wide) (NN margin))))) (SBAR (IN that) (S (NP (DT the) (NNP Internal) (NNP Revenue) (NNP Service)) (VP (VBD was) (ADJP (JJ right) (S (VP (TO to) (VP (VB impose) (NP (NP (NNS penalties)) (PP (IN for) (S (VP (VBG filing) (PRT (RP in)) (NP (DT an) (JJ inaccurate) (NN tax) (NN return))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP John) (NNP Sullivan)) (, ,) (NP (NP (NNP Trans) (NNP World) (NNP Entertainment) (POS 's)) (JJ chief) (JJ financial) (NN officer)) (, ,)) (VP (VBD said) (SBAR (IN that) (S (SBAR (IN if) (S (NP (DT the) (NN decision)) (VP (VBD stood)))) (NP (PRP it)) (VP (MD would) (VP (VB cost) (NP (DT the) (NN company)) (NP (NP (QP (RB about) ($ $) (CD 8) (CD million))) (PP (CC plus) (NP (NN interest))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ surprised) (PP (IN by) (NP (DT the) (NN ruling)))))) (, ,) ('' '') (NP (NNP Sullivan)) (VP (VBD said) (, ,) (S (VP (VBG adding) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD expected) (SBAR (S (NP (DT the) (NN company)) (VP (MD would) (VP (VB appeal) (NP (DT the) (NN decision)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Camelot) (NNP Music) (CC and) (NNP American) (NNP Electric) (NNP Power) (NNS cases)) (VP (VBP are) (NP (NP (ADJP (JJ similar) (PP (TO to) (NP (DT the) (JJ corporate-owned) (NN life) (NN insurance) (NN policy)))) (NN tax) (NN shelter)) (PP (IN of) (NP (NP (NNP Winn-Dixie) (NNPS Stores)) (, ,) (NP (DT a) (JJ big) (NN supermarket) (NN chain))))) (, ,) (SBAR (IN that) (S (NP (DT a) (NN tax) (NN court) (NN judge)) (VP (VBD demolished) (NP (JJ last) (NN year)) (PP (IN in) (NP (DT an) (JJ 81-page) (NN opinion))))))) (. .)))
+
+(S1 (NP (QP (CD NYT-10-17-00) (CD 1956EDT))))
+

@@ -1,0 +1,20 @@
+(S1 (NP (NP (CD APW20001221.1133.0465) (NN NEWS) (NN STORY)) (JJ 2000-12-21) (CD 13:35:02)))
+
+(S1 (NP (NN Economy)))
+
+(S1 (FRAG (NP (NNP U.S)) (. .)))
+
+(S1 (S (NP (JJ Economic) (NN Growth)) (VP (VBZ Slows) (ADVP (RB Sharply)))))
+
+(S1 (S (S (NP (NP (NNP WASHINGTON)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (DT The) (NNP U.S.) (NN economy)) (VP (VBD slowed) (ADVP (RB sharply)) (PP (TO to) (NP (NP (DT an) (JJ annual) (NN growth) (NN rate)) (PP (IN of) (NP (NP (RB just) (CD 2.2) (NN percent)) (PP (IN in) (NP (DT the) (NN summer))))))) (, ,) (NP (NP (DT the) (JJS weakest) (NN performance)) (PP (IN in) (NP (CD four) (NNS years))))))))) (, ,) (NP (DT the) (NN government)) (VP (VBD said) (NP (NNP Thursday))) (. .)))
+
+(S1 (S (NP (DT The) (NN report)) (VP (VBZ provides) (NP (JJ further) (NN evidence) (SBAR (IN that) (S (NP (NP (NNP America) (POS 's)) (NN boom) (NNS times)) (VP (VBP are) (ADVP (RB definitely)) (ADJP (JJ over))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Commerce) (NNP Department)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (JJ third) (NN quarter) (NN increase)) (PP (IN in) (NP (DT the) (JJ gross) (JJ domestic) (NN product)))) (VP (VBD _) (SBAR (S (NP (NP (NP (DT the) (NN economy) (POS 's)) (JJ total) (NN output)) (PP (IN of) (NP (NNS goods) (CC and) (NNS services)))) (ADVP (RB _)) (VP (VBD was) (ADJP (ADJP (RB even) (JJR weaker)) (SBAR (IN than) (S (ADVP (RB previously)) (VP (VBN believed) (SBAR (IN as) (S (NP (DT the) (NN trade) (NN deficit)) (VP (VBD deteriorated) (ADVP (RBR further)))))))))))))))) (. .)))
+
+(S1 (S (ADVP (NP (DT A) (NN month)) (RB ago)) (, ,) (NP (JJ third) (NN quarter)) (NP (NNP GDP)) (VP (VBD was) (VP (VBN estimated) (S (VP (TO to) (VP (VB have) (VP (VBN risen) (PP (IN by) (NP (CD 2.4) (NN percent))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP July-September) (NN performance)) (VP (VBD marked) (NP (DT a) (JJ dramatic) (NN slowdown)) (PP (IN from) (NP (NP (DT a) (JJ sizzling) (ADJP (CD 5.6) (NN percent)) (NNP GDP) (NN growth) (NN rate)) (PP (IN in) (NP (DT the) (JJ April-June) (NN quarter)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ sharp) (NN falloff)) (PP (IN in) (NP (NP (NP (JJ economic) (NN growth)) (PP (IN in) (NP (DT the) (NN summer)))) (CC and) (NP (NP (VBG mounting) (NN evidence)) (PP (IN of) (NP (RBR more) (JJ recent) (NN weakness)))))) (, ,) (PP (VBG including) (NP (JJ disappointing) (NNP Christmas) (NNS sales))) (, ,)) (VP (VBP have) (VP (VBN increased) (NP (NP (NNS worries)) (PP (IN about) (SBAR (IN whether) (S (NP (NP (NNP America) (POS 's)) (JJ record) (JJ 10-year) (JJ economic) (NN expansion)) (VP (VBD was) (PP (IN in) (NP (NP (NN danger)) (PP (IN of) (S (VP (VBG toppling) (PP (IN into) (NP (DT a) (NN recession))))))))))))))) (. .)))
+

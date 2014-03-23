@@ -1,0 +1,50 @@
+(S1 (NP (NP (CD APW20001211.0507.0196) (NN NEWS) (NN STORY)) (QP (CD 2000-12-11) (CD 05:16:27))))
+
+(S1 (NP (NN CAR-Obit-Parkhurst)))
+
+(S1 (S (NP (NNP Cycle) (NNP World) (NNP Magazine) (NNP Publisher)) (VP (VBZ Dies))))
+
+(S1 (NP (NP (NNP COSTA) (NNP MESA)) (, ,) (NP (NNP Calif)) (. .)))
+
+(S1 (S (NP (NP (PRN (-LRB- -LRB-) (NNP AP) (-RRB- -RRB-)) (NNP _) (NNP Joseph) (NNP Conrad) (NNP Parkhurst)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD founded) (NP (DT the) (NN motorcycle) (NN magazine) (NNP Cycle) (NNP World)) (PP (IN in) (NP (CD 1962)))))) (, ,)) (VP (VBZ has) (VP (VBN died))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD was) (NP (CD 74))) (. .)))
+
+(S1 (S (S (NP (NNP Parkhurst)) (VP (VP (VBD had) (NP (NN lung) (NN cancer))) (CC and) (VP (VBD died) (NP (NNP Tuesday)) (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (DT a) (NN blood) (NN clot))))) (PP (IN in) (NP (NP (PRP$ his) (NN lung)) (, ,) (NP (PRP$ his) (NN wife))))))) (NP (NNP Claire) (NNP Parkhurst)) (VP (VBD told) (NP (NP (DT the) (NNP Los) (NNP Angeles) (NNP Times)) (PP (IN for) (NP (NNP Sunday) (NNS editions))))) (. .)))
+
+(S1 (S (NP (NNP Cycle) (NNP World)) (VP (VP (VBD brought) (NP (JJ objective) (NN journalism)) (PP (TO to) (NP (NN motorcycle) (NNS periodicals))) (PP (IN by) (S (VP (VBG offering) (NP (NP (NN road) (NNS tests)) (CC and) (NP (NP (DT a) (ADJP (RBR more) (JJ critical)) (NN eye)) (PP (IN than) (NP (JJ other) (NN fan) (JJ -oriented) (NNS magazines))))))))) (, ,) (VP (VBD said) (NP (NP (NN analyst) (NNP Don) (NNP Brown)) (PP (IN of) (NP (NP (NNP DJB) (NNPS Associates) (NNP LLC)) (PP (IN of) (NP (NNP Irvine)))))))) (. .)))
+
+(S1 (S (S (PP (IN In) (NP (PRP$ its) (JJ first) (NN year))) (, ,) (NP (NNP Cycle) (NNP World)) (VP (VP (VBD became) (ADJP (JJ _))) (CC and) (VP (VBZ remains) (VP (VBN _) (NP (NP (DT the) (JJS largest) (NN motorcycle) (NN magazine)) (PP (IN in) (NP (DT the) (NN world)))))))) (, ,) (NP (NNP Brown) (CC and) (NNS others)) (VP (VBD said)) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (VBZ boasts) (NP (NP (DT a) (JJ monthly) (NN circulation)) (PP (IN of) (NP (CD 315,000)))))) (CC and) (S (NP (PRP$ its) (JJS closest) (NN rival)) (VP (VBZ is) (NP (DT the) (JJ German) (NN magazine) (NNP Das) (NNP Motorrad)))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (NNP Joe)) (VP (VBD was) (NP (NP (DT a) (JJ true) (NN pioneer)) (PP (IN in) (NP (PRP$ our) (NN business)))))) (, ,) ('' '') (VP (VBD said)) (NP (JJ current) (NNP Cycle) (NNP World) (NN publisher) (NNP Larry) (NNP Little)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (VBD was) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN breaking)) (PP (IN of) (NP (NP (DT a) (JJ good) (JJ old) (NN boy) (NN network)) (PP (IN of) (NP (JJ American) (NNS motorcycles))))))))) (. .)))
+
+(S1 (S (NP (NNP Joe)) (VP (VBD did) (RB not) (VP (VB shun) (NP (DT the) (JJ Japanese) (NNS makers)))) (. .) ('' '')))
+
+(S1 (S (VP (VBN Born) (PP (IN in) (NP (NP (NNP Jonesboro)) (, ,) (NP (NNP Ark) (. .)) (, ,))) (PP (IN on) (NP (NNP Oct)))) (. .)))
+
+(S1 (S (NP (CD 20) (, ,) (CD 1926) (, ,) (NNP Parkhurst)) (VP (VBD moved) (PP (IN with) (NP (PRP$ his) (NN family))) (PP (TO to) (NP (NNP California)))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD served) (PP (IN in) (NP (CD 1954-56))) (PP (IN as) (NP (NP (DT a) (NN clerk)) (PP (IN in) (NP (DT an) (NNP Army) (NNPS Reserves) (NN office)))))) (, ,) (RB then) (VP (VBD took) (NP (DT a) (NN job)) (PP (IN as) (NP (NP (NN art) (NN director)) (PP (IN of) (NP (NP (NNP Road) (CC &) (NNP Track) (NN magazine)) (PP (IN in) (NP (NNP Newport) (NNP Beach))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB later)) (VP (VP (VBD quit) (S (VP (TO to) (VP (VB spend) (NP (DT a) (NN year)) (S (VP (VBG traveling) (PP (IN in) (NP (NNP Europe))))))))) (CC and) (VP (VBD returned) (S (VP (TO to) (VP (VB become) (NP (NP (NN art) (NN director)) (PP (IN of) (S (VP (VBG Carting) (NP (NP (NNP World)) (, ,) (NP (DT a) (JJ go-cart) (NN magazine)) (, ,)) (PP (IN in) (NP (CD 1960)))))))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (VP (VBG working)))) (, ,) (NP (NNP Parkhurst)) (VP (VBD began) (S (VP (VBG dreaming) (PP (IN of) (NP (NNP Cycle) (NNP World)))))) (. .)))
+
+(S1 (SINV (S (NP (PRP He)) (VP (VBD thought) (SBAR (IN that) (S (NP (NP (NNP Road) (CC &) (NNP Track) (POS 's)) (NN consumer) (NN approach)) (VP (MD could) (VP (VB serve) (NP (NNS motorcyclists)))))))) (, ,) (VP (VBD said)) (NP (NP (NNP Joe) (NNP Rusz)) (, ,) (NP (NP (DT a) (JJ senior) (NN editor)) (PP (IN at) (NP (NNP Road) (CC &) (NNP Track))))) (. .)))
+
+(S1 (S (S (NP (NNP Parkhurst)) (ADVP (RB also)) (VP (VP (VBD loved) (S (VP (VBG riding) (NP (NNS motorcycles))))) (CC and) (ADVP (RB once)) (VP (VBD told) (NP (DT a) (NN friend)) (SBAR (IN that) (S (NP (PRP he)) (`` ``) (VP (MD could) (ADVP (RB never)) (VP (VB find) (S (NP (NN something)) (ADJP (JJ worthwhile) (S (VP (TO to) (VP (VB read) (PP (IN about) (NP (PRP them))))))))))))))) (, ,) ('' '') (NP (NNP Little)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNP Parkhurst)) (ADVP (RB later)) (VP (VBD merged) (PP (IN with) (NP (NP (DT another) (NN company)) (SBAR (WHNP (WDT that)) (S (VP (VBD owned) (NP (NNP Road) (CC &) (NNP Track))))))) (S (VP (TO to) (VP (VB become) (NP (NNP Bond) (NNP Publishing)))))) (. .)))
+
+(S1 (SINV (S (NP (PRP He)) (VP (VBD sold) (NP (DT both) (NNS magazines)) (PP (IN in) (NP (DT the) (JJ early) (CD 1970s))))) (, ,) (VP (VBD said)) (NP (NP (PRP$ his) (NN wife)) (PP (IN of) (NP (CD 22) (NNS years)))) (. .)))
+
+(S1 (S (PP (IN Since) (NP (CD 1979))) (, ,) (NP (PRP he)) (VP (VBZ has) (VP (VP (VBN written)) (CC and) (VP (VBN published) (NP (NP (DT the) (NNP Motorcycle) (NNP Business) (NNP Newsletter)) (, ,) (NP (NP (DT a) (NN biweekly)) (PP (IN for) (NP (NN industry) (NNS insiders)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN addition)) (PP (TO to) (NP (PRP$ his) (NN wife))))) (, ,) (NP (NNP Parkhurst)) (VP (VBZ is) (VP (VBN survived) (PP (IN by) (NP (NP (DT a) (NN brother)) (, ,) (NP (NP (NNP John) (NNP Parkhurst)) (PP (IN of) (NP (NNP Hemet)))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN memorial)) (VP (VBZ is) (VP (VBN planned) (PP (IN for) (NP (NNP January))))) (. .)))
+

@@ -1,0 +1,64 @@
+(S1 (NP (NP (CD NYT20001019.2136.0319) (NN NEWS) (NN STORY)) (JJ 2000-10-19) (CD 21:50:10)))
+
+(S1 (NP (NP (CD A0185) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NN p)) (NP (CD BC-BUSH-LETTERMAN-NYT) (NNS &LR))) (: ;) (QP (CD 10-19) (CD 0410))))
+
+(S1 (NP (NNP BC-BUSH-LETTERMAN-NYT)))
+
+(S1 (NP (NP (DT ALL) (VBG JOKING) (RP ASIDE)) (, ,) (SBAR (S (NP (NNP BUSH)) (VP (VBZ FACES) (NP (NNP LETTERMAN)))))))
+
+(S1 (NP (NP (NN &UR)) (: ;) (NP (NP (NNP By) (NNP ALISON) (NNP MITCHELL) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (PRP It)) (VP (VBD started) (PP (IN like) (NP (NP (DT a) (JJ normal) (NN night)) (PP (IN on) (NP (DT the) (`` ``) (JJ Late) (NNP Show))))) (PP (IN with) (NP (NNP David) (NNP Letterman)))) (. .) ('' '')))
+
+(S1 (S (VP (VBG Expecting) (NP (NNP Gov))) (. .)))
+
+(S1 (S (NP (NNP George) (NNP W.) (NNP Bush)) (PP (IN as) (NP (PRP$ his) (NN guest))) (, ,) (NP (NNP Letterman)) (VP (VBD quizzed) (NP (NP (DT an) (NN audience) (NN member)) (PP (IN about) (NP (NNP Texas))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD showed) (NP (NP (NN footage)) (PP (IN of) (NP (NP (DT the) (NN governor)) (VP (VBG emerging) (PP (IN from) (NP (DT a) (JJ black) (NN car)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD brought) (PRT (RP up)) (NP (NP (NP (NNP Bush) (POS 's)) (JJ open) (NNP mike) (JJ faux) (NNS pas)) (PP (IN about) (NP (DT a) (NN reporter))))) (. .)))
+
+(S1 (S (CC But) (SBAR (ADVP (RB quickly)) (IN after) (S (NP (DT that) (NNP Letterman)) (VP (VBD had) (NP (NP (DT a) (NN surprise)) (PP (PP (IN for) (NP (NP (NN anyone)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBG expecting) (NP (NP (DT a) (JJ normal) (NN night)) (PP (IN of) (NP (NN comedy) (NNS _)))))))))) (CC and) (PP (IN from) (NP (NP (DT the) (NN look)) (PP (IN of) (NP (PRP it)))))))))) (, ,) (NP (NNP Bush)) (VP (VBD was) (ADVP (RB also)) (ADJP (VBN surprised))) (. .)))
+
+(S1 (S (NP (DT The) (NN host)) (VP (JJ grilled) (NP (DT the) (JJ Republican) (JJ presidential) (NN candidate)) (PP (IN on) (NP (DT the) (NN death) (NN penalty))) (, ,) (NP (NP (DT the) (NN bombing)) (PP (IN of) (NP (NP (NP (DT a) (NNP Navy) (NN ship)) (PP (IN in) (NP (NNP Yemen)))) (, ,) (NP (NP (NN violence)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East)))) (CC and) (NP (NN pollution)))) (PP (IN in) (NP (NNP Texas))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB hardly)) (VP (VBD seemed) (S (VP (TO to) (VP (VB be) (VP (VBG joking) (, ,) (SBAR (RB even) (IN though) (S (NP (PRP he)) (VP (VBD punctured) (NP (NP (PRP$ his) (NNS questions)) (PP (IN with) (NP (PRP$ his) (NN trademark) (NN laugh)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Bush)) (VP (VBD did) (VP (VB get) (PP (IN in) (NP (DT some) (JJ good) (NNS lines))))) (. .)))
+
+(S1 (S (S (VP (VBN Asked) (SBAR (IN whether) (S (NP (PRP he)) (VP (VBD thought) (SBAR (S (NP (PRP he)) (VP (VBD had) (VP (VBN done) (ADVP (RB well)) (PP (IN in) (NP (DT the) (NN debate)))))))))))) (, ,) (NP (PRP he)) (VP (VBD said) (, ,) (`` ``) (S (NP (NP (RB well) (DT a) (NN lot)) (PP (IN of) (NP (NNS folks)))) (VP (VBP do) (RB n't) (VP (VB think) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (NN string) (NP (DT a) (NN sentence)) (ADVP (RB together)) (SBAR (IN so) (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ able) (S (VP (TO to) (VP (VB do) (ADVP (RB so))))))))) (, ,) (NP (DT the) (NNS expectations)) (VP (VBD were) (ADJP (ADJP (RB so) (JJ low)) (SBAR (IN that) (S (NP (DT all) (PRP I)) (VP (VBD had) (S (VP (TO to) (VP (VB do) (SBAR (S (VP (VBD was) (VP (VB say) (, ,) (`` `) (S (INTJ (UH Hi)) (, ,) (NP (PRP I)) (VP (VBP 'm) (NP (NNP George) (NNP W.) (NNP Bush)))))))))))))))))))))))))) (. .) ('' '')))
+
+(S1 (S (CC But) (ADVP (RB soon)) (NP (NNP Letterman)) (VP (VBD was) (VP (VBG bearing) (PRT (RP in)) (PP (IN on) (NP (DT the) (NN death) (NN penalty))) (, ,) (S (VP (VBG saying) (`` ``) (S (NP (PRP we)) (VP (VBP make) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS jokes)) (PP (IN about) (S (NP (PRP you)) (VP (VP (VBG electrocuting) (NP (NNS people)) (PP (IN in) (NP (NP (NNP Texas) (POS ')) (POS ')))) (CC and) (VP (VBG asking) (SBAR (IN whether) (S (NP (EX there)) (VP (VBD was) (NP (NP (DT some) (NN circumstance)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB change) (NP (NP (NP (NNP Bush) (POS 's)) (NN position)) (PP (IN on) (NP (JJ capital) (NN punishment))))))))))))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (RB Well) (SBAR (ADVP (RB obviously)) (IN if) (S (NP (DT the) (NN system)) (VP (VBD were) (ADJP (JJ unfair))))) (, ,) (NP (PRP I)) (VP (MD 'd) (VP (VB think) (PP (IN about) (NP (PRP it)))))) ('' ') ('' ') (NP (NNP Bush)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ serious) (NN business)))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP hope) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP 're) (RB not) (VP (VBG laughing) (PP (IN at) (NP (NP (DT the) (NN expense)) (PP (IN of) (NP (NP (NNS victims)) (CC or) (NP (NP (JJ other) (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBN put) (PP (TO to) (NP (NP (NN death)) (PP (IN of) (NP (NN course))))))))))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Letterman)) (VP (VBD pressed) (, ,) (`` ``) (S (NP (NP (NN Nothing)) (SBAR (S (NP (PRP you)) (VP (MD can) (VP (VB imagine)))))) (VP (MD would) (VP (VB cause) (NP (NP (DT a) (NN change)) (PP (IN of) (NP (NN heart)))) (ADVP (RB here)))))) (. ?) ('' '')))
+
+(S1 (S (NP (NNP Bush)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD might) (VP (VB change) (NP (PRP$ his) (NN mind)) (SBAR (IN if) (S (NP (PRP he)) (VP (VBD did) (RB not) (VP (VB think) (SBAR (IN that) (S (NP (NNS executions)) (VP (VBD saved) (NP (NNS lives)))))))))))))) (. .)))
+
+(S1 (FRAG (`` ``) (CC Or) (SBAR (ADVP (RB perhaps)) (IN if) (S (NP (NN someone)) (VP (VBD were) (ADVP (RB wrongly)) (VP (VBN executed))))) (. ?) ('' '')))
+
+(S1 (S (NP (NNP Letterman)) (VP (VBD said)) (. .)))
+
+(S1 (SINV (`` ``) (FRAG (INTJ (UH Well)) (, ,) (ADVP (RB definitely)) (PP (IN on) (NP (NP (DT that)) (PP (IN of) (NP (NN course)))))) (, ,) ('' '') (VP (VBD allowed)) (NP (DT the) (NN governor)) (. .)))
+
+(S1 (S (ADVP (RB Soon)) (NP (DT the) (CD two)) (VP (VBD were) (VP (VBG debating) (NP (NP (NP (NNP Bush) (POS 's)) (NN plan)) (PP (IN for) (NP (NN oil) (NN drilling)))) (PP (IN in) (NP (DT a) (NN nature))) (S (VP (VP (VB preserve) (PP (IN in) (NP (NNP Alaska)))) (CC and) (VP (VB smog) (PP (IN in) (NP (NNP Texas)))))))) (. .)))
+
+(S1 (S (`` ``) (S (VP (VBP Do) (SBAR (RB n't) (S (NP (PRP you)) (VP (VBP have) (NP (JJ bad) (NN air) (NN pollution)) (PRT (RP down)) (PP (IN in) (NP (NNP Texas)))))))) (, ,) ('' '') (NP (DT the) (NN host)) (VP (VBD wondered)) (. .)))
+
+(S1 (S (NP (NNP Bush)) (VP (VP (VBD said) (`` ``) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (RBR better))))) ('' ')) ('' ') (CC and) (VP (VBD noted) (`` ``) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS cars)))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (DT A) (NN taping)) (PP (IN of) (NP (DT a) (`` ``) (NX (NP (NNP Saturday) (NNP Night)) (NNP Live) (POS ')) ('' '))) (S (VP (TO to) (VP (VB be) (VP (VBN shown) (NP (NP (DT the) (NN weekend)) (PP (IN before) (NP (NNP Election) (NNP Day))))))))) (VP (VBD went) (ADVP (ADVP (RBR more)) (SBAR (IN as) (S (VP (VBN planned)))))) (. .)))
+
+(S1 (S (CC But) (NP (EX there)) (VP (VBD had) (S (VP (TO to) (VP (VB be) (NP (JJ several) (NNS retakes)) (SBAR (IN because) (S (NP (NP (NNP Bush)) (, ,) (RRC (ADVP (RB usually)) (NP (DT a) (JJ chronic) (NN word) (NN mangler))) (, ,)) (VP (MD could) (RB not) (VP (VB produce) (NP (NP (DT the) (NN effect)) (PP (IN on) (NP (NN command)))))))))))) (. .)))
+
+(S1 (S (S (VP (VBN Told) (S (VP (TO to) (VP (VB mispronounce) (NP (NP (DT the) (NN word)) (`` ``) (ADJP (JJ ambivalent)) ('' ')) ('' ') (PP (IN for) (NP (JJ comic) (NN effect)))))))) (, ,) (NP (PRP he)) (VP (VBD kept) (S (VP (VBG pronouncing) (NP (PRP it)) (ADVP (RB correctly))))) (. .)))
+
+(S1 (NP (QP (CD NYT-10-19-00) (CD 2150EDT))))
+

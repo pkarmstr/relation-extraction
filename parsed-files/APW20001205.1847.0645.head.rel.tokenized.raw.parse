@@ -1,0 +1,72 @@
+(S1 (NP (NP (CD APW20001205.1847.0645) (NN NEWS) (NN STORY)) (QP (CD 2000-12-05) (CD 19:32:18))))
+
+(S1 (NP (NN Chile-Pinochet)))
+
+(S1 (NP (NNP Court) (NNS Blocks) (NNP Pinochet) (NNP House) (NN Arrest)))
+
+(S1 (S (NP (NP (NNP SANTIAGO) (, ,) (NNP Chile)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (NP (DT A) (NN court)) (PP (IN of) (NP (NP (NNS appeals)) (PP (IN on) (NP (NNP Tuesday)))))) (VP (VBD suspended) (NP (NNP Gen)))))) (. .)))
+
+(S1 (S (NP (NNP Augusto) (NNP Pinochet)) (VP (VBZ 's) (NP (NN house) (NN arrest)) (SBAR (IN while) (S (NP (PRP it)) (VP (VBD studied) (NP (NP (NP (DT a) (NN judge) (POS 's)) (NN explanation)) (PP (IN for) (S (VP (VBG indicting) (NP (NP (DT the) (JJ former) (NN dictator)) (PP (IN on) (NP (NP (NN homicide)) (CC and) (NP (NN kidnapping) (NNS charges))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (NP (JJ angry) (NNS supporters)) (PP (IN of) (NP (NNP Pinochet)))) (VP (VBD intensified) (NP (PRP$ their) (NN campaign) (S (VP (TO to) (VP (VB have) (S (NP (NP (NNP Judge) (NNP Juan) (NNP Guzman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD issued) (NP (DT the) (NN indictment)) (NP (NNP Friday))))) (, ,)) (VP (VBN removed) (PP (IN from) (NP (DT the) (NN case)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN court)) (PP (IN of) (NP (NNS appeals) (NN panel)))) (VP (VBD voted) (NP (CD 3-0)) (S (VP (TO to) (VP (VB suspend) (NP (NP (NNP Guzman) (POS 's)) (NN arrest) (NN order)) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ decides) (SBAR (IN whether) (S (VP (TO to) (VP (VB uphold) (CC or) (VB repeal) (NP (NP (PRP$ his) (NN indictment)) (PP (IN of) (NP (DT the) (JJ 85-year-old) (NN general))))))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Guzman)) (VP (VBD submitted) (NP (PRP$ his) (NN explanation)) (NP (NNP Tuesday)))) (, ,) (CC but) (S (NP (PRP$ its) (NNS contents)) (VP (VBD were) (ADJP (JJ unknown)))) (. .)))
+
+(S1 (S (NP (DT The) (NN court)) (VP (VBZ is) (S (VP (TO to) (VP (VB reconvene) (NP (NNP Wednesday) (CC or) (NNP Thursday)) (S (VP (TO to) (VP (VB hear) (NP (NNS arguments)) (PP (IN from) (NP (NP (NNS lawyers)) (PP (IN on) (NP (DT both) (NNS sides)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN court) (NN panel)) (ADVP (RB also)) (VP (VBD blocked) (NP (NP (NNS actions)) (VP (VBN related) (PP (TO to) (NP (DT the) (NN indictment)))) (, ,) (PP (VBG including) (NP (NP (DT a) (NN prohibition)) (PP (IN on) (NP (NNP Pinochet))) (VP (VBG traveling) (ADVP (RB abroad))))))) (. .)))
+
+(S1 (S (NP (NNP Pinochet)) (, ,) (ADVP (RB meanwhile)) (, ,) (VP (VBD remained) (PP (IN at) (NP (PRP$ his) (NN country) (NN house))) (NP (NP (JJS southwest)) (PP (IN of) (NP (NNP Santiago))))) (. .)))
+
+(S1 (S (NP (JJ Minor) (NNS scuffles)) (VP (VBD broke) (PP (IN among) (NP (NP (NP (NNP Pinochet) (POS 's)) (NNS supporters) (CC and) (NNS opponents)) (PP (IN outside) (NP (DT the) (NN court) (NN building))))) (PP (IN during) (NP (DT the) (JJ 90-minute) (NN session)))) (. .)))
+
+(S1 (S (NP (NNS Police)) (VP (VBN separated) (NP (PRP them))) (. .)))
+
+(S1 (S (NP (NNP Guzman)) (VP (VBD indicted) (NP (NNP Pinochet)) (, ,) (S (VP (VBG holding) (S (NP (PRP him)) (ADJP (JJ responsible) (PP (IN for) (NP (NP (DT the) (NNS actions)) (PP (IN by) (NP (NP (DT the) (`` ``) (NNP Caravan)) (PP (IN of) (NP (NP (NNP Death)) (, ,) ('' '') (NP (NP (DT a) (NN military) (NN party)) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 73) (JJ political) (NNS prisoners)) (PP (ADVP (RB shortly)) (IN after) (NP (NP (DT the) (CD 1973) (NN coup)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NNP Pinochet)) (VP (VBD ousted) (NP (JJ Marxist) (NNP President) (NNP Salvador) (NNP Allende)))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Pinochet)) (VP (VBD was) (VP (VBN charged) (PP (IN with) (NP (NP (NP (NN homicide)) (PP (IN for) (NP (NP (CD 55) (NNS victims)) (SBAR (WHNP (WP$ whose) (NNS bodies)) (S (VP (VBD were) (VP (VBN recovered)))))))) (CC and) (NP (NP (NN kidnapping)) (PP (IN for) (NP (CD 18))) (SBAR (WHNP (WP who)) (S (VP (VBP remain) (ADJP (JJ unaccounted) (PRT (IN for))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (JJ Right-wing) (NNS members)) (PP (IN of) (NP (NNP congress)))) (, ,) (NP (NN defense) (NNS lawyers)) (, ,) (NP (VBN retired) (NN army) (NNS generals)) (CC and) (NP (NP (JJ other) (NNS backers)) (PP (IN of) (NP (NNP Pinochet))))) (VP (VBP want) (S (NP (NNP Guzman)) (VP (VBN ousted) (PP (IN from) (NP (DT the) (NN case))) (, ,) (S (VP (VBG claiming) (SBAR (S (NP (PRP he)) (VP (VBZ has) (VP (VBN acted) (PP (IN in) (NP (NP (DT an) (ADJP (JJ arbitrary) (CC and) (JJ irregular)) (NN manner)) (SBAR (WHNP (WDT that)) (S (VP (VBZ violates) (NP (NP (NNP Pinochet) (POS 's)) (NNS rights)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Ambrosio) (NNP Rodriguez)) (, ,) (NP (NP (DT a) (JJ key) (NN member)) (PP (IN of) (NP (NP (NNP Pinochet) (POS 's)) (JJ legal) (NN team)))) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (NNS complaints)) (PP (IN against) (NP (NNP Guzman)))) (VP (MD will) (VP (VB be) (VP (VBN brought) (PP (TO to) (NP (DT the) (NNP Supreme) (NNP Court))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Guzman) (POS 's)) (NNS actions)) (VP (VBP are) (`` ``) (VP (VBG denigrating) (PP (IN for) (NP (DT the) (NNS courts)))))) (, ,) ('' '') (NP (NP (DT an) (NN association)) (PP (IN of) (NP (VBN retired) (NN army) (NNS generals)))) (VP (VBD said)) (. .)))
+
+(S1 (S (CC And) (NP (NP (JJ right-wing) (NNPS Congressmen)) (NX (NX (NNP Ivan) (NNP Moreira)) (CC and) (NX (NNP Cristian) (NNP Leay)))) (VP (VBD said) (SBAR (S (NP (NNP Guzman)) (VP (MD should) (`` ``) (ADVP (RB immediately)) (VP (VB be) (VP (VBN removed))) ('' ') ('' ') (PP (IN from) (NP (DT the) (NN case))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (VBN increased) (NN criticism)) (PP (IN of) (NP (NNP Guzman)))) (VP (VBD came) (SBAR (IN as) (S (NP (DT the) (NN court)) (VP (VBD reviewed) (NP (NP (PRP$ his) (NNS reasons)) (PP (IN for) (S (VP (VBG indicting) (NP (NNP Pinochet)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN day)) (ADVP (RB before))) (, ,) (PP (IN amid) (NP (NP (NNS indications)) (PP (IN of) (NP (NN discontent))))) (PP (IN in) (NP (NP (DT the) (NN military)) (PP (IN over) (NP (DT the) (NN indictment))))) (, ,) (NP (DT the) (NN court)) (VP (VBD had) (VP (VBN given) (NP (DT the) (NN judge)) (NP (NP (DT a) (JJ 24-hour) (NN deadline)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB so))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ main) (NN complaint)) (PP (IN against) (NP (NNP Guzman)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD indicted) (NP (NNP Pinochet)) (PP (IN before) (S (VP (VBG questioning) (NP (PRP him))))) (, ,) (SBAR (IN as) (S (VP (VBZ is) (VP (VBN mandated) (PP (IN by) (NP (NN law))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN judge) (POS 's)) (NN indictment)) (VP (VBD said) (SBAR (S (NP (NNP Pinochet)) (VP (VBD answered) (NP (NP (CD two) (VBN written) (NNS questionnaires)) (VP (VBN sent) (PP (TO to) (NP (PRP him))))) (SBAR (IN while) (S (NP (PRP he)) (VP (VBD was) (PP (IN under) (NP (NN house) (NN arrest))) (PP (IN in) (NP (NNP London))) (PP (IN until) (NP (JJ last) (NNP March)))))))))) (. .)))
+
+(S1 (S (NP (NNP Guzman)) (VP (VBD said) (SBAR (S (NP (DT those) (VBN written) (NNS questionnaires)) (VP (MD must) (VP (VB be) (VP (VBN considered) (S (NP (DT the) (JJ mandatory) (NN interrogation))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Pinochet) (POS 's)) (NN defense)) (VP (VBZ rejects) (NP (DT that) (NN argument))) (. .)))
+
+(S1 (S (NP (DT The) (NN defense)) (ADVP (RB also)) (VP (VBD protested) (SBAR (IN that) (S (NP (NNP Guzman)) (VP (VBD indicted) (NP (NNP Pinochet)) (PP (IN without) (S (VP (ADVP (RB first)) (VBG permitting) (NP (NP (DT the) (ADJP (JJ mental) (CC and) (JJ neurological)) (NNS tests)) (SBAR (S (NP (PRP he)) (VP (VBD had) (VP (VBN ordered) (NP (NNP Pinochet)) (S (VP (TO to) (VP (VB undergo) (S (VP (TO to) (VP (VB determine) (NP (PRP$ his) (NN fitness) (S (VP (TO to) (VP (VB stand) (NP (NN trial)))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN judge)) (VP (VBD insisted) (NP (NNP Tuesday)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ has) (VP (VBN acted) (PP (VBG according) (PP (TO to) (NP (DT the) (NN law))))))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP I)) (VP (VBP am) (PP (IN at) (NP (NP (DT the) (NN disposition)) (PP (IN of) (NP (PRP$ our) (NNS courts)))))) (. .)))
+
+(S1 (S (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP have) (VP (VBN made) (NP (DT a) (ADJP (RB very) (JJ good)) (NN investigation)))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD told) (NP (NNP Associated) (NNP Press)) (NP (NNP Television) (NNP News))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Supreme) (NNP Court)) (VP (VBD _) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (DT the) (NN authority) (S (VP (TO to) (VP (VB remove) (NP (NNP Guzman)) (PP (IN from) (NP (NP (DT the) (NN case)) (SBAR (S (NP (NNP _)) (VP (VBZ has) (ADVP (RB also)) (VP (VBN asked) (NP (NNP Guzman)) (S (VP (TO to) (VP (VB explain) (SBAR (WHADVP (WRB why)) (S (NP (PRP he)) (VP (VBD sent) (NP (NP (DT a) (NN letter)) (PP (IN of) (NP (NN support)))) (PP (TO to) (NP (NP (NNP Clara) (NNP Szczaranski)) (, ,) (NP (NP (DT a) (NN state) (NN prosecutor)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (NP (NP (DT a) (NN plaintiff)) (PP (IN against) (NP (NNP Pinochet)))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN stripped) (PP (IN of) (NP (PRP$ his) (JJ congressional) (NN immunity))))))))))))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Szczaranski)) (VP (VBZ has) (VP (VBN been) (VP (VBN criticized) (PP (IN by) (NP (NNP Pinochet) (NNS supporters))) (PP (IN in) (NP (NNP Congress)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS appeals) (NNS hearings)) (VP (MD may) (VP (VB take) (NP (QP (CD two) (CC or) (CD three)) (NNS days)))) (. .)))
+
+(S1 (S (NP (DT The) (NN case)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB reach) (NP (DT the) (NNP Supreme) (NNP Court))))) (, ,) (SBAR (IN since) (S (NP (DT both) (NNS sides)) (VP (VBP have) (VP (VBN said) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB appeal) (NP (DT a) (JJ negative) (NN ruling)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Rodriguez)) (, ,) (NP (NP (NNP Pinochet) (POS 's)) (NN lawyer)) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (NNP Tuesday) (POS 's)) (NN decision)) (`` ``) (VP (VBZ allows) (S (NP (PRP us)) (VP (TO to) (VP (ADVP (RB calmly)) (VB prepare) (S (VP (TO to) (VP (VB state) (NP (PRP$ our) (NN case)) (PP (IN in) (NP (NN court))) (NP (NN tomorrow)))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (PRP He)) (VP (VBD indicated) (SBAR (IN that) (S (NP (DT the) (NN defense)) (VP (MD will) (VP (NN center) (NP (PRP$ its) (NNS arguments)) (PP (IN on) (NP (NP (DT the) (VBN alleged) (ADJP (`` ``) (JJ irregular) (CC and) (JJ arbitrary) ('' ')) ('' ') (NNS actions)) (PP (IN by) (NP (NNP Guzman)))))))))) (. .)))
+
+(S1 (S (NP (JJ Anti-Pinochet) (NN attorney) (NNP Alfonso) (NNP Insunza)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN ruling)) (`` ``) (PP (IN in) (NP (DT no) (NN way)))) (VP (VBZ anticipates) ('' ') (SBAR (S (VP (POS ') (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB happen) (PP (IN with) (NP (DT the) (NN indictment)))))))))))))) (. .)))
+

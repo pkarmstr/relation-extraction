@@ -1,0 +1,50 @@
+(S1 (NP (NP (CD NYT20001012.1539.0165) (NN NEWS) (NN STORY)) (QP (CD 2000-10-12) (CD 17:15:00))))
+
+(S1 (NP (NP (CD A2301) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP f) (NNP BC-FUNDS-DISCLOSURE-NYT) (NN &LR)) (: ;) (NP (QP (CD 10-12) (CD 0552))))))
+
+(S1 (NP (NNP BC-FUNDS-DISCLOSURE-NYT)))
+
+(S1 (S (NP (NNP MORNINGSTAR) (NNP CEO)) (VP (VBZ SAYS) (SBAR (S (NP (NNP SEC)) (VP (VBZ LAGS) (PP (IN IN) (NP (NP (NN DISCLOSURE) (NNS RULES)) (PP (IN FOR) (NP (NNP MUTUAL)))))))))))
+
+(S1 (NP (NP (NP (NNS FUNDS) (NN &LR)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NNP By) (NNP DANNY) (NNP HAKIM) (NNP &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR))) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NP (NNP WASHINGTON) (NNP _) (NNS Advocates)) (PP (IN for) (NP (NP (ADJP (RBR more) (JJ frequent)) (NN disclosure)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (JJ mutual) (NNS funds)) (VP (VBP hold) (PP (IN in) (NP (PRP$ their) (NNS portfolios)))))))))) (VP (VBD sparred) (PP (IN with) (NP (DT a) (JJ top) (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission))) (NP (JJ official) (NNP Thursday)) (PP (IN at) (NP (NP (DT a) (NN panel)) (VP (VBN sponsored) (PP (IN by) (NP (DT a) (NN fund) (NN shareholder) (NN advocacy) (NN group))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Donald) (NNP Phillips)) (, ,) (NP (NP (JJ chief) (NN executive)) (PP (IN of) (NP (NP (NNP Morningstar) (NNP Inc) (. .)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ tracks) (NP (JJ mutual) (NNS funds)))))))) (, ,)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (NNP Arthur) (NNP Levitt)) (, ,) (NP (NP (DT the) (NN chairman)) (PP (IN of) (NP (DT the) (NNP SEC)))) (, ,)) (VP (VBD had) (NP (NP (DT a) (JJ double) (NN standard)) (PP (IN toward) (NP (NP (NNS stockholders)) (CC and) (NP (JJ mutual) (NN fund) (NNS shareholders))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP He)) (VP (VBZ 's) (ADJP (JJ brilliant)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBZ talks) (PP (IN about) (NP (NNS stocks)))))))) (, ,) ('' '') (VP (VBD said)) (NP (NNP Phillips)) (, ,) (S (VP (VBG adding) (, ,) (`` ``) (S (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ turns) (S (VP (TO to) (VP (VB fund) (NP (NNS issues)))))))) (, ,) (NP (PRP he)) (VP (VBZ falls) (PP (IN into) (S (VP (VBG patronizing) (NP (NP (NNS platitudes)) (PP (IN about) (NP (NN fund) (NN investing))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Levitt)) (CC and) (NP (DT the) (NNP SEC))) (VP (VBP are) (VP (VBG requiring) (S (NP (NNS companies)) (VP (TO to) (VP (VB disclose) (NP (NN material) (NN information)) (PP (TO to) (NP (DT the) (NN public))) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (SBAR (WHNP (WDT that)) (S (NP (PRP they)) (VP (VBP tell) (NP (NP (NNS analysts)) (CC and) (NP (JJ institutional) (NNS investors))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ new) (NN measure)) (, ,) (NP (NNP Regulation) (CD FD)) (, ,)) (VP (VBZ is) (VP (VBN set) (S (VP (TO to) (VP (VB take) (NP (NN effect)) (NP (RB later) (DT this) (NN month))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Phillips)) (VP (VBD said) (SBAR (SBAR (IN that) (S (NP (DT the) (NNP SEC)) (VP (VBD had) (RB not) (VP (VBN applied) (NP (JJ similar) (NNS rules)) (PP (TO to) (NP (DT the) (ADJP (QP ($ $) (CD 7) (CD trillion))) (JJ mutual) (NN fund) (NN industry))))))) (CC and) (SBAR (IN that) (S (NP (DT the) (NNP SEC)) (VP (MD should) (VP (VB press) (S (NP (DT the) (NN industry)) (VP (TO to) (VP (VB disclose) (ADVP (RBR more) (RB frequently)) (SBAR (WHNP (WDT which)) (S (NP (NNS stocks) (NNS funds)) (VP (VBP hold))))))))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (JJ current) (NNS regulations))) (, ,) (NP (JJ mutual) (NNS funds)) (VP (VBP are) (VP (VBN required) (S (VP (TO to) (VP (VB disclose) (NP (PRP$ their) (JJ full) (NNS holdings)) (PP (TO to) (NP (DT the) (NNP SEC))) (ADVP (ADVP (RB twice)) (NP (DT a) (NN year)))))))) (. .)))
+
+(S1 (S (NP (NNP Phillips)) (VP (VBZ thinks) (SBAR (S (NP (NNS portfolios)) (VP (MD should) (VP (VB be) (VP (VBN disclosed) (ADVP (RB monthly)) (, ,) (PP (NP (CD 90) (NNS days)) (IN after) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT each) (NN month))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Paul) (NNP F.) (NNP Roye)) (, ,) (NP (NP (DT the) (NN director)) (PP (IN of) (NP (NP (NP (DT the) (NNP SEC) (POS 's)) (NN division)) (PP (IN of) (NP (NN investment) (NN management)))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP he)) (`` ``) (VP (VBD had) (S (VP (TO to) (VP (VP (VB do) (NP (NP (DT a) (NN bit)) (PP (IN of) (NP (NP (DT an) (NNP Al) (NNP Gore) (POS ')) (POS '))))) (CC and) (VP (VB defend) (NP (NP (PRP$ his) (NN boss) (POS ')) (NN record)))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (DT The) (NN chairman)) (VP (VBZ is) (ADJP (VBN committed) (PP (TO to) (S (VP (VBG protecting) (NP (NNS investors)))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said) (, ,) (S (VP (VBG adding) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD was) (NP (`` ``) (NP (DT an) (NN overstatement) ('' ')) ('' ') (SBAR (S (VP (TO to) (VP (VB say) (SBAR (IN that) (S (NP (DT all) (NNS investors)) (VP (VBD wanted) (NP (NP (ADJP (RBR more) (JJ frequent)) (NN disclosure)) (PP (IN of) (NP (JJ mutual) (NN fund) (NNS portfolios)))))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NNS investors))) (SBAR (WHNP (WDT that)) (S (VP (VBP want) (NP (JJR more) (NN information)))))))) (, ,) (CC and) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB also)) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NP (NNS investors)) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (VBN inundated) (PP (IN with) (NP (NN information)))))))))))))))) (, ,) ('' '') (NP (NNP Roye)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNP Roye)) (VP (VBD suggested) (SBAR (SBAR (IN that) (S (NP (NP (JJ large) (, ,) (ADJP (RB closely) (VBN watched)) (NNS funds)) (PP (IN like) (NP (NP (NNP Fidelity) (POS 's)) (ADJP (QP ($ $) (CD 104) (CD billion))) (JJ flagship) (NNP Magellan) (NN fund)))) (VP (MD might) (VP (VB have) (NP (NN difficulty)) (S (VP (VBG trading) (ADVP (IN in) (CC and) (IN out) (PP (IN of) (NP (NP (NNS positions)) (PP (IN with) (NP (ADJP (RB too) (JJ frequent)) (NN disclosure)))))))))))) (CC and) (SBAR (IN that) (S (NP (NP (NNS funds)) (PP (IN like) (NP (NP (NNP Fidelity) (POS 's)) (ADJP (QP ($ $) (CD 104) (CD billion))) (JJ flagship) (NNP Magellan) (NN fund)))) (VP (MD might) (VP (VB have) (NP (NN difficulty)) (S (VP (VBG trading) (ADVP (IN in) (CC and) (IN out) (PP (IN of) (NP (NP (NNS positions)) (PP (IN with) (NP (ADJP (RB too) (JJ frequent)) (NN disclosure)))))))))))) (CC and) (SBAR (IN that) (S (NP (EX there)) (VP (VBD were) (NP (JJR higher) (NNS priorities)) (PP (IN like) (S (VP (VBG making) (NP (NP (NN fund) (NNS prospectuses)) (ADJP (JJR easier) (SBAR (S (VP (TO to) (VP (VP (VB read)) (CC and) (VP (VBG toughening) (NP (NP (NN regulation)) (PP (IN of) (NP (NNS schemes) (S (VP (TO to) (VP (VB manipulate) (NP (NNS funds)) (SBAR (IN before) (S (NP (PRP they)) (VP (VBP report) (NP (PRP$ their) (JJ quarterly) (NN performance) (NNS figures)))))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Roye)) (ADVP (RB also)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP$ his) (NN division)) (VP (MD would) (VP (VB propose) (NP (NP (DT a) (NN rule)) (VP (VBG requiring) (S (NP (JJ mutual) (NNS funds)) (VP (TO to) (VP (VB have) (S (NP (NP (CD 80) (NN percent)) (PP (IN of) (NP (PRP$ their) (NNS portfolios))) (VP (VBN invested) (PP (IN in) (NP (NP (DT the) (NN style)) (, ,) (NP (NN asset) (NN class)) (CC or) (NP (NN region)))))) (VP (VBN indicated) (PP (IN by) (NP (NP (DT the) (NN name)) (PP (IN of) (NP (DT the) (NN fund))))) (, ,) (SBAR (RB so) (IN that) (S (NP (DT a) (NNP European) (NN investment) (NN fund)) (, ,) (PP (IN for) (NP (NN example))) (, ,) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB be) (NP (NP (CD 80) (NN percent)) (VP (VBN invested) (PP (IN in) (NP (NNP Europe)))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ current) (NN requirement)) (VP (VBZ is) (NP (CD 65) (NN percent))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN panel) (NN discussion)) (, ,) (SBAR (WHNP (WP$ whose) (NN focus)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN disclosure) (NN issue)))))) (, ,)) (VP (VBD was) (VP (VBN sponsored) (PP (IN by) (NP (NP (NNP Fund) (NNP Democracy)) (, ,) (NP (NP (DT a) (NN fund) (NN shareholder) (NN advocacy) (NN group)) (VP (VBN founded) (PP (IN by) (NP (NP (NNP Mercer) (NNP Bullard)) (, ,) (NP (NP (DT a) (JJ former) (NN lawyer)) (PP (IN for) (NP (NP (DT the) (NNP SEC) (POS 's)) (NN enforcement) (NN division)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Phillips) (CC and) (NNP Harold) (NNP R.) (NNP Evensky)) (, ,) (NP (DT a) (JJ financial) (NN planner)) (, ,)) (ADVP (RB repeatedly)) (VP (VBD criticized) (NP (NP (NP (DT the) (NNP SEC) (POS 's)) (NN emphasis)) (PP (IN on) (NP (NN simplification)))) (PP (IN over) (NP (NN portfolio) (NN disclosure)))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP You)) (VP (VBP need) (S (VP (TO to) (VP (VB make) (S (NP (DT the) (NN information)) (ADJP (JJ available)))))))) (, ,) ('' '') (NP (NNP Evensky)) (VP (VBD said)) (. .)))
+
+(S1 (SBARQ (`` ``) (SQ (MD Can) (NP (PRP you)) (VP (VB imagine) (NP (NP (DT a) (NN corporation)) (VP (ADVP (RB just)) (VBG issuing) (NP (DT a) (JJ simple) (NN prospectus)))) (SBAR (IN because) (S (NP (DT the) (NNP financials)) (VP (VBP are) (ADJP (RB too) (VBN complicated))))))) (. ?) ('' '')))
+
+(S1 (NP (QP (CD NYT-10-12-00) (CD 1715EDT))))
+

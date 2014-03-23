@@ -1,0 +1,82 @@
+(S1 (NP (NP (CD NYT20001020.2025.0304) (NN NEWS) (NN STORY)) (QP (CD 2000-10-20) (CD 20:27:00))))
+
+(S1 (NP (NP (CD A1398) (NN &Cx1f)) (: ;) (NP (JJ taf-z) (NNP s)) (X (X (SYM f)) (NP (JJ BC-MIDEAST-STOCKS-) (ADJP (QP ($ $) (CD ADV22) (CD 10-20))) (NN 0718)))))
+
+(S1 (NP (NP (NN BC-MIDEAST-STOCKS-)) (ADJP ($ $) (JJ ADV22-NYT))))
+
+(S1 (S (NP (NNS INVESTORS)) (VP (VBP FEEL) (NP (NP (NNS EFFECTS)) (PP (IN OF) (NP (JJ MIDEAST) (NN VIOLENCE)))))))
+
+(S1 (FRAG (-LRB- -LRB-) (PP (IN For) (NP (NN release))) (NP (NP (NNP Sunday)) (, ,) (NP (NNP Oct))) (. .)))
+
+(S1 (NP (NP (CD 22) (-RRB- -RRB-) (NNS &QL)) (: ;) (NP (NP (NN &UR)) (: ;) (NP (NNP By) (NNP JOSEPH) (NNP B))) (. .)))
+
+(S1 (NP (NP (JJR TREASTER) (NNS &LR)) (: ;) (NP (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (PP (IN In) (NP (QP (RB just) (CD two)) (NNS weeks))) (NP (DT this) (NN month)) (, ,) (SBAR (IN as) (S (NP (NNS investors)) (VP (VBN worried) (SBAR (IN whether) (S (NP (NP (DT the) (NN violence)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East)))) (VP (MD would) (VP (VB escalate) (PP (IN into) (NP (NN war)))))))))) (, ,) (NP (NP (DT the) (NN stock) (NN market)) (PP (IN in) (NP (NNP Israel)))) (VP (VBD fell) (NP (CD 16) (NN percent))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Egypt))) (, ,) (NP (DT the) (NN market)) (VP (VBD dropped) (NP (CD 20) (NN percent))) (. .)))
+
+(S1 (S (CC But) (PP (IN for) (NP (NP (ADJP (RBS most) (JJ American)) (NNS investors)) (, ,) (SBAR (WHNP (NP (DT many)) (WHPP (IN of) (WHNP (WP whom)))) (S (VP (VB buy) (NP (PRP$ their) (NNS stocks)) (PP (IN through) (NP (JJ mutual) (NNS funds)))))))) (, ,) (NP (DT the) (NN impact)) (VP (VBD was) (ADJP (ADJP (RBR more) (JJ diffuse)) (, ,) (IN though) (ADJP (RB still) (JJ strong)))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (JJ few) (NNS investors)) (VP (VBP own) (NP (NP (NNS funds)) (VP (VBG containing) (NP (JJ many) (ADJP (NNP Middle) (NNP Eastern)) (NNS companies)))) (, ,) (SBAR (ADVP (RB partly)) (IN because) (S (NP (EX there)) (VP (VBP are) (RB not) (NP (NP (IN that) (JJ many)) (SBAR (IN around) (S (VP (TO to) (VP (VB buy)))))))))))) (, ,) (NP (PRP they)) (ADVP (RB nonetheless)) (VP (VBD felt) (NP (NP (DT the) (NNS effects)) (PP (IN of) (NP (NP (DT the) (NN region) (POS 's)) (NN volatility))))) (. .)))
+
+(S1 (S (NP (NP (NNP Wall) (NNP Street)) (CC and) (NP (JJ other) (JJ global) (NNS markets))) (VP (VBD were) (ADJP (VBN concerned) (SBAR (SBAR (IN that) (S (NP (DT the) (NN violence)) (VP (MD would) (VP (VB translate) (PP (IN into) (S (NP (JJR higher) (NN oil) (NNS prices)) (VP (VBG _) (SBAR (WHNP (WDT which)) (S (NP (PRP it)) (VP (VBD did) (, ,) (ADVP (RB briefly) (NP (CD _))))))))))))) (CC and) (SBAR (IN that) (S (NP (DT those) (NNS prices)) (, ,) (PP (IN in) (NP (NN turn))) (, ,) (VP (MD could) (VP (VB lead) (PP (TO to) (NP (NP (NN inflation)) (CC and) (NP (JJR higher) (NN interest) (NNS rates))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT That) (NN line)) (PP (IN of) (NP (NN thinking)))) (VP (VBD played) (NP (DT a) (JJ big) (NN role)) (PP (IN in) (NP (NP (NP (DT the) (JJ 379-point) (NN drop)) (PP (IN in) (NP (DT the) (NNP Dow) (NNP Jones) (JJ industrial) (NN average)))) (CC and) (NP (NP (DT the) (JJ 93-point) (NN drop)) (PP (IN in) (NP (DT the) (NNP Nasdaq) (JJ composite) (NN index))) (PP (IN on) (NP (NNP Oct))))))) (. .)))
+
+(S1 (S (NP (NP (NP (CD 12) (NNS _)) (NP (DT the) (NN day))) (SBAR (WHNP (WDT that)) (S (NP (DT a) (NNP Palestinian) (NN mob)) (VP (VBD mauled) (NP (CD two) (NNP Israeli) (NNS soldiers)) (, ,) (S (NP (NNP Israel)) (VP (VBN retaliated) (PP (IN with) (NP (NP (NN rocket) (NNS attacks)) (CC and) (NP (NNS terrorists)))))))))) (VP (VBD blew) (NP (NP (DT a) (NN hole)) (PP (IN in) (NP (DT a) (NNP United) (NNPS States) (NN warship))) (PP (IN in) (NP (NNP Yemen))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN week)) (, ,) (NP (NNP Israeli) (CC and) (NNP Palestinian) (NNS leaders)) (VP (VBD agreed) (PP (TO to) (NP (NP (DT the) (NNS terms)) (PP (IN of) (NP (DT a) (NN cease-fire))))) (PP (IN after) (NP (NP (NNS clashes)) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (DT the) (NNP Gaza) (NNP Strip))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (PP (IN For) (NP (JJ American) (NNS investors))) (, ,) (NP (DT the) (NN oil) (NN effect)) (VP (VBD was) (ADJP (ADVP (RB much) (RBR more)) (JJ significant) (PP (IN than) (NP (NP (DT the) (JJ direct) (NN effect)) (PP (IN on) (NP (NNP Middle) (NNP East) (NNS companies)))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Grace) (NNP Pineda)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ manages) (NP (NP (DT the) (ADJP (QP ($ $) (CD 132) (CD million))) (JJ Developing) (NNP Capital) (NNPS Markets) (NN fund)) (PP (IN for) (NP (NNP Merrill) (NNP Lynch)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN fund)) (VP (VBZ has) (NP (NP (NP (QP (RB about) (CD 5)) (NN percent)) (PP (IN of) (NP (PRP$ its) (NN money))) (PP (IN in) (NP (NNP Israel)))) (CC and) (NP (NP (QP (RB about) (CD 0.5)) (NN percent)) (PP (IN in) (NP (NNP Egypt)))))) (. .)))
+
+(S1 (S (PP (IN From) (NP (NP (JJ late) (NNP September)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJS latest) (NN trouble)) (VP (VBD erupted) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))) (, ,) (PP (IN through) (NP (JJ last) (NN week)))))))) (, ,) (NP (NP (DT the) (JJ broad) (NNS markets)) (CC and) (NP (NP (JJ several) (NNS categories)) (PP (IN of) (NP (JJ mutual) (NNS funds))))) (VP (VBN lost) (NP (NN ground)) (PP (IN in) (NP (DT the) (NNP United) (NNPS States)))) (. .)))
+
+(S1 (FRAG (PP (IN In) (NP (DT the) (ADJP (RBS most) (JJ violent)) (NN period))) (, ,) (NP (NNP Oct)) (. .)))
+
+(S1 (S (NP (NP (CD 5)) (PP (IN through) (NP (CD 12)))) (, ,) (NP (NN equity) (NN income) (NNS funds)) (VP (VBD were) (ADVP (RB down) (NP (CD 4.80) (NN percent))) (, ,) (PP (VBG according) (PP (TO to) (NP (NNP Lipper) (NNP Inc))))) (. .)))
+
+(S1 (S (S (NP (NN Growth) (NNS funds)) (VP (VBD were) (ADVP (RB off) (NP (CD 7.79) (NN percent))))) (, ,) (CC and) (S (NP (JJ growth-and-income) (NNS funds)) (NP (CD 6.12) (NN percent))) (. .)))
+
+(S1 (S (S (NP (DT Those) (NNS funds)) (ADVP (RB generally)) (VP (VBP do) (RB not) (VP (VB contain) (NP (NP (NNS shares)) (PP (IN of) (NP (NNP Middle) (NNP Eastern) (NNS companies))))))) (, ,) (CC yet) (S (NP (NP (DT the) (NN trouble)) (PP (IN in) (NP (DT the) (NN region)))) (VP (VBD was) (PP (IN among) (NP (NP (JJ several) (NNS factors)) (VP (VBG _) (ADVP (IN along) (PP (IN with) (NP (NP (DT a) (JJ general) (NN sell-off)) (PP (IN in) (NP (NN technology) (CC and) (NN telecommunications) (NNS stocks)))))) (NP (NP (NNS _)) (SBAR (WHNP (WDT that)) (S (VP (VBD brought) (PRT (RP down)) (NP (NNS prices))))))))))) (. .)))
+
+(S1 (S (NP (JJ Emerging-markets) (NNS funds)) (VP (VBD declined) (NP (CD 7.17) (NN percent)) (PP (IN over) (NP (DT that) (NN period)))) (. .)))
+
+(S1 (S (S (SBAR (IN Although) (S (NP (NP (JJ many)) (PP (IN of) (NP (DT those) (NNS funds)))) (VP (VBP invest) (PP (IN in) (NP (NNP Middle) (NNP Eastern) (NNS companies)))))) (, ,) (NP (NP (DT the) (JJ ripple) (NN effect)) (PP (IN of) (NP (NP (DT the) (NN threat)) (PP (TO to) (NP (NN oil)))))) (VP (VBD affected) (NP (PRP them)) (ADVP (RBS most)))) (, ,) (NP (NNS analysts) (CC and) (NN fund) (NNS managers)) (VP (VBD said)) (. .)))
+
+(S1 (S (CC And) (NP (NP (NP (DT those) (NNS funds) (POS ')) (NNS investments)) (PP (IN in) (NP (DT the) (NN region)))) (VP (VBP are) (ADVP (RB still)) (ADJP (RB relatively) (JJ small)) (, ,) (ADVP (RB usually) (NP (QP (JJR less) (IN than) (CD 10)) (NN percent)) (PP (IN of) (NP (DT the) (NNS portfolios))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (NP (JJS Most)) (PP (IN of) (NP (NP (DT the) (NNS markets)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East)))))) (VP (VBP are) (ADJP (JJ insignificant) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NN capital))) (VP (VBN invested) (PP (IN in) (NP (PRP them))) (PP (IN from) (NP (DT the) (NNP United) (NNPS States))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Mark) (NNP Madden)) (, ,) (NP (NP (NN manager)) (PP (IN of) (NP (DT the) (ADJP (QP ($ $) (CD 250) (CD million))) (NNP Pioneer) (NNP Emerging) (NNP Markets) (NN fund))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Madden)) (VP (VBZ invests) (ADVP (RB mainly)) (PP (IN in) (NP (NP (NNP Mexico)) (, ,) (NP (NNP Brazil)) (CC and) (NP (NNP Korea))))) (. .)))
+
+(S1 (S (S (NP (NP (QP (RB About) (CD 5)) (NN percent)) (PP (IN of) (NP (PRP$ his) (NN portfolio)))) (VP (VBZ is) (PP (IN in) (NP (NNP Israel))))) (CC and) (S (NP (QP (JJR less) (IN than) (CD 1)) (NN percent)) (VP (VBZ is) (PP (IN in) (NP (NNP Egypt))))) (. .)))
+
+(S1 (S (PP (IN Except) (PP (IN during) (NP (NP (JJ such) (JJ tense) (NNS times)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East)))))) (PRN (, ,) (S (NP (NNS analysts) (CC and) (NN fund) (NNS managers)) (VP (VBD said))) (, ,)) (NP (NP (NP (NP (NNS fluctuations)) (PP (IN in) (NP (DT the) (NNP United) (NNPS States)))) (NNS markets)) (, ,) (NP (NP (DT the) (ADJP (JJS biggest) (CC and) (ADJP (RBS most) (JJ dynamic)))) (PP (IN in) (NP (DT the) (NN world)))) (, ,)) (VP (VBP are) (ADJP (RBR more) (JJ likely) (S (VP (TO to) (VP (VB influence) (NP (NP (NN share) (NNS prices)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East)))) (PP (IN than) (NP (NP (NN vice)) (ADVP (RB versa))))))))) (. .)))
+
+(S1 (S (`` ``) (NP (NP (DT The) (JJ first) (NN thing)) (SBAR (S (NP (JJ overseas) (NNS traders)) (VP (VBP want) (S (VP (TO to) (VP (VB know) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP come) (PRT (RP in)) (PP (IN in) (NP (DT the) (NN morning))))))))))))) (VP (VBZ is) (, ,) (SBARQ (`` `) (WHNP (WP What)) (SQ (VBD did) (NP (NP (DT the) (NNP Nasdaq)) (CC and) (NP (DT the) (NNP Dow))) (VP (VB do))) (. ?) ('' '')) ('' '))))
+
+(S1 (SINV (VP (VBD said)) (NP (NP (NNP Howard) (NNP Klein)) (, ,) (NP (NP (DT an) (JJ institutional) (NN broker)) (VP (VBG specializing) (PP (IN in) (NP (NP (VBG emerging) (NNS markets)) (PP (IN at) (NP (NP (NNP SG) (NNP Cowen) (NNPS Securities)) (PP (IN in) (NP (NNP New) (NNP York)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Traders)) (PP (IN in) (NP (NNP Israel))) (PP (IN in) (ADJP (JJ particular)))) (VP (VBP have) (NP (PRP$ their) (NNS eyes)) (PP (IN on) (NP (DT the) (NNP Nasdaq)))) (. .)))
+
+(S1 (S (NP (PRP$ Their) (NN country)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (NN home)) (PP (TO to) (NP (NP (JJ global) (NN technology)) (, ,) (NP (NN telecommunications)) (CC and) (NP (NP (JJ pharmaceutical) (NNS companies)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP depend) (PP (IN on) (NP (NP (JJ economic) (NNS currents)) (PP (IN in) (NP (NP (DT the) (NNP United) (NNPS States)) (CC and) (NP (NNP Europe)))))) (ADJP (ADJP (RB much) (JJR more)) (PP (IN than) (PP (IN on) (NP (NP (NNS developments)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Shares)) (PP (IN of) (NP (JJ many) (NNP Israeli) (NNS companies)))) (VP (VBP are) (VP (VBN sold) (PP (IN as) (NP (NP (NNP American) (NN Depository) (NNS Receipts)) (PP (IN on) (NP (DT the) (NNP Nasdaq))))))) (. .)))
+
+(S1 (S (NP (NP (RB Only) (DT a) (NN handful)) (PP (IN of) (NP (JJ small) (NNS funds)))) (VP (VBP concentrate) (PP (IN on) (NP (DT the) (NNP Middle) (NNP East)))) (. .)))
+
+(S1 (S (NP (NP (NP (CD One)) (PP (IN of) (NP (PRP them)))) (, ,) (NP (NP (DT the) (ADJP (QP ($ $) (CD 25) (CD million))) (NNP American) (NNP Israel) (NNP Index)) (NP (JJ mutual) (NN fund))) (, ,)) (VP (VBZ is) (VP (VBN made) (PRT (RP up)) (PP (RB exclusively) (IN of) (NP (NP (JJ Israeli) (NNS companies)) (, ,) (NP (NP (NP (CD 16)) (VP (VBN traded) (PP (IN on) (NP (NP (DT the) (NNP Tel) (NNP Aviv)) (NN exchange))))) (CC and) (NP (NP (CD 19)) (PP (IN on) (NP (DT the) (NNP Nasdaq))))))))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (ADJP (RBR more) (RB broadly) (VBN based)) (JJ mutual) (NNS funds))) (, ,) (NP (PRP$ its) (NNS shares)) (VP (VBD fell) (PP (IN during) (NP (DT the) (JJ recent) (NN turmoil)))) (. .)))
+
+(S1 (S (CC But) (NP (PRP$ its) (NNS investors)) (VP (VBD remained) (ADJP (JJ confident))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ last) (JJ few) (NNS weeks))) (, ,) (NP (NP (NN money)) (VP (VBG flowing) (PP (IN into) (NP (DT the) (NN fund))))) (VP (ADVP (RB far)) (VBD exceeded) (NP (NNS redemptions))) (. .)))
+
+(S1 (NP (QP (CD NYT-10-20-00) (CD 2027EDT))))
+

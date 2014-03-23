@@ -1,0 +1,86 @@
+(S1 (NP (NP (CD NYT20001124.2050.0257) (NN NEWS) (NN STORY)) (QP (CD 2000-11-24) (CD 20:52:00))))
+
+(S1 (NP (NP (CD A0034) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP f) (NNP BC-ASIAN-ECONOMIES-NYT) (NN &LR)) (: ;) (NP (QP (CD 11-24) (CD 0750))))))
+
+(S1 (NP (NNP BC-ASIAN-ECONOMIES-NYT)))
+
+(S1 (S (NP (VBG EXPANDING) (JJ ASIAN) (NNS ECONOMIES)) (VP (VBP DEFY) (NP (NP (JJ CAUTIOUS) (NNS FORECASTS)) (PP (IN BY) (NP (NNP INTERNATIONAL)))))))
+
+(S1 (NP (NP (NP (NNS ECONOMISTS) (NN &LR)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NNP By) (NNP MARK) (NNP LANDLER) (NNP &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR))) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (S (NP (NNP HONG) (NNP KONG)) (VP (VBZ _) (PP (IN For) (NP (NP (JJS most)) (PP (IN of) (NP (DT this) (NN year))))))) (, ,) (NP (NP (NNP Asia) (POS 's)) (NNS economies)) (VP (VBP have) (VP (VBN performed) (NP (NP (DT a) (NN sort)) (PP (IN of) (NP (NP (JJ levitating) (NN act)) (NP (ADJP (JJ _) (VBG growing) (PP (IN by) (NP (JJ double-digit) (NNS rates)))) (NN month)) (PP (IN after) (NP (NN month)))))) (SBAR (RB even) (IN as) (S (NP (NNS economists)) (VP (VBD predicted) (SBAR (S (NP (PRP they)) (VP (MD would) (VP (VB fall) (PP (TO to) (NP (NN earth)))))))))))) (. .)))
+
+(S1 (S (S (NP (DT That) (NN dichotomy)) (VP (VBD was) (PP (IN on) (NP (NP (JJ vivid) (NN display)) (ADVP (RB here)) (NP (NNP Friday)))))) (: :) (S (NP (NNP Hong) (NNP Kong)) (VP (VBD reported) (SBAR (IN that) (S (S (NP (PRP$ its) (JJ economic) (NN output)) (VP (VBD surged) (NP (CD 10.4) (NN percent)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBD raised) (NP (NP (PRP$ its) (NN projection)) (PP (IN for) (NP (JJ full-year) (NN growth)))) (PP (TO to) (NP (CD 10) (NN percent))) (PP (IN from) (NP (CD 8.5) (NN percent))))))))) (. .)))
+
+(S1 (S (ADVP (NP (RB Yet) (DT a) (NN block)) (RB away)) (, ,) (NP (DT the) (NNP International) (NNP Monetary) (NNP Fund)) (VP (VBD warned) (PP (IN in) (NP (DT a) (NN news) (NN conference))) (SBAR (IN that) (S (NP (JJ Asian) (NNS economies)) (VP (MD could) (VP (VB be) (VP (VBN hit) (ADVP (RB hard)) (PP (IN by) (NP (NP (VBG soaring) (NN oil) (NNS prices)) (CC and) (NP (NP (NN turmoil)) (PP (IN in) (NP (DT the) (JJ financial) (NNS markets)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP IMF)) (VP (VBD said) (SBAR (S (NP (NP (DT a) (ADJP ($ $) (CD 5)) (NN increase)) (PP (IN in) (NP (NP (DT the) (NN price)) (PP (IN of) (NP (NP (DT a) (NN barrel)) (PP (IN of) (NP (NN oil)))))))) (VP (MD could) (VP (VB slow) (NP (NP (DT the) (NN growth) (NNS rates)) (PP (IN of) (NP (JJ Asian) (NNS countries)))) (NP (JJ next) (NN year))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (NP (DT The) (NNS prospects)) (PP (IN for) (NP (NP (NN growth)) (PP (IN in) (NP (CD 2001)))))) (VP (VBP have) (VP (VBN weakened)))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP David) (NNP Robinson)) (, ,) (NP (NP (JJ assistant) (NN director)) (PP (IN of) (NP (NN research))) (PP (IN at) (NP (DT the) (NN fund))))) (. .)))
+
+(S1 (S (`` ``) (NP (EX There)) (VP (VBZ has) (ADVP (RB also)) (VP (VBN been) (VP (VBN increased) (NP (JJ political) (NN instability)) (PP (IN across) (NP (DT the) (NN world) (, ,) (RB not) (JJS least))) (PP (IN in) (NP (NNP Asia)))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (JJ Several) (JJ Asian) (NNS countries)) (VP (VBG _) (NP (NP (RB notably) (DT the) (NNP Philippines)) (, ,) (NP (NNP Taiwan)) (, ,) (CC and) (NP (NNP Indonesia) (CD _))))) (VP (VBP have) (VP (VBN been) (VP (VBD gripped) (PP (IN by) (NP (NP (JJ political) (NN tumult)) (PP (IN in) (NP (JJ recent) (NNS weeks)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNPS Philippines) (NN president)) (, ,) (NP (NNP Joseph) (NNP Estrada)) (, ,)) (VP (VBD was) (VP (VBN impeached) (NP (JJ last) (NN week)) (, ,) (SBAR (IN while) (S (NP (NP (NNP Chen) (NNP Shui-bian)) (, ,) (NP (NP (DT the) (NN president)) (PP (IN of) (NP (NNP Taiwan)))) (, ,)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB fend) (PRT (RP off)) (NP (DT a) (NN recall) (NN vote))))))))))) (. .)))
+
+(S1 (S (PP (ADVP (RB Even)) (IN in) (NP (NP (ADJP (RBR more) (JJ stable)) (NNS countries)) (, ,) (PP (IN like) (NP (NP (NNP Malaysia)) (CC and) (NP (NNP South) (NNP Korea)))))) (, ,) (NP (NNP Robinson)) (VP (VBD said) (SBAR (S (NP (DT the) (NN Fund)) (VP (VBD was) (VP (VBN concerned) (PP (IN by) (NP (NP (DT the) (JJ haphazard) (NN pace)) (PP (IN of) (NP (JJ economic) (NNS reforms)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ many) (NNS countries))) (, ,) (NP (DT the) (NNS banks) (CC and) (NNS corporations)) (VP (VBP remain) (ADJP (RB financially) (JJ shaky))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP We)) (VP (VBP 're) (ADVP (RB still)) (VP (VBG seeing) (NP (NNS chaebols)) (PP (IN in) (NP (JJ deep) (NN trouble)))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said) (, ,) (S (VP (VBG referring) (PP (TO to) (NP (NP (NNP Korea) (POS 's)) (ADJP (RB heavily) (JJ indebted)) (NNS conglomerates)))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Robinson)) (VP (VBD acknowledged) (SBAR (IN that) (S (NP (DT these) (NNS weaknesses)) (VP (VBD had) (RB not) (ADVP (RB yet)) (VP (VBN been) (VP (VBN reflected) (PP (IN in) (NP (NP (DT the) (JJ economic) (NN performance)) (PP (IN of) (NP (DT the) (NNS countries))))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Tuesday))) (, ,) (NP (NNP South) (NNP Korea)) (VP (VBD reported) (NP (NP (DT a) (ADJP (CD 9.2) (NN percent)) (NN increase)) (PP (IN in) (S (NP (PRP$ its) (JJ third-quarter) (NN output)) (VP (VP (ADVP (RB _)) (VBG beating) (NP (NP (DT the) (NNS estimates)) (PP (IN of) (NP (JJS most) (NNS analysts))))) (CC and) (VP (VBG extending) (NP (NP (DT a) (NN string)) (PP (IN of) (NP (JJ powerful) (NNS quarters)))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Indonesia)) (, ,) (NP (NNP Malaysia)) (, ,)) (CC and) (NP (NNP Singapore))) (VP (VBP have) (ADVP (RB also)) (VP (VBN beaten) (NP (NNS expectations)) (, ,) (SBAR (IN while) (S (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (NN growth) (NN rate)) (VP (VBD was) (PP (NP (QP (RB nearly) (CD three)) (NN percentage) (NNS points)) (IN above) (NP (NP (DT a) (JJ median) (NN forecast)) (PP (IN of) (NP (NP (CD 12) (NNS economists)) (VP (VBN surveyed) (PP (IN by) (NP (NNP Bloomberg) (NNP News))))))))))))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (JJ other) (JJ Asian) (NNS economies))) (, ,) (NP (NNP Hong) (NNP Kong)) (VP (VBZ has) (VP (VBN been) (VP (VBN buoyed) (PP (IN by) (NP (NP (DT an) (JJ unquenchable) (NN appetite)) (PP (IN for) (NP (NP (PRP$ its) (NNS exports)) (, ,) (PP (ADVP (RB principally)) (IN in) (NP (DT the) (NNP United) (NNPS States)))))))))) (. .)))
+
+(S1 (S (NP (NNS Exports)) (VP (VBD surged) (NP (CD 17.7) (NN percent)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter)))) (. .)))
+
+(S1 (S (NP (NNP Hong) (NNP Kong)) (VP (VBZ has) (VP (VBN done) (NP (NP (DT a) (RB particularly) (JJ booming) (NN business)) (PP (IN in) (S (VP (VBG repackaging) (CC and) (VBG shipping) (NP (NP (NNS goods)) (PP (IN from) (NP (JJ mainland) (NNP China)))))))))) (. .)))
+
+(S1 (S (NP (NN Consumer) (NN spending)) (VP (VBD rose) (PP (IN by) (NP (DT a) (ADJP (RB much) (RBR less) (JJ impressive)) (CD 5.6) (NN percent))) (, ,) (SBAR (IN as) (S (NP (JJ retail) (NNS sales)) (VP (VBD slackened) (PP (IN from) (NP (DT the) (JJ second) (NN quarter))))))) (. .)))
+
+(S1 (S (CC And) (NP (NN consumer) (NNS prices)) (VP (VBD fell) (NP (CD 2) (NN percent)) (, ,) (S (VP (VBG extending) (NP (NP (DT a) (NN decline)) (SBAR (WHNP (WDT that)) (S (VP (VBD began) (PP (IN during) (NP (DT the) (NN crisis)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Ian) (NNP Perkin)) (, ,) (NP (NP (JJ chief) (NN economist)) (PP (IN at) (NP (NP (NP (DT the) (NNP Hong) (NNP Kong)) (NNP General) (NNP Chamber)) (PP (IN of) (NP (NNP Commerce))))))) (VP (VBD said) (SBAR (S (NP (NP (DT the) (JJ double-digit) (NN growth)) (PP (IN in) (NP (NP (NNP Hong) (NNP Kong)) (CC and) (NP (JJ other) (JJ Asian) (NNS countries))))) (VP (VBD masked) (NP (PRP$ their) (JJ underlying) (NN condition)))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NP (NP (DT the) (NN region) (POS 's)) (NN growth)) (PP (IN in) (NP (NNS exports)))) (VP (VBZ has) (VP (VBN been) (ADJP (JJ torrid)))))) (, ,) (NP (JJ domestic) (NN demand)) (VP (VBZ has) (VP (VBN remained) (ADJP (JJ tenuous)))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP We)) (VP (VBP have) (RB n't) (VP (VBN built) (PRT (RP up)) (NP (PRP$ our) (JJ domestic) (NNS economies)) (ADVP (RB yet))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (DT The) (NN recovery)) (VP (VBZ has) (VP (VBN relied) (ADVP (RB almost) (RB completely)) (PP (IN on) (NP (NN export) (NN growth))))) (. .)))
+
+(S1 (SINV (`` ``) (S (SBAR (IN If) (S (NP (NN consumer) (NN spending)) (VP (VBZ slows) (PRT (RP down)) (PP (IN in) (NP (DT the) (NNPS States)))))) (, ,) (NP (PRP it)) (VP (MD will) (VP (VB have) (NP (NP (DT a) (JJ devastating) (NN effect)) (PP (IN on) (NP (NNP Asia))))))) (, ,) ('' '') (VP (VBD said)) (NP (NNP Perkin)) (. .)))
+
+(S1 (S (`` ``) (NP (CD 2001)) (VP (MD could) (VP (VB be) (NP (DT a) (NN crunch) (NN year)))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Robinson)) (PP (IN of) (NP (DT the) (NNP IMF)))) (VP (VBD was) (ADJP (RB similarly) (JJ wary) (PP (IN about) (NP (JJ next) (NN year))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP October))) (, ,) (NP (DT the) (NNP IMF)) (VP (VBD projected) (SBAR (IN that) (S (NP (DT the) (NN world) (NN economy)) (VP (MD would) (VP (VB grow) (NP (CD 4.2) (NN percent)) (PP (IN in) (NP (CD 2001))) (, ,) (SBAR (IN while) (S (NP (NP (NNP Asia)) (PP (IN as) (NP (DT a) (NN region)))) (VP (MD would) (VP (VB grow) (NP (CD 6.6) (NN percent))))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Friday))) (, ,) (NP (NNP Robinson)) (VP (VBD said) (SBAR (S (NP (DT the) (NN growth) (NN rate)) (VP (MD could) (VP (VB be) (ADJP (JJR lower)) (, ,) (SBAR (IN though) (S (NP (PRP he)) (VP (MD would) (RB not) (VP (VB say) (PP (IN by) (NP (WRB how) (JJ much)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ principal) (NN culprit)) (PP (IN of) (NP (ADJP (RB possibly) (JJR slower)) (NN growth)))) (VP (VBZ is) (NP (NP (DT the) (NN dependence)) (PP (IN of) (NP (JJ many) (JJ Asian) (NNS countries))) (PP (IN on) (NP (VBN imported) (NN oil))))) (. .)))
+
+(S1 (S (NP (NN Oil) (NNS prices)) (VP (VBP have) (VP (VBN risen) (NP (NP ($ $) (CD 5)) (PP (IN per) (NP (NP (NN barrel)) (PP (IN since) (NP (DT the) (NNP IMF))) (VP (VBN issued) (NP (PRP$ its) (JJ semi-annual) (JJ economic) (NN outlook)) (PP (IN in) (NP (NNP October))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Asia)) (VP (VBZ has) (NP (NP (JJ little) (NN control)) (PP (IN over) (NP (NN oil)))))) (, ,) (CC but) (S (NP (NNP Robinson)) (VP (VBD said) (SBAR (S (NP (DT the) (NN region)) (VP (MD could) (VP (VB improve) (NP (PRP$ its) (JJ economic) (NNS prospects)) (PP (IN by) (S (VP (VBG calming) (NP (PRP$ its) (JJ political) (NNS waters))))))))))) (. .)))
+
+(S1 (S (NP (NP (CD One) (JJ bright) (NN spot)) (PP (IN in) (NP (DT the) (JJ Asian) (NN landscape)))) (VP (VBZ is) (NP (NP (NNP China)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (PP (IN on) (NP (NP (NN track)) (SBAR (S (VP (TO to) (VP (VB record) (NP (NP (CD 8) (NN percent) (NN growth)) (PP (IN in) (NP (CD 2000))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Robinson)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (JJ main) (NN question)) (VP (VBG facing) (NP (JJ Chinese) (NNS leaders)))) (VP (VBD was) (SBAR (IN whether) (S (NP (PRP they)) (VP (VBP need) (S (VP (TO to) (VP (VB spend) (NP (NP (NNS billions)) (PP (IN of) (NP (NNS dollars))) (PP (IN in) (NP (JJ public) (NNS funds)))) (S (VP (TO to) (ADVP (RBR further)) (VP (VB stimulate) (NP (NP (DT an) (NN economy)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB already)) (VP (VBG expanding))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (NNP Perkin))) (, ,) (NP (NNP Robinson)) (VP (VBD said) (SBAR (S (NP (NP (NNP Asia) (POS 's)) (NN future)) (VP (VBD depended) (PP (IN in) (NP (JJ large) (NN part))) (PP (IN on) (NP (NP (DT the) (NN health)) (PP (IN of) (NP (DT the) (NNP United) (NNPS States))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBD disputed) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP predict) (ADVP (RB dramatically)) (VP (VBG slowing) (NP (NP (NN growth)) (VP (VBG _) (NP (NP (DT the) (JJ so-called) (JJ hard) (NN landing) (NNS _)) (PP (IN for) (NP (DT the) (NNP American) (NN economy)))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (NP (DT The) (NNS chances)) (PP (IN of) (NP (NP (DT that)) (VP (VBG happening))))) (VP (VBP are) (NP (QP (JJR less) (IN than) (CD 40)) (NN percent)))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said) (, ,) (`` ``) (ADJP (RB substantially) (JJR less))) (. .) ('' '')))
+
+(S1 (NP (CD NYT-11-24-00) (NN 2052EST)))
+

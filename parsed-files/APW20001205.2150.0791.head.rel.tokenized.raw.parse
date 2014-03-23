@@ -1,0 +1,28 @@
+(S1 (NP (NP (CD APW20001205.2150.0791) (NN NEWS) (NN STORY)) (QP (CD 2000-12-05) (CD 21:51:55))))
+
+(S1 (NP (NNP Finland-Nokia)))
+
+(S1 (S (NP (NNP Nokia)) (VP (VBZ Extends) (NP (JJ Annual) (NN Growth) (NN Forecast)))))
+
+(S1 (S (NP (NNP HELSINKI)) (, ,) (NP (NP (NNP Finland)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (NNP Nokia) (NNS shares)) (VP (VBD jumped) (NP (QP (RB nearly) (CD 16)) (NN percent)) (NP (NNP Tuesday)) (SBAR (IN after) (S (NP (DT the) (NN company)) (VP (VP (VBD extended) (NP (NP (PRP$ its) (NNS targets)) (PP (IN of) (NP (QP (IN up) (TO to) (CD 35) (NN percent)) (JJ annual) (NN revenue) (NN growth)))) (PP (IN into) (NP (CD 2003)))) (CC and) (VP (VBD said) (SBAR (S (NP (NP (PRP$ its) (NN share)) (PP (IN of) (NP (DT the) (JJ cellular) (NN phone) (NN market)))) (VP (VBD was) (ADVP (RB now)) (NP (QP (JJR more) (IN than) (CD 30)) (NN percent))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (NP (DT The) (NNS opportunities)) (PP (IN in) (NP (DT the) (NN future)))) (VP (VBP are) (ADJP (JJ enormous)) (SBAR (IN as) (S (NP (PRP we)) (VP (VBP enter) (NP (NP (DT an) (JJ unprecedented) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN mobility)) (, ,) (NP (NNP Internet)) (, ,)) (VP (VBD digitized) (SBAR (S (NP (NNS media) (CC and) (JJ other) (NN content)) (VP (MD can) (VP (VP (VB be) (ADJP (JJ combined))) (CC and) (VP (VB become) (ADJP (JJ available) (PP (TO to) (NP (RB almost) (NN anyone)))) (, ,) (ADVP (RB anytime) (CC and) (RB anywhere)))))))))))))))) (, ,) ('' '') (NP (NP (NNP Nokia) (POS 's)) (NNP Chief) (NNP Executive) (NNP Jorma) (NNP Ollila)) (VP (VBD told) (NP (NP (NNS investors)) (PP (IN in) (NP (NNP London))))) (. .)))
+
+(S1 (S (NP (NP (NNP Nokia) (POS 's)) (JJ upbeat) (NN market) (NN assessment)) (VP (VBZ comes) (PP (IN amid) (NP (NP (VBG mounting) (NNS doubts)) (PP (IN over) (NP (NP (DT the) (NN industry) (POS 's)) (NN future))))) (SBAR (IN as) (S (NP (NN technology) (CC and) (NN telecommunication) (NNS shares)) (VP (VBP have) (VP (VBN dropped) (ADVP (RB sharply)) (PP (IN in) (NP (JJ recent) (NNS weeks)))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Shares)) (PP (IN of) (NP (NNP Nokia)))) (VP (VBD rose) (NP (NP ($ $) (CD 7)) (, ,) (CC or) (NP (QP (RB almost) (CD 16)) (NN percent)) (, ,)) (S (VP (TO to) (VP (VB close) (PP (IN at) (NP (NP ($ $) (CD 51.38)) (NP (NNP Tuesday)))) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Nokia)) (, ,) (NP (NP (DT the) (NN world) (POS 's)) (JJS biggest) (JJ mobile) (NN phone) (NN maker)) (, ,)) (VP (VBD predicted) (NP (RBR earlier) (DT this) (NN year)) (SBAR (IN that) (S (NP (PRP it)) (VP (MD would) (VP (VB have) (NP (NP (JJ annual) (NN growth)) (PP (IN of) (NP (QP (CD 25) (NN percent) (TO to) (CD 35)) (NN percent)))) (PP (IN through) (NP (CD 2002)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD said) (NP (NNP Tuesday)) (SBAR (IN that) (S (VP (MD would) (ADVP (RB likely)) (VP (VB continue) (NP (DT another) (NN year))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (ADVP (RB also)) (VP (VP (VBD claimed) (NP (NP (DT a) (NN market) (NN share)) (PP (IN of) (NP (QP (JJR more) (IN than) (CD 30)) (NN percent))))) (CC and) (VP (VBD said) (SBAR (S (NP (NP (NN growth)) (PP (IN in) (NP (PRP$ its) (JJ key) (JJ mobile) (NNS phones) (NN business)))) (VP (VBZ continues) (S (VP (TO to) (VP (VB outpace) (NP (NP (DT that)) (PP (IN of) (NP (PRP$ its) (NNS competitors)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Nokia)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ mobile) (NN phone) (NNS users))) (NP (NNP worldwide))) (VP (MD will) (VP (VB surpass) (NP (QP (CD 1) (CD billion))) (PP (IN during) (NP (NP (DT the) (JJ first) (NN half)) (PP (IN of) (NP (NP (NP (CD 2002)) (PP (RB rather) (IN than) (PP (IN by) (NP (DT the) (NN end))))) (NP (CD 2002)))))) (, ,) (SBAR (IN as) (S (NP (PRP it)) (VP (VBD had) (ADVP (RBR earlier)) (VP (VBN predicted)))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Tuesday))) (, ,) (NP (DT the) (NN company)) (ADVP (RB also)) (VP (VBD revealed) (SBAR (SBAR (IN that) (S (NP (DT a) (NN deal)) (VP (VBD announced) (NP (JJ last) (NN week)) (PP (IN with) (NP (NP (NNP Redmond)) (, ,) (NP (NNP Washington)))) (NP (JJ -based) (NN AT&AMP))))) (: ;) (NN T) (S (NP (NNP Wireless)) (VP (TO to) (VP (VB upgrade) (SBAR (S (NP (NP (PRP$ its) (NN network)) (PP (IN in) (NP (DT the) (NNP United) (NNPS States)))) (VP (VBD was) (VP (VBN valued) (PP (IN at) (NP (NP (QP (JJR more) (IN than) ($ $) (CD 1) (CD billion))) (PP (IN over) (NP (CD four) (NNS years)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Nokia)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (JJS biggest) (NN deal)) (PP (IN of) (NP (PRP$ its) (NN kind))) (PP (IN for) (NP (DT the) (NNP Finland) (JJ -based) (NN company)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP October))) (, ,) (NP (NNP Nokia)) (VP (VBD unveiled) (NP (NP (JJ strong) (JJ third) (NN quarter) (NNS results)) (, ,) (VP (VBG showing) (NP (NP (NP (DT a) (ADJP (CD 40) (NN percent)) (NN increase)) (PP (IN in) (NP (JJ net) (NN profit)))) (CC and) (NP (NP (DT a) (ADJP (CD 50) (NN percent)) (NN increase)) (PP (IN in) (NP (JJ net) (NNS sales)))))))) (. .)))
+

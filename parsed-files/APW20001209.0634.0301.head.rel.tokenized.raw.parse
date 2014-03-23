@@ -1,0 +1,52 @@
+(S1 (NP (NP (CD APW20001209.0634.0301) (NN NEWS) (NN STORY)) (QP (CD 2000-12-09) (CD 06:42:09))))
+
+(S1 (NP (JJ Recount-Bush)))
+
+(S1 (NP (NP (NNP Bush)) (VP (VBG Retreating) (PP (IN After) (NP (NNP Court) (NN Setback))))))
+
+(S1 (NP (NP (NNP AUSTIN)) (, ,) (NP (NP (NNP Texas)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-)) (NP (NNP _) (NNP Gov))) (. .)))
+
+(S1 (S (NP (NNP George) (NNP W.) (NNP Bush)) (VP (VBZ is) (VP (VBG retreating) (PP (TO to) (NP (NP (DT the) (NN solitude)) (PP (IN of) (NP (NP (PRP$ his) (JJ central) (NNP Texas) (NN ranch)) (PP (IN after) (NP (NP (DT a) (JJ stunning) (NN court) (NN setback)) (PP (IN in) (NP (DT the) (JJ long) (JJ drawn-out) (JJ presidential) (NN contest))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Texas) (NN governor) (CC and) (JJ Republican) (NN nominee)) (VP (VBD was) (VP (VP (VBN described) (PP (IN as) (PP (IN in) (NP (JJ good) (NNS spirits))))) (, ,) (CC but) (VP (VBN disappointed) (PP (IN after) (NP (NP (NP (NNP Friday) (POS 's)) (NNP Florida) (NNP Supreme) (NNP Court) (NN order)) (PP (IN for) (NP (NP (DT an) (JJ immediate) (NN recount)) (PP (IN of) (NP (NP (JJ so-called) (NNS undervotes)) (VP (VBN missed) (PP (IN in) (NP (NN machine) (NNS tallies))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ dispirited) (NNP Bush) (NN camp)) (VP (VBD had) (VP (VBN hoped) (PP (IN for) (NP (NP (DT a) (NN victory) (NN celebration)) (PP (IN in) (NP (NP (DT the) (NNS streets)) (PP (IN of) (NP (NNP Austin) (DT this) (NN weekend))))))))) (. .)))
+
+(S1 (S (ADVP (RB Instead)) (, ,) (NP (NP (NNP Bush)) (CC and) (NP (NP (PRP$ his) (NN wife)) (, ,) (NP (NNP Laura)) (, ,))) (VP (VBD were) (VP (VBN headed) (PRT (RP back)) (NP (NNP Saturday)) (PP (TO to) (NP (NP (DT the) (VBN isolated) (JJ 1,600-acre) (NN ranch)) (PP (IN about) (NP (NP (DT a) (JJ two-hour) (NN drive) (NN north)) (PP (IN of) (ADVP (ADVP (RB here)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBZ has) (VP (VBN spent) (NP (NP (JJ much)) (PP (IN of) (NP (PRP$ his) (NN time)))) (PP (IN since) (NP (DT the) (NN election))))))))))))))) (. .)))
+
+(S1 (S (NP (DT No) (JJ public) (NNS appearances)) (VP (VBD were) (VP (VBN planned) (PP (IN throughout) (NP (DT the) (NN weekend))))) (. .)))
+
+(S1 (S (CC And) (, ,) (PP (IN unlike) (NP (NP (JJ other) (JJ recent) (NNP Bush) (NNS visits)) (PP (TO to) (NP (DT the) (NN ranch))) (PP (IN near) (NP (NP (NNP Waco)) (, ,) (NP (NNP Texas)))))) (, ,) (NP (DT no) (NNS plans)) (VP (VBD were) (VP (VBN made) (S (VP (TO to) (VP (VB bring) (NP (NNS reporters)) (PP (IN out) (PP (IN for) (NP (NP (NN picture-taking) (NNS sessions)) (PP (IN with) (NP (NP (JJ prominent) (NNS visitors)) (CC or) (NP (NP (JJ would-be) (NNS members)) (PP (IN of) (NP (DT a) (NNP Bush) (NN Cabinet)))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP We)) (VP (VBP 've) (VP (VBN run) (PP (IN out) (PP (IN of) (NP (NN reaction))))))) (, ,) ('' '') (NP (NNP Bush) (NN spokesman) (NNP Dan) (NNP Bartlett)) (VP (VBD said) (NP (NNP Friday) (NN night))) (. .)))
+
+(S1 (S (`` ``) (ADVP (RB Obviously)) (, ,) (NP (NN everybody)) (VP (VBD was) (ADJP (JJ disappointed))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Juleanna) (NNP Glover) (NNP Weiss)) (, ,) (NP (NP (DT a) (NN spokeswoman)) (PP (IN in) (NP (NP (DT the) (NNP Bush) (JJ -Cheney) (NN transition) (NN headquarters)) (PP (IN in) (NP (NP (NNP McLean)) (, ,) (NP (NNP Va) (. .))))))) (, ,)) (VP (VBD called) (S (NP (DT the) (NN development)) (`` ``) (NP (NP (RB just) (DT another) (NN dip)) (PP (IN in) (NP (DT the) (NN roller) (NN coaster)))))) (. .) ('' '')))
+
+(S1 (S (CC But) (NP (NNP Bush) (NNS officials)) (VP (VBD did) (NP (JJ little)) (S (VP (TO to) (VP (VB hide) (NP (PRP$ their) (JJ obvious) (NN dismay)) (PP (IN with) (NP (NP (NP (NNP Friday) (POS 's)) (ADJP (JJ 4-3) (NN state)) (NNP Supreme) (NNP Court) (NN ruling)) (VP (VBG favoring) (NP (NNP Democrat) (NNP Al) (NNP Gore))))))))) (. .)))
+
+(S1 (S (NP (NNPS Republicans)) (VP (VBD were) (ADVP (RB briefly)) (VP (VBN buoyed) (PP (IN by) (NP (NP (DT a) (NN pair)) (PP (IN of) (NP (NN court) (NNS rulings))) (PP (IN on) (NP (NP (JJ absentee) (NNS ballots)) (SBAR (WHNP (WDT that)) (S (VP (VBD went) (PP (IN in) (NP (NP (NNP Bush) (POS 's)) (NN favor))) (PP (IN in) (NP (NP (NNP Seminole) (CC and) (NNP Martin) (NNS counties)) (ADVP (RB earlier)))) (NP (NNP Friday))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (JJ upbeat) (NN mood)) (VP (ADVP (RB quickly)) (VBD evaporated) (PP (IN with) (NP (DT the) (NN state) (NNP Supreme) (NNP Court) (VBG ruling)))) (. .)))
+
+(S1 (SINV (`` ``) (S (ADVP (RB Obviously)) (, ,) (-LRB- -LRB-) (NP (NNP Bush)) (-RRB- -RRB-) (VP (VBD was) (ADJP (NP (DT a) (JJ good) (NN bit)) (JJR happier)) (PP (IN after) (NP (DT the) (NNP Seminole) (CC and) (NNP Martin) (NNS decisions))) (SBAR (IN than) (S (NP (PRP he)) (VP (VBD was) (PP (IN after) (NP (DT this) (JJ 4-3) (NN decision)))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP James) (NNP A.) (NNP Baker) (NNP III)) (, ,) (NP (NP (NP (DT the) (NN head)) (PP (IN of) (NP (NP (NNP Bush) (POS 's)) (JJ legal) (NN team)))) (CC and) (NP (NP (DT a) (JJ former) (NN secretary)) (PP (IN of) (NP (NN state)))))) (. .)))
+
+(S1 (S (ADVP (RB Still)) (PRN (, ,) (S (NP (PRP he)) (VP (VBD added))) (, ,)) (`` ``) (NP (NNP Governor) (NNP Bush)) (VP (VBZ is) (UCP (PP (IN in) (NP (JJ fine) (NNS spirits))) (CC and) (RB quite) (ADJP (JJ prepared) (S (VP (TO to) (VP (VB see) (NP (DT this)) (PP (IN through) (PP (TO to) (NP (PRP$ its) (JJ ultimate) (NN conclusion)))) (SBAR (IN because) (S (NP (PRP he)) (VP (VBZ feels) (ADVP (RB very) (RB confidently)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ has) (VP (VP (VBN won) (NP (DT this) (NN election))) (CC and) (VP (VBD won) (NP (PRP it)) (NP (QP (JJR more) (IN than) (CD one)) (NN time)))))))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Bush)) (VP (VBD went) (PRT (RP on)) (PP (IN with) (NP (DT a) (NN party))) (PP (IN at) (NP (NP (NP (NP (DT the) (NN governor) (POS 's)) (NN mansion)) (PP (IN for) (NP (PRP$ his) (NN staff)))) (CC and) (NP (PRP$ his) (NNP Secret) (NNP Service) (NN detail)))) (NP (NNP Friday) (NN evening))) (. .)))
+
+(S1 (S (PP (ADVP (RB Even)) (IN before) (NP (DT the) (NN court) (NN setback))) (, ,) (NP (NNP Bush)) (VP (VBD was) (ADJP (RBR more) (JJ muted)) (NP (NNP Friday)) (SBAR (IN than) (S (NP (PRP he)) (VP (VBZ has) (VP (VBN been) (PP (IN in) (NP (NNS days))) (, ,) (S (ADVP (RB perhaps)) (VP (VBG reflecting) (NP (NP (DT an) (NN understanding)) (VP (VBN gleaned) (PP (IN from) (NP (PRP$ his) (NNS lawyers)))) (SBAR (WHNP (IN that)) (S (NP (DT the) (NNP Florida) (JJ high) (NN court)) (VP (MD could) (VP (VB rule) (PP (IN against) (NP (PRP him))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP We)) (VP (VBP 're) (ADJP (JJ prepared) (PRN (, ,) (SBAR (IN if) (S (VP (VBP need) (NP (VB be))))) (, ,)) (S (VP (TO to) (VP (VB take) (NP (PRP$ our) (NN case)) (ADVP (RB back) (PP (TO to) (NP (DT the) (-LRB- -LRB-) (NNP U.S) (. .) (-RRB- -RRB-) (NNP Supreme) (NNP Court)))))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD told) (NP (NNS reporters))) (. .)))
+
+(S1 (S (PP (IN As) (PP (TO to) (SBAR (IN whether) (S (NP (DT the) (VBG trailing) (NN candidate)) (VP (MD should) (VP (VP (VB concede) (NP (DT the) (NN race))) (CONJP (RB rather) (IN than)) (VP (VB prolong) (NP (NP (DT the) (NN process)) (PP (IN in) (NP (DT the) (NNS courts))))))))))) (, ,) (NP (NNP Bush)) (VP (VBD said) (, ,) (`` ``) (S (NP (DT Each) (NN candidate)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB decide) (S (VP (TO to) (VP (VB make) (NP (NP (DT the) (NN decision)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB best)) (PP (IN for) (NP (DT the) (NN country)))))))))))))))))))) (. .) ('' '')))
+
+(S1 (S (SBAR (IN As) (S (NP (NP (NN news)) (PP (IN of) (NP (NP (NNP Friday) (POS 's)) (NN ruling)))) (VP (VBD spread)))) (, ,) (NP (JJ pro-Gore) (NNS demonstrators)) (VP (VBD began) (S (VP (TO to) (VP (VB congregate) (PP (IN outside) (NP (NP (DT the) (NN governor) (POS 's)) (NN mansion))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD were) (ADVP (RB then)) (VP (VBN matched) (PP (IN by) (NP (NP (NP (NNS supporters)) (PP (IN of) (NP (NNP Bush)))) (CC and) (NP (NP (VBG running) (NN mate)) (NP (NNP Dick) (NNP Cheney))))))) (. .)))
+
+(S1 (S (S (NP (NN Car) (NNS horns)) (VP (VBD blared))) (CC and) (S (PP (IN at) (NP (NNS times))) (NP (VBG competing) (NNS demonstrators)) (VP (VBD shouted) (PP (IN at) (NP (CD one) (DT another))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NN nightfall))) (, ,) (S (ADVP (RB however)) (, ,) (NP (DT the) (NNS demonstrators)) (VP (VBD had) (DT all) (VP (VBN left)))) (CC and) (S (NP (DT the) (NN mansion)) (VP (VBD was) (NP (JJ quiet) (NN _)) (SBAR (RB even) (IN though) (S (NP (DT the) (NN party)) (VP (VBD was) (VP (VBG going) (PRT (RP on)) (ADVP (RB inside)))))))) (. .)))
+

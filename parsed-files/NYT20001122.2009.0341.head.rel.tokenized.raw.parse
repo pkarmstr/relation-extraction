@@ -1,0 +1,48 @@
+(S1 (NP (NP (CD NYT20001122.2009.0341) (NN NEWS) (NN STORY)) (QP (CD 2000-11-22) (CD 20:58:00))))
+
+(S1 (NP (NP (CD A8464) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP a) (NNP BC-MASS-NURSE-TRIAL-NYT) (NN &LR)) (: ;) (NP (QP (CD 11-22) (CD 0494))))))
+
+(S1 (NP (NNP BC-MASS-NURSE-TRIAL-NYT)))
+
+(S1 (NP (NP (NN EX-NURSE)) (PP (IN ON) (NP (NP (NN TRIAL)) (PP (IN IN) (NP (JJ SUSPICIOUS) (NN PATIENT) (NNS DEATHS)))))))
+
+(S1 (NP (NP (NP (NN &UR)) (: ;) (NP (NP (NNP By) (NNP CAREY)) (NP (NNP GOLDBERG) (CD &LR))) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR))) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NP (NNP SPRINGFIELD)) (, ,) (NP (NNP Mass.))) (VP (VBD _) (SBAR (S (`` ``) (S (NP (EX There)) (VP (VBD was) (NP (NP (DT a) (NN coldness)) (PP (IN in) (NP (NNP Ward) (NNP C)))))) (, ,) ('' '') (NP (DT the) (NN prosecutor)) (VP (VBD began) (NP (NP (PRP$ his) (JJ wintry) (NN tale)) (PP (IN of) (NP (JJ white-coated) (NN murder)))) (NP (DT this) (NN week)))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (VBD was) (NP (NP (NP (DT a) (JJ deep) (, ,) (JJ eerie) (, ,) (JJ unsettling) (NN feeling)) (SBAR (IN that) (S (NP (NP (NN something)) (ADJP (RB terribly) (, ,) (RB terribly) (JJ wrong))) (VP (VBD was) (VP (VBG happening)))))) (, ,) ('' '') (NP (NNP Assistant) (NNP U.S)))) (. .)))
+
+(S1 (S (NP (NNP Attorney) (NNP William) (NNP Welch) (NNP II)) (VP (VBD went) (PRT (RP on))) (. .)))
+
+(S1 (S (NP (NNS Patients)) (VP (VBD were) (VP (VBG succumbing) (PP (TO to) (NP (JJ sudden) (JJ cardiac) (NN arrest))) (PP (IN at) (NP (DT an) (ADJP (JJ alarming) (CC and) (JJ suspicious)) (NN rate))))) (. .)))
+
+(S1 (S (ADVP (RB Finally)) (, ,) (NP (PRP he)) (VP (VBD said) (, ,) (PP (IN in) (NP (NNP February) (CD 1996))) (, ,) (S (`` ``) (S (NP (CD three) (JJ registered) (NNS nurses)) (VP (VBD came) (ADVP (RB forward)) (S (VP (TO to) (VP (VB report) (NP (NP (DT a) (NN patient) (POS 's)) (, ,) (NP (NP (DT a) (NN health) (NN care)) (NP (NN professional) (POS 's))) (, ,)) (NP (NP (DT a) (NN hospital) (POS 's)) (JJS worst) (NN nightmare))))))) (: :) (S (NP (EX There)) (VP (VBD was) (NP (DT a) (NN killer)) (PP (IN amongst) (NP (PRP them))))))) (. .) ('' '')))
+
+(S1 (S (NP (DT That) (NN killer)) (PRN (, ,) (S (NP (NNS prosecutors)) (VP (VBP charge))) (, ,)) (VP (VBZ is) (NP (NP (NNP Kristen) (NNP Gilbert)) (, ,) (NP (CD 33)) (, ,) (NP (DT a) (JJ former) (NN nurse)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (PP (IN on) (NP (NN trial))) (PP (IN in) (NP (NP (JJ federal) (NN court)) (ADVP (RB here)))) (, ,) (S (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG murdering) (NP (CD four) (NNS patients))) (CC and) (VP (VBG trying) (S (VP (TO to) (VP (VB kill) (NP (CD three) (NNS others)) (PP (IN by) (NP (NN poisoning))))))) (NP (PRP them)) (PP (IN with) (NP (NP (NN epinephrine)) (, ,) (NP (NP (DT a) (NN stimulant)) (SBAR (WHNP (WDT that)) (S (VP (VBD sent) (S (NP (PRP$ their) (NNS hearts)) (VP (VBG racing) (PP (IN out) (PP (IN of) (NP (NN control)))))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Massachusetts)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (CD 12) (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (VBP lack) (NP (DT the) (NN death) (NN penalty)))))))))) (, ,) (CC but) (S (NP (NNP Gilbert) (POS 's)) (VP (VBZ is) (NP (DT a) (NN capital) (NN case)) (ADVP (RB nonetheless)) (, ,) (SBAR (SBAR (IN because) (S (NP (DT the) (VBN alleged) (NNS crimes)) (VP (VBD occurred) (PP (IN on) (NP (JJ federal) (NN property) (NNS _))) (NP (NP (DT the) (NNP Veterans) (NNP Affairs) (NNP Medical) (NNP Center)) (PP (IN in) (NP (NP (NNP Northampton)) (, ,) (NP (NNP Mass.)))))))) (CC And) (SBAR (IN so) (S (NP (DT the) (NN case)) (VP (VBZ is) (VP (VBG being) (VP (VBN tried) (PP (IN in) (NP (NP (JJ federal) (NN court)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS prosecutors)) (VP (VP (MD can)) (, ,) (CC and) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (MD will) (, ,) (VP (VB seek) (NP (DT the) (NN death) (NN penalty)))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT an) (VBG opening) (NN argument)) (PP (IN on) (NP (NNP Monday))))) (, ,) (NP (NP (DT the) (NN defense) (NN lawyer)) (, ,) (NP (NNP David) (NNP P.) (NNP Hoose)) (, ,)) (VP (VBD emphasized) (SBAR (IN that) (S (NP (DT no) (NN one)) (VP (VBD had) (VP (VBN seen) (NP (NNP Gilbert) (NN poison)) (NP (DT the) (NNS patients))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (SBAR (IN that) (S (NP (DT the) (NNS patients)) (VP (VBD were) (ADJP (RB very) (JJ sick))))) (CC and) (SBAR (IN that) (S (NP (NP (NP (DT the) (NN prosecution) (POS 's)) (NNS claims)) (SBAR (WHNP (IN that)) (S (NP (NP (NN evidence)) (PP (IN of) (NP (JJ epinephrine) (NN poisoning)))) (VP (VBD was) (VP (VBN found) (PP (IN in) (NP (NP (DT the) (JJ exhumed) (NNS bodies)) (PP (IN of) (NP (NNS patients)))))))))) (VP (VBD were) (VP (VBN based) (PP (IN on) (NP (JJ shoddy) (NN science))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN case)) (VP (VBZ is) (ADVP (RB really)) (PP (IN about) (`` ``) (NP (NP (DT an) (NN investigation)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD started) (PP (IN with) (NP (DT a) (NN conclusion)))) (CC and) (RB then) (VP (VBD worked) (S (RB backwards) (VP (TO to) (VP (VB fill) (PRT (RP in)) (NP (DT the) (NNS gaps))))))))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (CC And) (NP (DT the) (NN proposition)) (NP (PRP they)) (VP (VBD started) (PP (IN with) (S (VP (VBD was) (SBAR (IN that) (S (S (NP (NNS people)) (VP (VBD were) (VP (VBN injected) (PP (IN with) (NP (NN epinephrine)))))) (, ,) (CC and) (S (NP (NNP Kristen) (NNP Gilbert)) (VP (VBD did) (NP (PRP it)))))))))) (. .) ('' '')))
+
+(S1 (S (SBAR (IN As) (S (NP (NNP Welch)) (VP (VBN depicted) (NP (PRP her))))) (, ,) (NP (NNP Gilbert)) (VP (VP (VBD reveled) (PRT (RP in)) (NP (NP (DT the) (NN excitement) (CC and) (NN attention)) (PP (IN of) (NP (NP (DT the) (NN emergency) (NNS calls)) (VP (VBN made) (SBAR (WHADVP (WRB whenever)) (S (NP (DT a) (JJ life-threatening) (NN situation)) (VP (VBD arose))))))))) (, ,) (CC and) (VP (VBD went) (ADVP (RB out)) (PP (IN of) (NP (NP (PRP$ her) (NN way)) (SBAR (S (VP (TO to) (VP (VB create) (NP (NNS emergencies)) (PP (IN by) (S (VP (VBG injecting) (NP (NP (NNS patients)) (PP (IN with) (NP (NN epinephrine))))))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP She)) (VP (VBD had) (NP (NP (DT a) (JJ particular) (NN reason)) (SBAR (S (VP (TO to) (VP (VBP crave) (NP (DT that) (NN spotlight))))))))) (, ,) (NP (PRP he)) (VP (VBD said) (: :) (S (S (UCP (ADJP (NNP Though) (JJ married)) (CC and) (NP (NP (DT the) (NN mother)) (PP (IN of) (NP (CD two) (NNS boys))))) (, ,) (NP (PRP she)) (VP (VBD began) (NP (DT an) (NN affair)) (PP (IN in) (NP (JJ late) (CD 1995))) (PP (IN with) (NP (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN hospital) (POS 's)) (NN security) (NN police)))) (, ,) (NP (NNP James) (NNP Perrault)))))) (, ,) (CC and) (S (NP (PRP he)) (VP (MD would) (VP (VB be) (VP (VBN summoned) (S (VP (TO to) (VP (VB help) (SBAR (WHADVP (WRB whenever)) (S (NP (DT an) (NN emergency) (NN call)) (VP (VBD was) (VP (VBN made)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Welch)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (NNP Gilbert)) (VP (VBD had) (VP (VBN confessed) (PP (TO to) (NP (NP (NNP Perrault)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD would) (VP (VB testify)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Welch)) (VP (VBD described) (NP (NP (DT a) (JJ pivotal) (NN moment)) (PP (IN on) (NP (NNP Feb))))) (. .)))
+
+(S1 (S (ADVP (NP (NP (CD 15) (, ,) (CD 1996) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT a) (JJ suspicious) (NN colleague)) (PP (IN of) (NP (NP (NNP Gilbert) (POS 's)) (, ,) (NP (NNP Kathy) (NNP Rix)) (, ,)))) (VP (VBD counted) (NP (CD three) (NNS ampules)) (PP (IN in) (NP (NP (NP (DT the) (JJ intensive) (NN care) (NN unit) (POS 's)) (NN medicine) (NN cabinet)) (PP (IN at) (NP (CD 4) (RB p.m) (. .))))))))) (: ;) (NP (DT an) (NN hour))) (RB later)) (, ,) (PP (IN after) (NP (NP (DT an) (NN emergency) (NN call)) (SBAR (WHNP (WDT that)) (S (VP (VBD involved) (NP (NNP Gilbert))))))) (, ,) (NP (PRP she)) (VP (VP (VBD counted) (ADVP (RB again))) (CC and) (VP (VBD found) (NP (NN none))) (, ,) (CC and) (VP (ADVP (RB then)) (VBD saw) (NP (NP (CD three) (JJ broken) (NNS ampules)) (PP (IN in) (NP (DT the) (NN needle) (NN disposal) (NN bucket)))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP She)) (VP (VBD felt) (ADJP (JJ sick) (PP (TO to) (NP (NP (PRP$ her) (NN stomach)) (CC and) (NP (PRP$ her) (NNS knees)))) (PP (IN about) (ADJP (JJ buckled)))))) (, ,) ('' '') (NP (NNP Welch)) (VP (VBD said) (, ,) (`` ``) (SBAR (IN because) (S (NP (PRP she)) (ADVP (RB now)) (VP (VBD knew) (SBAR (WHNP (WP what)) (S (VP (VBD had) (VP (VBN been) (VP (VBG happening) (PP (IN on) (NP (NNP Ward) (NNP C)))))))))))) (. .) ('' '')))
+
+(S1 (NP (CD NYT-11-22-00) (NN 2058EST)))
+

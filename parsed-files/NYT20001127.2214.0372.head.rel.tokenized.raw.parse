@@ -1,0 +1,46 @@
+(S1 (NP (NP (CD NYT20001127.2214.0372) (NN NEWS) (NN STORY)) (QP (CD 2000-11-27) (CD 22:23:00))))
+
+(S1 (NP (NP (CD A2512) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP f) (NNP BC-REPLAY-TV-NYT) (NN &LR)) (: ;) (NP (QP (CD 11-27) (CD 0403))))))
+
+(S1 (NP (NNP BC-REPLAY-TV-NYT)))
+
+(S1 (NP (NP (NP (NN UPHEAVAL)) (, ,) (CC AND) (NP (JJ NEW) (NN FOCUS)) (, ,)) (PP (IN AT) (NP (NNP REPLAYTV)))))
+
+(S1 (NP (NP (NP (NN &UR)) (: ;) (NP (NNP By) (NNP JOHN) (NNP MARKOFF) (NNP &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &UR)) (: ;) (NP (NN &QL))) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NP (NNP SAN) (NNP FRANCISCO) (NNP _) (NNP ReplayTV) (NNP Inc) (. .)) (, ,) (NP (NP (DT a) (JJ pioneering) (NN maker)) (PP (IN of) (NP (JJ digital) (JJ video) (NNS recorders)))) (, ,)) (VP (VBD said) (NP (JJ late) (NNP Monday)) (SBAR (SBAR (IN that) (S (NP (NP (PRP$ its) (NN leader)) (PP (IN of) (NP (CD one) (NN year)))) (VP (VBD had) (VP (VBN resigned))))) (, ,) (SBAR (IN that) (S (NP (PRP it)) (VP (MD would) (VP (VB lay) (PRT (RP off)) (ADVP (RB up) (PP (TO to) (NP (NP (NN half)) (PP (IN of) (NP (PRP$ its) (NN work) (NN force))) (PP (IN of) (NP (CD 260)))))))))) (CC and) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ plans) (S (VP (TO to) (VP (VB reshape) (NP (PRP$ its) (NN business) (NN strategy)))))))))) (. .)))
+
+(S1 (S (PP (IN Along) (PP (IN with) (NP (NNP TiVo) (NNP Inc) (. .)))) (, ,) (NP (NP (DT a) (VBG competing) (NNP Silicon) (NNP Valley) (NN startup) (NN company)) (, ,) (NP (NN Replay))) (VP (VBZ has) (VP (VBN been) (VP (VBG trying) (S (VP (TO to) (VP (VB build) (NP (NP (DT a) (NN market)) (PP (IN for) (NP (NP (JJ computer-based) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP replace) (NP (JJ traditional) (NN videotape) (NNS recorders))) (CC and) (VP (VBP permit) (S (NP (NN television) (NNS viewers)) (VP (VP (TO to) (VP (VP (VB freeze) (NP (NNS programs))) (CC and) (VP (VB rewind)))) (, ,) (CC and) (VP (TO to) (VP (VB create) (NP (NN custom) (`` ``) (NNS channels))))))))))))))))))) (. .) ('' '')))
+
+(S1 (S (PP (IN As) (NP (NP (NN part)) (PP (IN of) (NP (NP (PRP$ its) (NN shift)) (PP (IN in) (NP (NN strategy))))))) (, ,) (NP (NP (NP (NN Replay) (POS 's)) (NN founder)) (, ,) (NP (NNP Anthony) (NNP Wood)) (, ,)) (VP (MD will) (VP (VB become) (NP (NP (DT the) (NN company) (POS 's)) (JJ new) (NN chief) (NN executive)) (, ,) (S (VP (VBG replacing) (NP (NNP Kim) (NNP LeMaster)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB try) (S (VP (TO to) (VP (VB refocus) (NP (PRP$ its) (NN business)) (PP (IN on) (NP (NP (NN software) (NN licensing) (NNS arrangements)) (VP (VBN made) (PP (IN with) (NP (NP (NNS partners)) (, ,) (PP (VBG including) (NP (NP (NN cable) (NN service) (NNS providers)) (CC and) (NP (NP (NNS makers)) (PP (IN of) (NP (NN cable) (NN set-top) (NNS boxes))))))))))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (DT The) (JJ new) (NN business) (NN model)) (VP (VBZ is) (VP (VBN focused) (ADVP (RBR more) (RB intently)) (PP (IN on) (NP (DT the) (NN cable) (NN industry)))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Steve) (NNP Shannon)) (, ,) (NP (NP (NP (NN Replay) (POS 's)) (NN vice) (NN president)) (PP (IN of) (NP (NN marketing))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (DT the) (NN company)) (VP (VBD was) (PP (IN in) (NP (NNS trials))) (PP (PP (IN with) (NP (NP (NNP Time) (NNP Warner)) (, ,) (NP (NNP Comcast)) (, ,) (NP (NNP Charter) (NNPS Communications)))) (CC and) (PP (IN with) (NP (NN AT&AMP) (: ;) (NN T)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ has) (VP (VBN announced) (NP (NP (DT a) (NN development) (NN agreement)) (PP (IN with) (NP (DT the) (NNP Motorola) (NNP Corp)))))) (. .)))
+
+(S1 (S (VP (TO to) (VP (VB build) (NP (PRP$ its) (NN software)) (PP (IN into) (NP (NP (DT a) (JJ new) (NN generation)) (PP (IN of) (NP (NN cable) (NN set-top) (NNS boxes))))))) (. .)))
+
+(S1 (S (NP (NNS Analysts)) (VP (VBD said) (SBAR (IN that) (S (PP (IN despite) (NP (VBG offering) (JJ free) (JJ electronic) (NN service))) (, ,) (PP (IN in) (NP (NP (NN contrast)) (PP (TO to) (NP (NP (NNP TiVo) (POS 's)) (NN subscription) (NN service))))) (, ,) (NP (NNP ReplayTV)) (VP (VBZ has) (VP (VBN trailed) (PP (IN in) (NP (DT the) (NN consumer) (NN market)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP TiVo) (POS 's)) (JJ digital) (NNS recorders)) (VP (VBP are) (VP (VBG being) (VP (VBN manufactured) (PP (IN by) (NP (NNP Sony) (CC and) (NNP Phillips))) (, ,) (SBAR (IN while) (S (NP (NNP ReplayTV) (NNS systems)) (VP (VBP are) (VP (VBG being) (VP (VBN shipped) (PP (IN by) (NP (NNP Panasonic))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NP (NNP Mountain) (NNP View)) (, ,) (NP (NNP Calif) (. .)))))))) (, ,)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB so) (RB far)) (VP (VBN sold) (NP (QP (RB approximately) (CD 20,000)) (NNS units))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (NNP TiVo)) (VP (VBZ has) (VP (VBN had) (NP (DT the) (`` `) (INTJ (UH wow)) ('' ') (NN factor))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Josh) (NNP Bernoff)) (, ,) (NP (NP (DT an) (NN industry) (NN analyst)) (PP (IN at) (NP (NP (NNP Forrester) (NNP Research)) (, ,) (NP (DT a) (NN computer) (NN industry) (NN research) (CC and) (NN consulting) (NN firm)))))) (. .)))
+
+(S1 (S (`` ``) (NP (DT The) (NN result)) (VP (VBZ is) (SBAR (IN that) (S (NP (NN Replay)) (VP (VBZ has) (VP (VBN been) (VP (VBN left) (PP (IN with) (NP (NP (DT a) (VBG weakening) (NN market) (NN position)) (CC and) (NP (NP (DT a) (NN device)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ works) (ADVP (RB well))) (CC but) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (RB as) (JJ great)))))))))))))))) (. .) ('' '')))
+
+(S1 (S (S (ADVP (RB However)) (, ,) (NP (DT that) (NN disadvantage)) (VP (MD will) (VP (VB work) (PP (TO to) (NP (NP (NP (NNP ReplayTV) (POS 's)) (NN advantage)) (PP (IN in) (NP (JJ striking) (NNS deals))))) (PP (IN with) (NP (DT the) (NN cable) (NN industry)))))) (, ,) (NP (PRP he)) (VP (VBD added)) (. .)))
+
+(S1 (S (NP (NNP TiVo)) (VP (VBZ has) (VP (VBN had) (NP (NP (NN difficulty)) (S (VP (VBG building) (NP (NP (NNS alliances)) (PP (IN with) (NP (NP (NN cable) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (RB not) (ADJP (RB generally) (JJ interested) (PP (IN in) (S (VP (VBG showcasing) (NP (VBG competing) (NNS brands))))))))))))))))) (. .)))
+
+(S1 (SINV (PP (IN On) (NP (DT the) (NN horizon))) (VP (VBZ is)) (NP (NP (NNP Microsoft)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (ADVP (RB also)) (ADVP (RB recently)) (VP (VBN entered) (NP (NP (DT the) (NN market)) (PP (IN for) (NP (NP (JJ personal) (JJ video) (NNS recorders)) (PP (IN with) (NP (NP (PRP$ its) (JJ own) (NN system)) (, ,) (VP (VBN called) (S (NP (NNP Ultimate) (NNP TV)))))))))))))) (. .)))
+
+(S1 (NP (CD NYT-11-27-00) (NN 2223EST)))
+

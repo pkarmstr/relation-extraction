@@ -1,0 +1,66 @@
+(S1 (NP (NP (CD APW20001209.0634.0303) (NN NEWS) (NN STORY)) (QP (CD 2000-12-09) (CD 06:44:38))))
+
+(S1 (NP (JJ EU-Summit)))
+
+(S1 (NP (NP (NNP France) (POS 's)) (NNP Chirac) (NNS Fights) (NNP EU) (NNP Deadlock)))
+
+(S1 (S (S (ADJP (JJ NICE))) (, ,) (NP (NP (NNP France)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (NP (CD One)) (PP (IN after) (NP (DT another))) (, ,) (ADVP (RB late) (PP (IN into) (NP (DT the) (NN night)))) (, ,) (SBAR (S (NP (NP (DT the) (NNS leaders)) (PP (IN of) (NP (NNP Europe)))) (VP (VBD filed) (PP (IN into) (NP (NP (DT a) (JJ small) (, ,) (JJ windowless) (NN room)) (PP (IN for) (NP (NP (JJ private) (NNS chats)) (PP (IN with) (NP (NNP French) (NNP President) (NNP Jacques) (NNP Chirac))) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB determine) (NP (NP (DT the) (NN future)) (PP (IN of) (NP (DT the) (NNP European) (NNP Union)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Chirac)) (VP (VBD was) (VP (VBG fighting) (S (VP (TO to) (VP (VB break) (NP (NP (DT a) (NN deadlock)) (PP (IN over) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB modify) (NP (NP (NP (DT the) (NN 15-nation) (NN EU) (POS 's)) (JJ decision-making) (NNS mechanisms)) (SBAR (S (VP (TO to) (VP (VB cope) (PP (IN with) (NP (NP (PRP$ its) (JJ planned) (NN expansion)) (PP (IN into) (NP (DT the) (JJ former) (JJ communist) (NNP East))))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Saturday) (NN morning))) (, ,) (SBAR (IN after) (S (NP (PRP he)) (VP (VBD 'd) (VP (VBN finished) (VP (VBG seeing) (NP (DT the) (JJ other) (CD 14) (JJ EU) (NNS leaders))))))) (, ,) (NP (NNP Chirac)) (VP (VBD was) (VP (VBN scheduled) (S (VP (TO to) (VP (VB send) (NP (PRP them)) (NP (NP (DT a) (NN draft) (NN Treaty)) (PP (IN of) (NP (JJ Nice) (NNS _)))) (NP (NP (DT a) (NN blueprint)) (PP (IN for) (S (VP (VBG running) (NP (NP (DT the) (NN bloc)) (PP (IN of) (NP (QP (CD 370) (CD million)) (NNS people)))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ prepares) (PP (IN for) (NP (QP (DT a) (NN dozen)) (JJ new) (NNS members))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ His) (NNS efforts)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD took) (NP (NN place)) (PP (IN in) (NP (NP (DT the) (NN midst)) (PP (IN of) (NP (NP (DT a) (JJ crucial) (JJ three-day) (NN EU) (NN summit)) (PP (IN in) (NP (DT this) (JJ French) (NN resort) (NN city)))))))))) (, ,)) (VP (VBD were) (NP (NP (DT a) (NN step)) (PP (IN toward) (NP (NP (DT the) (NN agreement)) (SBAR (WHNP (WDT that)) (S (NP (NN everyone)) (VP (VBD gathered) (ADVP (RB here))))))) (SBAR (S (VP (VBZ says) (SBAR (S (S (VP (VBZ is) (NP (JJ necessary) (NN _)))) (CC but) (S (NP (NN nobody)) (VP (VBZ thinks) (SBAR (S (VP (MD will) (VP (VB be) (ADJP (JJ easy))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (NN Everybody)) (VP (VBZ has) (S (VP (TO to) (VP (VB be) (ADJP (JJ prepared) (S (VP (TO to) (VP (VB take) (NP (NP (DT a) (NN step)) (PP (IN toward) (NP (NN compromise))))))))))))) (, ,) ('' '') (NP (NNP Chirac)) (VP (VBD told) (NP (DT a) (NN news) (NN conference)) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD prepared) (S (VP (TO to) (VP (VB host) (NP (DT the) (NNS talks))))))))) (. .)))
+
+(S1 (S (NP (NN Failure) (S (VP (TO to) (VP (VB find) (NP (DT an) (NN agreement) (SBAR (IN before) (S (NP (DT the) (NN summit)) (VP (VBZ ends) (SBAR (S (VP (MD could) (VP (VP (VB push) (NP (DT the) (NN EU)) (PP (IN into) (NP (DT a) (JJ prolonged) (NN crisis)))) (CC and) (VP (VB dash) (NP (NP (DT the) (NNS hopes)) (PP (IN of) (NP (NNPS Poles) (, ,) (NNPS Hungarians) (, ,) (NNPS Czechs) (CC and) (NNS others))))))))))))))))) (VP (VBG seeking) (S (VP (TO to) (VP (VB join) (NP (NP (DT the) (NN EU)) (PP (IN over) (NP (DT the) (JJ next) (QP (CD two) (CC or) (CD three)) (NNS years)))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Painfully)) (ADJP (JJ aware) (PP (IN of) (NP (DT the) (JJ high) (NNS stakes))))) (, ,) (NP (NNS leaders)) (VP (VBD were) (ADJP (JJ hopeful) (SBAR (S (NP (DT an) (NN agreement)) (VP (MD could) (VP (VB be) (VP (VBN reached) (SBAR (IN as) (S (NP (NP (DT the) (NN summit)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD started) (NP (NNP Thursday))))) (, ,)) (VP (VBZ drags) (PRT (RP on)) (PP (IN through) (NP (DT the) (NN weekend))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB want) (S (VP (TO to) (VP (VB speculate) (PP (IN about) (NP (NN failure))))))))) (, ,) ('' '') (NP (NNP Swedish) (NNP Prime) (NNP Minister) (NNP Goeran) (NNP Persson)) (VP (VBD told) (NP (NNS reporters)) (PP (IN after) (NP (NP (PRP$ his) (JJ 15-minute) (NN meeting)) (PP (IN with) (NP (NNP Chirac)))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB think) (SBAR (S (NP (DT that)) (VP (VBZ is) (PP (IN in) (NP (DT the) (NNS cards)))))))) (. .)))
+
+(S1 (S (NP (DT All) (JJ political) (NN logic)) (VP (VBZ tells) (NP (PRP me)) (S (NP (PRP we)) (VP (MD 'll) (ADVP (RB finally)) (VP (VB find) (NP (NP (DT an) (NN agreement)) (PP (IN over) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB distribute) (NP (NN power)))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Chirac)) (VP (VBZ has) (NP (DT a) (JJ particular) (NN problem))) (. .)))
+
+(S1 (S (PP (IN As) (NP (NP (DT the) (NN EU) (POS 's)) (JJ current) (NN chairman))) (, ,) (NP (PRP he)) (VP (VBZ 's) (VP (VBN supposed) (S (VP (TO to) (VP (NN broker) (NP (DT a) (NN compromise))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBZ 's) (ADVP (RB also)) (VP (VBG defending) (NP (NP (NNP France) (POS 's)) (NN corner)) (PP (IN in) (NP (NP (DT a) (NN fight)) (PP (IN with) (NP (NNP Germany))) (VP (VBG _) (NP (NP (DT the) (NN summit) (POS 's)) (JJS knottiest) (NN problem))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (DT every) (NN nation)) (VP (VBZ is) (VP (VBG fighting) (S (VP (TO to) (VP (VB maximize) (NP (PRP$ its) (NN voice)) (PP (IN in) (NP (DT the) (VBN reformed) (NN union)))))))))) (, ,) (NP (JJ other) (NNS leaders)) (VP (VBP believe) (SBAR (S (NP (NN summit) (NN success)) (VP (VBZ hinges) (PP (IN on) (S (VP (VBG resolving) (NP (NP (DT the) (NN wrangle)) (PP (IN between) (NP (NNP Paris) (CC and) (NNP Berlin)))) (PP (IN over) (SBAR (WHNP (WP who)) (S (VP (VBZ controls) (NP (NP (DT the) (JJS most) (NNS votes)) (PP (IN in) (NP (NP (DT the) (NN EU) (POS 's)) (JJ policy-setting) (NNS councils))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Germany)) (, ,) (S (NP (PRP$ its) (NN population)) (VP (JJ swollen) (PP (TO to) (NP (QP (CD 82) (CD million)))) (PP (IN by) (NP (NN reunification))))) (, ,) (VP (VBZ wants) (S (NP (PRP$ its) (NN voting) (NN weight)) (VP (VBN increased) (S (VP (TO to) (VP (VB reflect) (NP (NP (PRP$ its) (NN position)) (PP (IN as) (NP (NP (DT the) (NN EU) (POS 's)) (JJS biggest) (NN nation)))))))))) (. .)))
+
+(S1 (S (NP (NNP France)) (VP (VBZ says) (SBAR (S (NP (DT that)) (VP (VBZ strikes) (PP (IN at) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (JJ postwar) (NNP Franco) (JJ -German) (NN parity))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD formed) (NP (NP (DT the) (NN foundation)) (PP (IN of) (NP (NP (NP (NNP Europe) (POS 's)) (NN drive)) (PP (IN for) (NP (NN unity))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Paris)) (VP (VBZ defends) (NP (NP (DT a) (NN status) (NN quo)) (SBAR (WHNP (WDT that)) (S (VP (VBZ gives) (NP (NNP Germany)) (NP (NP (JJ equal) (NN voting) (NNS rights)) (PP (IN with) (NP (NP (NNP France)) (, ,) (NP (NNP Italy)) (CC and) (NP (NNP Britain))))) (SBAR (RB even) (IN though) (S (NP (NP (PRP they)) (NP (DT each))) (VP (VBP have) (NP (QP (JJR fewer) (IN than) (CD 60) (CD million)) (NNS citizens)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (JJR smaller) (NNS nations)) (VP (VBP are) (VP (VBG struggling) (S (VP (TO to) (VP (VB avoid) (S (VP (VBG having) (S (NP (PRP$ their) (NNS rights)) (VP (VBN overwhelmed) (PP (IN by) (NP (NP (DT the) (NNS maneuvers)) (PP (IN of) (NP (DT the) (`` ``) (JJ big) (CD four)))))))))))))) (. .) ('' '')))
+
+(S1 (S (SBAR (IN Although) (S (NP (DT no) (JJ early) (NN breakthrough)) (VP (VBD was) (PP (IN in) (NP (NN sight)))))) (, ,) (NP (NNS leaders)) (VP (VBD hinted) (SBAR (S (NP (DT the) (NN group)) (VP (VBD was) (VP (VBG edging) (PP (IN toward) (NP (DT a) (NN deal)))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBD came) (ADVP (RB away)) (ADJP (RB reasonably) (JJ optimistic)))) (, ,) ('' '') (NP (NNP French) (NNP Prime) (NNP Minister) (NNP Lionel) (NNP Jospin)) (VP (VBD said) (PP (IN after) (NP (NP (CD one) (NN round)) (PP (IN of) (NP (NNS talks))) (NP (NNP Thursday))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP We)) (VP (MD can) (RB n't) (VP (VB say) (SBAR (S (S (NP (EX there)) (VP (VBD was) (NP (NN movement)))) (, ,) (CC but) (S (ADVP (RB maybe)) (NP (EX there)) (VP (VBD was) (NP (DT a) (NN willingness) (S (VP (TO to) (VP (VB move))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNS Suggestions)) (PP (IN of) (NP (NN compromise)))) (VP (VBD appeared) (PP (IN on) (NP (NP (DT the) (JJ contentious) (NN issue)) (PP (IN of) (SBAR (WHNP (WHADJP (WRB how) (JJ many)) (NNS seats)) (S (NP (DT each) (NN nation)) (VP (VBZ has) (PP (IN on) (NP (NP (NP (DT the) (NN EU) (POS 's)) (NN executive) (NN body)) (, ,) (NP (DT the) (NNP European) (NNP Commission))))))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB prevent) (NP (DT the) (NNP Commission)) (PP (IN from) (S (VP (VBG becoming) (ADJP (JJ top-heavy)) (PP (IN after) (NP (DT the) (NN expansion))))))))) (, ,) (NP (JJR bigger) (NNS nations)) (VP (VBP have) (VP (VBN agreed) (S (VP (TO to) (VP (VB give) (PRT (RP up)) (NP (PRP$ their) (JJ second) (NN seat)) (, ,) (SBAR (IN so) (S (NP (DT all)) (VP (MD will) (VP (VB have) (NP (NN one) (DT each))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Plans) (S (VP (TO to) (VP (VB go) (PP (IN beyond) (NP (DT that))))))) (, ,) (SBAR (S (VP (TO to) (VP (VB introduce) (NP (NP (DT a) (NN rotation)) (SBAR (WHADVP (WRB where)) (S (NP (DT some)) (VP (MD would) (VP (VB be) (ADVP (RB temporarily)) (PP (IN without) (NP (DT a) (NN seat)))))))))))) (, ,)) (VP (VBD were) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (ADJP (JJ shelved))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN compromise)) (ADVP (RB also)) (VP (VBD seemed) (ADJP (JJ likely) (PP (IN on) (S (NP (DT another) (JJ central) (NN issue)) (ADVP (RB _)) (VP (VBG replacing) (NP (JJ unanimous) (NN voting)) (PP (IN with) (NP (NP (NN majority) (NNS decisions)) (PP (IN on) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS issues)) (, ,) (PP (VBG including) (NP (NP (NN transport)) (CC and) (NP (JJ environmental) (NN protection))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (JJ unanimous) (NNS decisions)) (VP (VBD were) (VP (VBN expected) (S (VP (TO to) (VP (VB remain) (NP (NP (DT the) (NN rule)) (PP (IN on) (NP (NP (DT the) (ADJP (RBS most) (JJ sensitive)) (NNS topics)) (, ,) (PP (JJ such) (IN as) (NP (NN taxation) (, ,) (NN immigration) (CC and) (JJ social) (NN security))))))))))) (. .)))
+
+(S1 (S (PP (IN Despite) (NP (DT the) (VBN guarded) (NN confidence))) (, ,) (NP (DT the) (NNS leaders)) (VP (VBD were) (ADJP (JJ aware) (SBAR (IN that) (S (NP (NNS hours)) (VP (VBP _) (ADVP (RB possibly)) (NP (NP (NNS days)) (SBAR (S (NP (NP (CD _)) (PP (IN of) (NP (VBG grueling) (NNS negotiations)))) (VP (VBD were) (RB likely) (ADVP (RB still)) (ADJP (RB ahead) (PP (IN of) (NP (PRP them)))) (SBAR (IN after) (S (NP (PRP they)) (VP (VBP receive) (NP (NP (NP (NNP Chirac) (POS 's)) (NN treaty) (NN draft)) (PP (IN with) (NP (PRP$ their) (NN breakfast) (NNS croissants)))) (NP (NNP Saturday)))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (JJ few)) (VP (VBD felt) (PP (IN like) (S (VP (VBG jeopardizing) (NP (DT the) (NNS negotiations)) (PP (IN by) (S (VP (VBG going) (NP (NN public)) (PP (IN with) (NP (DT the) (NNS details)))))))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP We)) (VP (VBP are) (PP (IN in) (NP (JJ clerical) (NNS sessions)))) (. .)))
+
+(S1 (S (S (S (NP (PRP You)) (VP (VBP know) (PP (IN about) (NP (NP (DT the) (NN secret)) (PP (IN of) (NP (DT the) (NN confessional))))))) (, ,) (CC and) (RB so) (S (NP (PRP I)) (VP (MD can) (RB n't) (VP (VB comment))))) (, ,) ('' '') (NP (NNP Spanish) (NNP Foreign) (NNP Minister) (NNP Josep) (NNP Pique)) (VP (VBD said)) (. .)))
+

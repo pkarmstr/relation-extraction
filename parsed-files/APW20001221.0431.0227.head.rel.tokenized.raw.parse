@@ -1,0 +1,32 @@
+(S1 (NP (NP (CD APW20001221.0431.0227) (NN NEWS) (NN STORY)) (JJ 2000-12-21) (CD 05:47:41)))
+
+(S1 (NP (NN Sandra-Bullock)))
+
+(S1 (NP (NP (NNP Bullock) (NNP Uninjured)) (PP (IN in) (NP (NNP Plane) (NNP Mishap)))))
+
+(S1 (S (NP (NP (NNP JACKSON)) (, ,) (NP (NNP Wyo.)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (NP (DT A) (NN plane)) (VP (VBG carrying) (NP (NP (NN actress) (NNP Sandra) (NNP Bullock)) (CC and) (NP (CD three) (JJ other) (NNS people))))) (VP (VP (VBD missed) (NP (DT a) (NN runway))) (CC and) (VP (VBD crashed) (PP (IN at) (NP (DT the) (NNP Jackson) (NNP Hole) (NNP Airport))) (NP (JJ early) (NNP Wednesday))))))) (. .)))
+
+(S1 (S (NP (NNS Authorities)) (VP (VBD said) (SBAR (S (NP (DT no) (NN one)) (VP (VBD was) (VP (VBN hurt)))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Bullock)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ stars) (PP (IN in) (NP (DT the) (JJ current) (`` ``) (NNP Miss) (NNP Congeniality)))))) (, ,) ('' '')) (VP (VBD was) (PP (IN aboard) (NP (NP (NP (DT the) (NN plane)) (PP (IN with) (NP (CD two) (NN crew) (NNS members)))) (CC and) (NP (DT another) (NN person)))))) (, ,) (NP (NN airport) (NN manager) (NNP George) (NNP Larson)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (DT all)) (VP (VBD were) (VP (VBN uninjured)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ twin-engine) (NNP Hawker) (JJ corporate) (NN jet)) (, ,) (VP (VBN owned) (PP (IN by) (NP (NP (NNP RR) (NNPS Investments)) (PP (IN of) (NP (NNP Texas)))))) (, ,)) (VP (VBD was) (VP (ADVP (RB heavily)) (VBN damaged))) (. .)))
+
+(S1 (S (S (S (NP (DT The) (JJ main) (NN nose) (NN landing) (NN gear)) (VP (VBD was) (VP (VBN sheared) (PRT (RP off))))) (CC and) (S (NP (DT both) (NNS wings)) (VP (VBD were) (VP (ADVP (RB extensively)) (VBN damaged))))) (, ,) (NP (NNP Larson)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NN plane)) (VP (VBD landed) (PP (IN between) (NP (NP (DT a) (NN runway)) (CC and) (NP (NP (NN taxiway)) (PP (IN at) (NP (DT the) (NN airport)))))) (PP (IN in) (NP (JJ northwestern) (NNP Wyoming))) (PP (IN about) (NP (CD 1:30) (RB a.m)))) (. .)))
+
+(S1 (S (S (NP (NP (NN Blizzard) (NNS conditions)) (CC and) (NP (DT a) (JJ high) (NN cross) (NN wind))) (VP (VBD made) (S (NP (NN landing)) (ADJP (RBR more) (JJ difficult) (PP (IN than) (ADJP (JJ usual))))))) (, ,) (NP (NNS authorities)) (VP (VBD said)) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ harsh) (NN weather)) (VP (MD may) (VP (VB have) (VP (VBN disoriented) (NP (NP (NP (DT the) (NN pilot)) (, ,) (NP (NNP Richard) (NNP Campbell)) (, ,) (PP (IN of) (NP (NP (NP (NN <GPE) (NN id=)) (NP (`` ``) (CD e12-20) ('' '') (NNS type=))) (`` ``) (S (NP (NNP NAM)) (`` ``) (VP (VB >Fort) (ADJP (JJ Worth))))))) (, ,) (NP (NNP Texas) (NNP <))) (S (VP (VBG causing) (S (NP (PRP him)) (VP (TO to) (VP (NN mistake) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN ground) (NNS lights)))) (PP (IN for) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (DT the) (NN runway)))))))))))))) (, ,) (NP (NN airport) (NNS officials)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (CD four)) (VP (VP (VBD climbed) (PP (IN out) (PP (IN of) (NP (DT the) (NN wreckage))))) (CC and) (VP (VBD found) (SBAR (S (NP (DT the) (NN airport)) (VP (VBD was) (ADJP (JJ empty))))))) (. .)))
+
+(S1 (S (`` ``) (S (S (IN So) (NP (PRP they)) (VP (VP (VBD walked) (PRT (RP in)) (ADVP (RB here))) (CC and) (VP (VBD found) (NP (DT a) (NN custodian))))) (, ,) (CC and) (S (NP (PRP she)) (VP (VBD called) (NP (NP (DT some) (JJ other) (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD called) (S (NP (NP (DT the) (NN sheriff) (POS 's)) (NN department)))))))))) (, ,) ('' '') (NP (NNP Larson)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT A) (JJ similar) (NN accident)) (VP (VBD occurred) (NP (JJ last) (NN winter)) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ private) (NN airplane)) (VP (VBD landed) (PP (IN in) (NP (DT the) (JJ same) (NN spot))))))) (. .)))
+
+(S1 (S (NP (NNP Larson)) (VP (VBD said) (SBAR (S (NP (DT the) (NN airport)) (VP (VBZ plans) (S (VP (TO to) (VP (VB install) (NP (JJ new) (NN runway) (NNS lights))))))))) (. .)))
+

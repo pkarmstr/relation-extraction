@@ -1,0 +1,34 @@
+(S1 (NP (NP (CD APW20001221.0431.0210) (NN NEWS) (NN STORY)) (JJ 2000-12-21) (CD 05:28:52)))
+
+(S1 (NP (NN Inaugural-Committee)))
+
+(S1 (NP (NP (NNP Bush) (NNPS Names)) (NP (JJ Inaugural) (NNP Committee))))
+
+(S1 (S (NP (NNP WASHINGTON) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-)) (NNP _) (NNP President) (NN -elect) (NNP Bush)) (VP (VBD named) (NP (PRP$ his) (JJ nine-member) (JJ inaugural) (NN committee)) (NP (NNP Wednesday)) (, ,) (S (VP (VBG stacking) (NP (PRP it)) (PP (IN with) (NP (NP (NNS individuals)) (SBAR (WHNP (WP who)) (S (VP (VBD helped) (S (NP (PRP him)) (VP (VB raise) (NP (NP (DT a) (NN record) (QP ($ $) (CD 100) (CD million))) (PP (IN for) (NP (PRP$ his) (JJ presidential) (NN race)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Fred) (NNP Meyer)) (, ,) (NP (NP (NN chairman)) (PP (IN of) (NP (NP (NN Victory) (CD 2000)) (, ,) (NP (NP (DT the) (JJ joint) (NN effort)) (PP (IN between) (NP (DT the) (NNP Bush) (NN campaign)))) (CC and) (NP (DT the) (NNP Republican) (NNP National) (NNP Committee))))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN chairman)) (PP (IN of) (NP (DT the) (JJ inaugural) (NN committee))))))) (. .)))
+
+(S1 (S (NP (CD Four) (JJ other) (NN committee) (NNS members)) (VP (VBD raised) (NP (QP (IN at) (JJS least) ($ $) (CD 100,000))) (PP (IN for) (NP (NP (NNP Bush) (POS 's)) (NN campaign))) (: :) (NP (NP (NNP Bill) (NNP DeWitt) (CC and) (NNP Mercer) (NNP Reynolds)) (, ,) (NP (NP (NNS co-chairs)) (PP (IN of) (NP (NP (DT the) (JJ Ohio-based) (NN investment) (NN firm)) (PP (IN of) (NP (NNP Reynolds) (, ,) (NNP DeWitt) (CC and) (NNP Company)))))) (: ;) (NP (NP (NNP Brad) (NNP Freeman)) (, ,) (NP (DT a) (NNP California) (NN investor))) (: ;) (CC and) (NP (NP (NNP Florida) (NN developer) (NNP Al) (NNP Hoffman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (NP (NP (NN finance) (NN chairman)) (PP (IN for) (NP (NP (NP (NNP Jeb) (NNP Bush) (POS 's)) (JJ gubernatorial) (NN campaign) (CC and) (NN chairman)) (PP (IN of) (NP (PRP$ his) (JJ inaugural) (NN committee)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Freeman)) (, ,) (NP (NP (NN co-chairman)) (PP (IN of) (NP (NP (DT the) (NNP RNC) (NN gala)) (PP (IN at) (NP (NP (DT the) (NNP Republican) (NNP National) (NNP Convention)) (PP (IN in) (NP (NNP Philadelphia))))))) (SBAR (WHNP (WDT that)) (S (VP (VBD raised) (NP (DT a) (NN record) (QP ($ $) (CD 10.1) (CD million))))))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN finance) (NN chairman)) (PP (IN of) (NP (DT the) (JJ inaugural) (NN committee))))))) (. .)))
+
+(S1 (S (NP (NP (NNP GOP) (NNP national) (NNP committeewoman) (NNP Julie) (NNP Finley)) (, ,) (NP (DT another) (NN veteran) (NN fund-raiser)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NN finance) (NN co-chairwoman))))) (. .)))
+
+(S1 (S (NP (NP (NNP Jeanne) (NNP Johnson) (NNP Phillips)) (PP (IN of) (NP (NNP Texas))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VP (VBN raised) (NP (NP (NN money)) (PP (IN for) (NP (NNP Bush))))) (CC and) (VP (VBD ran) (NP (PRP$ his) (CD 1995) (JJ gubernatorial) (NN inauguration))))))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (JJ executive) (NN director)) (PP (IN of) (NP (DT the) (JJ inaugural) (NN committee))))))) (. .)))
+
+(S1 (S (NP (NNP Phillips)) (VP (VBD was) (NP (NP (NN deputy) (NN chairwoman)) (PP (IN of) (NP (NP (NNS operations)) (PP (IN for) (NP (NN Victory) (CD 2000))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN committee) (NNS members)) (VP (VBD met) (NP (NNP Wednesday)) (PP (IN with) (NP (NP (NNS representatives)) (PP (IN of) (NP (NP (DT the) (NNP Joint) (NNP Congressional) (NNP Committee)) (PP (IN on) (NP (NP (JJ Inaugural) (NNS Ceremonies)) (SBAR (S (VP (TO to) (VP (VB discuss) (NP (NP (NNS plans)) (PP (IN for) (NP (DT the) (NNP Jan))))))))))))))) (. .)))
+
+(S1 (NP (CD 20) (NN ceremony) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (NP (NNS representatives)) (PP (IN of) (NP (JJ several) (JJ progressive) (NNS organizations)))) (VP (VBP are) (VP (VBG making) (NP (PRP$ their) (JJ own) (NNS plans)) (PP (IN for) (NP (NNP Jan))))) (. .)))
+
+(S1 (NP (NP (NNP 20)) (: :) (NP (NP (NNS protests)) (PP (IN against) (NP (NP (NP (NNP Bush) (POS 's)) (NNS positions)) (PP (IN on) (NP (NP (JJ such) (NNS issues)) (PP (IN as) (NP (NP (JJ free) (NN trade)) (, ,) (PP (VBG overhauling) (NP (NP (DT the) (NN campaign) (NN finance) (NN system)) (, ,) (NP (DT the) (NN death) (NN penalty)) (CC and) (NP (DT the) (NN environment))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS groups)) (VP (VBP hope) (S (VP (TO to) (VP (VP (VB infiltrate) (NP (DT the) (NN crowd)) (PP (IN at) (NP (DT the) (NN inauguration)))) (CC and) (VP (VP (VBP hold) (NP (NP (JJ anti-Bush) (NNS signs)) (ADVP (RB aloft)))) (, ,) (CC and) (VP (VBP plan) (S (NP (NP (DT a) (JJ week-long) (NN series)) (PP (IN of) (NP (NNS programs)))) (VP (TO to) (VP (VB highlight) (NP (NP (PRP$ their) (NNS objections)) (PP (TO to) (NP (DT the) (JJ new) (NN administration))))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (SBAR (IN Because) (S (NP (NNP Bush)) (VP (VBD won)))) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (JJR more)) (PP (IN of) (NP (NP (DT an) (NN interest)) (PP (TO to) (NP (NN protest)))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NN protest) (NN coordinator) (NNP Adam) (NNP Eidinger)) (, ,) (NP (NP (DT a) (NN veteran)) (PP (IN of) (NP (NP (NP (NNS demonstrations)) (PP (IN at) (NP (DT both) (JJ national) (JJ political) (NNS conventions)))) (NP (DT this) (NN summer)))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP He)) (VP (VBZ needs) (S (VP (TO to) (VP (VB understand) (SBAR (IN that) (S (NP (NP (QP (JJR more) (IN than) (NN half))) (PP (IN of) (NP (DT the) (JJ American) (NN public)))) (VP (VBZ feels) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ does) (RB not) (VP (VB represent) (NP (PRP them))))))))))))) (. .) ('' '')))
+

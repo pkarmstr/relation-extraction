@@ -1,0 +1,82 @@
+(S1 (NP (NP (CD APW20001225.2035.0477) (NN NEWS) (NN STORY)) (QP (CD 2000-12-25) (CD 21:42:22))))
+
+(S1 (NP (NN AOL-Time-Warner)))
+
+(S1 (S (NP (NN Merger) (NNS Foes)) (VP (VBP Focus) (PP (IN on) (NP (NNP AIM) (NNP Service))))))
+
+(S1 (S (S (NP (NNP WASHINGTON)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-)) (VP (VBG _) (S (NP (DT All) (RB else)) (VP (VBG being) (ADJP (JJ equal)))))) (, ,) (NP (NNP Duane) (NNP Roelands)) (VP (MD would) (VP (VB prefer) (S (VP (TO to) (VP (VB dash) (PRT (RP off)) (NP (JJ short) (JJ instant) (NN text) (NNS messages)) (PP (TO to) (NP (NNS co-workers) (CC and) (NNS friends))) (PP (IN with) (NP (NP (DT the) (NN service)) (VP (VBN offered) (PP (IN by) (S (NP (NNP Microsoft)) (VP (VBG _) (NP (NP (DT the) (NN one)) (SBAR (S (NP (PRP he)) (VP (VBZ finds) (NP (NP (JJS easiest)) (SBAR (S (VP (TO to) (VP (VB use))))))))))))))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN for) (NP (NNP Roelands))) (, ,) (S (NP (DT all) (RB else)) (VP (VBZ is) (RB not) (ADJP (JJ equal)))) (: :) (S (NP (PRP$ His) (NN office) (, ,) (NNS clients) (CC and) (RB nearly) (NN everyone) (RB else)) (NP (PRP he)) (VP (VBZ knows) (SBAR (S (VP (VBP use) (NP (NP (NNP America) (NNP Online) (POS 's)) (VBG messaging) (NN system))))))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (, ,) (NP (PRP he)) (VP (VBZ does) (ADVP (RB too))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (EX There)) (VP (VBP are) (NP (NP (NNS features)) (SBAR (WHNP (WDT that)) (S (S (NP (PRP I)) (VP (VBP want))) (CC and) (S (NP (PRP I)) (VP (VBP like)))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Roelands)) (, ,) (NP (DT a) (NNP Web) (NN developer)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ likens) (NP (PRP it)) (PP (TO to) (NP (NP (DT the) (NN battle)) (PP (IN between) (NP (NP (NNS VHS)) (CC and) (NP (NP (JJ Beta) (JJ video) (NNS recorders)) (PP (IN in) (NP (DT the) (CD 1980s)))))))))))) (. .)))
+
+(S1 (S (`` ``) (CC But) (NP (DT the) (NN reality)) (VP (VBZ is) (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBP use) (NP (DT the) (JJR better) (NN product))))) (, ,) (NP (PRP I)) (VP (VBP get) (NP (JJR less) (NN functionality))))) (. .) ('' '')))
+
+(S1 (S (PP (IN For) (NP (DT this) (NN reason))) (, ,) (NP (NP (JJ instant) (JJ messaging) (NNS rivals)) (PP (IN like) (NP (NP (NNP Microsoft)) (, ,) (NP (NP (NNP AT&AMP)) (: ;) (NP (NN T))) (CC and) (NP (NNP ExciteAtHome))))) (VP (VBP maintain) (SBAR (S (NP (PRP$ their) (NNS users)) (VP (MD ought) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB send) (NP (NNS messages)) (PP (TO to) (NP (NN anyone) (RB else))) (, ,) (ADVP (RB regardless) (PP (IN of) (SBAR (WHNP (WP what) (NN service)) (S (NP (PRP they)) (VP (VBP happen) (S (VP (TO to) (VP (VB have)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (RB not) (ADVP (RB currently)) (ADJP (JJ possible))) (. .)))
+
+(S1 (S (NP (DT The) (NNS companies)) (VP (VBP are) (VP (VBG lobbying) (S (NP (DT the) (NNP Federal) (NNPS Communications) (NNP Commission)) (VP (TO to) (VP (VB require) (S (NP (NNP AOL)) (VP (TO to) (VP (VB make) (S (NP (PRP$ its) (NN product)) (ADJP (JJ compatible) (PP (IN with) (NP (NP (DT those)) (VP (VBN offered) (PP (IN by) (NP (NP (NNS competitors)) (PP (IN as) (NP (NP (DT a) (NN condition)) (PP (IN of) (NP (NP (PRP$ its) (NN merger)) (PP (IN with) (NP (NNP Time) (NNP Warner)))))))))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB So) (RB far)) (, ,) (NP (DT the) (NN agency)) (VP (VBZ appears) (S (VP (TO to) (VP (VB favor) (NP (DT a) (ADJP (RBR more) (JJ tailored)) (NN approach)))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NN commission) (POS 's)) (NN staff)) (VP (VBZ has) (VP (VBN recommended) (SBAR (IN that) (S (NP (NN AOL)) (VP (VB be) (VP (VBN required) (S (VP (TO to) (VP (VB make) (S (NP (PRP$ its) (NN system)) (VP (NN work) (PP (IN with) (NP (QP (IN at) (JJS least) (CD one)) (JJ other) (NN provider))))))))))))))) (, ,) (CC but) (S (NP (DT the) (NN requirement)) (VP (MD would) (VP (VB apply) (ADVP (RB only)) (PP (TO to) (NP (NP (JJ advanced) (JJ instant) (VBG messaging) (NNS services)) (VP (VBN offered) (PP (IN over) (NP (NP (NNP Time) (NNP Warner) (POS 's)) (NN cable) (NNS lines))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB How)) (S (NP (DT the) (NN agency)) (VP (VBZ defines) (NP (JJ advanced) (NNS services))))) (VP (VBZ is) (ADJP (JJ unclear))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (MD could) (VP (VB refer) (PP (TO to) (NP (NNS features))) (PP (IN beyond) (NP (NP (NN text)) (VP (VBG messaging) (PRN (, ,) (PP (JJ such) (IN as) (NP (NN video) (NN teleconferencing))) (, ,)) (NP (NP (DT the) (NN sharing)) (PP (IN of) (NP (NNS files) (CC or) (NN messaging))) (PP (IN over) (NP (JJ interactive) (NN television))))))))) (. .)))
+
+(S1 (S (NP (NN Today)) (, ,) (NP (NNS consumers)) (ADVP (RBR more) (RB commonly)) (VP (VB take) (NP (NP (NN advantage)) (PP (IN of) (NP (DT the) (NN garden) (NN variety) (NNS functions))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (NN type) (NP (JJ short) (JJ real-time) (NNS phrases)) (PP (TO to) (NP (NNS others))) (, ,) (S (VP (VBG allowing) (S (NP (PRP them)) (VP (TO to) (VP (`` ``) (VB chat) ('' ') (S (VP (POS ') (ADJP (JJ back-and-forth)) (S (VP (VBG using) (NP (NN text)))))))))))) (. .)))
+
+(S1 (S (PP (IN Unlike) (NP (NN e-mail))) (, ,) (NP (PRP it)) (VP (VP (VBZ 's) (ADJP (JJ instantaneous))) (CC and) (VP (VBZ gets) (NP (NP (DT the) (JJ recipient) (POS 's)) (NN attention)) (ADVP (RB right) (RB away)))) (. .)))
+
+(S1 (S (NP (NNS People)) (VP (MD can) (VP (VB communicate) (PP (IN with) (NP (NP (JJ international) (NNS friends)) (PP (IN without) (NP (DT the) (JJ hefty) (NN phone) (NNS bills))))))) (. .)))
+
+(S1 (S (CC And) (NP (DT the) (NN service)) (VP (VBZ has) (VP (VBN taken) (NP (NN hold)) (PP (IN with) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (NP (UCP (NN hearing) (CC or) (NN speech)) (NNS disabilities))))))))) (. .)))
+
+(S1 (S (PP (IN Unlike) (NP (DT the) (NN telephone))) (, ,) (NP (NNS people)) (VP (MD can) (ADVP (RB discreetly)) (VP (VP (VB interact) (PP (IN with) (NP (NNS others))) (ADVP (RB _))) (CC or) (VP (VB decide) (S (RB not) (VP (TO to)))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (NNS communications)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN ignored))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Jonathan) (NX (NNS Sacks))) (, ,) (NP (NP (DT a) (NN vice) (NN president)) (PP (IN at) (NP (NP (NNP AOL)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ runs) (NP (NP (DT the) (CD two) (VBG leading) (NN messaging) (NNS services) (NX (NX (NNP _) (NNP ICQ)) (CC and) (NX (NNP AIM) (NNP _)))) (PP (IN with) (NP (QP (CD 140) (CD million)) (NNS users))))))))))) (. .)))
+
+(S1 (S (`` ``) (PP (IN On) (NP (DT the) (NN telephone))) (, ,) (NP (PRP you)) (VP (MD can) (RB n't) (VP (VB see) (SBAR (WHADVP (WRB when)) (S (NP (NN somebody)) (VP (VBZ is) (PP (IN near) (NP (DT the) (NN phone)))))))) (. .)))
+
+(S1 (S (NP (PRP You)) (VP (MD can) (RB n't) (VP (VB see) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ convenient)) (SBAR (IN for) (S (NP (PRP them)) (VP (TO to) (VP (VB communicate) (PP (IN with) (NP (PRP you)))))))))))) (. .) ('' '')))
+
+(S1 (S (S (NP (JJ AOL) (NNS rivals)) (VP (VBP say) (SBAR (IN that) (S (SBAR (IN if) (S (NP (JJ instant) (NN messaging)) (VP (VBZ is) (S (VP (TO to) (VP (VB be) (ADJP (ADJP (RB as) (JJ ubiquitous)) (PP (IN as) (NP (DT the) (NN phone) (NN network)))))))))) (, ,) (NP (PRP it)) (VP (VBZ has) (S (VP (TO to) (VP (VB work) (NP (DT the) (JJ same) (NN way)))))))))) (: :) (S (NP (NP (NNS People)) (SBAR (WHNP (WP who)) (S (VP (VBP use) (NP (JJ different) (NNS providers)))))) (VP (MD must) (ADVP (RB still)) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB contact) (NP (CD one) (DT another))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP continue) (S (VP (TO to) (VP (VB lobby) (NP (DT the) (NNP FCC))))) (, ,) (S (VP (VBG hoping) (S (VP (TO to) (VP (VB see) (S (NP (DT the) (NNS conditions)) (VP (VBN broadened) (SBAR (IN before) (S (NP (DT the) (NN agency)) (VP (VBZ issues) (NP (PRP$ its) (JJ final) (NN decision))))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB really) (JJ important)) (S (VP (TO to) (VP (VB get) (NP (DT this) (NN right)) (SBAR (IN before) (S (NP (NN innovation)) (VP (VBZ is) (ADJP (JJ squashed)) (SBAR (IN because) (S (NP (CD one) (NN company)) (VP (VBZ has) (NP (DT a) (NN monopoly))))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Jon) (NNP Englund)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NN government) (NNS affairs))) (PP (IN for) (NP (NNP ExciteAtHome))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (VBZ 's) (ADJP (RB absolutely) (JJ critical)) (SBAR (IN that) (S (NP (NNP Internet) (NNS uses)) (VP (VBP have) (NP (JJ real) (NN choice)) (PP (IN among) (NP (VBG competing) (NNS platforms))))))) (. .) ('' '')))
+
+(S1 (S (S (NP (NNP AOL)) (VP (VBZ has) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ wants) (S (VP (TO to) (VP (VB work) (PP (IN toward) (NP (NN interoperability)))))))))))) (, ,) (CC but) (S (ADVP (RB first)) (VP (VBZ needs) (S (VP (TO to) (VP (VB protect) (NP (NN consumer) (NN privacy) (CC and) (NN security) (S (VP (TO to) (VP (VB prevent) (NP (NP (DT the) (NNS kinds)) (PP (IN of) (NP (NP (NNS problems)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN emerged) (PP (IN in) (NP (DT the) (NN e-mail) (NN world))) (, ,) (PP (IN like) (S (VP (VBG spamming) (NP (CD _) (JJ unwanted) (NN junk) (NNS messages))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NN Company) (NNS officials)) (VP (VBD disagreed) (SBAR (IN that) (S (NP (NP (NNP AOL) (POS 's)) (NN market) (NN share)) (VP (VBD was) (VP (VBG keeping) (PRT (RP out)) (NP (NNS competitors))))))) (. .)))
+
+(S1 (S (NP (NNP AOL) (NNS executives)) (VP (VBD cited) (NP (NP (DT a) (JJ recent) (NN study)) (PP (IN by) (NP (NNP Media) (NNP Metrix))) (VP (VBG indicating) (SBAR (IN that) (S (S (NP (DT the) (JJ messaging) (NNS services)) (VP (VBN offered) (PP (IN by) (NP (NNP Yahoo)))) (. !)) (CC and) (S (NP (NNP Microsoft)) (VP (VBP are) (NP (NP (DT the) (ADJP (JJS fastest) (VBG growing))) (PP (IN in) (NP (DT the) (NNP United) (NNPS States))))))))))) (. .)))
+
+(S1 (SBARQ (WHADVP (WRB Why)) (SQ (NP (PDT all) (DT the) (NN fuss)) (PP (IN over) (NP (NP (DT a) (JJ free) (NN product)) (SBAR (WHNP (WDT that)) (S (NP (NP (NN anyone)) (PRN (, ,) (ADVP (RB even)) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP do) (RB n't) (VP (VB subscribe) (PP (TO to) (NP (NNP AOL)))))))) (, ,))) (VP (MD can) (VP (VB use)))))))) (. ?)))
+
+(S1 (S (S (NP (DT Some)) (VP (VBD pointed) (PP (TO to) (NP (NP (DT the) (JJ recent) (NN demise)) (PP (IN of) (NP (CD two) (JJ instant) (VBG messaging) (NNS competitors))))) (NP (CD _) (NN iCAST)))) (CC and) (S (NP (NNP Tribal) (NNP Voice)) (VP (VBD _) (PP (IN as) (NP (NN evidence) (SBAR (IN that) (S (NP (NP (NNP AOL) (POS 's)) (NN dominance)) (VP (MD could) (VP (VB prevent) (NP (NNS choices)) (PP (IN in) (NP (DT the) (NN market))))))))))) (. .)))
+
+(S1 (S (NP (DT Another) (NN concern)) (VP (VBZ is) (SBAR (IN that) (S (NP (NNP AOL)) (VP (MD could) (VP (VB use) (NP (PRP$ its) (JJ substantial) (NN customer) (NN base)) (S (VP (TO to) (VP (VP (NN tack) (PP (IN on) (NP (JJ new) (JJ advanced) (NNS services)))) (CC and) (ADVP (RB then)) (VP (VB charge) (PP (IN for) (NP (PRP them)))))))))))) (. .)))
+
+(S1 (S (NP (NNS Rivals)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN ability)) (PP (IN of) (NP (JJ various) (NNS services))) (S (VP (TO to) (VP (VB work) (ADVP (RB together)))))) (VP (MD will) (VP (VB become) (ADJP (RB increasingly) (JJ important)) (PP (IN in) (NP (DT the) (NN future)))))))) (. .)))
+
+(S1 (SINV (S (PP (IN For) (NP (NN example))) (, ,) (SBAR (IN as) (S (NP (JJ instant) (NN messaging)) (VP (VBZ migrates) (PP (TO to) (NP (NP (NN cell) (NNS phones)) (CC or) (NP (JJ hand-held) (NN computer) (NNS organizers))))))) (, ,) (NP (NNS consumers)) (VP (MD will) (RB n't) (VP (VB want) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB install) (NP (JJ multiple) (NNS services)) (PP (IN on) (NP (DT these) (NNS devices)))))))))))) (, ,) (VP (VBD said)) (NP (NP (NNP Brian) (NNP Park)) (, ,) (NP (NP (JJ senior) (NN product)) (PP (IN for) (NP (NNP Yahoo) (. !) (NNPS Communications) (NNP Services))))) (. .)))
+
+(S1 (S (`` ``) (S (S (NP (PRP You)) (VP (MD can) (VP (VB have) (NP (NP (DT the) (JJS best) (NN service)) (CC and) (NP (DT the) (JJS coolest) (NNS features)))))) (, ,) (CC but) (S (NP (NN nobody)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB use) (NP (PRP it)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB communicate) (PP (IN with) (NP (JJ other) (NNS services)))))))))))))) (, ,) ('' '') (NP (NNP Park)) (VP (VBD said)) (. .)))
+
+(S1 (NP (NNP ___)))
+
+(S1 (PP (IN On) (NP (DT the) (NN Net)) (: :)))
+
+(S1 (NP (NP (NNP America) (NNP Online) (JJ corporate) (NN site)) (: :) (NP (CD http)) (: :)))
+
+(S1 (NP (NP (NP (JJ IMUnified) (, ,) (NN coalition)) (VP (VBN formed) (PP (IN by) (NP (NNP AT&AMP))))) (: ;) (NP (NP (NN T)) (, ,) (NP (NNP ExciteAtHome) (, ,) (NNP Microsoft))) (: :) (NP (NN http)) (: :)))
+

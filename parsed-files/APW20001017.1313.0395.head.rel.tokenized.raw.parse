@@ -1,0 +1,74 @@
+(S1 (NP (NP (CD APW20001017.1313.0395) (NN NEWS) (NN STORY)) (JJ 2000-10-17) (CD 13:42:09)))
+
+(S1 (NP (NNP Herblock's-Acid-Pen)))
+
+(S1 (NP (NNP Congress) (NNP Library) (NNP Honors) (NN Cartoonist)))
+
+(S1 (S (NP (NNP WASHINGTON) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-)) (NNP _) (NNP Herbert) (NNP Lawrence) (NNP Block)) (VP (VBZ is) (RB not) (ADJP (JJ subtle))) (. .)))
+
+(S1 (S (CC But) (ADVP (RB then)) (NP (NN subtlety)) (VP (VBZ is) (RB not) (NP (NP (DT a) (NN trait)) (PP (IN of) (NP (NP (JJ political) (NNP cartoonists)) (, ,) (NP (NP (DT a) (NN trade)) (SBAR (WHNP (WDT that)) (S (NP (NNP Block)) (VP (VBZ _) (ADJP (RBR better) (VBN known)) (SBAR (IN as) (S (NP (NNP Herblock) (NNP _)) (VP (VBZ has) (VP (VBN plied) (PP (IN for) (NP (DT the) (JJ past) (CD 71) (NNS years))))))))))))))) (. .)))
+
+(S1 (S (PP (IN From) (NP (NP (PRP$ his) (NN base)) (PP (IN on) (NP (NP (DT The) (NNP Washington) (NNP Post) (POS 's)) (NN editorial) (NN page))))) (, ,) (NP (NNP Herblock)) (VP (VBZ has) (VP (VBN sprayed) (NP (NN ink)) (PP (IN on) (NP (NP (JJ big) (NNS issues)) (CC and) (NP (JJ big) (NNS shots)))) (, ,) (PP (PP (IN from) (NP (NNP Vietnam))) (PP (TO to) (NP (NP (NNP Watergate)) (CC and) (NP (DT the) (NNP Soviet) (NN bear))))) (, ,) (PP (PP (IN from) (NP (NNS presidents)) (NP (NNP Truman))) (PP (TO to) (NP (NNP Nixon) (CC and) (NNP Clinton)))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP You)) (VP (VBP see) (NP (NP (DT a) (NN cartoon)) (PP (IN in) (NP (DT the) (NNS newspapers)))))) (CC and) (S (NP (PRP it)) (VP (VBZ goes) (`` `) (NP (NN Boom)))) (. !)))
+
+(S1 (FRAG (NP (NN Bang)) (. !) ('' '') ('' ')))
+
+(S1 (S (NP (NP (NNP Herblock)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD turned) (NP (CD 91)) (PP (IN on) (NP (NNP Friday)))))) (, ,)) (ADVP (RB once)) (VP (VBD told) (NP (DT a) (NN reporter))) (. .)))
+
+(S1 (S (NP (NP (NNP Tuesday)) (, ,) (NP (NP (DT a) (NN retrospective)) (PP (IN of) (NP (PRP$ his) (NN work))))) (VP (VBZ goes) (PP (IN on) (NP (NN display))) (PP (IN at) (NP (NP (DT the) (NNP Library)) (PP (IN of) (NP (NNP Congress)))))) (. .)))
+
+(S1 (S (ADVP (RB Lately)) (, ,) (NP (PRP$ his) (NN shrapnel)) (VP (VBZ has) (VP (VBN stung) (NP (NP (NNP Slobodan) (NNP Milosevic)) (, ,) (NP (NNP Yasser) (NNP Arafat)) (, ,) (NP (DT the) (NNP National) (NNP Rifle) (NNP Association)) (CC and) (NP (NNS others))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Al) (NNP Gore)) (CC and) (NP (NNP George) (NNP W.) (NNP Bush))) (VP (VBP have) (VP (VBN taken) (NP (NN fire))))) (, ,) (CC and) (S (SBAR (WHNP (WP whoever)) (S (VP (VBZ wins) (PP (IN in) (NP (NNP November)))))) (VP (MD will) (VP (VB take) (NP (JJR more))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (MD can) (VP (VB ask) (NP (NNP Clinton)))) (. .)))
+
+(S1 (S (NP (JJ Few) (NNP Herblock) (NNS targets)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD were) (SBAR (IN as) (S (VP (VBN favored) (PP (IN as) (NP (NP (NP (NNP Nixon)) (, ,) (VP (VBN drawn) (PP (IN with) (NP (JJ deep-set) (, ,) (JJ malevolent) (NNS eyes))))) (, ,) (NP (NP (CD five) (NNS o')) (NP (NN clock) (NN shadow))) (CC and) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD was) (NP (NP (NN vice) (NN president)) (PP (IN in) (NP (NP (NNP Eisenhower) (POS 's)) (NN administration)))) (, ,) (PP (IN with) (NP (NP (DT a) (JJ bloodstained) (NN hatchet)) (PP (IN in) (NP (NN hand)))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Herblock)) (VP (VBD offered) (NP (NP (DT a) (NN truce)) (SBAR (WHADVP (WRB when)) (S (NP (NNP Nixon)) (VP (VBD was) (VP (VBN elected) (S (NP (NP (NN president)) (PP (IN in) (NP (CD 1968))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD gave) (NP (NNP Nixon)) (NP (DT a) (VB shave))) (. .)))
+
+(S1 (S (`` ``) (S (S (NP (PRP I)) (VP (VBD gave) (NP (PRP him)) (NP (DT a) (NN chance)))) (, ,) (CC but) (S (PP (IN after) (NP (DT a) (NN while))) (NP (NNS people)) (VP (VBD saw) (SBAR (S (NP (PRP he)) (VP (VBD was) (NP (ADJP (NP (DT the) (JJ same)) (JJ old)) (NNP Nixon)))))))) (, ,) ('' '') (NP (NNP Herblock)) (VP (VBD said) (PP (IN in) (NP (DT an) (NN interview))) (NP (NNP Monday))) (. .)))
+
+(S1 (S (NP (NNP Herblock)) (ADVP (RB also)) (VP (VBD was) (NP (NP (DT an) (JJ unrelenting) (NN opponent)) (PP (IN of) (NP (NNP Sen))))) (. .)))
+
+(S1 (S (NP (NP (NNP Joe) (NNP McCarthy)) (, ,) (CC and) (NP (DT the) (NN artist))) (VP (VBN coined) (NP (DT the) (NN term) (NN McCarthyism))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT a) (NNP March) (CD 29) (, ,) (CD 1950))) (, ,) (NP (NN cartoon)) (NP (PRP he)) (VP (VBD drew) (NP (NP (CD four) (NNP Republican) (NNS stalwarts)) (VP (VBG hauling) (NP (NP (DT a) (JJ reluctant) (NNP GOP) (NN elephant)) (PP (IN toward) (S (DT a) (VP (VBG teetering) (NP (NP (VB stack)) (PP (IN of) (NP (NP (NN tar) (NNS buckets)) (, ,) (VP (VBN topped) (PP (IN by) (NP (NP (DT a) (VBG dripping) (NN barrel)) (VP (VBD labeled) (NP (`` ``) (NP (NNP McCarthyism) (POS ')) ('' ') (CC and) (NP (NP (DT a) (JJ little) (NN platform)) (PP (IN above) (NP (DT that))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (PRP He)) (CC and) (NP (DT the) (NN library))) (VP (VBP agree) (SBAR (IN that) (S (VP (VBD was) (NP (NP (DT the) (NN origin)) (PP (IN of) (NP (DT the) (NN word) (NN _)))) (`` ``) (PP (IN with) (NP (NP (DT no) (NN thought)) (PP (IN of) (S (VP (VBG creating) (NP (DT a) (JJ new) (NN term)))))))))))) (, ,) ('' '') (NP (NNP Herblock)) (VP (VBD wrote) (ADVP (RB later))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NN caption))) (, ,) (NP (DT the) (NN elephant)) (VP (VBZ says) (: :) (`` ``) (S (NP (PRP You)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBN supposed) (S (VP (TO to) (VP (VB stand) (PP (IN on) (NP (DT that))))))))))))) (. ?) ('' '')))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (NNP McCarthy)) (PRN (, ,) (S (NP (NNP Herblock)) (VP (VBD noted))) (, ,)) (VP (VP (ADVP (RB even)) (VBD adopted) (NP (DT the) (NN term)) (PP (IN as) (NP (NP (DT a) (NN title)) (PP (IN for) (NP (NP (DT a) (NN book)) (`` ``) (NP (NNP McCarthyism))))))) (: :) (NP (NP (DT The) (NN Fight)) (PP (IN for) (NP (NNP America))))) (. .) ('' '')))
+
+(S1 (S (NP (DT Every) (NN president)) (VP (VBZ has) (VP (VBD had) (NP (PRP$ his) (NN turn)) (PP (IN under) (NP (NP (NNP Herblock) (POS 's)) (NN pen))))) (. .)))
+
+(S1 (S (NP (JJ Other) (NNS subjects)) (VP (VBP include) (NP (NNP U.S))) (. .)))
+
+(S1 (S (NP (NP (NP (NN intervention)) (PP (IN in) (NP (NNP Vietnam)))) (, ,) (NP (NNP Soviet) (CC and) (NNP Chinese) (NN oppression)) (, ,) (NP (JJ nuclear) (NNS weapons)) (, ,)) (VP (VBD curtailed) (NP (NP (NP (NN voting) (NNS rights)) (PP (IN for) (NP (NP (DT the) (NNP District)) (PP (IN of) (NP (NNP Columbia)))))) (, ,) (NP (NN slum) (NN housing)) (, ,) (NP (NN campaign) (NN fund) (NN raising)) (, ,) (NP (JJ drunk) (NNS drivers)) (CC and) (NP (NN racism)))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB apparently)) (VP (VBZ has) (NP (NP (DT no) (NN intention)) (PP (IN of) (S (VP (VBG retiring) (NP (NP (DT any) (NN time)) (ADVP (RB soon))) (PP (IN from) (NP (NP (DT the) (NNP Post)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBZ has) (VP (VBN toiled) (PP (IN for) (NP (CD 54) (NNS years)))))))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP (DT a) (NN reception)) (NP (NNP Monday)))) (, ,) (NP (NP (NNP James) (NNP H.) (NNP Billington)) (, ,) (NP (NP (DT the) (NN librarian)) (PP (IN of) (NP (NNP Congress)))) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (NNP Herblock) (POS 's)) (NNS cartoons)) (VP (MD will) (VP (VB be) (VP (VBN seen) (NP (NP (CD 100) (NNS years)) (PP (IN from) (NP (RB now)))))))))) (. .)))
+
+(S1 (S (PP (TO To) (NP (DT that))) (, ,) (NP (DT the) (NN artist)) (VP (VBD said) (: :) (`` ``) (S (INTJ (UH Yes)) (, ,) (CC and) (NP (PRP I)) (VP (VBP hope) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB be) (VP (VBG saying) ('' ') (SBAR (S (NP (DT That)) (VP (VBD was) (NP (DT a) (JJ good) (CD one)) (NP (DT this) (NN morning))))))))))) (. .) ('' ''))) ('' ')))
+
+(S1 (S (NP (NP (NNP Jean) (NNP Rickard)) (, ,) (NP (NP (NP (NNP Herblock) (POS 's)) (NN assistant)) (PP (IN for) (NP (CD 43) (NNS years)))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN cartoonist)) (VP (VBZ goes) (PP (TO to) (NP (DT the) (NN office) (NN daily))) (S (VP (TO to) (VP (VP (VB keep) (ADJP (RB close) (PP (TO to) (NP (DT the) (NN news))))) (CC and) (VP (VB check) (NP (PRP$ his) (NNS facts)))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBD was) (ADVP (RB just)) (VP (IN about) (S (VP (TO to) (VP (VB turn) (PP (IN in) (NP (DT a) (JJ finished) (NN cartoon) (CD one) (NN day))))))))) (, ,) ('' '') (NP (NNP Herblock)) (VP (VBZ writes) (PP (IN in) (NP (NP (DT the) (NN catalog)) (PP (TO to) (NP (NP (DT the) (NN show)) (, ,) (`` ``) (S (ADVP (RB only)) (VP (TO to) (VP (VB learn) (SBAR (IN that) (S (NP (DT a) (JJ major) (NN story)) (VP (VP (VBD had) (VP (VBN broken))) (CC and) (VP (VBD kept) (S (NP (DT the) (NN newsroom) (NNS people)) (ADJP (RB too) (JJ busy) (SBAR (S (VP (TO to) (VP (VB tell) (NP (PRP me)) (PP (IN about) (NP (PRP it))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ quick) (NN return)) (PP (TO to) (NP (DT the) (VBG drawing) (NN board) (S (VP (TO to) (VP (VB produce) (NP (NP (DT a) (JJ new) (NN cartoon)) (PP (IN in) (NP (NNS minutes)))))))))) (VP (VBD was) (NP (NP (DT an) (NN experience)) (SBAR (S (NP (PRP I)) (VP (MD would) (RB n't) (VP (VB want) (S (VP (TO to) (VP (VB repeat)))))))))) (. .) ('' '')))
+
+(S1 (S (S (VP (VP (VBN Born)) (CC and) (VP (VBN raised) (PP (IN in) (NP (NNP Chicago)))))) (, ,) (NP (NP (NP (NNP Herblock) (POS 's)) (JJ first) (JJ full-time) (NN cartoonist) (POS 's)) (NN job)) (VP (VBD was) (PP (IN on) (NP (DT the) (NNP Chicago) (NNP Daily) (NNP News)))) (. .)))
+
+(S1 (S (NP (NP (PRP$ His) (NN father)) (, ,) (NP (NP (DT a) (NN chemist) (CC and) (NN contributor)) (PP (TO to) (NP (NN humor) (NNS magazines)))) (, ,)) (VP (VBD suggested) (S (VP (VBG joining) (NP (NP (DT the) (JJ first) (CC and) (JJ last) (NNS syllables)) (PP (IN of) (NP (PRP$ his) (NN name))))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ His) (JJ first) (NN cartoon)) (PP (IN for) (NP (DT the) (NNP News) (NNP _))) (NP (NNP April) (CD 24) (, ,) (CD 1929))) (ADVP (RB _)) (VP (VBD blasted) (NP (DT the) (NN timber) (NN industry))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a) (JJ bleak) (NN view)) (PP (IN of) (NP (NP (JJ rough-cut) (NN tree) (NNS stumps)) (VP (VBG stretching) (PP (TO to) (NP (DT the) (NN horizon))))))) (, ,) (PP (IN with) (NP (NP (DT an) (JJ ironic) (NN quote)) (PP (IN from) (NP (DT the) (NN poet))) (NP (NNP Henry) (NNP Wadsworth) (NNP Longfellow)))))) (: :) (`` ``) (S (NP (DT This)) (VP (VBZ is) (NP (DT the) (NN forest) (NN primeval)))) (. .) ('' '')))
+
+(S1 (S (PP (IN Since) (NP (RB then))) (NP (NNP Herblock)) (VP (VBZ has) (VP (VP (VBN published) (NP (NP (DT a) (NN dozen)) (NP (NNS books)))) (, ,) (VP (VBN won) (NP (CD three) (NNP Pulitzer) (NNPS Prizes))) (CC and) (VP (VBN shared) (PP (IN in) (NP (DT a) (JJ fourth)))))) (. .)))
+

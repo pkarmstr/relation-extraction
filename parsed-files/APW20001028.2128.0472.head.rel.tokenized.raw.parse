@@ -1,0 +1,66 @@
+(S1 (NP (NP (CD APW20001028.2128.0472) (NN NEWS) (NN STORY)) (QP (CD 2000-10-28) (CD 21:37:46))))
+
+(S1 (NP (NN FBO-XFL-Draft)))
+
+(S1 (S (NP (NNP XFL)) (VP (VBZ Has) (NP (JJ First) (NN Draft)))))
+
+(S1 (S (NP (NP (NNP CHICAGO) (PRN (-LRB- -LRB-) (NNP AP) (-RRB- -RRB-)) (NNP _)) (`` ``) (NP (NNP Stone) (NNP Cold)) ('' ') (: ') (NP (NP (NNP Steve) (NNP Austin)) (, ,) (NP (DT The) (NNP Rock) (CC and) (JJ Triple) (NNP H)))) (VP (VBD were) (RB n't) (PP (IN among) (NP (DT the) (NNS selections)))) (. .)))
+
+(S1 (S (CC But) (NP (JJ pro) (NN wrestling)) (VP (VBD did) (VP (VB manage) (S (VP (TO to) (VP (VB leave) (NP (NP (DT a) (NN mark)) (PP (IN on) (NP (DT the) (JJ first) (JJ XFL) (NN draft)))) (NP (NNP Saturday))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (DT all))) (, ,) (NP (NP (NNP Austin) (POS 's)) (JJ mass-produced) (NN signature)) (VP (VBD was) (ADVP (RB right) (RB there)) (PP (IN on) (NP (DT a) (NN league) (NN credential)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ new) (NN league)) (, ,) (NP (NP (DT a) (JJ joint) (NN venture)) (PP (IN of) (NP (NP (DT the) (NNP World) (NN Wrestling) (NNP Federation)) (CC and) (NP (NNP NBC))))) (, ,)) (VP (VBZ features) (NP (DT some) (JJ former) (NNP NFL) (NNS first-rounders)) (SBAR (IN while) (S (VP (VBG promising) (NP (DT a) (NP (DT no) (JJ holds-barred) (NN approach)) (CC and) (NP (JJ off-the-mat) (NNS rules))) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ begins) (PP (IN in) (NP (NNP February)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ black) (NN football)) (VP (VBN trimmed) (PP (IN in) (NP (JJ red) (CC and) (JJ white))))) (, ,) (NP (NP (DT no) (JJ fair) (NNS catches)) (PP (IN on) (NP (NP (NP (NNS punts)) (, ,) (NP (DT no) (NN quarterback) (JJ -in-the-grasp) (NN rule)) (, ,) (NP (JJ miked) (NNS huddles)) (CC and) (NP (NNS cameras))) (ADVP (RB everywhere))))) (VP (VBD _) (PP (IN on) (NP (DT the) (NN sideline))) (, ,) (PP (PP (IN in) (NP (NNP locker) (NNS rooms))) (CC and) (PP (IN in) (NP (NP (DT the) (NNS helmets)) (PP (IN of) (NP (VBN selected) (NNS players))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP We)) (VP (VBP 're) (VP (VBG going) (PP (IN for) (NP (NP (NN something)) (SBAR (WHNP (IN that)) (S (NP (NP (NNS millions)) (PP (IN of) (NP (NNS kids)))) (VP (VP (VBD played) (PP (IN in) (NP (DT the) (NN school) (NN yard)))) (, ,) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ resonates) (PP (IN with) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP 've) (VP (VBN enjoyed) (NP (DT the) (NN game)) (PP (IN on) (NP (DT all) (JJ different) (NNS levels))))))))))))))))))))) (, ,) ('' '') (NP (NN league) (NN president) (NNP Basil) (NNP DeVito)) (VP (VBD said) (PP (IN after) (S (VP (VBG helping) (VP (VB conduct) (NP (NP (NP (NNP Saturday) (POS 's)) (JJ first) (CD 10) (NNS rounds)) (PP (IN of) (NP (DT the) (NN draft)))) (PP (IN before) (NP (QP (RB about) (CD 100)) (NNS fans))) (PP (IN at) (NP (NP (DT a) (NN hotel)) (PP (IN near) (NP (NNP O') (NNP Hare) (NNP International) (NNP Airport)))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ simple)))) (, ,) ('' '') (NP (NNP DeVito)) (VP (VBD said) (PP (IN of) (NP (NP (PRP$ his) (NN league) (POS 's)) (NN premise)))) (. .)))
+
+(S1 (S (`` ``) (NP (NN Nobody)) (VP (VBZ owns) (NP (PRP it))) (. .)))
+
+(S1 (S (NP (NN Nobody)) (VP (VBZ owns) (NP (NN football))) (. .) ('' '')))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (NP (DT the) (NN league) (POS 's)) (NNP Web) (NN site)))) (, ,) (S (NP (NP (NP (DT a) (NN quarterback) (POS 's)) (JJ base) (NN salary)) (PP (IN for) (NP (DT the) (JJ 10-game) (NN schedule)))) (VP (MD will) (VP (VB be) (NP (QP (RB about) ($ $) (CD 50,000)))))) (, ,) (CC but) (S (NP (NNS players)) (VP (MD will) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB collect) (NP (NP (ADJP ($ $) (CD 2,500)) (NNS bonuses)) (PP (IN for) (NP (DT each) (NN win))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (VBZ 's) (NP (NN incentive) (NN pay)))) (CC and) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ fine) (PP (IN with) (NP (NP (QP (IN at) (JJS least) (CD one))) (PP (IN of) (NP (NP (DT the) (NN league) (POS 's)) (NNS coaches)))))))) (. .)))
+
+(S1 (S (S (`` ``) (NP (PRP We)) (VP (VBP have) (NP (DT no) (NNS negotiations)))) (, ,) (NP (PRP you)) (VP (VBP have) (NP (DT no) (NNS owners)) (PP (IN in) (NP (RB there)))) (. .)))
+
+(S1 (SINV (S (NP (PRP You)) (VP (VBP have) (NP (NP (DT no) (NNS owners)) (PP (IN in) (NP (RB there)))) (PP (IN in) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG going) (S (VP (TO to) (VP (VB disrupt) (NP (NP (DT the) (NN progress)) (PP (IN of) (NP (DT the) (NN league)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB centrally) (VBN controlled))))))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Chicago) (NNS Enforcers) (NN coach) (NNP Ron) (NNP Meyer)) (, ,) (NP (NP (JJ former) (NN head) (NN coach)) (PP (IN of) (NP (NP (DT the) (NNPS Patriots) (CC and) (NNPS Colts)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (DT the) (NN job)) (SBAR (WHADVP (WRB when)) (S (NP (NNP Chicago) (NN favorite) (NNP Dick) (NNP Butkus)) (VP (VBD resigned) (S (VP (TO to) (VP (VB take) (NP (NP (DT a) (NN job)) (PP (IN in) (NP (DT the) (NN league) (NN office))))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (PP (IN in) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (JJ start-up) (NNS situations)))))))) (CC and) (S (NP (PRP I)) (VP (VBP know) (NP (DT the) (NNS pitfalls))))) (, ,) ('' '') (NP (NNP Meyer)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (NN work)) (PP (IN in) (NP (NN progress)))) (, ,) (ADVP (RB certainly))) (. .)))
+
+(S1 (S (CC But) (NP (PRP we)) (VP (VBP 're) (ADVP (NP (JJ light) (NNS years)) (RB ahead) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBN envisioned))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP DeVito)) (VP (VBD said) (SBAR (S (NP (DT the) (NN league)) (VP (VP (VBD had) (VP (VBN sold) (NP (CD 120,000) (NN season) (NNS tickets)) (ADVP (RB so) (RB far)))) (CC and) (VP (VBZ hopes) (S (VP (TO to) (VP (VB average) (NP (NP (CD 25,000) (NNS fans)) (NP (DT a) (NN game))))))))))) (. .)))
+
+(S1 (SQ (`` ``) (VBZ Is) (NP (PRP it)) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADJP (JJ perfect)))))) (. ?)))
+
+(S1 (INTJ (UH No) (. .)))
+
+(S1 (S (S (NP (NN Nothing)) (VP (VBZ is))) (, ,) ('' '') (NP (NNP LA) (NNP Xtreme) (NN coach) (NNP Al) (NNP Luginbill)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (CC But) (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB shock) (NP (DT some) (NNS people))))))) (. .) ('' '')))
+
+(S1 (S (SBAR (IN Before) (S (NP (DT the) (NN draft)) (VP (VBD started)))) (, ,) (NP (DT the) (CD eight) (NNS teams)) (VP (VBD were) (VP (VBN allowed) (S (VP (TO to) (VP (VB protect) (NP (NNS picks)) (PP (IN from) (NP (NP (CD three) (NNS colleges)) (NP (DT each))))))))) (. .)))
+
+(S1 (SINV (PP (IN Among) (NP (NP (DT those)) (VP (VBN designated)))) (VP (VBD were) (NP (JJ former) (NNP NFL) (NNS first-rounders))) (NP (NP (NP (NNP Mike) (NNP Croel)) (, ,) (NP (NNP Alvin) (NNP Harper))) (, ,) (NP (NNP Tommy) (NNP Maddox)) (CC and) (NP (NNP Marcus) (NNP Nash))) (. .)))
+
+(S1 (S (SBAR (IN Once) (S (NP (DT the) (NN draft)) (VP (VBD began)))) (, ,) (NP (CD five) (NNS quarterbacks)) (VP (VBD were) (NP (NP (DT the) (JJ first) (NNS players)) (VP (VBN chosen)))) (. .)))
+
+(S1 (S (NP (JJ Ex-Maryland) (NN quarterback) (NNP Scott) (NNP Milanovich)) (VP (VBD had) (NP (NP (DT the) (NN distinction)) (PP (IN of) (S (VP (VBG being) (NP (NP (DT the) (JJ first) (JJ XFL) (NN player)) (VP (VBN selected) (ADVP (RB _)) (PP (IN by) (NP (DT the) (NNP Xtreme)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS Enforcers)) (, ,) (PP (IN with) (NP (NP (DT the) (JJ last) (NN pick)) (PP (IN of) (NP (DT the) (JJ first) (NN round))))) (, ,) (VP (VBD nabbed) (VP (VBG running) (PRT (RP back)) (NP (NP (NNP John) (NNP Avery)) (, ,) (NP (NP (DT a) (JJ first-round) (NN pick)) (PP (IN of) (NP (DT the) (NNP Miami) (NNS Dolphins))))) (PP (IN in) (NP (CD 1998))))) (. .)))
+
+(S1 (S (CC And) (PP (IN near) (NP (DT the) (NN end))) (NP (DT the) (JJ first) (NN day)) (VP (VBD _) (SBAR (S (NP (DT the) (NN draft)) (VP (VBZ continues) (NP (NP (NNP Sunday) (CC and) (NNP Monday) (NNP _) (NN quarterback)) (SBAR (S (NP (NP (NNP Jim) (NNP Druckenmiller)) (, ,) (NP (NP (DT a) (JJ first-round) (NN choice)) (PP (IN of) (NP (NP (NP (DT the) (NNP San) (NNP Francisco)) (NNS 49ers)) (PP (IN in) (NP (CD 1997)))))) (, ,)) (VP (VBD was) (VP (VBN selected) (PP (IN by) (NP (DT the) (NNP Maniax))) (PP (IN with) (NP (DT the) (JJ 78th) (NN selection)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NAC (NNP Avery) (, ,) (NNP Druckenmiller) (, ,)) (VBG running) (NN back) (NNP Vaughn) (NNP Dunbar)) (CC and) (NP (NP (NN linebacker) (NNP Craig) (NNP Powell)) (, ,) (SBAR (WHNP (WP who)) (S (NP (DT both)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP San) (NNP Francisco) (NNS Demons)))))) (, ,))) (VP (VBD were) (NP (DT all) (NNP NFL) (JJ first-round) (NNS selections))) (. .)))
+
+(S1 (S (`` ``) (S (ADVP (RB Interestingly)) (, ,) (NP (PDT all) (DT the) (NNS coaches)) (VP (VBP tell) (NP (PRP me)) (SBAR (S (NP (PRP they)) (VP (VBD got) (NP (NP (RB exactly) (DT the) (NNS players)) (SBAR (S (NP (PRP they)) (VP (VBD wanted)))))))))) (, ,) ('' '') (NP (NNP DeVito)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (CC And) (SBAR (IN since) (S (NP (PRP they)) (VP (VBP are) (ADVP (RB still)) (ADJP (JJ undefeated))))) (, ,) (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ OK)))))) (. .) ('' '')))
+

@@ -1,0 +1,66 @@
+(S1 (NP (NP (CD NYT20001229.2047.0291) (NN NEWS) (NN STORY)) (QP (CD 2000-12-29) (CD 21:14:00))))
+
+(S1 (NP (NP (CD A4901) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NN p)) (JJ BC-ELN-VOTE-TOTAL-ART-NY) (QP (CD 12-29) (CD 0680)))))
+
+(S1 (NP (NNP BC-ELN-VOTE-TOTAL-ART-NYT)))
+
+(S1 (S (NP (NP (NP (NNP GORE) (POS 'S)) (NN LEAD)) (PP (IN IN) (NP (DT THE) (JJ POPULAR) (NN VOTE)))) (ADVP (RB NOW)) (VP (VBZ EXCEEDS) (NP (CD 500,000)))))
+
+(S1 (FRAG (-LRB- -LRB-) (NP (NN ART) (NNS ADV)) (: :) (S (NP (NNP Graphic)) (VP (VBZ is) (VP (VBG being) (VP (VBN sent) (PP (TO to) (NP (JJ NYT) (JJ graphic) (NNS clients))))))) (. .)))
+
+(S1 (S (NP (NNS Nonsubscribers)) (VP (MD can) (VP (VB purchase) (NP (JJ one-time) (NNS rights)) (PP (IN by) (S (VP (VBG calling) (NP (NP (QP (CD 888-603-1036) (CC or) (CD 888-346-9867)) (. .) (-RRB- -RRB-) (NNS &QL)) (: ;) (NP (NP (NN &UR)) (: ;) (NP (NNP By) (NNP DAVID) (NN STOUT) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))))))))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NP (NP (NP (NNP WASHINGTON) (NNP _) (NNP Vice) (NNP President)) (NNP Al) (NNP Gore) (POS 's)) (JJ nationwide) (NN lead)) (PP (IN in) (NP (DT the) (JJ popular) (NN vote)))) (VP (VBZ has) (VP (VBN grown) (PP (IN by) (NP (IN about) (CD 200,000))) (, ,) (PP (TO to) (NP (QP (JJR more) (IN than) (PDT half) (DT a) (CD million)))) (, ,) (PP (IN since) (NP (NNP Dec))))) (. .)))
+
+(S1 (FRAG (NP (NP (CD 18)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ Electoral) (NN College)) (VP (VP (VBD sealed) (NP (PRP$ his) (NN fate))) (CC and) (VP (VBD made) (S (NP (NNP Gov.) (NNP George) (NNP W.) (NNP Bush)) (NP (NP (DT the) (NN 43rd) (NN president)) (PP (IN of) (NP (DT the) (NNP United) (NNPS States)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN state) (JJ -by-state) (NN survey)) (PP (IN by) (NP (NP (NNP The) (NNP Associated) (NNP Press)) (PP (IN of) (NP (DT the) (JJ final) (JJ certified) (NNS results)))))) (VP (VBD put) (NP (NP (NNP Gore) (POS 's)) (JJ popular-vote) (NN edge)) (PP (IN at) (NP (CD 539,947))) (, ,) (ADVP (RB up) (ADVP (RB considerably)) (PP (IN from) (NP (NP (DT the) (NN lead)) (PP (IN of) (NP (NP (QP (RB about) (CD 337,000))) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (ADVP (RB widely)) (VBN reported) (PP (IN in) (NP (NP (DT the) (JJ first) (JJ several) (NNS weeks)) (PP (IN after) (NP (DT the) (NN election))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS totals)) (VP (VBD were) (NP (NP (NP (CD 50,996,116)) (PP (IN for) (NP (NNP Gore)))) (CC and) (NP (NP (CD 50,456,169)) (PP (IN for) (NP (NNP Bush)))))) (. .)))
+
+(S1 (SINV (S (NP (NP (JJ Much)) (PP (IN of) (NP (DT the) (NN increase)))) (VP (VBD came) (PP (IN in) (NP (NP (NNP California)) (, ,) (NP (NNP New) (NNP York)) (, ,) (CC and) (NP (NP (JJ other) (, ,) (JJR smaller) (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (VBD went) (PP (IN for) (NP (NNP Gore))))))))))) (, ,) (VP (VBD said)) (NP (NP (NNP Curtis) (NNP B.) (NNP Gans)) (PP (IN of) (NP (NP (NP (DT the) (NNP Committee)) (PP (IN for) (NP (NP (DT the) (NNP Study)) (PP (IN of) (NP (DT the) (NNP American) (NNP Electorate)))))) (, ,) (NP (NP (DT a) (JJ nonpartisan) (NN research) (NN group)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN followed) (NP (NP (JJ presidential) (NNS elections)) (PP (IN for) (NP (DT a) (NN quarter-century)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Election) (NNS officials)) (PP (IN in) (NP (NP (NNP California)) (CC and) (NP (NNP New) (NNP York))))) (VP (VBD said) (NP (NNP Friday)) (SBAR (IN that) (S (NP (NP (DT the) (JJR bigger) (NNS numbers)) (PP (IN for) (NP (NNP Gore)))) (VP (VBD were) (RB not) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB explain)))))))))) (. .)))
+
+(S1 (S (VP (VB Gore) (VP (VBN carried) (ADVP (NP (DT both) (JJ big) (NNS states)) (RB easily)))) (. .)))
+
+(S1 (S (S (NP (DT Both) (NNS states)) (VP (VBD had) (NP (NP (JJ big) (JJ absentee) (NN -ballot) (NNS totals)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (RB not) (VP (VB be) (VP (VBN counted) (ADVP (RB immediately)))))))))) (CC and) (, ,) (S (SBAR (IN because) (S (NP (JJ absentee) (NNS votes)) (ADVP (RB generally)) (VP (VBP do) (RB not) (VP (VB vary) (ADVP (RB sharply)) (PP (IN from) (NP (NNP Election) (NNP Night) (NNS returns))))))) (, ,) (NP (PRP it)) (VP (VBD was) (ADJP (JJ predictable)) (SBAR (IN that) (S (NP (DT the) (NNS absentees)) (VP (MD would) (VP (VB widen) (NP (NP (DT the) (NN vice) (NN president) (POS 's)) (NN lead)))))))) (. .)))
+
+(S1 (S (NP (NNS Gans)) (VP (VBD said) (SBAR (IN that) (S (PP (IN in) (NP (CD 1996))) (, ,) (NP (NP (NP (NNP President) (NNP Clinton) (POS 's)) (NN lead)) (PP (IN over) (NP (NNP Bob) (NNP Dole)))) (VP (VBD grew) (PP (IN by) (NP (QP (DT some) (CD 200,000)) (NNS votes))) (PP (IN from) (NP (NN election) (NN night))) (SBAR (IN until) (S (NP (DT all) (JJ absentee) (NNS ballots)) (VP (VBD were) (VP (VBN counted) (S (S (CC and) (NP (PDT all) (DT the) (NNS votes)) (VP (VBN certified))) (, ,) (NP (DT a) (NN fact)) (VP (ADVP (RB all) (RB but)) (VBN forgotten) (PP (IN except) (PP (IN by) (NP (JJ political) (NNS trivia) (NNS buffs)))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (CC But) (NP (PRP it)) (VP (VBD did) (RB n't) (VP (NN matter)))) (, ,) ('' '') (NP (NNP Gans)) (VP (VBD said) (, ,) (PP (IN in) (NP (NP (DT a) (NN race)) (SBAR (WHNP (WDT that)) (S (NP (DT the) (JJ incumbent)) (VP (VBD won) (PP (PP (IN by) (NP (QP (JJR more) (IN than) (CD 8) (CD million)) (JJ popular) (NNS votes))) (CC and) (PP (IN by) (NP (NP (DT a) (JJ 379-159) (NN advantage)) (PP (IN in) (NP (DT the) (JJ all-important) (JJ Electoral) (NN College)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (CD 1960) (NN election))) (NP (NNP John) (NNP F.) (NNP Kennedy)) (VP (VBD had) (NP (DT the) (JJ electoral) (NN vote)) (NP (NP (NN edge)) (CC and) (NP (NP (DT a) (JJ 114,673-vote) (NN margin)) (PP (IN in) (NP (NP (DT the) (JJ popular) (NN vote)) (PP (IN over) (NP (NNP Richard) (NNP Nixon)))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN total)) (PP (IN of) (NP (QP (CD 68.8) (CD million)) (NNS votes)))) (VP (VBD were) (VP (VBN cast) (PP (IN for) (NP (NN president))))) (. .)))
+
+(S1 (S (ADVP (NP (CD Eight) (NNS years)) (RB later)) (S (NP (NNP Nixon)) (VP (VBD won) (NP (DT the) (NNP Electoral) (NNP College)))) (CC and) (S (NP (NP (DT a) (JJ popular-vote) (NN margin)) (PP (IN of) (NP (NP (CD 510,645)) (PP (IN out) (PP (IN of) (NP (QP (CD 73.2) (CD million)) (NNS votes))))))) (VP (VBD cast) (PP (IN for) (NP (NN president))))) (. .)))
+
+(S1 (S (NP (DT The) (CD 2000) (NN election)) (, ,) (PP (IN of) (NP (NN course))) (, ,) (VP (MD will) (VP (VB be) (VP (VBN remembered) (PP (IN as) (NP (NP (DT the) (JJ first)) (PP (IN in) (NP (NP (CD 112) (NNS years)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT the) (NN leader)) (PP (IN in) (NP (DT the) (JJ popular) (NN vote)))) (VP (VBD lost) (NP (DT the) (NNP White) (NNP House)) (SBAR (IN because) (S (NP (PRP$ his) (NN opponent)) (VP (VBD prevailed) (PP (IN in) (NP (DT the) (JJ Electoral) (NN College)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Bush)) (VP (VBD got) (NP (NP (CD 271) (JJ electoral) (NNS votes)) (, ,) (NP (NP (NP (CD one)) (ADJP (JJR more) (SBAR (IN than) (S (NP (PRP he)) (VP (VBN needed) (PP (IN for) (NP (DT a) (NN majority)))))))) (CC and) (NP (NP (CD five)) (ADJP (JJR more) (PP (IN than) (NP (NP (NNP Gore)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD lost) (NP (CD one) (NN vote)) (PP (IN in) (NP (DT the) (JJ Electoral) (NN College))) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (NAC (NNP Washington) (, ,) (NNP D.C.) (, ,)) (NN elector)) (VP (VBD left) (NP (PRP$ her) (NN ballot) (NN blank)) (S (VP (TO to) (VP (VB protest) (NP (NP (DT the) (NNP District)) (PP (IN of) (NP (NP (NP (NNP Columbia) (POS 's)) (NN lack)) (PP (IN of) (NP (NP (NN voting) (NN power)) (PP (IN in) (NP (NNP Congress)))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Gore)) (VP (VBD won) (NP (NNP New) (NNP York)) (UCP (NN state) (, ,) (NP (CD 4,107,697-2,403,374)) (, ,) (CC or) (PP (IN by) (NP (QP (DT some) (CD 1.7) (CD million)) (NNS votes))))) (. .)))
+
+(S1 (S (NP (NP (NNP Lee) (NNP Daghlian)) (, ,) (NP (NP (DT the) (JJ chief) (NN spokesman)) (PP (IN for) (NP (NP (NP (DT the) (NN state) (POS 's)) (NNP Board)) (PP (IN of) (NP (NNS Elections)))))) (, ,)) (VP (VBD said) (NP (NNP Friday)) (SBAR (SBAR (IN that) (S (NP (QP (RB about) (CD 360,000)) (JJ absentee) (NNS ballots)) (VP (VBD were) (VP (VBN requested))))) (, ,) (CC and) (SBAR (IN that) (S (NP (IN about) (CD 260,000)) (VP (VBD were) (VP (VBN returned) (PP (IN in) (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN counted)))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP New) (NNP York))) (, ,) (NP (JJ absentee) (NNS ballots)) (VP (MD must) (VP (VB be) (VP (VP (VBN postmarked) (ADVP (ADVP (RB no) (RBR later)) (PP (IN than) (NP (NP (DT the) (NN day)) (PP (IN before) (NP (DT the) (NN election))))))) (CC and) (VP (VBN received) (ADVP (ADVP (RB no) (RBR later)) (PP (IN than) (NP (NP (DT a) (NN week)) (PP (IN after) (NP (DT the) (NN election)))))))))) (. .)))
+
+(S1 (S (NP (NNP Daghlian)) (VP (VBD said) (SBAR (S (NP (JJ absentee) (NN balloting)) (VP (VBD was) (ADVP (ADVP (NP (QP (RB about) (CD 20)) (NN percent)) (JJR higher)) (NP (DT this) (NN year)) (PP (IN than) (PP (IN in) (NP (CD 1996))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD speculated) (SBAR (IN that) (S (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NP (NNP Sen.) (NNP Joseph) (NNP Lieberman)) (PP (IN of) (NP (NNP Connecticut))))) (PP (IN on) (NP (DT the) (JJ Democratic) (NN ticket)))) (VP (MD might) (VP (VB have) (VP (VBN caused) (NP (NP (JJR more)) (SBAR (S (NP (NNP American) (NNPS Jews)) (VP (TO to) (VP (VB mail) (NP (NP (NNS ballots)) (PP (IN from) (NP (NNP Israel))))))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ clear)) (PP (IN on) (NP (NNP Election) (NNP Night))) (SBAR (IN that) (S (NP (NNP Gore)) (VP (VBD had) (VP (VBN carried) (NP (NNP California)) (PP (IN in) (NP (DT a) (NN landslide))))))))) (, ,) (IN so) (S (NP (PRP it)) (VP (VBD was) (VP (VBN expected) (SBAR (IN that) (S (NP (NP (DT the) (QP (RB nearly) (CD 1.5) (CD million)) (NN absentee) (NNS ballots)) (SBAR (WHNP (WDT that)) (S (VP (VBD arrived) (PP (IN in) (NP (NN time))))))) (VP (TO to) (VP (VB be) (VP (VBN accepted) (SBAR (S (VP (MD would) (ADVP (RB sharply)) (VP (VB augment) (NP (PRP$ his) (NN victory)) (ADVP (RB _)))))))))))))) (CC and) (S (NP (PRP they)) (VP (VBD did))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ final) (JJ certified) (NNS totals)) (PP (IN in) (NP (NNP California)))) (VP (VBD were) (NP (NP (NP (CD 5,861,203)) (PP (IN for) (NP (NNP Gore)))) (CC and) (NP (NP (CD 4,567,429)) (PP (IN for) (NP (NNP Bush)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Alfie) (NNP Charles)) (, ,) (NP (NP (DT a) (NN spokesman)) (PP (IN for) (NP (NP (NP (DT the) (NNP California) (NN secretary)) (PP (IN of) (NP (NN state)))) (, ,) (NP (NNP Bill) (NNP Jones))))) (, ,)) (VP (VBD said) (SBAR (SBAR (S (NP (NP (DT the) (NN percentage)) (PP (IN of) (NP (NP (NNPS Californians)) (VP (VBG voting) (PP (IN by) (NP (JJ absentee) (NN ballot))))))) (VP (VBZ has) (VP (VBN been) (VP (VBG increasing)))))) (, ,) (CC and) (SBAR (IN that) (S (NP (RB about) (NN one-quarter)) (VP (VB do) (ADVP (RB now))))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (NP (NNS Californians)) (, ,) (PP (IN unlike) (NP (NP (NNS people)) (PP (IN in) (NP (DT some) (NNS states))))) (, ,) (VP (MD can) (VP (VB vote) (NP (NN absentee)) (PP (IN without) (S (VP (VBG showing) (NP (DT a) (JJ compelling) (NN reason))))))) (. .)))
+
+(S1 (S (NP (PRP$ Their) (NNS ballots)) (VP (MD must) (VP (VB arrive) (PP (IN by) (NP (NNP Election) (NNP Day))) (S (VP (TO to) (VP (VB be) (VP (VBN counted))))))) (. .) (-RRB- -RRB-)))
+
+(S1 (NP (CD NYT-12-29-00) (NN 2114EST)))
+

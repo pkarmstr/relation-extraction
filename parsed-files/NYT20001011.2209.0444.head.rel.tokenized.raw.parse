@@ -1,0 +1,78 @@
+(S1 (NP (NP (CD NYT20001011.2209.0444) (NN NEWS) (NN STORY)) (QP (CD 2000-10-11) (CD 22:19:00))))
+
+(S1 (NP (NP (CD A1407) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP a) (NNP BC-CHAPMAN-PAROLE-NYT) (NN &LR)) (: ;) (NP (CD 10-11) (CD 0725)))))
+
+(S1 (NP (NNP BC-CHAPMAN-PAROLE-NYT)))
+
+(S1 (S (NP (NP (NNP LENNON) (POS 'S)) (NN KILLER)) (VP (VBD APOLOGIZED) (PP (IN AT) (NP (JJ PAROLE) (NN HEARING))) (, ,) (PP (IN IN) (NP (JJ VAIN))))))
+
+(S1 (NP (NP (NNP &UR)) (: ;) (PP (NNP By) (NP (NNP SHAILA) (NNP K))) (. .)))
+
+(S1 (NP (NP (JJ DEWAN) (NNS &QC)) (: ;) (NP (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBP do) (VP (VB wish) (SBAR (S (NP (PRP I)) (VP (VBD was) (NP (DT a) (JJ big) (NN nobody)) (ADVP (RB again)))))))) (, ,) ('' '') (NP (NNP Mark) (NNP David) (NNP Chapman)) (VP (VBD told) (NP (DT the) (NNP New) (NNP York) (NNP State) (NNP Parole) (NNP Board)) (PP (IN at) (NP (DT a) (JJ closed) (NN hearing))) (PP (IN at) (NP (NP (DT the) (NNP Attica) (NN state) (NN prison)) (PP (IN on) (NP (NNP Oct)))))) (. .)))
+
+(S1 (FRAG (NP (CD 3)) (. .)))
+
+(S1 (S (CC But) (NP (PRP$ his) (NNS words)) (VP (VBD did) (RB not) (VP (VB sway) (NP (NP (DT the) (NN board)) (, ,) (SBAR (WHNP (WDT which)) (S (, ,) (S (VP (VBG citing) (NP (NP (PRP$ his) (JJ ongoing) (NN desire)) (PP (IN for) (NP (NN notoriety)))))) (, ,) (VP (VBD denied) (NP (NP (NP (NNP Chapman) (POS 's)) (JJ first) (NN bid)) (PP (IN for) (NP (NN parole)))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD pleaded) (ADJP (JJ guilty) (PP (TO to) (NP (DT the) (NNP Dec))))))))))))) (. .)))
+
+(S1 (NP (NP (CD 8)) (, ,) (NP (CD 1980)) (, ,) (NP (NP (NN murder)) (PP (IN of) (NP (NNP John) (NNP Lennon)))) (. .)))
+
+(S1 (S (S (PP (IN In) (NP (DT the) (NN hearing))) (, ,) (NP (NP (DT a) (NN transcript)) (WHPP (IN of) (WHNP (WDT which)))) (VP (VBD was) (VP (VBN released) (NP (NNP Wednesday))))) (, ,) (NP (NNP Chapman)) (VP (VBD said) (ADVP (RB repeatedly)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD did) (RB not) (VP (VB have) (NP (DT the) (NN right) (S (VP (TO to) (VP (VB ask) (PP (IN for) (NP (PRP$ his) (NN release)))))))))))) (. .)))
+
+(S1 (S (S (CC But) (SBAR (IN if) (S (NP (PRP he)) (VP (VBD were) (VP (VBN paroled))))) (, ,) (NP (PRP he)) (VP (MD would) (VP (VB try) (S (VP (TO to) (VP (VP (VB work) (PP (IN on) (NP (DT a) (NN farm)))) (, ,) (VP (VB speak) (PRT (IN at)) (NP (NNS churches))) (CC and) (VP (VB be) (VP (VBN reunited) (PP (IN with) (NP (NP (PRP$ his) (NN wife)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ flies) (PP (IN from) (NP (NNP Hawaii)))))))) (NP (RB twice) (DT a) (NN year) (S (VP (TO to) (VP (VB visit) (NP (PRP him)))))))))))))) (, ,) (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (ADJP (RB somewhat) (JJ rambling)) (NN apology)) (PP (TO to) (NP (NP (NNP Lennon) (POS 's)) (NN widow))))) (, ,) (NP (NP (NNP Yoko) (NNP Ono)) (, ,) (NP (NNP Chapman)) (, ,) (NP (CD 45)) (, ,)) (VP (VBD said) (ADVP (RB first)) (SBAR (SBAR (IN that) (S (NP (PRP he)) (VP (MD could) (RB not) (VP (VB imagine) (NP (PRP$ her) (NN pain)))))) (, ,) (CC and) (ADVP (RB later)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD had) (VP (VBN felt) (NP (PRP it)) (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (PP (IN after) (S (VP (VBG reading) (NP (NP (DT a) (JJ recent) (NNP Newsweek) (NN article)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP she)) (VP (VBD said) (SBAR (S (NP (PRP she)) (VP (VBD had) (VP (VBN been) (VP (VBG shaking) (NP (NP (RB uncontrollably) (DT the) (NN night)) (PP (IN of) (NP (NP (PRP$ her) (NN husband) (POS 's)) (NN death)))))))))))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN come) (PP (TO to) (NP (NP (NNS grips)) (PP (IN with) (NP (DT the) (NN fact) (SBAR (IN that) (S (NP (DT that) (NNP John) (NNP Lennon)) (VP (VBD was) (NP (DT a) (NN person)))))))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNP Chapman)) (VP (VBD told) (NP (DT the) (NN board)) (SBAR (IN that) (S (PP (IN after) (S (VP (VBG reading) (NP (DT the) (NN article))))) (, ,) (NP (PRP he)) (VP (VBD had) (RB almost) (VP (VBD skipped) (NP (DT the) (NN hearing))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBD said) (, ,) (`` ``) (S (NP (PRP You)) (VP (VBP have) (NP (DT a) (NN right) (S (VP (TO to) (VP (VB know) (SBAR (WHNP (WP what)) (S (VP (VBD happened))))))))))) (. .) ('' '')))
+
+(S1 (S (S (NP (NNP Chapman)) (VP (MD would) (VP (VB have) (VP (VBN been) (PRT (RP up)) (PP (IN for) (NP (NN parole))) (SBAR (RB even) (IN if) (S (NP (PRP he)) (VP (VBD had) (RB not) (VP (VBN attended))))))))) (, ,) (NP (DT a) (JJ parole) (NN board) (NN spokesman)) (VP (VBD said)) (. .)))
+
+(S1 (S (S (NP (NNP Ono)) (VP (VBD did) (RB not) (VP (VB attend) (NP (DT the) (NN hearing))))) (, ,) (CC but) (S (VP (VBD had) (VP (VBN submitted) (NP (NP (DT a) (NN letter)) (VP (VBG asking) (SBAR (IN that) (S (NP (NN parole)) (VP (VB be) (VP (VBN denied)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Chapman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN criticized) (PP (IN for) (ADJP (JJ seeming) (TO to) (VBP revel) (PP (IN in) (NP (VBN televised) (NNS appearances))))) (PP (IN after) (NP (PRP$ his) (NN conviction)))))))) (, ,)) (VP (VBD was) (ADJP (RB consistently) (JJ self-deprecating)) (PP (IN throughout) (NP (DT the) (JJ 50-minute) (NN hearing)))) (. .)))
+
+(S1 (S (S (VP (VBG Describing) (NP (DT an) (NN outburst)) (PP (ADVP (RB early)) (IN in) (NP (PRP$ his) (NN incarceration))))) (, ,) (NP (PRP he)) (VP (VBD said) (: :) (`` ``) (S (NP (PRP They)) (VP (VBD were) (ADJP (JJ rough) (PP (IN with) (NP (PRP me)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADJP (JJ fine)))))))) (. .)))
+
+(S1 (SBAR (WHNP (WDT Which)) (S (VP (VBZ is) (ADVP (RB probably)) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBD needed) (S (VP (TO to) (VP (NN snap) (PP (IN out) (PP (IN of) (NP (DT that)))))))))))) (. .) ('' '')))
+
+(S1 (S (S (VP (VBN Asked) (SBAR (IN if) (S (NP (PRP he)) (VP (MD would) (VP (VB be) (ADJP (JJ concerned) (PP (IN for) (NP (PRP$ his) (NN safety)))) (SBAR (IN if) (S (VP (VBN released)))))))))) (, ,) (NP (NP (NNP Chapman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBG being) (VP (VBN held) (PP (IN in) (NP (NP (JJ protective) (NN custody)) (ADVP (RB apart) (PP (IN from) (NP (JJ other) (NNS inmates))))))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD believed) (SBAR (IN that) (S (NP (NNP God)) (`` ``) (VP (VBD kept) (S (NP (NP (DT the) (NNS lions) (POS ')) (NNS mouths)) (VP (VBN shut) (PP (IN in) (NP (NP (NNP Daniel) (POS 's)) (NN den))))))))))) (, ,) ('' '') (S (VP (VBG adding) (, ,) (`` ``) (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP he)) (VP (MD can) (VP (VB do) (NP (DT the) (JJ same)) (PP (IN for) (NP (PRP me))) (SBAR (IN if) (S (S (NP (PRP he)) (ADVP (RB so)) (VP (VBZ chooses))) (, ,) (CC and) (S (NP (PRP I)) (VP (MD would) (VP (VB leave) (NP (NP (JJS most)) (PP (IN of) (NP (DT that)))) (ADVP (RB up) (PP (TO to) (NP (PRP him)))))))))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NP (NNP Chapman) (POS 's)) (NN pursuit)) (PP (IN of) (NP (NN publicity)))) (VP (VBD occupied) (NP (NP (JJ much)) (PP (IN of) (NP (DT the) (NN discussion)))) (, ,) (PP (IN despite) (NP (PRP$ his) (VBN professed) (NN wish) (S (VP (TO to) (VP (VB return) (PP (TO to) (NP (NP (DT the) (NN anonymity)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (VP (VBN plagued) (NP (PRP him)) (, ,) (PP (IN as) (NP (NP (DT a) (NN security) (NN guard)) (PP (IN in) (NP (NNP Hawaii))))) (, ,) (ADVP (RB enough) (S (VP (TO to) (VP (VB make) (S (NP (PRP him)) (VP (VB commit) (NP (PRP$ his) (JJ notorious) (NN crime)))))))))))))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN board)) (VP (VBD denied) (NP (NN parole)) (PP (IN in) (NP (NP (DT a) (VBN written) (NN statement)) (VP (VBN issued) (PP (ADVP (RB shortly)) (IN after) (NP (DT the) (NN hearing))))))))) (, ,) (NP (PRP it)) (VP (VBD said) (: :) (`` ``) (S (NP (PRP$ Your) (ADJP (RBS most) (JJ vicious) (CC and) (JJ violent)) (NN act)) (VP (VBD was) (ADVP (RB apparently)) (VP (VBN fueled) (PP (IN by) (NP (PRP$ your) (NN need) (S (VP (TO to) (VP (VB be) (VP (VBN acknowledged))))))))))) (. .)))
+
+(S1 (S (PP (IN During) (NP (PRP$ your) (JJ parole) (NN hearing))) (, ,) (NP (DT this) (NN panel)) (VP (VBD noted) (NP (NP (PRP$ your) (VBN continued) (NN interest)) (PP (IN in) (S (VP (VBG maintaining) (NP (PRP$ your) (NN notoriety))))))) (. .) ('' '')))
+
+(S1 (S (S (VP (VBN Asked) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBD had) (VP (VBN done) (S (VP (TO to) (VP (VB attract) (NP (NN attention)) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD was) (VP (VBN incarcerated)))))))))))))) (, ,) (NP (NNP Chapman)) (VP (VBD recalled) (NP (NP (DT a) (CD 1987) (NN interview)) (PP (IN with) (NP (NNP People) (NN magazine))) (, ,) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (PRP he)) (VP (VBD received) (NP ($ $) (CD 5,000)))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NN news) (NNS reports)))) (PP (IN at) (NP (DT the) (NN time)))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB also)) (VP (VBD recalled) (NP (NP (NNS interviews)) (PP (IN with) (NP (NP (NNP Barbara) (NNP Walters)) (CC and) (NP (NNP Larry) (NNP King))))) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT a) (NN book)) (PP (IN about) (NP (PRP him)))) (VP (VBD was) (VP (VBN published) (PP (IN in) (NP (CD 1992)))))))) (. .)))
+
+(S1 (S (`` ``) (S (ADJP (JJ Other) (PP (IN than) (NP (DT that))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said) (, ,) (`` ``) (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB consistently) (PRN (, ,) (ADVP (RB especially)) (NP (DT the) (JJ last) (CD 10) (NNS years)) (, ,))) (VBN denied) (NP (DT any) (NN press) (NNS requests)))))) (. .) ('' '')))
+
+(S1 (S (CC But) (SBAR (WHADVP (WRB when)) (S (VP (VBN prompted)))) (, ,) (NP (NNP Chapman)) (VP (VBD did) (VP (VB acknowledge) (NP (NP (DT a) (JJ three-hour) (NN interview)) (PP (IN in) (NP (NNP July))) (PP (IN with) (NP (NP (NNP Jack) (NNP Jones)) (, ,) (NP (DT a) (NNP Rochester) (NN journalist)) (SBAR (WHNP (WP who)) (S (VP (VBD wrote) (NP (DT the) (CD 1992) (NN book)) (`` ``) (S (VP (VB Let) (NP (PRP Me)) (VP (VB Take) (NP (PRP You)) (ADVP (RB Down)))))))) (: :) (PP (NNP Inside) (NP (NP (DT the) (NN Mind)) (PP (IN of) (NP (NP (NNP Mark) (NNP David) (NNP Chapman)) (, ,) (NP (NP (DT the) (NN Man)) (SBAR (WHNP (WP Who)) (S (VP (VBD Killed) (NP (NP (NNP John) (NNP Lennon) (POS ')) ('' ') (PRN (-LRB- -LRB-) (NP (NNP Villard) (NNPS Books)) (-RRB- -RRB-)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Jones)) (, ,) (VP (VBN reached) (PP (IN by) (NP (NN telephone))) (NP (NNP Wednesday))) (, ,)) (VP (VBD said) (SBAR (IN that) (S (PP (IN in) (NP (DT the) (NNP July) (NN interview))) (, ,) (NP (NNP Chapman)) (VP (VBD had) (VP (VBN told) (NP (PRP him)) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD wanted) (S (VP (TO to) (VP (VB be) (VP (VBN released) (PP (IN from) (NP (NN prison))))))))))))))) (. .)))
+
+(S1 (SINV (S (CC But) (PP (IN after) (NP (DT the) (NN hearing))) (NP (JJ last) (NN week)) (, ,) (`` ``) (NP (PRP he)) (VP (VBD was) (VP (VBN relieved) (SBAR (IN that) (S (NP (PRP they)) (VP (VBD made) (NP (DT the) (NN decision) (SBAR (IN that) (S (NP (PRP they)) (VP (VBD made))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Jones)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD spoke) (PP (TO to) (NP (NP (PRP him)) (ADVP (RB then)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN interview)) (VP (VBD was) (VP (VBN conducted) (PP (IN for) (NP (NP (DT the) (NN book) (POS 's)) (ADJP (RB newly) (VBN published)) (JJ second) (NN edition))))) (. .)))
+
+(S1 (S (NP (NN Chapman)) (VP (VBD said) (SBAR (IN that) (S (PP (IN after) (S (VP (VBG getting) (NP (NP (NN permission)) (PP (IN from) (NP (NNP God))))))) (, ,) (NP (PRP he)) (VP (VBD had) (VP (VBN allowed) (S (NP (NP (NNS parts)) (PP (IN of) (NP (PRP it)))) (VP (TO to) (VP (VB be) (VP (VBN released) (PP (TO to) (NP (NNP Court) (NNP TV)))))))))))) (. .)))
+
+(S1 (S (S (PP (IN In) (NP (DT the) (NN interview))) (, ,) (NP (NP (NNS parts)) (PP (IN of) (NP (WDT which)))) (VP (VBD were) (ADVP (RB also)) (VP (VBN published) (PP (IN in) (NP (NP (DT The) (NNP Daily) (NNP Express)) (PP (IN of) (NP (NNP London)))))))) (, ,) (NP (NNP Chapman)) (VP (VBD made) (NP (DT the) (ADJP (RB widely) (VBN publicized)) (NN remark)) (SBAR (IN that) (S (NP (NNP Lennon)) (VP (VP (VBD was) (NP (DT a) (NN liberal))) (CC and) (VP (MD would) (VP (VB have) (VP (VBN wanted) (S (NP (PRP him)) (VP (TO to) (VP (VB be) (VP (VBN released)))))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN at) (NP (DT the) (NN hearing))) (, ,) (NP (DT the) (NN inmate)) (VP (VBD complained) (SBAR (SBAR (IN that) (S (NP (DT the) (NN comment)) (VP (VBD had) (VP (VBN been) (VP (ADVP (RB wrongly)) (VBN portrayed)))))) (, ,) (CC and) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD had) (RB not) (VP (VBN meant) (S (NP (PRP it)) (PP (IN as) (NP (NP (DT an) (NN argument)) (PP (IN in) (NP (NP (NN favor)) (PP (IN of) (NP (PRP$ his) (NN parole)))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP He)) (VP (VBD asked) (NP (PRP me)) (, ,) (SBAR (WHNP (WP what)) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP John) (NNP Lennon)) (VP (MD would) (VP (VB do))))))))))))) (, ,) ('' '') (NP (NNP Chapman)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (CC And) (S (NP (PRP I)) (VP (VBD thought) (PP (IN about) (NP (PRP it))) (PP (IN for) (NP (DT a) (NN minute))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBD answered) (ADVP (RB honestly)))) (. .) ('' '')))
+
+(S1 (NP (QP (CD NYT-10-11-00) (CD 2219EDT))))
+

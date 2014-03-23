@@ -1,0 +1,48 @@
+(S1 (NP (NP (CD NYT20001228.1932.0266) (NN NEWS) (NN STORY)) (QP (CD 2000-12-28) (CD 19:44:00))))
+
+(S1 (NP (NP (CD A3852) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP i) (NNP BC-HAITI-U.S.-NYT) (NN &LR)) (: ;) (NP (QP (CD 12-28) (CD 0497))))))
+
+(S1 (NP (NNP BC-HAITI-U.S.-NYT)))
+
+(S1 (S (NP (NP (NNP HAITI) (POS 'S)) (NN PRESIDENT-ELECT)) (VP (VBZ PLEDGES) (NP (NNS REFORMS)) (PP (IN IN) (NP (NP (DT A) (NN LETTER)) (PP (TO TO) (NP (NNP CLINTON))))))))
+
+(S1 (NP (NP (NP (NN &UR)) (: ;) (NP (NP (NNP By) (NNP DAVID) (NNP GONZALEZ)) (NP (CD &LR))) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR))) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NP (NP (NNP MIAMI) (NNP _)) (VP (VBG Seeking) (S (VP (TO to) (VP (VB mend) (NP (NP (NP (JJ tattered) (NNS relations)) (PP (IN with) (NP (PRP$ his) (NN opposition)))) (CC and) (NP (DT the) (JJ international) (NN community)))))))) (, ,) (NP (NP (NNP Haiti) (POS 's)) (NN president-elect)) (, ,) (NP (NNP Jean-Bertrand) (NNP Aristide)) (, ,)) (VP (VBZ has) (VP (VBN assured) (NP (NNP President) (NNP Clinton)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ is) (ADJP (VBN committed) (PP (TO to) (NP (NP (DT a) (JJ broad) (NN range)) (PP (IN of) (NP (NP (JJ governmental) (CC and) (JJ political) (NNS reforms)) (, ,) (PP (VBG including) (NP (NP (DT a) (NN runoff)) (PP (IN for) (NP (NP (CD 10) (JJ contested) (NNP Senate) (NNS seats)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (VP (VBN caused) (NP (DT an) (JJ electoral) (NN crisis)))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (NN letter)) (VP (VP (VBN sent) (PP (TO to) (NP (NNP Clinton))) (PP (IN on) (NP (NNP Wednesday)))) (CC and) (VP (VBN made) (ADJP (JJ public)) (PP (IN by) (NP (DT the) (NNP White) (NNP House))) (PP (IN on) (NP (NNP Thursday))))))) (, ,) (NP (NNP Aristide)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VP (VB include) (NP (NN opposition) (NNS members)) (PP (IN in) (NP (PRP$ his) (NN government)))) (, ,) (VP (VB consult) (PP (IN with) (NP (PRP them))) (PP (IN in) (S (VP (VBG establishing) (NP (DT an) (JJ electoral) (NN council)))))) (CC and) (VP (VB let) (S (NP (NP (DT the) (NNP Organization)) (PP (IN of) (NP (NNP American) (NNPS States)))) (VP (VB monitor) (NP (DT the) (JJ human) (NNS rights) (NN situation)))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Opposition) (NNS groups)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (VP (VBN boycotted) (NP (DT the) (NNP November) (NN election)))))) (, ,)) (ADVP (RB recently)) (VP (VBD vowed) (S (VP (TO to) (VP (VB set) (PRT (RP up)) (NP (DT a) (JJ parallel) (NN government) (S (VP (TO to) (VP (VB press) (NP (NNP Aristide)) (PP (IN after) (NP (NP (PRP$ his) (NN inauguration)) (PP (IN on) (NP (NNP Feb))))))))))))) (. .)))
+
+(S1 (FRAG (NP (CD 7)) (. .)))
+
+(S1 (S (NP (DT The) (NN letter)) (VP (VBZ appears) (S (VP (TO to) (VP (VB be) (NP (DT an) (NN attempt) (S (VP (CONJP (RB not) (RB only)) (VP (TO to) (VP (VB calm) (NP (NP (DT the) (NNS concerns)) (PP (IN of) (NP (DT the) (JJ current) (NNP American) (NN administration)))))) (, ,) (CONJP (CC but) (RB also)) (VP (TO to) (VP (VB reach) (PRT (RP out)) (PP (TO to) (NP (DT the) (JJ next) (CD one)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (PRP it))) (, ,) (NP (DT the) (NNP Haitian) (NN president-elect)) (VP (VBD addressed) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (NP (CD eight) (NNS points)) (VP (VBN discussed) (NP (JJ last) (NN week)) (PP (IN with) (NP (NP (DT an) (NNP American) (NN delegation)) (VP (VBN led) (PP (IN by) (NP (NP (DT a) (JJ special) (NN envoy)) (, ,) (NP (NNP Anthony) (NNP Lake)))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBP confirm) (NP (NP (PRP$ my) (NN commitment)) (PP (TO to) (NP (NP (DT the) (NNS points)) (VP (VBN made) (ADVP (RB therein)))))))) (PRN (, ,) ('' '') (S (NP (NNP Aristide)) (VP (VBD said) (PP (IN in) (NP (DT the) (NN letter))))) (, ,)) (`` ``) (S (ADJP (JJ confident) (SBAR (IN that) (S (NP (PRP they)) (VP (MD will) (VP (VB help) (S (VP (VB strengthen) (NP (NP (DT the) (NNS ties)) (PP (IN between) (NP (PRP$ our) (CD two) (NNS nations)))) (SBAR (WHADVP (WRB where)) (S (NP (NP (NN democracy)) (CC and) (NP (NN peace))) (VP (MD will) (VP (VB flourish))))))))))))) (. .) ('' '')))
+
+(S1 (S (PP (IN Since) (NP (NP (CD 1994)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD sent) (NP (NP (CD 20,000) (NNS troops)) (SBAR (S (VP (TO to) (VP (VB restore) (NP (NNP Aristide))))))) (PP (TO to) (NP (NN power))) (SBAR (IN after) (S (NP (PRP he)) (VP (VBD was) (VP (VBN toppled) (PP (IN in) (NP (DT a) (NN coup)))))))))))) (, ,) (NP (DT the) (NNP Clinton) (NN administration)) (VP (VBZ has) (VP (VBN sought) (S (VP (TO to) (VP (VB bolster) (NP (NP (NN democracy)) (PP (IN in) (NP (NNP Haiti))))))))) (. .)))
+
+(S1 (S (CC But) (ADVP (RBR more) (RB recently)) (NP (DT the) (NNP United) (NNPS States)) (VP (VBZ has) (VP (VBN withheld) (NP (NP (JJ direct) (NN aid)) (, ,) (NP (NP (NP (NN conditioning)) (NP (PRP$ its) (NN resumption))) (PP (IN on) (NP (ADJP (JJ free) (CC and) (JJ fair)) (NNS elections)))) (CC and) (NP (NP (NN progress)) (PP (IN in) (NP (NP (DT the) (NN fight)) (PP (IN against) (NP (DT the) (NN drug) (NN trade))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Describing) (NP (DT the) (NN letter)) (PP (IN as) (`` ``) (NP (DT a) (JJ real) (NN opening))))) (, ,) ('' '') (NP (DT a) (JJ senior) (NNP Clinton) (NN administration) (NN official)) (VP (VBD said) (: :) (`` ``) (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB up) (PP (TO to) (NP (NP (DT the) (NN opposition)) (CC and) (NP (DT the) (JJ new) (NN administration))))) (SBAR (IN whether) (CC or) (RB not) (S (NP (PRP they)) (VP (VBP wish) (S (VP (TO to) (VP (VB pursue) (NP (PRP it))))))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP hope) (SBAR (S (NP (PRP they)) (VP (VBP do)))) (, ,) (SBAR (IN because) (S (NP (PRP I)) (VP (VBP do) (RB not) (VP (VB see) (NP (DT a) (JJ good) (NN alternative))))))) (. .) ('' '')))
+
+(S1 (S (NP (DT Another) (NN administration) (NN official)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS talks)) (NP (JJ last) (NN week)) (VP (VBD involved) (NP (DT no) (NN quid)) (ADVP (FW pro) (FW quo)) (, ,) (SBAR (IN although) (S (NP (DT all) (NNS sides)) (VP (VBD knew) (SBAR (IN that) (S (NP (NP (DT a) (NN resolution)) (PP (IN of) (NP (NP (NNP Haiti) (POS 's)) (JJ political) (NN quagmire)))) (VP (MD could) (VP (VB result) (PP (IN in) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS millions)) (PP (IN of) (NP (NP (NNS dollars)) (PP (IN in) (NP (ADJP (RB desperately) (VBN needed)) (NN aid)))))))))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Aristide)) (VP (VBZ is) (ADJP (JJ aware) (SBAR (S (NP (PRP he)) (VP (VP (VBZ has) (VP (VBD got) (NP (NP (DT a) (JJ skeptical) (NN administration)) (VP (VBG coming) (PP (IN into) (NP (NNP Washington))))))) (CC and) (VP (VBZ sees) (NP (DT the) (NN need) (S (VP (VP (TO to) (VP (VB mend) (NP (NNS fences)))) (CC and) (VP (TO to) (VP (ADVP (IN at) (JJS least)) (VB commit) (PP (TO to) (NP (DT some) (JJ significant) (NNS things)))))))))))))))))) (, ,) ('' '') (NP (DT the) (NN official)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (SBAR (IN If) (S (NP (PRP he)) (VP (VBZ follows) (PRT (RP through))))) (, ,) (NP (PRP they)) (VP (VBP are) (ADJP (RB very) (JJ significant))) (. .) ('' '')))
+
+(S1 (S (NP (NP (DT The) (JJS biggest) (JJ stumbling) (NN block)) (PP (TO to) (NP (NP (JJ normal) (NNS relations)) (PP (IN with) (NP (DT the) (NNP United) (NNPS States)))))) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN controversy)) (PP (IN over) (NP (DT the) (NNP May) (CD 21) (JJ legislative) (CC and) (JJ local) (NNS elections)))))) (. .)))
+
+(S1 (S (NP (CD Ten) (NNP Senate) (NNS seats)) (VP (VBD were) (VP (VBN awarded) (PP (TO to) (NP (NP (NNS candidates)) (PP (IN of) (NP (NP (NNP Aristide) (POS 's)) (NNP Lavalas) (NN party))))) (PP (IN through) (NP (NP (DT a) (NN vote)) (VP (VBG counting) (NP (NP (NN method)) (VP (ADVP (RB later)) (VBN discredited) (PP (IN by) (NP (DT the) (JJ international) (NN community)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN method)) (VP (VBD gave) (NP (DT the) (NNP Lavalas) (NNS candidates)) (NP (DT a) (JJ first-round) (NN victory)) (SBAR (RB even) (IN though) (S (NP (DT the) (NNS candidates)) (VP (VBD had) (VP (VBN failed) (S (VP (TO to) (VP (VB win) (NP (DT an) (JJ outright) (NN majority)))))))))) (. .)))
+
+(S1 (NP (CD NYT-12-28-00) (NN 1944EST)))
+

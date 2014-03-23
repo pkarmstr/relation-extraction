@@ -1,0 +1,128 @@
+(S1 (NP (NP (CD NYT20001111.1033.0046) (NN NEWS) (NN STORY)) (QP (CD 2000-11-11) (CD 10:36:00))))
+
+(S1 (NP (NP (CD A5480) (NN &Cx1f)) (: ;) (NP (JJ var-z) (NNP u) (DT a) (JJ BC-ELN-VOTERS-REVIEW-ART) (QP (CD 11-11) (CD 0938)))))
+
+(S1 (NP (NNP BC-ELN-VOTERS-REVIEW-ART-NYT)))
+
+(S1 (NP (SBAR (WHNP (WP WHO)) (S (VP (VBD VOTED)))) (: :) (NP (NP (DT A) (NN PORTRAIT)) (PP (IN OF) (NP (NP (JJ AMERICAN) (NNS POLITICS)) (, ,) (NP (CD 1976-2000)))))))
+
+(S1 (S (NP (NP (JJ &UR) (PRN (: ;) (-LRB- -LRB-) (NP (NP (DT The) (NNP Week)) (PP (IN in) (NP (NNP Review)))) (-RRB- -RRB-)) (NNS &LR)) (: ;) (NP (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (-LRB- -LRB-) (NP (NN NOTE)) (PP (TO TO) (NP (JJ INTERNATIONAL) (NNS CLIENTS))))) (: :) (PP (IN For) (NP (JJ international) (NNS clients))) (: ')) (VP (VB use) (PP (IN by) (NP (JJ special) (NN arrangement))) (ADVP (RB only))) (. .)))
+
+(S1 (X (NP (NP (ADJP (JJ Asian) (CC and) (JJ European)) (NNS points)) (: :) (NP (NP (NN contact) (NNP Karl) (NNP Horwitz)) (PP (IN in) (NP (NNP Paris))) (PP (IN for) (NP (NNS details) (CC and) (NNS prices))) (PRN (-LRB- -LRB-) (NP (NP (NN Phone)) (: :) (NP (NP (QP (CD 47) (CD 42))) (NP (CD 17) (CD 11))) (: ;) (NP (NN FAX))) (: :) (NP (CD 47-42-80-44)) (-RRB- -RRB-))) (. .)) (NP (NNP Latin) (NNP American) (NNS points)) (: :) (FRAG (NP (NN contact)) (NP (DT the) (NNP Los) (NNP Angeles) (NN office)) (-LRB- -LRB-) (NP (NP (NN Phone)) (: :) (NP (CD 310-996-0075)) (: ;) (NP (NN FAX)) (: :) (NP (CD 310-996-0089) (-RRB- -RRB-) (NNS &QL))) (: ;) (-LRB- -LRB-) (NP (NNP ART) (NNP ADV)) (: :) (S (NP (NNP Graphic)) (VP (VBZ is) (VP (VBG being) (VP (VBN sent) (S (VP (TO to) (VP (VB NYT) (NP (JJ graphic) (NNS clients)))))))))) (. .)))
+
+(S1 (S (NP (NNS Nonsubscribers)) (VP (MD can) (VP (VB purchase) (NP (JJ one-time) (NNS rights)) (PP (IN by) (S (VP (VBG calling) (NP (NP (QP (CD 888-603-1036) (CC or) (CD 888-346-9867)) (. .) (-RRB- -RRB-) (NNS &LR)) (: ;) (NP (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NNP By) (NNP MARJORIE) (NNP CONNELLY) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))))))))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NP (DT A) (NN majority)) (PP (IN of) (NP (NP (NNS women)) (, ,) (NP (JJR older) (NNS voters)) (, ,) (NP (NNPS Democrats)) (, ,) (NP (NNS liberals)) (CC and) (NP (ADJP (JJ black) (, ,) (NNP Hispanic) (CC and) (NNP Asian)) (NNS voters))))) (VP (VBD cast) (NP (PRP$ their) (NNS ballots)) (PP (IN for) (NP (NNP Al) (NNP Gore)))) (. .)))
+
+(S1 (S (NP (NNP George) (NNP W.) (NNP Bush)) (VP (VBD captured) (NP (NP (DT the) (NNS votes)) (PP (IN of) (NP (NP (JJS most) (NNS men) (, ,) (NNS whites) (, ,) (NNS conservatives) (, ,) (NNPS Republicans) (, ,) (NNPS Southerners)) (CC and) (NP (JJ white) (NNPS Protestants)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Ralph) (NNP Nader)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD received) (NP (NP (CD 2) (NN percent)) (PP (IN of) (NP (DT the) (NN vote))))))) (, ,)) (VP (VBD did) (ADVP (RBS best)) (PP (PP (IN among) (NP (NP (NNS independents)) (PRN (, ,) (ADVP (RB particularly)) (NP (JJ liberal) (NNS ones)) (, ,)))) (CC and) (PP (IN among) (NP (JJ young) (NNS men))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (JJ national) (NN election)) (VP (VBD was) (ADJP (RB so) (RB close)) (SBAR (IN because) (S (NP (JJ several) (JJ large) (NNS groups)) (VP (VBP _) (SBAR (S (NP (NP (NP (NNS voters)) (PP (IN under) (NP (CD 65)))) (, ,) (NP (NNS independents)) (, ,) (NP (NP (NNS voters)) (PP (IN from) (NP (NP (DT the) (NNP Midwest)) (CC and) (NP (DT the) (NNP West))))) (CC and) (NP (NNS suburbanites))) (VP (VBP _) (VP (VBN divided) (NP (PRP$ their) (NNS votes)) (ADVP (RB almost) (RB evenly)) (PP (IN between) (NP (DT the) (CD two) (JJ major) (NNS candidates))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ accompanying) (NN table)) (, ,) (VP (VBN drawn) (PP (IN from) (NP (NP (NNS surveys)) (PP (IN of) (S (NP (NNS voters)) (VP (VBG leaving) (NP (NP (DT the) (NNS polls)) (PRN (-LRB- -LRB-) (PP (VBG including) (NP (NP (DT those)) (PP (IN in) (NP (NNP Florida))))) (-RRB- -RRB-))))))))) (, ,)) (VP (VBZ shows) (SBAR (WHADVP (WRB how)) (S (NP (JJ different) (NNS groups)) (VP (VBP have) (VP (VBN voted) (PP (IN for) (NP (NN president))) (PP (IN since) (NP (CD 1976)))))))) (. .)))
+
+(S1 (S (SBAR (IN Because) (S (NP (NP (JJ large) (NNS numbers)) (PP (IN of) (NP (NNS people)))) (VP (VBP are) (ADJP (VBN surveyed))))) (, ,) (NP (NN exit) (NNS polls)) (VP (MD can) (VP (VB help) (S (VP (VB measure) (NP (NP (NP (DT the) (NNS preferences)) (PP (IN of) (NP (NP (NP (NNS groups)) (PP (IN like) (NP (JJ Jewish) (CC or) (JJ Asian) (NNS voters)))) (CC or) (NP (JJ young) (NNS blacks))))) (CC or) (NP (NP (JJ liberal) (NNPS Republicans)) (SBAR (WHNP (WP$ whose) (NP (NN portion)) (PP (IN of) (NP (DT the) (VBG voting) (NN population)))) (S (VP (VBZ is) (ADVP (RB often)) (ADJP (RB too) (JJ small) (S (VP (TO to) (VP (VB examine) (PP (IN in) (NP (JJ typical) (NN telephone) (NNS surveys)))))))))))))))) (. .)))
+
+(S1 (NP (DT The) (NN Gender) (NNP Gap)))
+
+(S1 (S (S (NP (NNP Bush)) (VP (VBD received) (NP (NP (DT a) (NN majority)) (PP (IN of) (NP (NNS votes)))) (PP (IN from) (NP (NNS men))))) (CC and) (S (NP (NNP Gore)) (VP (VBD was) (VP (VBN backed) (PP (IN by) (NP (NP (DT a) (NN majority)) (PP (IN of) (NP (NNS women)))))))) (. .)))
+
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN trend)) (PP (IN for) (NP (QP (IN at) (JJS least) (CD 20)) (NNS years)))))) (: :) (S (NP (JJR more) (NNS women)) (VP (VB vote) (PP (IN for) (NP (NNPS Democrats))))) (: ;) (S (NP (JJR more) (NNS men)) (VP (VBP prefer) (NP (NNPS Republicans)))) (. .)))
+
+(S1 (S (NP (DT This) (NN year)) (, ,) (NP (DT the) (NN gap)) (VP (VBD was) (ADJP (RB especially) (JJ large))) (. .)))
+
+(S1 (S (NP (NNP Gore)) (VP (VBD got) (NP (JJR more) (NNS votes)) (PP (IN from) (NP (NP (NP (NNS women)) (PP (IN than) (PP (IN from) (NP (NNS men))))) (: :) (NP (CD 12) (NN percentage) (NNS points))) (ADVP (RBR more)))) (. .)))
+
+(S1 (S (NP (DT The) (NN gender) (NN gap)) (VP (VBD cut) (PP (IN across) (NP (NP (DT all) (NX (NX (NN age) (NNS groups)) (CC and) (NX (NN education) (NNS levels)))) (, ,) (PP (ADVP (RB even)) (IN among) (NP (JJ black) (NNS voters))) (, ,) (SBAR (WHNP (WP who)) (S (VP (ADVP (RB strongly)) (VBD supported) (ADVP (NNP Gore) (JJ overall)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN gender) (NN gap)) (VP (VBD was) (NP (NP (JJS widest)) (PP (IN among) (NP (NP (NN college) (NNS graduates)) (CC and) (NP (JJ unmarried) (NNS voters)))))) (. .)))
+
+(S1 (NP (NN Party) (NN Identification)))
+
+(S1 (S (NP (JJ Few) (NNS voters)) (VP (VBD crossed) (NP (NN party) (NNS lines))) (. .)))
+
+(S1 (S (NP (NP (JJ Large) (NNS majorities)) (PP (IN of) (NP (NNPS Republicans)))) (VP (VBD supported) (NP (NNP Bush))) (. .)))
+
+(S1 (S (NP (NNP Gore)) (VP (VBD won) (NP (NP (DT the) (NNS votes)) (PP (IN of) (NP (JJS most) (NNPS Democrats))))) (. .)))
+
+(S1 (S (NP (NP (NNS Voters)) (SBAR (WHNP (WP who)) (S (VP (VBD identified) (NP (PRP themselves)) (PP (IN as) (ADJP (JJ independent))))))) (VP (VBN split) (ADVP (RB almost) (RB evenly))) (. .)))
+
+(S1 (S (NP (NP (JJS Most) (NNS independents)) (SBAR (WHNP (WP who)) (S (VP (VBD described) (NP (PRP$ their) (JJ political) (NN ideology)) (PP (IN as) (ADJP (JJ liberal))))))) (VP (VBD supported) (NP (NNP Gore))) (. .)))
+
+(S1 (S (NP (NNP Bush)) (VP (VBD was) (VP (VBN backed) (PP (IN by) (NP (NP (NNS independents)) (SBAR (WHNP (WP who)) (S (VP (VBD characterized) (NP (PRP themselves)) (PP (IN as) (ADJP (JJ conservative)))))))))) (. .)))
+
+(S1 (S (NP (JJ Moderate) (NNS independents)) (VP (VBD were) (ADJP (ADVP (RB very) (RB closely)) (VBN divided))) (. .)))
+
+(S1 (SBAR (WHADVP (WRB Where)) (S (NP (PRP They)) (VP (VBP Live)))))
+
+(S1 (S (PP (IN As) (PP (IN in) (NP (CD 1996)))) (, ,) (NP (JJS most) (NNS Easterners)) (VP (VBD supported) (NP (DT the) (NNP Democrat))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN while) (S (ADVP (NP (CD four) (NNS years)) (RB ago)) (, ,) (NP (NNPS Southerners)) (VP (VBD were) (VP (ADVP (RB evenly)) (VBN divided) (PP (IN between) (NP (NP (NNP Bill) (NNP Clinton)) (CC and) (NP (NNP Bob) (NNP Dole)))))))) (, ,) (NP (DT this) (NN year)) (NP (NNP Bush)) (VP (VBD carried) (NP (DT the) (NP (DT the) (NNP South)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Midwest)) (CC and) (NP (DT the) (NNP West))) (VP (VBD were) (VP (ADVP (RB almost) (RB evenly)) (VBN divided) (PP (IN between) (NP (DT the) (CD two) (NNS candidates))))) (. .)))
+
+(S1 (S (NP (NNP Gore)) (VP (VBD did) (ADVP (RBS best)) (PP (IN among) (NP (NNS urbanites)))) (. .)))
+
+(S1 (S (NP (NNP Bush)) (VP (VBD ran) (ADJP (JJR stronger)) (PP (PP (IN in) (NP (JJR smaller) (NNS towns))) (CC and) (PP (IN in) (NP (JJ rural) (NNS areas))))) (. .)))
+
+(S1 (S (NP (JJ Suburban) (NNS voters)) (VP (VBN split) (ADVP (RB about) (RB evenly))) (. .)))
+
+(S1 (NP (NN Pocketbook) (NNS Concerns)))
+
+(S1 (S (NP (NP (NNS Voters)) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP$ their) (NNS finances)) (VP (VBP have) (VP (VBN improved) (PP (IN during) (NP (NP (DT a) (NN president) (POS 's)) (NN tenure))))))))))) (ADVP (RB usually)) (VP (VBP favor) (NP (DT the) (JJ incumbent)) (, ,) (SBAR (IN while) (S (NP (DT the) (NNP challenger)) (VP (VBZ is) (VP (VBN preferred) (PP (IN by) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP$ their) (JJ financial) (NN situation)) (VP (VBZ has) (VP (VBN deteriorated))))))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBD held) (ADVP (JJ true) (NP (DT this) (NN year)))) (. .)))
+
+(S1 (S (NP (NNP Gore)) (VP (VBD was) (ADVP (RB strongly)) (VP (VBN backed) (PP (IN by) (NP (NP (NNS voters)) (SBAR (WHNP (WP who)) (S (VP (VBD said) (SBAR (S (NP (NP (PRP$ their) (NN family) (POS 's)) (NNS finances)) (VP (VBD were) (ADJP (ADJP (JJR better)) (PP (IN than) (ADVP (NP (CD four) (NNS years)) (RB ago)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Bush)) (VP (VBD won) (NP (NP (DT the) (NN support)) (PP (IN of) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBD said) (SBAR (S (NP (PRP$ their) (JJ financial) (NN situation)) (VP (VBD had) (VP (VBN deteriorated)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1996))) (, ,) (NP (NP (CD one)) (PP (IN in) (NP (CD three) (NNS voters)))) (VP (VBD said) (SBAR (S (NP (PRP$ their) (JJ economic) (NN situation)) (VP (VBD had) (VP (VBN improved) (PP (IN over) (NP (DT the) (JJ previous) (CD four) (NNS years)))))))) (. .)))
+
+(S1 (S (NP (DT This) (NN year)) (, ,) (NP (NN half)) (VP (VBD did)) (. .)))
+
+(S1 (S (ADVP (RB Generally)) (, ,) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP$ their) (JJ economic) (NNS conditions)) (VP (VBP have) (RB not) (VP (VBN changed))))))))) (VP (VBP divide) (NP (NP (PRP$ their) (NN support)) (PP (IN between) (NP (DT the) (CD two) (JJ major) (NNS candidates)))) (ADVP (RB pretty) (RB evenly))) (. .)))
+
+(S1 (S (NP (DT This) (NN year)) (, ,) (ADVP (RB though)) (, ,) (NP (NP (CD two)) (PP (IN in) (NP (CD three)))) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))) (. .)))
+
+(S1 (S (NP (NP (NNS Data)) (PP (IN for) (NP (CD 2000)))) (VP (VBD were) (VP (VBN collected) (PP (IN by) (NP (NP (NNP Voter) (NNP News) (NNP Service)) (VP (VBN based) (PP (IN on) (NP (NP (NNS questionnaires)) (VP (VBN completed) (PP (IN by) (NP (CD 13,279) (NNS voters))) (S (VP (VBG leaving) (NP (CD 300) (NN polling) (NNS places)) (PP (IN around) (NP (NP (DT the) (NN nation)) (PP (IN on) (NP (NNP Election) (NNP Day))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Data)) (PP (IN for) (NP (CD 1996)))) (VP (VBD were) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (NN survey)) (VP (VBN conducted) (PP (IN by) (NP (NP (NNP Voter) (NNP News) (NNP Service)) (VP (VBN based) (PP (IN on) (NP (NP (NNS questionnaires)) (PP (IN with) (NP (CD 16,627) (NNS voters))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Data)) (PP (IN for) (NP (CD 1992)))) (VP (VBD were) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (NN survey)) (VP (VBN conducted) (PP (IN by) (NP (NP (NNP Voter) (NNP Research)) (CC and) (NP (NP (NNS Surveys)) (PP (IN with) (NP (CD 15,490) (NNS voters))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Data)) (PP (IN for) (NP (NP (CD 1976)) (PP (IN through) (NP (CD 1988)))))) (VP (VBD were) (VP (VBN based) (PP (IN on) (NP (NP (NP (NNS surveys)) (VP (VBN conducted) (PP (IN by) (NP (NP (DT The) (NNP New) (NNP York) (NNP Times)) (CC and) (NP (NNP CBS) (NNP News)))))) (: :) (NP (NP (NP (CD 11,645)) (PP (IN in) (NP (CD 1988)))) (: ;) (NP (NP (CD 9,174)) (PP (IN in) (NP (CD 1984)))) (: ;) (NP (NP (CD 15,201)) (PP (IN in) (NP (CD 1980)))) (CC and) (NP (NP (CD 15,300)) (PP (IN in) (NP (CD 1976))))))))) (. .)))
+
+(S1 (S (NP (NN Family) (NN income)) (VP (VP (NNS categories) (PP (IN in) (NP (CD 1976)))) (: :) (NP (NP (QP (IN Under) ($ $) (CD 8,000))) (, ,) (NP (NP ($ $) (CD 8,000-)) (NP ($ $) (CD 12,000))) (, ,) (NP (NP ($ $) (CD 12,001-)) (NP ($ $) (CD 20,000))) (, ,) (CC and) (NP (QP (IN over) ($ $) (CD 20,000))))) (. .)))
+
+(S1 (PP (IN In) (NP (CD 1980)) (: :) (PP (IN Under) (NP (NP ($ $) (CD 10,000)) (, ,) (NP (NP ($ $) (CD 10,000-)) (NP ($ $) (CD 24,999))) (, ,) (NP (NP ($ $) (CD 25,000-)) (NP ($ $) (CD 50,000))) (CC and) (NP (QP (IN over) ($ $) (CD 50,000))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1984))) (: :) (NP (NP (QP (IN Under) ($ $) (CD 12,500))) (, ,) (NP (NP ($ $) (CD 12,500-)) (NP ($ $) (CD 24,999))) (, ,) (NP (NP ($ $) (CD 25,000-)) (NP ($ $) (CD 50,000))) (CC and) (NP (QP (IN over) ($ $) (CD 50,000)))) (. .)))
+
+(S1 (PP (IN In) (NP (CD 1988)) (: :) (PP (IN Under) (NP (NP (NP ($ $) (CD 12,500)) (, ,) (NP (NP ($ $) (CD 12,500-)) (NP ($ $) (CD 24,999))) (, ,) (NP (NP ($ $) (CD 25,000-)) (NP ($ $) (CD 50,000)))) (, ,) (PP (PP (IN over) (NP ($ $) (CD 50,000))) (CC and) (PP (IN over) (NP ($ $) (CD 100,000)))))) (. .)))
+
+(S1 (PP (IN In) (NP (CD 1992)) (: :) (PP (IN Under) (UCP (NP (NP ($ $) (CD 15,000)) (, ,) (NP (NP ($ $) (CD 15,000-)) (NP ($ $) (CD 29,999))) (, ,) (NP (NP ($ $) (CD 30,000-)) (NP ($ $) (CD 49,999))) (, ,) (NP (QP ($ $) (CD 50,000) (CC and) (RB over))) (, ,) (CC and) (NP ($ $) (CD 100,000))) (CC and) (ADVP (RB over)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN category)) (PP (IN of) (NP (NNS independents)))) (VP (VBZ includes) (NP (NP (NNS respondents)) (SBAR (WHNP (WP who)) (S (VP (VBD indicated) (SBAR (S (NP (PRP they)) (VP (VBD considered) (S (NP (PRP themselves)) (`` ``) (NP (NN something) (JJ else) ('' ')) ('' ') (PP (IN in) (NP (CD 1972) (, ,) (CD 1992) (, ,) (CD 1996) (CC and) (CD 2000)))))))))))) (. .)))
+
+(S1 (S (`` ``) (NP (NN Something) (RB else)) ('' ') (VP (POS ') (VP (VBD was) (NP (RB not) (DT an) (NN option)) (NP (DT the) (JJ other) (NNS years)))) (. .)))
+
+(S1 (S (NP (NN Male) (CC and) (NN female) (NN college) (NNS graduates)) (VP (VBP include) (NP (NP (DT those)) (PP (IN with) (NP (JJ postgraduate) (NN education))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1984))) (, ,) (NP (JJ first-time) (NN voter)) (VP (VBZ refers) (PP (TO to) (NP (NP (NNS voters)) (VP (ADVP (RB first)) (VBN registered) (S (VP (TO to) (VP (VB vote) (PP (IN in) (NP (DT that) (NN year)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1976) (CC and) (CD 1980))) (NP (DT the) (JJ Congressional) (NN vote)) (VP (VBZ does) (RB not) (VP (VB include) (NP (NP (NNP New) (NNP York)) (CC and) (NP (NNP California))))) (. .)))
+
+(S1 (S (S (NP (NN Family) (JJ financial) (NN situation)) (VP (VBZ is) (VP (VBN compared) (PP (TO to) (NP (CD one) (NN year)) (PP (ADVP (NP (RB ago) (QP (IN in) (CD 1976) (CC and) (CD 1980) (CC and) (CD four)) (NNS years)) (RB ago)) (IN in) (NP (CD 1984) (, ,) (CD 1992) (, ,) (CD 1996) (CC and) (CD 2000))))))) (: ;) (S (NP (CD 1976) (CC and) (CD 1984) (NNS data)) (VP (VBP are) (PP (IN from) (NP (NNP NBC) (NNP News))))) (. .)))
+
+(S1 (S (NP (NP (DT Those)) (SBAR (WHNP (WP who)) (S (VP (VBD gave) (NP (DT no) (NN answer)))))) (VP (VBP are) (RB not) (VP (VBN shown))) (. .)))
+
+(S1 (S (NP (NNS Dashes)) (VP (VBP indicate) (SBAR (IN that) (S (S (NP (DT a) (NN question)) (VP (VBD was) (RB not) (VP (VBN asked)))) (CC or) (S (NP (DT a) (NN category)) (VP (VBD was) (RB not) (VP (VBN provided) (PP (IN in) (NP (DT a) (JJ particular) (NN year))))))))) (. .)))
+
+(S1 (S (NP (NNS Asterisks)) (VP (VBP indicate) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (NP (NP (DT an) (JJ insufficient) (NN number)) (PP (IN of) (NP (NNS respondents)))))))) (. .)))
+
+(S1 (NP (CD NYT-11-11-00) (NN 1036EST)))
+

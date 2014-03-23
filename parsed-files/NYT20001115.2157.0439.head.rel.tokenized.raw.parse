@@ -1,0 +1,58 @@
+(S1 (NP (NP (CD NYT20001115.2157.0439) (NN NEWS) (NN STORY)) (QP (CD 2000-11-15) (CD 22:12:10))))
+
+(S1 (NP (NP (CD A0465) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP l)) (JJ BC-CIRCUITS-PHOTO-UPDATE) (QP (CD 11-15) (CD 0444)))))
+
+(S1 (NP (NNP BC-CIRCUITS-PHOTO-UPDATE-NYT)))
+
+(S1 (NP (NN ATTENTION) (NNS EDITORS) (: :)))
+
+(S1 (S (NP (DT The) (JJ following) (NNS photos)) (VP (VBP have) (VP (VBN been) (VP (VBN sent) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT The) (NNP New) (NNP York) (NNPS Times) (POS ')) (NNS Circuits))))) (NP (NNP Photo) (NN Package)) (, ,) (S (VP (VBG moving) (NP (NNP Wednesday)) (, ,) (NP (CD 11))))))) (. .)))
+
+(S1 (S (NP (JJ Photo) (NNS clients)) (VP (VP (MD will) (ADVP (RB automatically)) (VP (VB receive) (NP (NP (PRP$ our) (NNS photos)) (PP (IN via) (NP (NP (NNP AP) (POS 's)) (NNP PhotoExpress)))))) (CC or) (VP (MD may) (VP (VP (VB download) (NP (PRP them)) (PP (PP (IN from) (CC either) (NP (NP (DT the) (NNP Wieck) (NNP Photo) (NN Database)) (PP (IN in) (NP (NNP Dallas))) (PP (IN at) (NP (CD 972-392-0888))))) (CC or) (PP (IN from) (NP (NP (NNS NYTPhotos)) (PP (IN on) (NP (NNP Newscom)))))) (PP (IN at) (NP (CD 213-237-4577)))) (CC or) (VP (VB PressLink) (PP (IN at) (NP (CD 800-888-6195))))))) (. .)))
+
+(S1 (S (NP (NNS Non-clients)) (VP (MD can) (VP (VB make) (NP (JJ individual) (NNS purchases)) (PP (IN by) (S (VP (VBG calling) (PRN (-LRB- -LRB-) (NP (CD 888)) (-RRB- -RRB-)) (NP (CD 603-1036) (CC or) (CD 212-556-4204))))))) (. .)))
+
+(S1 (NP (NP (-LRB- -LRB-) (NNP NYT37) (-RRB- -RRB-)) (NP (NP (NNP CAMBRIDGE)) (, ,) (NP (NNP Mass))) (. .)))
+
+(S1 (NP (: --) (NP (NNP Nov)) (. .)))
+
+(S1 (S (NP (NP (CD 15) (, ,) (CD 2000)) (: --) (NP (NNP CIR-ROBOT-DOLL)) (: --)) (NP (NP (NNP Rodney) (NNP Brooks)) (, ,) (NP (NP (DT the) (JJ 45-year-old) (NN director)) (PP (IN of) (NP (DT the) (JJ Artificial) (NNP Intelligence) (NNP Laboratory))) (PP (IN at) (NP (NP (DT the) (NNP Massachusetts) (NNP Institute)) (PP (IN of) (NP (NNP Technology)))))) (, ,)) (VP (VBZ has) (VP (VBN spent) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP$ his) (NN career)) (VP (VBN engrossed) (PP (IN in) (NP (NP (DT the) (NN question)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB model) (NP (JJ biological) (NNS systems))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Brooks)) (VP (VBZ is) (NP (NP (NP (NN chairman)) (CC and) (NP (NP (NN chief) (JJ technical) (NN officer)) (PP (IN at) (NP (NN iRobot))))) (, ,) (NP (NP (DT a) (JJ 10-year-old) (NNP robotics) (NN company)) (PP (IN in) (NP (NP (NNP Cambridge)) (, ,) (NP (NNP Mass) (. .))))) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBD started) (PRT (RP out)) (S (VP (VBG making) (NP (NP (NNS robots)) (PP (IN for) (NP (NP (JJ private) (NNS missions)) (PP (TO to) (NP (DT the) (NNP moon) (CC and) (NNP Mars))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Brooks)) (PP (IN with) (NP (PRP$ My) (NNP Real) (NNP Baby) (NN doll)))) (, ,) (NP (DT an) (JJ animatronic) (NN doll)) (VP (VBN priced) (PP (IN at) (NP ($ $) (CD 100)))) (. .)))
+
+(S1 (NP (-LRB- -LRB-) (NP (NNP Michael) (NNP Quan) (NNP New) (NNP York) (NNP Times)) (-RRB- -RRB-)))
+
+(S1 (NP (NP (PRN (-LRB- -LRB-) (NP (CD NYT36)) (-RRB- -RRB-)) (JJ UNDATED)) (: --) (NP (NNP Nov)) (. .)))
+
+(S1 (S (NP (NP (CD 15)) (, ,) (NP (NP (CD 2000)) (: --) (NP (NNP CIR-GAMES)) (: --) (PP (IN In) (NP (NP (DT the) (JJ ever-shifting) (NN race)) (PP (IN for) (NP (NP (NN dominance)) (PP (IN between) (NP (NP (VBZ consoles)) (CC and) (NP (NNS PCs))))))))) (, ,) (NP (DT the) (NN year) (CD 2000))) (VP (MD will) (ADVP (RB probably)) (VP (VB go) (PP (TO to) (NP (DT the) (VBZ consoles))))) (. .)))
+
+(S1 (S (LST (LS 1) (-RRB- -RRB-)) (NP (DT The) (NNP Gamer) (NNP PC) (PRN (CD 2) (-RRB- -RRB-) (NP (NP (NN Gaming) (NN sound) (NN system)) (NP (CD 3))) (-RRB- -RRB-)) (NNP Game)) (VP (VB console) (NP (NP (CD 4) (-RRB- -RRB-) (NNP Online) (NN fishing) (NN reel)) (PRN (CD 5) (-RRB- -RRB-)) (NP (NP (NN Voice) (NN controller)) (: ;) (NP (NN Chip) (NN set)) (: ;) (NP (NN Keyboard) (CC and) (NN mouse)) (: ;) (NP (NNP Game) (NN controller)) (: ;) (NP (NNP Graphics) (NN card))))) (. .)))
+
+(S1 (NP (-LRB- -LRB-) (NP (NNP Tony) (NNP Cenicola) (NNP New) (NNP York) (NNP Times)) (-RRB- -RRB-)))
+
+(S1 (NP (NP (PRN (-LRB- -LRB-) (NP (CD NYT35)) (-RRB- -RRB-)) (JJ UNDATED)) (: --) (NP (NNP Nov)) (. .)))
+
+(S1 (S (NP (NP (CD 15) (, ,) (CD 2000)) (: --) (NP (NNP CIR-KIDS)) (: --) (ADJP (RB Long) (VBN gone))) (VP (VBP are) (NP (NP (DT the) (NNS days)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNS children) (POS 's)) (NNS toys)) (VP (VBD were) (VP (ADVP (RB principally)) (VBN powered) (PP (IN by) (NP (NP (NNS mainsprings)) (CC and) (NP (NN imagination)))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT a) (NN doll)) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG uttering) (NP (RB only) (`` ``) (NX (NNP Mama) (POS ')) ('' '))))))) (VP (MD would) (VP (VB be) (VP (VBN considered) (S (ADJP (RB downright) (JJ chatty)))))))))))))) (. .)))
+
+(S1 (S (NP (NN Today)) (NP (DT a) (ADJP (RB relatively) (JJ advanced)) (NN technology)) (VP (VBZ empowers) (NP (NP (JJ much)) (PP (IN of) (NP (NN play))))) (. .)))
+
+(S1 (S (NP (LST (LS 1) (-RRB- -RRB-)) (NP (NN Organizer)) (PP (IN with) (NP (JJ built-in) (NN camera))) (PRN (CD 2) (-RRB- -RRB-) (NP (NNP Digital) (NN music) (NN player) (CD 3)) (-RRB- -RRB-))) (VP (NN Drawing) (NP (NP (NP (JJ tablet) (LST (LS 4) (-RRB- -RRB-)) (NN Music) (NN system)) (NP (CD 5) (-RRB- -RRB-) (NNP Robots))) (SBAR (WHNP (WDT that)) (S (VP (VBP see) (NP (NP (CD 6) (-RRB- -RRB-) (NNP Learning) (NNS blocks)) (PRN (VBG 7,8) (-RRB- -RRB-)) (NP (NP (JJ Educational) (NNS toys)) (PRN (-LRB- -LRB-) (NP (NNP Tony) (NNP Cenicola) (NNP New) (NNP York) (NNP Times)) (-RRB- -RRB-)))))))))))
+
+(S1 (NP (NP (-LRB- -LRB-) (NNP NYT34) (-RRB- -RRB-) (NNP WASHINGTON)) (: --) (NP (NNP Nov)) (. .)))
+
+(S1 (S (NP (NP (CD 15) (, ,) (CD 2000) (: --) (NP (NNP GINGRICH) (NN -PORTRAIT)) (: --) (NP (NNP Newt) (NNP Gingrich))) (, ,) (NP (NP (DT the) (ADJP (RBS most) (JJ divisive)) (NN figure)) (PP (IN in) (NP (NP (DT the) (JJ recent) (NN history)) (PP (IN of) (NP (DT the) (NNP House)))))) (, ,)) (VP (VBD appealed) (NP (NNP Wednesday)) (PP (TO to) (NP (DT both) (NNS parties))) (S (VP (VP (TO to) (VP (VB work) (ADVP (RB together)))) (CC and) (VP (TO to) (VP (VB listen) (PP (TO to) (NP (NP (DT the) (NNS fears)) (PP (IN of) (NP (NP (DT each) (JJ other) (POS 's)) (JJ political) (NNS bases)))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Speaking) (PP (IN at) (NP (NP (DT the) (NN unveiling)) (PP (IN of) (NP (PRP$ his) (JJ official) (NN portrait))))))) (, ,) (NP (DT the) (JJ former) (NN speaker)) (VP (VBD warned) (SBAR (IN that) (`` ``) (S (ADVP (RB otherwise)) (NP (PRP we)) (VP (MD will) (VP (VB sink) (ADVP (RBR deeper)) (PP (IN into) (NP (NP (CD two) (VBG warring) (NNS camps)) (, ,) (NP (NP (DT each)) (VP (VBG fearing) (CC and) (NN loathing) (NP (DT the) (JJ other))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Gingrich)) (, ,) (VP (VBD resigned) (PP (IN as) (NP (NP (NN speaker)) (PP (IN of) (NP (DT the) (NNP House))))) (SBAR (IN after) (S (NP (DT the) (NNPS Republicans)) (VP (VBD lost) (NP (NP (NNS seats)) (PP (IN in) (NP (CD 1998)))) (SBAR (IN as) (S (NP (PRP$ his) (NN party)) (VP (VBD worked) (S (VP (TO to) (VP (VB impeach) (NP (NNP President) (NNP Clinton)))))))))))) (. .)))
+
+(S1 (NP (NP (NNP Gingrich)) (PP (IN at) (NP (NP (DT the) (NN unveiling)) (PP (IN of) (NP (NP (PRP$ his) (NN portrait)) (PP (IN in) (NP (NNP Statuary) (NNP Hall))))))) (PP (IN at) (NP (DT the) (NNP Capitol))) (PP (IN in) (NP (NNP Washington))) (. .)))
+
+(S1 (NP (-LRB- -LRB-) (NP (NNP Justin) (NNP Lane) (NNP New) (NNP York) (NNP Times)) (-RRB- -RRB-)))
+
+(S1 (NP (NP (DT The) (NNP New) (NNP York) (NNP Times)) (NP (NNP News) (NNP Services))))
+
+(S1 (NP (CD NYT-11-15-00) (NN 2212EST)))
+

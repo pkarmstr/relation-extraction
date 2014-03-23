@@ -1,0 +1,26 @@
+(S1 (NP (NP (CD APW20001129.1802.0602) (NN NEWS) (NN STORY)) (QP (CD 2000-11-29) (CD 18:28:28))))
+
+(S1 (NP (JJ Copley-Sale)))
+
+(S1 (S (NP (NP (NN Sale)) (PP (IN of) (NP (NNP Copley) (NNP Newspaper)))) (ADJP (JJ Delayed))))
+
+(S1 (S (NP (NP (NNP CHICAGO)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (DT A) (JJ federal) (NN judge)) (VP (VBZ has) (VP (VBN issued) (NP (NP (DT a) (JJ temporary) (NN restraining) (NN order)) (PP (IN against) (NP (NNP Copley) (NNP Press) (NNP Inc.))) (VP (VBG blocking) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (DT The) (NNP News) (NNP Sun)) (PP (IN in) (NP (NNP Waukegan))))) (PP (TO to) (NP (NNP Hollinger) (NNP International))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN judge) (POS 's)) (NN ruling)) (VP (VBD was) (VP (VBN prompted) (PP (IN by) (NP (NP (DT a) (NN lawsuit)) (VP (VBN filed) (NP (JJ last) (NN week)) (PP (IN by) (NP (NP (DT the) (NN union)) (VP (VBG representing) (NP (NP (NN editorial) (NNS workers)) (PP (IN at) (NP (NP (DT the) (NN paper)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ claims) (SBAR (S (NP (DT the) (NN sale)) (VP (MD would) (RB not) (VP (VB require) (S (NP (NNP Hollinger)) (VP (TO to) (VP (VB honor) (NP (NP (DT a) (JJ collective-bargaining) (NN agreement)) (VP (VBN reached) (PP (IN between) (NP (DT the) (NN paper) (CC and) (NNS employees)))))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Lawyers)) (PP (IN for) (NP (DT the) (NNP Chicago) (NNP Newspaper) (NNP Guild)))) (VP (VBP say) (SBAR (S (NP (NP (NN language)) (PP (IN in) (NP (DT the) (NN agreement)))) (VP (VBZ is) (`` ``) (ADJP (RB not) (JJ satisfactory)))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP U.S.) (NNP District) (NNP Judge) (NNP Blanche)) (VP (VBG Manning) (PP (IN on) (NP (NNP Tuesday))))) (VP (VBD barred) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (DT the) (NN paper)))) (PP (IN for) (NP (QP (IN at) (JJS least) (CD 10)) (NNS days))) (, ,) (S (VP (VBG giving) (NP (NNP Copley)) (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB reword) (NP (DT the) (NN agreement)))))))))) (. .)))
+
+(S1 (S (`` ``) (S (SBAR (IN If) (S (NP (DT the) (NN sale)) (VP (VBD were) (VP (VBN allowed) (S (VP (TO to) (VP (VB proceed)))))))) (, ,) (NP (DT the) (NN union)) (VP (VP (MD would) (VP (VB be) (PP (IN without) (NP (DT a) (JJ legal) (NN remedy))))) (CC and) (VP (MD would) (VP (VB suffer) (NP (NP (DT the) (JJ irreparable) (NN harm)) (PP (IN of) (S (VP (VBG having) (NP (NP (DT the) (-LRB- -LRB-) (NN agreement) (-RRB- -RRB-)) (VP (VBG being) (VP (VBN rendered) (NP (DT a) (NN nullity))))))))))))) (, ,) ('' '') (NP (VBG Manning)) (VP (VBD wrote)) (. .)))
+
+(S1 (S (PP (IN After) (NP (DT the) (NN hearing))) (, ,) (NP (NP (NNS lawyers)) (PP (IN for) (NP (NNP Copley)))) (VP (MD would) (RB not) (VP (VB say) (SBAR (IN if) (S (NP (PRP they)) (VP (MD would) (VP (VB appeal) (NP (NP (VBG Manning) (POS 's)) (NN restraining) (NN order)))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Calls)) (PP (TO to) (NP (NP (NNP Douglas) (NNP A.) (NNP Darch)) (, ,) (NP (NP (DT an) (NN attorney)) (PP (IN for) (NP (NNP Copley)))) (, ,)))) (VP (VBD were) (RB not) (ADVP (RB immediately)) (VP (VBN returned) (PP (IN on) (NP (NNP Wednesday))))) (. .)))
+
+(S1 (S (NP (DT The) (NN guild)) (VP (VBZ has) (VP (VBN filed) (NP (DT a) (NN grievance) (S (VP (TO to) (VP (VB have) (NP (DT the) (NN matter)))))) (PP (VBN arbitrated) (PP (IN with) (NP (NNP Copley)))) (SBAR (IN before) (S (NP (DT the) (NN sale)) (VP (VBZ is) (VP (VBN completed))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Hollinger) (NNP International)) (, ,) (NP (NP (NN owner)) (PP (IN of) (NP (NP (DT the) (NNP Chicago) (NNP Sun-Times)) (CC and) (NP (NP (DT the) (NNP Daily) (NNP Southtown)) (PP (IN in) (NP (NNP Tinley) (NNP Park))))))) (, ,)) (VP (VBZ is) (VP (VBG attempting) (S (VP (TO to) (VP (VB acquire) (NP (NP (DT The) (NNP News) (NNP Sun)) (CC and) (NP (NP (JJ other) (JJ northern) (NNP Illinois) (NNP Copley) (NNS newspapers)) (, ,) (PP (VBG including) (NP (NP (DT The) (NN Courier) (NNP News) (IN in) (NNP Elgin)) (, ,) (NP (NP (DT The) (NNP Beacon) (NNP News)) (PP (IN in) (NP (NNP Aurora)))) (CC and) (NP (NNP The) (NNP Herald) (NNP News)))))) (PP (IN in) (NP (NNP Joliet)))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (DT the) (NN ruling)) (VP (VBD did) (RB not) (VP (VB mention) (NP (DT the) (JJ other) (NNP Copley) (NNP Press) (NNS papers)))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN expected) (SBAR (IN that) (S (NP (DT The) (NNP News) (NNP Sun) (NN issue)) (VP (MD will) (VP (VB have) (S (VP (VB be) (VP (VBN resolved) (SBAR (IN before) (S (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (DT the) (JJ entire) (NN group)))) (VP (VBZ is) (VP (VBN finalized)))))))))))))) (. .)))
+

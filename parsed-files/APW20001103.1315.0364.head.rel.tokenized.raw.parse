@@ -1,0 +1,50 @@
+(S1 (NP (NP (CD APW20001103.1315.0364) (NN NEWS) (NN STORY)) (QP (CD 2000-11-03) (CD 14:10:45))))
+
+(S1 (NP (NN FBC-Rutgers-Shea)))
+
+(S1 (NP (NP (NN Source)) (: :) (NP (NNP Rutgers) (NNP Coach)) (S (VP (TO To) (VP (VB Resign))))))
+
+(S1 (NP (NP (NNP PISCATAWAY)) (, ,) (NP (NNP N.J)) (. .)))
+
+(S1 (S (S (NP (NP (PRN (-LRB- -LRB-) (NNP AP) (-RRB- -RRB-)) (NNP _) (NNP Terry) (NNP Shea)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD failed) (S (VP (TO to) (VP (VB produce) (NP (NP (DT a) (VBG winning) (NN season)) (PP (IN in) (NP (JJ four-plus) (NNS years)))) (PP (IN at) (NP (NNP Rutgers))))))))) (, ,)) (VP (MD will) (VP (VB step) (ADVP (RB down) (PP (IN as) (NP (NN coach)))) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT this) (NN season)))))))) (, ,) (NP (NP (DT a) (NN source)) (ADJP (RB close) (PP (TO to) (NP (DT the) (NN school))))) (VP (VBD told) (NP (NNP The) (NNP Associated) (NNP Press)) (NP (NNP Friday))) (. .)))
+
+(S1 (S (NP (NP (NNP Shea)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (NP (DT an) (JJ 11-41) (NN record))))) (, ,)) (VP (VBD agreed) (S (VP (TO to) (VP (VB resign) (PP (IN after) (S (VP (NN meeting) (PP (IN with) (NP (JJ athletic) (NN director) (NNP Robert) (NNP E.) (NNP Mulcahy))) (PP (IN on) (NP (NNP Thursday) (NN afternoon))))))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (DT the) (NN source)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD spoke) (PP (IN on) (NP (NP (DT the) (NN condition)) (PP (IN of) (NP (NN anonymity)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Star-Ledger)) (PP (IN of) (NP (NP (NP (NNP Newark)) (, ,) (NP (NNP Gannett) (NNP Newspapers))) (CC and) (NP (NP (DT The) (NNP Record)) (PP (IN of) (NP (NNP Hackensack))))))) (VP (VBD reported) (NP (NNP Friday)) (SBAR (IN that) (S (NP (NNP Shea)) (VP (VBD agreed) (S (VP (TO to) (VP (VB resign)))))))) (. .)))
+
+(S1 (S (S (NP (NNP Mulcahy) (CC and) (NNP Shea)) (VP (VBD signed) (PRT (RP off)) (PP (IN on) (NP (PRP$ his) (NN resignation))) (PP (IN around) (NP (CD 7:30) (RB p.m) (. .))))) (, ,) (CC and) (S (NP (NNP Shea)) (ADVP (RB then)) (VP (VBD held) (NP (NP (DT a) (NN meeting)) (PP (IN with) (NP (PRP$ his) (NN football) (NN team)))) (PP (IN at) (NP (CD 9:30) (NN p.m)))) (. .)) (, ,) (S (NP (DT the) (NN source)) (VP (VBD said))) (. .)))
+
+(S1 (S (NP (NNP Rutgers) (JJ athletic) (NN director) (NNP Robert) (NNP E.) (NNP Mulcahy)) (VP (VBD called) (NP (DT a) (NN news) (NN conference)) (PP (IN for) (NP (NNP Friday))) (PP (IN at) (NP (NN noon) (NN EST)))) (. .)))
+
+(S1 (S (`` ``) (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (MD will) (VP (VB happen))))))) (, ,) ('' '') (NP (DT the) (NN source)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NN Telephone) (NNS calls)) (PP (TO to) (NP (NNP Mulcahy) (CC and) (NNP Rutgers) (NNS sports) (NN information) (NN director) (NNP John) (NNP Wooding)))) (PP (IN by) (NP (NNP The) (NNP Associated) (NNP Press))) (VP (VBD were) (RB not) (ADVP (RB immediately)) (VP (VBN returned))) (. .)))
+
+(S1 (S (NP (DT The) (JJ Scarlet) (NNS Knights)) (VP (VBP are) (RB 3-5) (ADJP (JJ overall) (CC and) (JJ 0-5)) (PP (IN in) (NP (DT the) (NNP Big) (NNP East) (NNP Conference)))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VP (VB have) (NP (DT a) (NN bye)) (NP (DT this) (NN weekend))) (, ,) (RB then) (VP (VB finish) (NP (DT the) (NN season)) (PP (IN with) (NP (NP (NNS games)) (PP (IN against) (NP (NP (NNP West) (NNP Virginia)) (, ,) (NP (NNP Notre) (NNP Dame)) (CC and) (NP (NNP Syracuse)))))))) (. .)))
+
+(S1 (S (SBAR (IN After) (S (NP (NNP Rutgers)) (VP (VBD posted) (NP (NP (DT a) (JJ 1-10) (NN record)) (NP (JJ last) (NN season)))))) (, ,) (NP (NNP Mulcahy)) (VP (VBD told) (NP (NNP Shea)) (SBAR (S (S (NP (PRP he)) (VP (VBD had) (S (VP (TO to) (VP (VB have) (NP (DT a) (VBG winning) (NN record)) (NP (DT this) (NN season))))))) (CC and) (S (NP (DT the) (NN team)) (VP (VBD had) (S (VP (TO to) (VP (VB avoid) (NP (NP (DT the) (JJ one-sided) (NNS losses)) (SBAR (WHNP (WDT that)) (S (VP (VBD embarrassed) (NP (NP (DT the) (NN school)) (PP (IN in) (NP (JJ recent) (NNS years)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN After) (S (VP (VBG opening) (NP (DT the) (NN season)) (PP (IN with) (NP (NP (NNS wins)) (PP (IN over) (NP (NP (NP (NNP Villanova)) (, ,) (NP (DT a) (NNP Division) (NNP IAA) (NN program)) (, ,)) (CC and) (NP (NP (NNP Buffalo)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB recently)) (VP (VBD announced) (SBAR (S (NP (PRP$ its) (NN coach)) (VP (MD would) (RB not) (VP (VB be) (VP (VBG returning) (NP (JJ next) (NN season)))))))))))))))))) (, ,) (NP (NNP Rutgers)) (VP (VBD lost) (NP (PRP$ its) (JJ next) (CD five) (NNS games)) (PP (IN by) (NP (DT a) (JJ combined) (CD 232-43) (NN margin)))) (. .)))
+
+(S1 (S (NP (DT The) (NN skid)) (VP (VBD ended) (NP (JJ last) (NN week)) (PP (IN with) (NP (NP (DT a) (NN victory)) (PP (IN over) (NP (JJ winless) (NNP Navy)))))) (. .)))
+
+(S1 (S (NP (NNP Shea)) (VP (VBD replaced) (NP (DT the) (VBN fired) (NNP Doug) (NNP Graber)) (PP (IN in) (NP (CD 1996))) (PP (IN with) (NP (NP (NNS hopes)) (PP (IN of) (S (VP (VBG building) (NP (DT a) (NN program)) (PP (IN with) (NP (DT a) (NNP Bill) (NNP Walsh) (NN -type) (NNP West) (NNP Coast) (NN offense))))))))) (. .)))
+
+(S1 (S (NP (NNP Shea)) (ADVP (RB never)) (VP (VBD got) (NP (DT the) (NN talent) (S (VP (TO to) (VP (VB make) (S (NP (PRP it)) (VP (VB happen)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD posted) (NP (NP (NNS records)) (PP (IN of) (NP (CD 2-9) (, ,) (CD 0-11) (, ,) (CD 5-6) (CC and) (CD 1-10))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ His) (CD five) (NNS wins)) (PP (IN in) (NP (CD 1998)))) (PP (IN after) (S (VP (VBG going) (NP (NN winless)) (ADVP (NP (DT the) (NN year)) (RB before))))) (VP (VBD were) (ADJP (JJ enough) (S (VP (TO to) (VP (VB earn) (NP (PRP him)) (NP (NP (NNP Big) (NNP East) (NNP Coach)) (PP (IN of) (NP (DT the) (NN Year))))))))) (. .)))
+
+(S1 (S (NP (NNP Rutgers)) (VP (VBD was) (NP (CD 4-29)) (PP (IN in) (NP (NNP Big) (NNP East) (NN play))) (PP (IN during) (NP (NP (NNP Shea) (POS 's)) (NN tenure))) (, ,) (PP (VBG including) (NP (NP (CD 1-16)) (PP (IN in) (NP (NN league) (NN road) (NNS games)))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ Scarlet) (NNS Knights)) (VP (VBD gave) (PRT (RP up)) (NP (QP (CD 40) (CC or) (JJR more)) (NNS points)) (PP (IN in) (NP (NP (CD 23) (NNS games)) (PP (IN under) (NP (NNP Shea)))))) (. .)))
+
+(S1 (S (NP (NNP Shea)) (VP (VBZ has) (NP (NP (CD one) (NN year)) (VP (VBG remaining) (PP (IN on) (NP (NP (PRP$ his) (NN contract)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (DT a) (JJ base) (NN salary)) (PP (IN of) (NP ($ $) (CD 160,000)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Rutgers)) (ADVP (RB reportedly)) (VP (VBD had) (VP (VBN started) (S (VP (VBG compiling) (NP (NP (DT a) (JJ short) (NN list)) (PP (IN of) (NP (NP (NNS candidates)) (SBAR (S (VP (TO to) (VP (VB replace) (NP (NNP Shea))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ includes) (NP (NP (NP (NN head) (NNS coaches) (NNP Gary) (NNP Darnell)) (PP (IN of) (NP (NNP Western) (NNP Michigan)))) (, ,) (NP (NP (NNP Gary) (NNP Pinkel)) (PP (IN of) (NP (NNP Toledo)))) (CC and) (NP (NP (CD two) (NNS coordinators)) (NP (NP (NP (NNP _) (NNP Miami)) (NP (NP (JJ defensive) (NN coordinator) (NNP Greg) (NNP Schiano)) (CC and) (NP (NNP Notre) (NNP Dame)))) (JJ offensive) (NN coordinator))) (NP (NNP Kevin) (NNP Rogers)))) (. .)))
+

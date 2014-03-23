@@ -1,0 +1,42 @@
+(S1 (NP (NP (CD APW20001130.2108.0849) (NN NEWS) (NN STORY)) (JJ 2000-11-30) (CD 21:13:04)))
+
+(S1 (NP (NN Britain-Homosexual-Consent)))
+
+(S1 (NP (NP (NNP Britain) (NNPS Forces)) (PP (IN Through) (NP (NNP Consent) (NNP Law)))))
+
+(S1 (S (S (NP (NP (NNP LONDON)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (PP (IN After) (NP (CD three) (NNS defeats))) (PP (IN in) (NP (NP (DT the) (NNP House)) (PP (IN of) (NP (NNPS Lords))))))) (, ,) (NP (NP (NNP Britain) (POS 's)) (NNP Labor) (NN government)) (VP (VBD resorted) (PP (TO to) (NP (ADJP (RB rarely) (VBN used)) (NNS powers))) (NP (NNP Thursday)) (S (VP (TO to) (VP (VB pass) (NP (NP (NN legislation)) (VP (VBG lowering) (NP (NP (DT the) (NN age)) (PP (IN of) (NP (NN consent))) (PP (IN for) (NP (NP (NNS homosexuals)) (PP (IN from) (NP (QP (CD 18) (TO to) (CD 16))))))))))))) (. .)))
+
+(S1 (S (NP (NAC (NNP House) (PP (IN of) (NP (NNP Commons)))) (NN speaker) (NNP Michael) (NNP Martin)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD was) (VP (VBG invoking) (NP (DT the) (NNP Parliament) (NNP Act)) (S (VP (TO to) (VP (VB force) (PP (IN through) (NP (NP (DT a) (JJ Sexual) (NNP Offenses) (NN Bill)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NP (DT the) (NN age)) (PP (IN of) (S (VP (NN consent) (NP (DT the) (JJ same)) (PP (IN for) (NP (DT both) (NNS homosexuals) (CC and) (NNS heterosexuals)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD became) (NP (NN law)) (PP (IN after) (S (VP (VBG being) (VP (VBN given) (NP (NNP Royal) (NN Assent)) (PP (IN by) (NP (NNP Queen) (NNP Elizabeth) (NNP II)))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Lawmakers)) (PP (IN in) (NP (NP (DT the) (NNP House)) (PP (IN of) (NP (NNPS Commons)))))) (VP (ADVP (RB overwhelmingly)) (VBD approved) (NP (DT the) (NN bill)) (ADVP (RBR earlier) (NP (DT this) (NN year))))) (, ,) (CC but) (S (NP (NP (DT the) (NNP House)) (PP (IN of) (NP (NNPS Lords)))) (NP (DT this) (NN month)) (VP (VBD rejected) (NP (PRP it)) (PP (IN for) (NP (DT the) (JJ third) (NN time))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNPS Lords) (POS ')) (NNS powers)) (, ,) (ADVP (RB however)) (, ,) (VP (VBP are) (VP (VBN limited) (PP (TO to) (NP (NN delaying) (NN legislation))) (PP (IN by) (S (VP (VP (VBG blocking) (NP (PRP it))) (CC and) (VP (VBG bouncing) (NP (PRP it)) (ADVP (RB back) (PP (TO to) (NP (NP (DT the) (NNP House)) (PP (IN of) (NP (NNPS Commons)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Parliament) (NNP Act)) (VP (VBD was) (VP (VBN created) (S (VP (TO to) (VP (VB ensure) (SBAR (IN that) (S (NP (NP (DT the) (NN will)) (PP (IN of) (NP (NP (DT the) (NN country) (POS 's)) (VBN elected) (NNS lawmakers)))) (VP (VBZ prevails))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN bill)) (VP (VBZ brings) (NP (NNP Britain)) (PP (IN in) (NP (NP (NN line)) (PP (IN with) (NP (RBS most) (JJ other) (NNP European) (NNP Union) (NNS nations)))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (NN reform)) (SBAR (WHNP (WDT which)) (S (, ,) (PP (IN in) (NP (PRP$ my) (JJ personal) (NN view))) (, ,) (VP (VP (VBZ is) (ADJP (RB long) (JJ overdue))) (CC and) (VP (VBZ is) (ADVP (RB only)) (ADJP (JJ right) (PP (IN for) (NP (NP (DT a) (NN country)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (NP (NP (NP (DT a) (NN history)) (PP (IN of) (NP (NN reform)))) (CC and) (NP (JJ challenging) (NN prejudice)))))))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Home) (NNP Secretary) (NNP Jack) (NNP Straw)) (, ,) (NP (NP (NNP Britain) (POS 's)) (JJ top) (NN law) (NN enforcement) (NN officer))) (. .)))
+
+(S1 (S (`` ``) (S (NP (DT This) (NN act)) (VP (MD will) (VP (VB help) (S (NP (PRP us)) (VP (TO to) (VP (VB build) (NP (DT a) (ADJP (JJ safe) (, ,) (JJ just) (CC and) (JJ tolerant)) (NN society)))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD added)) (. .)))
+
+(S1 (S (NP (NP (NNP Angela) (NNP Mason)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (DT the) (JJ gay) (NNS rights))) (PP (NN group) (NP (NNP Stonewall)))) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (NNP Parliament) (POS 's)) (NN action)) (VP (VBD was) (`` ``) (NP (NP (DT a) (JJ great) (NN step)) (PP (IN toward) (NP (NN equality)))))))) (. .) ('' '')))
+
+(S1 (S (`` ``) (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN history) (NNS books)) (VP (VBP come) (S (VP (TO to) (VP (VB be) (VP (VBN written)))))))) (NP (PRP I)) (VP (VBP believe) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB be) (VP (VBN seen) (PP (IN as) (NP (NP (DT the) (NN moment)) (SBAR (WHADVP (WRB when)) (S (NP (DT this) (NN country)) (ADVP (RB finally)) (VP (VBD began) (S (VP (TO to) (VP (VB change)))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNS lesbians)) (CC and) (NP (JJ gay) (NNS men))) (VP (VBD started) (S (VP (TO to) (VP (VB take) (NP (PRP$ our) (NN place)) (PP (IN as) (NP (NP (JJ equal) (NNS members)) (PP (IN of) (NP (NN society))))))))))))))))))))))) (, ,) ('' '') (NP (PRP she)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNP Peter) (NNP Tatchell)) (, ,) (PP (IN of) (NP (DT the) (NN group) (NN OutRage))) (. !)) (, ,) (VP (VBD said) (: :) (`` ``) (S (NP (DT This) (NN victory)) (VP (VBZ is) (NP (NP (DT a) (JJ welcome) (CC and) (JJ historic) (NN milestone)) (PP (IN in) (NP (NP (DT the) (JJ long) (NN struggle)) (PP (IN for) (NP (JJ gay) (JJ human) (NNS rights))))))))) (. .) ('' '')))
+
+(S1 (S (`` ``) (NP (PRP$ My) (JJ only) (NN regret)) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ has) (VP (VBN taken) (NP (NP (CD 33) (NNS years)) (SBAR (WHPP (IN during) (WHNP (WDT which) (NN time))) (S (NP (NP (NNS hundreds)) (PP (IN of) (NP (JJ gay) (NNS men)))) (VP (VBP have) (VP (VBN been) (VP (ADVP (RB unjustly)) (VBN jailed) (PP (IN for) (NP (JJ victimless) (NNS relationships)))))))))))))) (. .) ('' '')))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (NP (NP (NN family) (NNS values) (NN campaigner)) (CC and) (NP (JJ Conservative) (NN ex-Leader))) (PP (IN of) (NP (DT the) (NNPS Lords))) (NP (NNP Baroness) (NNP Young))) (VP (VBD accused) (NP (DT the) (NN government)) (PP (IN of) (S (VP (VBG behaving) (PP (IN in) (NP (NP (DT a) (`` ``) (ADJP (RB completely) (JJ dictatorial)) (NN manner) ('' ')) ('' ') (PP (IN toward) (NP (NNP Parliament))))))))) (. .)))
+
+(S1 (S (NP (NNP Straw)) (VP (VBD dismissed) (NP (DT the) (NN criticism))) (. .)))
+
+(S1 (S (`` ``) (S (PP (IN In) (NP (DT the) (NNS circumstances))) (NP (PRP I)) (VP (VBP believe) (SBAR (IN that) (S (NP (NP (DT the) (NN use)) (PP (IN of) (NP (DT the) (NNP Parliament) (NNP Act))) (PP (IN in) (NP (DT this) (NN case)))) (VP (VBZ is) (ADJP (JJ proper) (CC and) (JJ justified))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (ADVP (NP (CD Five) (NNS years)) (RB ago)) (, ,) (NP (NNP Parliament)) (ADVP (RB narrowly)) (VP (VBD rejected) (VP (VBG lowering) (NP (NP (DT the) (NN age)) (PP (IN of) (NP (NN consent))) (PP (IN for) (NP (NNS homosexuals)))) (PP (TO to) (NP (CD 16))) (, ,) (S (VP (VBG reducing) (NP (PRP it)) (ADVP (RB instead)) (PP (IN from) (NP (QP (CD 21) (TO to) (CD 18)))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Homosexual) (NN sex)) (PP (IN between) (NP (NNS adults)))) (VP (VBD ceased) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN crime)) (PP (IN in) (NP (NNP Britain))))))) (ADVP (NP (CD three) (NNS decades)) (RB ago))) (. .)))
+

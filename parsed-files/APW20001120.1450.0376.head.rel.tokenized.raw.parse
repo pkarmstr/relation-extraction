@@ -1,0 +1,26 @@
+(S1 (NP (NP (CD APW20001120.1450.0376) (NN NEWS) (NN STORY)) (QP (CD 2000-11-20) (CD 14:50:49))))
+
+(S1 (NP (NN Afghanistan-Prisoner-Release)))
+
+(S1 (S (NP (NNP Taliban)) (VP (VBZ Releases) (NP (CD 137) (NNS Prisoners)))))
+
+(S1 (S (NP (NP (NNP KABUL)) (, ,) (NP (NNP Afghanistan)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBZ _) (NP (NP (DT The) (VBG ruling) (NNP Taliban) (NN militia)) (PP (IN on) (NP (NNP Monday))) (VP (VBN released) (NP (NP (CD 137) (NNP Shiite) (NNP Muslim) (NNS prisoners)) (SBAR (S (NP (PRP it)) (VP (VP (VBD had) (VP (VBN held) (PP (IN for) (NP (QP (RB nearly) (CD two)) (NNS years))))) (CC and) (VP (VBD urged) (NP (DT the) (NN opposition)) (S (VP (TO to) (VP (VP (VB follow) (NP (NN suit))) (CC and) (VP (VB release) (NP (NP (NN government) (NNS prisoners)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (VP (VBG holding)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (VBN freed) (NNS men)) (, ,) (NP (NP (DT all)) (VP (VBN said) (S (VP (TO to) (VP (VB be) (NP (NP (NNS fighters)) (VP (VBG belonging) (PP (TO to) (NP (DT the) (NN opposition) (NN alliance)))))))))) (, ,)) (VP (VBD were) (VP (VBN released) (ADVP (RB ahead) (PP (IN of) (NP (NP (DT the) (JJ Islamic) (JJ holy) (NN month)) (PP (IN of) (NP (NNP Ramadan))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (JJ devout) (NNPS Muslims)) (ADJP (JJ fast) (PP (PP (IN from) (NP (NN sunrise))) (PP (TO to) (NP (NNP sunset)))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (DT The) (NNS prisoners)) (VP (VBP are) (VP (VBG being) (VP (VBN released) (PP (IN as) (NP (NP (DT a) (NN gesture)) (PP (IN of) (NP (NP (NNS kindness) (POS ')) (POS '))))) (PP (IN by) (NP (NP (NP (DT the) (NNP Taliban) (POS 's)) (NN supreme) (NN leader)) (NP (NNP Mullah) (NNP Mohammed) (NNP Omar)))))))) (, ,) (VP (VBD said)) (NP (NP (DT the) (NNP Taliban) (POS 's)) (NNP Interior) (NNP Minister) (NNP Abdul) (NNP Razzak) (NNP Akhund)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP We)) (VP (VBP ask) (NP (DT the) (NN opposition)) (S (VP (TO to) (VP (VP (VB show) (NP (PRP$ their) (NN heart))) (CC and) (VP (VB release) (NP (NN government) (NNS prisoners)) (PP (IN in) (NP (PRP$ their) (NNS jails)))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (DT The) (NN opposition) (NN alliance)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ controls) (NP (NP (QP (RB barely) (CD five)) (NN percent)) (PP (IN of) (NP (NNP Afghanistan))))) (CC and) (VP (VBZ is) (VP (VBG fighting) (NP (NP (DT a) (NN war)) (PP (IN against) (NP (DT the) (JJ dominant) (NNP Taliban))))))))) (, ,)) (VP (VBZ is) (ADVP (RB mostly)) (VP (VBN made) (PRT (RP up)) (PP (IN of) (NP (NP (DT the) (NN country) (POS 's)) (NN minority) (JJ ethnic) (CC and) (JJ religious) (NNS groups))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Taliban)) (VP (VBP are) (ADVP (RB predominantly)) (NP (NP (NNP Sunni) (NNP Muslim)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (NN majority) (NNP Islamic) (NN sect)) (PP (IN in) (NP (DT the) (NN country))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Taliban)) (VP (VBP have) (VP (VBN been) (VP (VBN accused) (PP (IN by) (NP (JJ international) (JJ human) (NNS rights) (NNS groups))) (PP (IN of) (S (VP (VBG mistreating) (NP (DT the) (NN minority)) (NP (NP (NNP Shiite) (NNPS Muslims)) (, ,) (NP (NP (DT a) (NN charge)) (SBAR (S (NP (PRP they)) (VP (VBP reject)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (ADJP (RB newly) (VBN released)) (NNS prisoners)) (VP (VBD were) (VP (VBN captured) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNP Taliban)) (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (NP (NNP Afghanistan) (POS 's)) (JJ central) (NNP Bamyan) (NN province)))) (, ,) (ADVP (NP (RB nearly) (CD two) (NNS years)) (RB ago))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN area)) (VP (VBZ is) (ADVP (RB largely)) (VP (VBN inhabited) (PP (IN by) (NP (NN minority) (NNP Shiite) (NNPS Muslims))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP I)) (VP (VBP am) (ADJP (RB very) (JJ happy) (S (VP (TO to) (VP (VB be) (VP (VBG going) (ADVP (NN home))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Ali) (NNP Jan)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS prisoners)) (SBAR (WHNP (WP who)) (S (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD was) (UCP (NP (NP (DT a) (NN farmer)) (PP (IN in) (NP (NNP Bamyan)))) (CC and) (RB not) (NP (DT a) (NN soldier))))))))))))) (. .)))
+

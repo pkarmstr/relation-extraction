@@ -1,0 +1,44 @@
+(S1 (NP (NP (CD NYT20001027.1622.0218) (NN NEWS) (NN STORY)) (QP (CD 2000-10-27) (CD 16:29:10))))
+
+(S1 (NP (NP (CD A8589) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP f) (NNP BC-MICROSOFT-THEFT-NYT) (NN &LR)) (: ;) (NP (QP (CD 10-27) (CD 0437))))))
+
+(S1 (NP (NNP BC-MICROSOFT-THEFT-NYT)))
+
+(S1 (S (NP (NNP MICROSOFT)) (VP (VBZ SAYS) (SBAR (S (NP (NNS HACKERS)) (VP (VBD VIEWED) (NP (NN SOURCE) (NNS CODES))))))))
+
+(S1 (NP (NP (NP (NN &UR)) (: ;) (NP (NP (NNP By) (NNP JOHN) (NNP MARKOFF) (CC and) (NNP JOHN) (NNP SCHWARTZ)) (NP (CD &LR))) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR))) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (S (NP (NN Computer) (NNS intruders)) (VP (VP (VBD broke) (PP (IN into) (NP (NNP Microsoft) (NNP Corp.)))) (CC and) (VP (VBD were) (ADJP (JJ able) (S (VP (TO to) (VP (VB view) (NP (NP (DT some)) (PP (IN of) (NP (NP (NP (DT the) (NN company) (POS 's)) (NN source) (NN code)) (, ,) (NP (DT the) (JJ basic) (NN program) (NNS instructions)) (, ,)))) (PP (IN for) (NP (DT a) (JJ future) (NN software) (NN product)))))))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said) (NP (NNP Friday))) (. .)))
+
+(S1 (S (S (CC But) (NP (NP (DT the) (JJ unknown) (NNS culprits)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (NP (NP (NN access)) (PP (TO to) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NNS computers)))))) (PP (IN for) (NP (DT an) (JJ undetermined) (NN period)))))) (, ,)) (VP (VBD were) (RB not) (ADJP (JJ able) (S (VP (TO to) (VP (VB view) (CC or) (VB steal) (NP (NP (DT the) (NN company) (POS 's)) (JJ crucial) (NN source) (NN code)) (PP (IN for) (NP (PRP$ its) (NNS Windows) (CC or) (NN Office) (NN software))))))))) (, ,) (NP (DT a) (NN company) (NN spokesman)) (VP (VBD said) (NP (NNP Friday) (NN afternoon))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (DT The) (NN situation)) (VP (VBZ appears) (S (VP (TO to) (VP (VB be) (ADJP (ADJP (JJR narrower)) (SBAR (IN than) (S (ADVP (RB originally)) (VP (VBD thought)))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (DT the) (NN spokesman)) (, ,) (NP (NNP Mark) (NNP Murray))) (. .)))
+
+(S1 (S (`` ``) (NP (DT The) (NN investigation)) (VP (VBZ shows) (NP (DT no) (NN evidence) (SBAR (IN that) (S (NP (DT the) (NN intruder)) (VP (VBD gained) (NP (DT any) (NN access)) (PP (TO to) (NP (NP (PRP$ our) (NNS Windows)) (CC or) (NP (NN Office) (NNS products))))))))) (. .) ('' '')))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (NP (NNP Friday)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD had) (VP (VBN contacted) (NP (DT the) (NNP FBI)) (S (VP (TO to) (VP (VB help) (S (VP (VB track) (NP (DT the) (NNS perpetrators)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal)) (VP (VBD said) (SBAR (S (NP (DT the) (NN break-in)) (VP (VP (VBD was) (VP (VBN discovered) (PP (IN on) (NP (NNP Wednesday))))) (CC and) (VP (VBD had) (VP (VBN enabled) (S (NP (DT the) (NNS intruders)) (VP (TO to) (VP (VB send) (NP (NN information)) (ADVP (RB back) (PP (TO to) (NP (NP (DT a) (NN computer) (NN address)) (PP (IN in) (NP (NNP Russia))))))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBD received) (NP (NN information)) (PP (IN from) (NP (NNP Microsoft))) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP are) (VP (VBG evaluating) (PP (IN at) (NP (DT this) (NN time)))))))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ premature)) (S (VP (TO to) (VP (VB say) (NP (NP (NN anything)) (ADJP (RB else))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Roberta) (NNP Burroughs)) (, ,) (NP (NP (NN spokeswoman)) (PP (IN for) (NP (NP (DT the) (NNP Seattle) (NN field) (NN office)) (PP (IN of) (NP (DT the) (NNP FBI))))))) (. .)))
+
+(S1 (S (S (S (VP (VBG Speaking) (ADVP (RBR earlier) (PP (TO to) (NP (NNP Microsoft) (NNS programmers) (CC and) (NNS reporters)))) (PP (IN at) (NP (NP (DT a) (NN seminar)) (PP (IN in) (NP (NP (NNP Stockholm)) (, ,) (NP (NNP Sweden)))))))) (, ,) (NP (NP (NNP Steven) (NNP Ballmer)) (, ,) (NP (NP (DT the) (NN company) (POS 's)) (JJ chief) (NN executive)) (, ,)) (VP (VBD said) (, ,) (`` ``) (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ clear)) (SBAR (IN that) (S (NP (NNS hackers)) (VP (VBD did) (VP (VB see) (NP (NP (DT some)) (PP (IN of) (NP (PRP$ our) (NN source) (NN code)))))))))))) (, ,) ('' '') (NP (NNP Reuters) (CC and) (NNP The) (NNP Associated) (NNP Press)) (VP (VBD reported)) (. .)))
+
+(S1 (S (NP (NNP Ballmer)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS burglars)) (VP (VBD had) (RB not) (VP (VBN changed) (NP (DT any) (NN software)) (, ,) (S (VP (VBG allaying) (NP (NNS fears) (SBAR (IN that) (S (NP (DT a) (NN virus)) (VP (MD might) (VP (VB be) (VP (VBN hidden) (PP (IN inside) (NP (NP (JJ future) (NNS releases)) (PP (IN of) (NP (NNP Microsoft) (NNS products)))))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (MD can) (VP (VB assure) (NP (PRP you)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP know) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT no) (NN compromise)) (PP (IN of) (NP (NP (DT the) (NN integrity)) (PP (IN of) (NP (DT the) (NN source) (NN code)))))) (, ,) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN modified) (CC or) (VBN tampered) (PP (IN with) (PP (IN in) (NP (DT any) (NN way))))))))))))))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD added)) (. .)))
+
+(S1 (S (S (NP (NNP Microsoft)) (VP (VBZ has) (VP (VBN shared) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NN source) (NN code)))) (PP (IN with) (NP (NN partner) (NNS companies)))))) (, ,) (CC but) (S (PP (IN in) (NP (JJ general))) (NP (PRP it)) (VP (ADVP (RB vigorously)) (VBZ guards) (NP (NP (DT that) (NN information)) (PP (IN from) (NP (NNS outsiders)))))) (. .)))
+
+(S1 (S (NP (NP (JJ Other) (VBG operating) (NNS systems)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP compete) (PP (IN with) (NP (NNP Microsoft) (POS 's)))))) (, ,)) (VP (VBP are) (VP (VBN based) (PP (IN on) (NP (NP (NP (JJ open) (NN source)) (NN code)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ allows) (S (NP (NN anyone)) (VP (TO to) (VP (VB read) (, ,) (CC and) (VB alter) (, ,) (NP (DT the) (JJ underlying) (NN code)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Microsoft)) (VP (VBZ has) (VP (VBN rebuffed) (NP (NNS requests) (S (VP (TO to) (VP (VB open) (NP (NP (DT some) (CC or) (DT all)) (PP (IN of) (NP (PRP it) (VBZ s) (NN operating) (NN code)))) (PP (TO to) (NP (DT the) (NN public))))))) (, ,) (S (VP (VBG arguing) (SBAR (IN that) (S (NP (DT this)) (VP (MD would) (VP (VP (VB hurt) (SBAR (S (NP (PRP it)) (VP (VBZ s) (NP (NN business)))))) (CC and) (VP (VB curtail) (SBAR (S (NP (PRP it)) (VP (VBZ s) (NP (NNS incentives) (S (VP (TO to) (VP (VB develop) (NP (JJ new) (NNS products)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal) (POS 's)) (NNP Web) (NN site)) (VP (VBD reported) (NP (NNP Friday)) (SBAR (IN that) (S (NP (NNS hackers)) (VP (VBD gained) (NP (NP (NN access)) (PP (IN with) (NP (NP (DT a) (NN software) (NN program)) (VP (VBN called) (S (NP (NNP QAZ) (NNP Trojan))))))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN program)) (VP (MD could) (VP (VB have) (VP (VBN infected) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NNS computers)))) (, ,) (S (VP (VBG allowing) (S (NP (DT the) (NNS hackers)) (VP (TO to) (VP (VB use) (NP (JJ other) (NNS programs)) (S (VP (TO to) (VP (VB gain) (NP (NP (NN access)) (PP (TO to) (NP (NP (NNP Microsoft) (POS 's)) (JJ internal) (JJ corporate) (NN network))))))))))))))) (. .)))
+
+(S1 (NP (QP (CD NYT-10-27-00) (CD 1629EDT))))
+

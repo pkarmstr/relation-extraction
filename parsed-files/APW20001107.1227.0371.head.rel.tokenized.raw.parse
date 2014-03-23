@@ -1,0 +1,14 @@
+(S1 (NP (NP (CD APW20001107.1227.0371) (NN NEWS) (NN STORY)) (JJ 2000-11-07) (CD 13:53:14)))
+
+(S1 (NP (NNS China-Airlines)))
+
+(S1 (NP (NNP Airbus) (: :) (S (NP (NNP China)) (VP (VBZ Needs) (NP (CD 1,600) (NNS Planes))))))
+
+(S1 (S (S (NP (NP (NNP BEIJING)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (NNP China)) (VP (MD will) (VP (VB need) (NP (NP (QP (RB almost) (CD 1,600)) (JJ new) (NNS aircraft)) (PP (IN over) (NP (DT the) (JJ next) (CD two) (NNS decades)))) (S (VP (TO to) (VP (VB meet) (NP (NP (PRP$ its) (NNS goals)) (PP (IN for) (NP (NP (NN growth)) (PP (IN in) (NP (NN air) (NN travel))))))))))))))) (, ,) (NP (NNP Airbus) (NNP Industrie)) (VP (VBD said) (NP (NNP Tuesday))) (. .)))
+
+(S1 (S (S (NP (NP (NN Passenger) (NN traffic)) (PP (IN on) (NP (JJ Chinese) (NNS carriers)))) (VP (MD will) (VP (VB grow) (PP (IN at) (NP (NP (DT an) (JJ annual) (NN rate)) (PP (IN of) (NP (CD 7.7) (NN percent))))) (PP (IN until) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (NP (CD 2019)) (, ,) (VP (VBG requiring) (S (NP (PRP them)) (VP (TO to) (VP (VB triple) (NP (NP (PRP$ their) (NN number)) (PP (IN of) (NP (NP (NNS seats)) (PP (IN from) (NP (CD 97,000)))))) (PP (TO to) (NP (QP (RB about) (CD 380,000))))))))))))))) (, ,) (NP (DT the) (NNP European) (NN aircraft) (NN consortium)) (VP (VBD said)) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB keep) (PRT (RP up))))) (, ,) (NP (NNP Airbus)) (VP (VBD estimated) (SBAR (S (NP (NP (NNP China) (POS 's)) (CD 19) (NNS airlines)) (VP (MD will) (VP (VB need) (NP (NP (CD 1,570) (JJ new) (NN passenger) (NNS planes)) (CC and) (NP (CD 26) (JJ new) (NN cargo) (NNS carriers))) (PP (IN at) (NP (NP (DT a) (JJ total) (NN cost)) (PP (IN of) (NP (QP ($ $) (CD 149) (CD billion))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP China) (NN market) (POS 's)) (JJ anticipated) (NN growth)) (ADVP (RB far)) (VP (VBZ outpaces) (NP (NP (DT an) (JJ expected) (ADJP (NNP worldwide) (CD 4.9) (NN percent)) (JJ annual) (NN rise)) (PP (IN in) (NP (NN passenger) (NN traffic))) (PP (IN over) (NP (DT the) (JJ next) (CD two) (NNS decades)))) (, ,) (PP (VBG according) (PP (TO to) (NP (NNP Airbus))))) (. .)))
+

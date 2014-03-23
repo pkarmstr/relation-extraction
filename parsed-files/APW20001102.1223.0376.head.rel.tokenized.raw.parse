@@ -1,0 +1,14 @@
+(S1 (NP (NP (CD APW20001102.1223.0376) (NN NEWS) (NN STORY)) (QP (CD 2000-11-02) (CD 13:27:23))))
+
+(S1 (NP (NN Israel-Explosion)))
+
+(S1 (NP (NP (NN Explosion) (NNS Rocks)) (NNP Jerusalem) (NNP Market)))
+
+(S1 (S (S (NP (NP (NNP JERUSALEM)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (DT A) (NN car) (NN bomb)) (VP (VBD exploded) (NP (NNP Thursday)) (PP (IN in) (NP (NP (DT a) (JJ crowded) (JJ outdoor) (NN market)) (PP (IN in) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (NNP Jerusalem))))))) (, ,) (S (VP (VBG killing) (NP (QP (IN at) (JJS least) (CD two)) (NNS people))))))))) (, ,) (NP (NNS police)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNS Ambulances)) (VP (VBD raced) (PP (TO to) (NP (NP (DT the) (NNP Mahane) (NNP Yehuda) (NN market)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ sells) (NP (NP (NN food) (, ,) (NNS vegetables) (CC and) (NN clothing)) (PP (IN in) (NP (JJ Jewish) (JJ west) (NNP Jerusalem)))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Huge) (NNS plumes)) (PP (IN of) (NP (JJ black) (NN smoke)))) (VP (VBD rose) (PP (IN into) (NP (DT the) (NN sky)))) (. .)))
+
+(S1 (S (NP (DT The) (NN blast)) (VP (VBD came) (SBAR (RB shortly) (IN before) (S (NP (NNP Israeli) (NNP Prime) (NNP Minister) (NNP Ehud) (NNP Barak) (CC and) (NNP Palestinian) (NN leader) (NNP Yasser) (NNP Arafat)) (VP (VBD were) (VP (VBN scheduled) (S (VP (TO to) (VP (VB make) (NP (NP (JJ separate) (NNS announcements)) (PP (IN of) (NP (NP (NNS steps)) (PP (IN toward) (NP (DT a) (NN cease-fire)))))))))))))) (. .)))
+

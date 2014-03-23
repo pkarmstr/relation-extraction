@@ -1,0 +1,34 @@
+(S1 (NP (NP (CD NYT20001211.2158.0448) (NN NEWS) (NN STORY)) (QP (CD 2000-12-11) (CD 22:35:00))))
+
+(S1 (NP (NP (CD A7071) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP s) (NNP BC-BBA-CONE-ROYALS-NYT) (NN &LR)) (: ;) (NP (QP (CD 12-11) (CD 0203))))))
+
+(S1 (NP (NNP BC-BBA-CONE-ROYALS-NYT)))
+
+(S1 (S (NP (NNS ROYALS)) (VP (VBP OFFER) (S (NP (NNP CONE)) (NP (NP (DT A) (NN ROLE)) (PP (IN AS) (NP (NN RELIEVER))))))))
+
+(S1 (NP (NP (CD c.2000)) (NP (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NNP David) (NNP Cone)) (VP (VBD heard) (PP (IN about) (NP (DT the) (NNPS Mets))) (S (VP (VP (VBG filling) (PRT (RP out)) (NP (NP (PRP$ their) (NN pitching) (NN rotation)) (NP (NNP Monday) (CD _)))) (CC and) (VP (VBG ending) (NP (NP (PRP$ their) (NN interest)) (PP (IN in) (S (VP (VBG signing) (NP (PRP him)))))))))))) (VP (VBD _) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADVP (RB already)) (VP (VBG considering) (NP (DT a) (NN proposition) (S (VP (TO to) (VP (VB work) (PP (IN as) (NP (NP (DT a) (JJ late-inning) (NN reliever)) (PP (IN for) (NP (DT the) (NNP Kansas) (NNP City) (NNPS Royals)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Cone)) (, ,) (NP (DT the) (JJ former) (NNPS Yankees) (NN right-hander)) (, ,)) (VP (VBD received) (NP (DT a) (NN telephone) (NN call)) (NP (NNP Sunday) (NN night)) (PP (IN from) (NP (NP (PRP$ his) (JJ former) (NN teammate) (NNP George) (NNP Brett)) (, ,) (RRC (ADVP (RB currently)) (NP (NP (NN vice) (NN president)) (PP (IN for) (NP (NP (NN baseball) (NNS operations)) (PP (IN with) (NP (DT the) (NNPS Royals)))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD asked) (NP (NNP Cone)) (SBAR (IN if) (S (NP (PRP he)) (VP (MD would) (VP (VB be) (ADJP (JJ interested) (PP (IN in) (S (VP (VBG being) (NP (NP (DT a) (NN setup) (NN man)) (CC or) (NP (NP (DT a) (JJR closer)) (PP (IN for) (NP (NNP Kansas) (NNP City)))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ intriguing)))) (, ,) ('' '') (NP (NNP Cone)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (VBD got) (NP (PRP me) (NN thinking))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB give) (NP (PRP it)) (NP (DT some) (NN thought))))) (, ,) (SBAR (IN because) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (NP (DT a) (NN starter))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Cone)) (, ,) (NP (DT a) (NNP Kansas) (NNP City) (NN native)) (, ,)) (VP (VBD was) (ADVP (RB originally)) (VP (VP (VBN signed) (PP (IN by) (NP (DT the) (NNP Royals)))) (CC and) (VP (VBD broke) (PP (IN into) (NP (DT the) (NNS majors))) (PP (IN with) (NP (DT the) (NN team)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Mets)) (VP (VBD had) (NP (NP (JJ little) (NN contact)) (PP (IN with) (NP (NP (NNP Cone) (POS 's)) (NN agent)))) (SBAR (IN before) (S (NP (PRP they)) (VP (VBD signed) (NP (DT the) (NNS pitchers) (NX (NX (NNP Kevin) (NNP Appier)) (CC and) (NX (NX (NNP Steve) (NNP Trachsel)) (PP (IN on) (NP (NNP Monday)))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP I)) (VP (VBP wish) (SBAR (S (NP (PRP I)) (VP (MD would) (VP (VB 've) (VP (VBD had) (NP (DT a) (NN chance) (S (VP (TO to) (VP (VB talk) (PP (TO to) (NP (PRP them))) (ADVP (NN face) (TO to) (NN face))))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Cone)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ believes) (SBAR (S (NP (PRP$ his) (NNS options)) (VP (MD will) (VP (VB become) (ADJP (JJR clearer)) (SBAR (IN after) (S (NP (DT the) (NN winter) (NNS meetings)) (VP (VBP are) (ADJP (JJ over))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Boston) (NNP Red) (NNP Sox)) (CC and) (NP (NNP Baltimore) (NNP Orioles))) (VP (VBP are) (PP (IN among) (NP (DT the) (JJ other) (NNS teams))) (S (VP (VBG expressing) (NP (NP (NN interest)) (PP (IN in) (NP (NNP Cone))))))) (. .)))
+
+(S1 (NP (CD NYT-12-11-00) (NN 2235EST)))
+

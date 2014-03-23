@@ -1,0 +1,52 @@
+(S1 (NP (NP (CD APW20001204.2149.0765) (NN NEWS) (NN STORY)) (QP (CD 2000-12-04) (CD 21:55:56))))
+
+(S1 (NP (NNP FBC-Georgia-Donnan)))
+
+(S1 (S (NP (NNP Georgia)) (VP (VBZ Fires) (NP (NNP Coach) (NNP Jim) (NNP Donnan)))))
+
+(S1 (NP (NP (NNP ATHENS)) (, ,) (NP (NNP Ga)) (. .)))
+
+(S1 (S (NP (PRN (-LRB- -LRB-) (NNP AP) (-RRB- -RRB-)) (NNP _) (NNP Georgia)) (VP (VBD fired) (NP (NN football) (NN coach) (NNP Jim) (NNP Donnan) (NNP Monday)) (SBAR (IN after) (S (NP (NP (DT a) (JJ disappointing) (NN 7-4) (NN season)) (SBAR (WHNP (WDT that)) (S (VP (VBD started) (PP (IN with) (NP (DT the) (NNPS Bulldogs))))))) (VP (VBD ranked) (INTJ (UH No)))))) (. .)))
+
+(S1 (S (UCP (CD 10) (CC and) (VP (VBD picked) (S (VP (TO to) (VP (VB win) (NP (DT the) (NNP SEC) (NNP East))))))) (, ,) (NP (PRP$ his) (NNS players)) (VP (VBD said)) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB be) (ADVP (IN around) (NP (DT another) (NN year))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NN quarterback) (NNP Cory) (NNP Phillips)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (PP (IN at) (NP (NP (DT a) (NN team) (NN meeting)) (SBAR (WHPP (IN at) (WHNP (WDT which))) (S (NP (NNP Donnan)) (VP (VBD told) (NP (DT the) (NN team)) (SBAR (S (NP (PRP he)) (VP (VBD had) (VP (VBN been) (VP (VBN dismisssed))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP I)) (VP (VBP 'm) (ADJP (NP (DT a) (JJ little) (NN bit)) (VBN shocked))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (DT an) (JJ unsettling) (NN feeling))) (. .) ('' '')))
+
+(S1 (S (NP (JJ Athletic) (NN director) (NNP Vince) (NNP Dooley)) (VP (VBD had) (VP (VBN given) (NP (NNP Donnan)) (NP (NP (DT a) (NN vote)) (PP (IN of) (S (VP (NN confidence) (NP (RB just) (JJ last) (NN month)))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NNS players)) (VP (VBD said) (SBAR (S (NP (NNP Dooley)) (VP (VBD told) (NP (PRP them)) (SBAR (IN that) (S (NP (NN school) (NN president) (NNP Michael) (NNP Adams)) (VP (VBD made) (NP (DT the) (NN decision) (S (VP (TO to) (VP (VB fire) (NP (NNP Donnan))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ athletic) (NN department)) (VP (VBD scheduled) (NP (DT a) (JJ late) (NN afternoon)) (S (VP (TO to) (VP (VB discuss) (NP (DT the) (NN program))))))) (CC but) (S (NP (NNS details)) (VP (VBD were) (RB not) (VP (VBN disclosed)))) (. .)))
+
+(S1 (S (NP (NNP Dooley)) (VP (VBD said) (NP (JJ last) (NN month)) (SBAR (S (NP (DT the) (NN coach)) (VP (MD would) (RB not) (VP (VB be) (VP (VBN fired) (SBAR (RB even) (IN though) (S (NP (DT the) (NNPS Bulldogs)) (VP (VBD fell) (ADVP (RB short) (PP (IN of) (S (NP (NP (NN preseason) (NNS predictions)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (NP (PRP them)))))) (VP (VBG winning) (NP (NP (NNP SEC) (POS 's)) (NNP East))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Criticism)) (PP (IN of) (NP (NNP Donnan)))) (VP (VBD increased) (ADVP (NP (DT a) (NN week)) (RB later)) (, ,) (SBAR (IN after) (S (NP (NNP Georgia) (NNP Tech)) (VP (VBD beat) (NP (NNP Georgia)) (PP (IN for) (NP (DT the) (JJ third) (JJ straight) (NN year))) (, ,) (NP (NP (NP (DT the) (NNPS Bulldogs) (POS ')) (JJS longest) (NN losing) (NN streak)) (PP (IN in) (NP (NP (DT the) (JJ bitter) (NN rivalry)) (PP (IN since) (NP (DT the) (JJ early) (CD 1960s)))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT A) (NN win)) (PP (IN over) (NP (NNP Georgia) (NNP Tech)))) (VP (MD would) (VP (VB have) (VP (VBN put) (NP (NNP Georgia)) (PP (IN in) (NP (NN position))) (PP (IN for) (NP (NP (DT a) (NNP New) (NN Year) (POS 's)) (NNP Day) (NN bowl) (NN game))))))) (, ,) (CC but) (S (NP (DT the) (NN loss)) (VP (VBD left) (NP (DT the) (NNP No)))) (. .)))
+
+(S1 (NP (NP (CD 24) (NNPS Bulldogs)) (PP (IN in) (NP (DT the) (NNP Oahu) (NNP Bowl))) (PP (IN against) (NP (NNP Virginia))) (. .)))
+
+(S1 (S (NP (NNP Phillips)) (VP (VBD said) (SBAR (S (NP (NNS players)) (VP (VBD asked) (NP (NNP Dooley)) (SBAR (IN if) (S (NP (NNP Donnan)) (VP (MD could) (VP (VB coach) (NP (NP (DT the) (NN team)) (PP (IN in) (NP (DT the) (NN bowl) (NN game)))))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (FRAG (ADVP (RB not)))) (PRN (, ,) (S (NP (NNP Phillips)) (VP (VBD said))) (, ,)) (NP (NNS players)) (VP (VBD were) (VP (VBG considering) (S (VP (VBG voting) (PP (IN against) (S (VP (VBG accepting) (NP (DT the) (NN bid))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ 55-year-old) (NNP Donnan)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD came) (PP (TO to) (NP (NNP Georgia))) (PP (IN for) (NP (DT the) (CD 1996) (NN season))) (PP (IN from) (NP (NNP Division)) (NP (NNP I-AA) (NNP Marshall)))))) (, ,)) (VP (VBZ has) (VP (VBN been) (VP (VBN linked) (PP (TO to) (NP (NN coaching) (NNS vacancies)) (NP (DT the) (JJ past) (CD three) (NNS years)))))) (. .)))
+
+(S1 (S (NP (NNP Donnan)) (VP (VBZ has) (NP (NP (DT a) (NN career) (NN record)) (PP (IN of) (NP (CD 103-40)))) (, ,) (PP (VBG including) (NP (NP (CD 39-19)) (PP (IN at) (NP (NNP Georgia)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ has) (VP (VBN failed) (, ,) (ADVP (RB however)) (, ,) (PP (IN against) (NP (NP (NNP Georgia) (POS 's)) (JJS biggest) (NNS rivals))) (, ,) (PP (VBG going) (NP (NP (CD 6-14)) (PP (IN against) (NP (NNP Georgia) (NNP Tech) (, ,) (NNP Florida) (, ,) (NNP Auburn) (CC and) (NNP Tennessee))))))) (. .)))
+
+(S1 (S (`` ``) (S (ADVP (RB Obviously)) (NP (PRP you)) (VP (VBP 're) (VP (VBN expected) (PP (IN at) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Georgia))))) (S (VP (TO to) (VP (VB beat) (NP (DT the) (JJ big) (NNS rivals)))))))) (, ,) ('' '') (NP (NNP Phillips)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP We)) (VP (VBP do) (VP (VB have) (NP (NP (DT a) (JJ losing) (NN record)) (PP (IN against) (NP (PRP them)))))) (. .) ('' '')))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD rejected) (NP (NP (DT a) (JJ five-year) (, ,) (ADJP ($ $) (JJ 4.25-million)) (NN offer)) (PP (IN from) (NP (NNP North) (NNP Carolina)))) (PP (IN in) (NP (CD 1997)))) (, ,) (CC and) (VP (VBD was) (VP (VBN said) (S (VP (TO to) (VP (VB be) (NP (DT a) (NN candidate)) (NP (DT the) (JJ following) (NN season)) (PP (IN at) (NP (NP (NNP Oklahoma)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (NP (DT a) (JJ former) (NN assistant))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP North) (NNP Carolina) (NN job)) (VP (VBZ is) (ADJP (JJ open)) (ADVP (RB again)) (SBAR (IN after) (S (NP (NNP Carl) (NNP Torbush)) (VP (VBD was) (VP (VBN fired) (NP (RBR earlier) (DT this) (NN year))))))) (. .)))
+
+(S1 (S (NP (NNP Donnan)) (VP (VBZ is) (UCP (NP (NP (DT a) (NN native)) (PP (IN of) (NP (NP (NNP Burlington)) (, ,) (NP (NNP N.C.))))) (, ,) (CC and) (VP (VBN played) (PP (IN at) (NP (NNP North) (NNP Carolina) (NNP State)))))) (. .)))
+

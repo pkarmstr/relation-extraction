@@ -1,0 +1,46 @@
+(S1 (NP (NP (CD APW20001031.0325.0168) (NN NEWS) (NN STORY)) (QP (CD 2000-10-31) (CD 03:44:23))))
+
+(S1 (NP (NN Japan-Economy)))
+
+(S1 (S (NP (NP (NNP Japan) (POS 's)) (NNP Central) (NNP Bank)) (VP (VBZ Expects) (NP (NN Growth)))))
+
+(S1 (S (NP (NP (NNP TOKYO) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-)) (NNP _) (NNP Japan) (POS 's)) (JJ central) (NN bank)) (PP (IN on) (NP (NNP Tuesday))) (VP (VBD forecast) (NP (NP (JJ strong) (JJ economic) (NN growth)) (PP (IN of) (S (NP (NP (QP (IN between) (CD 1.9) (NN percent) (CC and) (CD 2.3) (NN percent))) (PP (IN for) (NP (DT the) (JJ current) (JJ fiscal) (NN year)))) (VP (VBG _) (S (NP (DT a) (NN prediction)) (ADJP (ADJP (RB far) (RBR more) (JJ optimistic)) (PP (IN than) (NP (NP (DT the) (NN government) (POS 's)) (NNS expectations)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (JJ wide-ranging) (NN report)) (PP (IN on) (NP (NP (DT the) (NN outlook)) (PP (IN for) (NP (DT the) (JJ troubled) (NN economy))))))) (, ,) (NP (DT the) (NAC (NNP Bank) (PP (IN of) (NP (NNP Japan)))) (NN policy) (NN board)) (VP (VBD said) (SBAR (S (NP (DT the) (NN country)) (VP (MD would) (VP (VB continue) (NP (NP (DT a) (JJ gradual) (JJ private) (JJ demand-led) (NN recovery)) (PP (IN over) (NP (NP (DT this) (NN year)) (CC and) (NP (JJ next)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN bank)) (VP (VBD said) (, ,) (ADVP (RB however)) (, ,) (SBAR (IN that) (S (NP (NP (DT the) (`` ``) (NN pace)) (PP (IN of) (NP (NP (NN recovery)) (PP (IN in) (NP (JJ personal) (NN consumption)))))) (VP (MD will) (VP (VB be) (ADJP (JJ slow) ('' ') ('' ') (SBAR (IN because) (S (NP (PRP it)) (VP (MD will) (VP (VB take) (NP (NP (NN time)) (PP (IN for) (NP (NP (DT the) (NN improvement)) (PP (IN in) (NP (DT the) (JJ corporate) (NN sector)))))) (S (VP (TO to) (VP (NN filter) (PRT (RP through)) (PP (TO to) (NP (DT the) (NN household) (NN sector)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN Despite) (NP (DT those) (NNS reservations))) (, ,) (NP (NP (NP (DT the) (NN BOJ) (POS 's)) (NN outlook)) (PP (IN for) (NP (NP (DT the) (JJ fiscal) (NN year)) (VP (VBG ending) (NP (JJ next) (NNP March) (CD 31)))))) (VP (VBD was) (ADJP (ADJP (RB far) (JJR rosier)) (PP (IN than) (NP (DT the) (NN government) (POS 's))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Economic) (NNP Planning) (NNP Agency)) (VP (VBZ has) (VP (VBN forecast) (NP (NP (NN growth)) (PP (IN in) (NP (JJ gross) (JJ domestic) (NN product)))) (PP (IN at) (NP (CD 1.5) (NN percent))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ optimistic) (NN report)) (VP (VBZ comes) (SBAR (IN as) (S (NP (NNP Japan)) (VP (VBZ is) (VP (VBG struggling) (S (VP (TO to) (VP (VB emerge) (PP (IN from) (NP (PRP$ its) (JJS worst) (JJ economic) (NN downturn)))))) (PP (IN since) (NP (NNP World) (NNP War) (NNP II)))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN economy)) (VP (VBZ is) (VP (VBG beginning) (S (VP (TO to) (VP (VB grow))))))) (, ,) (CC but) (S (NP (JJ private) (NN demand)) (VP (VBZ is) (VP (VBG lagging) (PP (IN behind) (NP (DT the) (JJ corporate) (NN recovery)))))) (. .)))
+
+(S1 (S (NP (NN Unemployment)) (VP (VBZ continues) (S (VP (TO to) (VP (VB be) (NP (DT a) (NN problem)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN government)) (VP (VBD announced) (PP (IN on) (NP (NNP Tuesday))) (SBAR (IN that) (S (NP (DT the) (JJ jobless) (NN rate)) (VP (VBD had) (VP (VBN edged) (PRT (RP up)) (PP (TO to) (NP (NP (CD 4.7) (NN percent)) (PP (IN in) (NP (NNP September)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN rate)) (VP (VBD was) (PP (IN at) (NP (NP (CD 4.6) (NN percent)) (PP (IN in) (NP (NNP August))))) (, ,) (PP (IN after) (S (VP (VBG hitting) (NP (NP (DT a) (JJ postwar) (NN record) (NN high)) (PP (IN of) (NP (NP (CD 4.9) (NN percent)) (PP (IN in) (NP (NNP February)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (PRP$ its) (NN report)) (NP (NNP Tuesday)))) (, ,) (NP (DT the) (NNP BOJ)) (VP (VBD predicted) (SBAR (IN that) (S (NP (JJ corporate) (NN capital) (NN investment)) (VP (MD will) (VP (VB increase) (PP (IN over) (NP (DT the) (JJ next) (CD 12) (NNS months))) (, ,) (PP (ADVP (RB especially)) (IN in) (NP (UCP (NN information) (CC and) (JJ communications-related)) (NNS sectors)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN forecast)) (ADVP (RB also)) (VP (VBD included) (NP (NP (NNS projections)) (PP (IN on) (NP (NNS prices))))) (. .)))
+
+(S1 (S (NP (DT The) (NN BOJ)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (JJ core) (NN consumer) (NN price) (NN index)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ excludes) (NP (JJ fresh) (NN food) (NNS prices))))) (, ,)) (VP (MD would) (VP (VB fall) (PP (IN from) (NP (NP (CD 0.2) (NN percent)) (PP (TO to) (NP (CD 0.4) (NN percent)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS forecasts)) (VP (VBD reflected) (NP (NP (DT a) (NN range)) (PP (IN of) (NP (NP (NN opinion)) (PP (IN among) (NP (DT the) (NN board) (NNS members))))) (, ,) (PP (IN with) (NP (NP (DT the) (ADJP (JJS lowest) (CC and) (JJS highest)) (NNS predictions)) (VP (VBN excluded)))))) (. .)))
+
+(S1 (S (PP (IN Despite) (NP (DT the) (JJ strong) (NN growth) (NN forecast))) (, ,) (NP (DT the) (NNP BOJ)) (VP (VBD said) (SBAR (S (NP (NNS problems)) (ADVP (RB still)) (VP (VBD lingered) (PP (IN in) (NP (DT the) (NN economy))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Slow) (NN spending)) (, ,) (VP (VBN coupled) (PP (IN with) (NP (NP (NP (JJ structural) (NNS problems)) (PP (JJ such) (IN as) (NP (JJ corporate) (NN restructuring)))) (CC and) (NP (NN balance) (NN sheet) (NNS problems))))) (, ,)) (VP (MD will) (VP (VB mean) (`` ``) (S (NP (NP (DT the) (NN expansion)) (PP (IN of) (NP (DT the) (NN economy)))) (VP (VBZ is) (ADJP (JJ unlikely) (S (VP (TO to) (VP (VB be) (ADJP (JJ vigorous)))))))) ('' ') (PRN (: ') (S (NP (DT the) (NNP BOJ) (NN board)) (VP (VBD noted)))))) (. .)))
+
+(S1 (S (NP (JJR Higher) (NN oil) (NNS prices)) (VP (VBD were) (NP (DT another) (NN problem))) (. .)))
+
+(S1 (S (NP (DT The) (NNP BOJ) (NN board)) (VP (VBD said) (SBAR (IN that) (S (SBAR (IN while) (S (NP (PRP they)) (VP (MD will) (RB n't) (VP (VB have) (NP (NP (JJ much) (JJ direct) (NN impact)) (PP (IN on) (NP (DT the) (JJ Japanese) (NN economy)))) (PP (IN for) (NP (DT the) (NN time) (VBG being))))))) (, ,) (NP (PRP they)) (VP (MD could) (VP (VB give) (NP (NN rise)) (PP (TO to) (NP (NN inflation))) (PP (IN in) (NP (JJ other) (NNS countries))) (, ,) (S (ADVP (RB potentially)) (VP (VBG affecting) (NP (NNP Japan))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN board)) (VP (VBD said) (SBAR (IN that) (S (SBAR (IN while) (S (NP (NP (NN restructuring)) (PP (IN at) (NP (NP (NNS companies)) (CC and) (NP (JJ financial) (NNS institutions))))) (VP (MD might) (VP (`` ``) (VP (VB lay) (NP (NP (DT the) (NN foundation)) (PP (IN for) (NP (JJ economic) (NN growth)))) (PP (IN over) (NP (DT the) (NN medium))) (PP (TO to) (NP (JJ long) (NN term)))) (, ,) ('' '') (PP (IN in) (NP (DT the) (JJ short) (NN term))))))) (NP (JJ such) (NNS moves)) (VP (MD could) (`` ``) (VP (ADVP (RBR further) (RB adversely)) (VB affect) (NP (DT the) (NN economy))))))) (. .) ('' '')))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ financial) (NN sector))) (, ,) (NP (DT the) (NN board)) (VP (VBD said) (SBAR (S (NP (DT that) (NN bank) (NN lending)) (VP (VBD was) (VP (VBN expected) (S (VP (TO to) (VP (VB stay) (ADJP (JJ sluggish)))))))))) (. .)))
+

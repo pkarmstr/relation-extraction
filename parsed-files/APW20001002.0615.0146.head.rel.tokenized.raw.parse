@@ -1,0 +1,38 @@
+(S1 (NP (NP (CD APW20001002.0615.0146) (NN NEWS) (NN STORY)) (QP (CD 2000-10-02) (CD 06:38:11))))
+
+(S1 (NP (NN Indonesia-Suharto's-Son)))
+
+(S1 (S (NP (NP (NNP Suharto) (POS 's)) (NN Son)) (VP (VBZ Fails) (PP (TO To) (NP (NNP Obey) (NN Summons))))))
+
+(S1 (S (NP (NP (NP (NNP JAKARTA)) (, ,) (NP (NNP Indonesia))) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (NP (DT The) (JJS youngest) (NN son)) (PP (IN of) (NP (JJ ex-dictator) (NNP Suharto)))) (VP (VBD disobeyed) (NP (DT a) (NN summons) (S (VP (TO to) (VP (VP (VB surrender) (NP (PRP himself)) (PP (TO to) (NP (NNS prosecutors))) (NP (NNP Monday))) (CC and) (VP (VB be) (VP (VBN imprisoned) (PP (IN for) (NP (NN corruption))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Hutomo) (`` ``) (NNP Tommy) ('' '') (NNP Mandala) (NNP Putra)) (, ,) (NP (CD 37)) (, ,)) (VP (VBD was) (VP (VBN sentenced) (PP (TO to) (NP (CD 18) (NNS months))) (PP (IN in) (NP (NN prison))) (PP (IN on) (NP (NNP Sept))))) (. .)))
+
+(S1 (NP (NP (CD 22)) (PP (IN by) (NP (NP (DT the) (NNP Supreme) (NNP Court)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD overturned) (NP (NP (DT an) (JJR earlier) (NN acquittal)) (PP (IN by) (NP (DT a) (JJR lower) (NN court))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD found) (S (NP (PRP him)) (ADJP (JJ guilty) (PP (IN of) (S (VP (VBG enriching) (NP (PRP himself)) (PP (IN through) (NP (NP (DT a) (NN property) (NN deal)) (PP (IN with) (NP (NP (DT the) (NN state) (POS 's)) (JJ main) (NN food) (NN supply) (NN agency))))))))))) (. .)))
+
+(S1 (S (NP (NNS Prosecutors)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD 1997) (NN deal)) (, ,) (VP (VBN made) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ his) (NN father)) (VP (VBD was) (ADVP (RB still)) (PP (IN in) (NP (NN power))))))) (, ,)) (VP (VBD had) (VP (VBN cost) (NP (DT the) (JJ Indonesian) (NN state)) (NP (QP ($ $) (CD 10.8) (CD million)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Tommy)) (, ,) (NP (NP (NP (DT a) (NN multimillionaire)) (PP (IN with) (NP (DT a) (NNP playboy) (NN image)))) (CC and) (NP (NP (NN love)) (PP (IN of) (NP (JJ fast) (NNS cars))))) (, ,)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN member)) (PP (IN of) (NP (NP (NNP Suharto) (POS 's)) (NN family) (S (VP (TO to) (VP (VB be) (VP (VBN convicted) (PP (IN of) (NP (NN graft))))))))))) (. .)))
+
+(S1 (S (SBAR (IN Because) (S (NP (NP (DT the) (NNP Supreme) (NNP Court) (POS 's)) (NN decision) (S (VP (TO to) (VP (VB imprison) (NP (NNP Tommy)))))) (VP (VBD did) (RB not) (VP (VBN come) (PP (IN into) (NP (JJ immediate) (NN effect))))))) (, ,) (NP (NNS prosecutors)) (VP (VBD served) (S (NP (NP (DT a) (NN summons)) (PP (IN on) (NP (NNP Tommy)))) (VP (TO to) (VP (VB be) (VP (VBN taken) (PP (IN into) (NP (NN custody))) (NP (NNP Monday))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB instead)) (VP (VBD sent) (NP (NP (DT a) (JJ legal) (NN team)) (SBAR (S (VP (TO to) (VP (VB discuss) (SBAR (IN whether) (S (NP (PRP he)) (VP (MD would) (VP (VP (VB appeal) (NP (DT the) (NN ruling))) (CC or) (VP (VB admit) (NP (PRP$ his) (NN guilt))) (CC and) (VP (VB seek) (NP (DT a) (JJ presidential) (NN pardon))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN delay)) (PP (IN of) (NP (NP (NNP Tommy) (POS 's)) (NN arrest)))) (VP (VBZ comes) (SBAR (NP (RB just) (NNS days)) (IN after) (S (NP (DT another) (NN court)) (VP (VBD dismissed) (NP (NP (JJ other) (NN corruption) (NNS charges)) (PP (IN against) (NP (NP (PRP$ his) (JJ 79-year-old) (NN father)) (PP (IN on) (NP (NNS grounds))))) (PP (IN of) (NP (JJ ill) (NN health)))) (, ,) (S (VP (VP (VBG enraging) (NP (JJ pro-democracy) (NNS activists))) (CC and) (VP (VBG triggering) (NP (JJ violent) (NNS demonstrations))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Critics)) (PP (IN of) (NP (NP (NNP Indonesia) (POS 's)) (JJ legal) (NN system)))) (VP (VBP have) (VP (VBN accused) (NP (PRP it)) (PP (IN of) (S (VP (VBG going) (ADJP (JJ soft)) (PP (IN on) (NP (DT the) (NNP Suharto) (NN clan)))))))) (. .)))
+
+(S1 (S (NP (NP (NP (DT A) (NN co-defendant)) (PP (IN in) (NP (NP (NNP Tommy) (POS 's)) (NN case)))) (, ,) (NP (NN businessman) (NNP Riccardo) (NNP Gelael)) (, ,)) (ADVP (RB separately)) (VP (VP (VBD admitted) (NP (PRP$ his) (NN guilt)) (NP (NNP Monday)) (PP (TO to) (NP (NNS prosecutors)))) (CC and) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB appeal) (PP (TO to) (NP (NNP President) (NNP Abdurrahman) (NNP Wahid))) (PP (IN for) (NP (DT a) (NN pardon))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Antasari) (NNP Ashar)) (, ,) (NP (NP (NN chief)) (PP (IN of) (NP (NNP South) (NNP Jakarta) (NN Prosecution) (NNP Office)))) (, ,)) (VP (VBD said) (SBAR (S (NP (NNP Tommy)) (VP (MD would) (ADVP (RB again)) (VP (VB be) (VP (VBN summoned) (S (VP (TO to) (VP (VB meet) (NP (NNS prosecutors)) (PP (IN on) (NP (NNP Wednesday)))))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (NNP Tommy)) (VP (VBZ opts) (PP (IN for) (NP (NP (DT a) (JJ judicial) (NN review)) (PP (IN of) (NP (DT the) (NN case)))))))) (, ,) (NP (PRP$ his) (NN fate)) (VP (MD will) (VP (VB be) (VP (VBN decided) (PP (IN by) (NP (DT the) (JJ same) (NN court))) (SBAR (IN that) (S (NP (JJ last) (NN week)) (VP (VBD dismissed) (NP (NP (NN graft) (NNS charges)) (PP (IN against) (NP (PRP$ his) (NN father)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN decision) (S (VP (TO to) (VP (VB let) (NP (NNP Suharto)) (PRT (RP off)))))) (VP (VBD triggered) (NP (NP (JJ fierce) (NN street) (NNS demonstrations)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (S (NP (CD one) (NN man)) (VP (VBD died))) (CC and) (S (NP (NNS dozens)) (VP (VBD were) (VP (VBN injured)))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NNS weeks))) (NP (NP (NNP Suharto) (POS 's)) (NN trial)) (VP (VBD had) (VP (VBN been) (VP (VBN marred) (PP (IN by) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NP (NNS bombings)) (PP (IN in) (NP (NNP Jakarta))) (, ,) (PP (VBG including) (NP (NP (DT a) (NN blast)) (PP (IN at) (NP (NP (DT the) (NN city) (POS 's)) (NN stock) (NN exchange) (NN building))) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (CD 15) (NNS people)) (VP (VBD were) (VP (VBN killed)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Many) (JJ suspect) (NNS supporters)) (PP (IN of) (NP (NNP Suharto))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD ruled) (PP (IN for) (NP (CD 32) (NNS years))) (PP (IN until) (NP (NP (PRP$ his) (NN ouster)) (PP (IN in) (NP (CD 1998)))))))) (, ,)) (VP (VBD were) (PP (IN behind) (NP (DT the) (NNS attacks)))) (. .)))
+

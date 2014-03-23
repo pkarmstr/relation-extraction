@@ -1,0 +1,42 @@
+(S1 (NP (NP (CD NYT20001006.2228.0370) (NN NEWS) (NN STORY)) (QP (CD 2000-10-06) (CD 22:45:00))))
+
+(S1 (NP (NP (CD A6290) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NN p)) (JJ BC-TV-DEBATE-RATINGS-NYT) (QP (CD 10-06) (CD 0230)))))
+
+(S1 (NP (NNP BC-TV-DEBATE-RATINGS-NYT)))
+
+(S1 (S (NP (JJ CHENEY-LIEBERMAN) (NN DEBATE)) (VP (NNS FARES) (ADVP (RB POORLY)) (PP (IN IN) (NP (NNS RATINGS))))))
+
+(S1 (NP (NP (NN &UR)) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (NP (NP (DT The) (JJ vice-presidential) (NN debate)) (PP (IN on) (NP (NNP Thursday))) (PP (IN between) (NP (NNP Sen))) (. .)))
+
+(S1 (S (NP (NP (NNP Joseph) (NNP Lieberman)) (CC and) (NP (NNP Dick) (NNP Cheney))) (VP (VBD was) (VP (VBN watched) (PP (IN by) (NP (NP (QP (IN at) (JJS least) (CD 28.5) (CD million)) (NNS people)) (, ,) (NP (NP (DT the) (JJ second-smallest) (NN audience)) (PP (IN on) (NP (NN record)))))) (PP (IN for) (NP (DT a) (JJ vice-presidential) (NN debate))) (, ,) (PP (VBG according) (PP (TO to) (NP (NNP Nielsen) (NNP Media) (NNP Research) (NNS data)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ lowest-rated) (JJ vice-presidential) (NN debate)) (PP (IN on) (NP (NN record)))) (VP (VBD was) (NP (NP (DT the) (NN confrontation)) (PP (IN between) (NP (NNP Vice) (NNP President) (NP (NNP Al) (NNP Gore) (CC and) (NNP Jack) (NNP Kemp))))) (, ,) (PP (IN on) (NP (NNP Oct)))) (. .)))
+
+(S1 (NP (NP (CD 9)) (, ,) (NP (CD 1996)) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (VBN watched) (PP (IN by) (NP (QP (CD 26.6) (CD million)) (NNS people))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ highest-rated) (JJ vice-presidential) (NN debate)) (VP (VBD was) (NP (NP (DT the) (NN matchup)) (PP (IN between) (NP (NNP Rep))))) (. .)))
+
+(S1 (NP (NP (NNP Geraldine) (NNP Ferraro) (CC and) (NNP Vice) (NNP President) (NNP George) (NNP Bush)) (, ,) (PP (IN on) (NP (NNP Oct))) (. .)))
+
+(S1 (NP (NP (NNP 11)) (, ,) (NP (CD 1984)) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (VBN watched) (PP (IN by) (NP (QP (CD 56.7) (CD million)) (NNS people))))) (. .)))
+
+(S1 (S (NP (NNP Nielsen) (NNS executives)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ possible)) (SBAR (IN that) (S (NP (NP (DT the) (JJ final) (NN audience) (NN tally)) (PP (IN for) (NP (NP (NNP Thursday) (POS 's)) (NN confrontation)))) (VP (MD could) (VP (VB be) (ADJP (ADJP (RB slightly) (JJR larger)) (PP (IN than) (NP (NP (DT the) (NN one)) (VP (VBD released) (NP (NNP Friday)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS ratings) (NN gathering) (NN process)) (VP (VBD was) (VP (VBN complicated) (PP (IN by) (NP (NP (NNP Fox) (POS 's)) (NN decision) (S (VP (TO to) (VP (VB show) (NP (NP (DT a) (NN baseball) (NN playoff) (NN game)) (PP (RB instead) (IN of) (NP (DT the) (NN debate))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT Some)) (PP (IN of) (NP (PRP$ its) (JJ affiliated) (NNS stations)))) (VP (VBD showed) (NP (DT the) (NN debate)) (ADVP (RB later) (PP (IN in) (NP (DT the) (NN evening)))))) (, ,) (CC and) (S (NP (NNP Nielsen)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (RB not) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB count) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD watched) (NP (DT those) (NNS showings)) (PP (IN until) (ADVP (JJ early) (NP (JJ next) (NN week)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN difference)) (VP (VBD was) (RB not) (VP (VBN expected) (S (VP (TO to) (VP (VB be) (ADJP (RB very) (JJ significant))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Thursday) (POS 's)) (JJ estimated) (NN audience)) (VP (VBD included) (NP (NP (NNS viewers)) (SBAR (WHNP (WP who)) (S (VP (VBD watched) (PP (IN on) (NP (NNP ABC) (, ,) (NNP CBS) (, ,) (NNP NBC) (, ,) (NP (NNP MSNBC)) (, ,) (NP (NNP CNN)) (CC and) (NP (DT the) (NNP Fox) (NNP News) (NNP Channel))))))))) (. .)))
+
+(S1 (NP (QP (CD NYT-10-06-00) (CD 2245EDT))))
+

@@ -1,0 +1,66 @@
+(S1 (NP (NP (CD NYT20001119.2132.0191) (NN NEWS) (NN STORY)) (JJ 2000-11-19) (CD 21:52:00)))
+
+(S1 (NP (NP (CD A4616) (NNS &Cx1f)) (: ;) (NP (NP (JJ tib-z) (NNP u) (NNP k) (NNP BC-SAFIRE-COLUMN-NYT) (NN &LR)) (: ;) (NP (QP (CD 11-19) (CD 0752))))))
+
+(S1 (NP (NNP BC-SAFIRE-COLUMN-NYT)))
+
+(S1 (NP (NP (NN COMMENTARY)) (: :) (NP (NP (NNP ARAFAT) (POS 'S)) (`` `) (NN WAR) (NN PROCESS) ('' '))))
+
+(S1 (NP (NP (PRN (-LRB- -LRB-) (NN Essay) (-RRB- -RRB-)) (NNS &QL)) (: ;) (NP (NP (NN &UR)) (: ;) (NP (NNP By) (NNP WILLIAM) (NNP SAFIRE) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (CD c.2000) (NNP N.Y))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NNP WASHINGTON) (NNP _)) (SBAR (WHADVP (WRB When)) (S (NP (NP (DT the) (NN leader)) (PP (IN of) (NP (NP (DT the) (NNP Hezbollah)) (PP (IN in) (NP (JJ Syrian) (JJ -occupied) (NNP Lebanon)))))) (VP (VBD came) (PRT (RP up)) (PP (IN with) (NP (DT a) (NN plan) (S (VP (TO to) (VP (VB kidnap) (NP (CD three) (NNP Israeli) (NNS soldiers))))))) (ADVP (NP (CD six) (NNS weeks)) (RB ago))))) (, ,) (NP (PRP$ his) (JJ Iranian) (NNS sponsors)) (VP (VBD cautioned) (S (NP (PRP him)) (VP (TO to) (VP (ADVP (RB first)) (VB get) (NP (NP (DT the) (NN approval)) (PP (IN of) (NP (NP (NNP Bashar) (NNP Assad)) (, ,) (NP (NP (DT the) (JJ new) (NN president)) (PP (IN of) (NP (NNP Syria))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (IN because) (S (NP (NNP Israel)) (VP (VBD was) (VP (VBN expected) (S (VP (TO to) (VP (VB retaliate) (PP (IN against) (NP (NNP Hezbollah) (NNS forces))) (PP (IN in) (NP (NP (NNS areas)) (VP (VBN controlled) (PP (IN by) (NP (JJ Syrian) (NNS troops)))))))))))))) (. .)))
+
+(S1 (S (SBAR (RB Ever) (IN since) (S (NP (NP (NNP Israel) (POS 's)) (NNS troops)) (VP (VBD pulled) (PP (IN out) (PP (IN of) (NP (PRP$ its) (JJ Lebanese) (NN buffer) (NN zone))))))) (, ,) (NP (NP (NNP Hezbollah) (POS 's)) (NN terrorism)) (VP (VBZ has) (VP (VBN been) (VP (ADVP (RB closely)) (VBN coordinated) (PP (IN with) (NP (NNP Bashar))) (PP (IN in) (NP (NNP Damascus)))))) (. .)))
+
+(S1 (S (NP (ADJP (RB Usually) (JJ reliable)) (NN intelligence) (NNS sources)) (VP (VBP note) (SBAR (IN that) (S (NP (NP (DT the) (JJ inexperienced) (NNP Bashar)) (, ,) (ADJP (JJ eager) (S (VP (TO to) (VP (VB establish) (NP (NP (NNS credentials)) (PP (IN in) (NP (DT the) (JJ Arab) (NN world)))) (PP (IN as) (NP (NP (DT a) (JJ militant) (NN enemy)) (PP (IN of) (NP (NNP Israel))))))))) (, ,)) (VP (VBD gave) (NP (PRP$ his) (NN approval)) (PP (TO to) (NP (DT the) (VB kidnap) (NN plan))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (PP (IN despite) (NP (DT the) (NN danger) (SBAR (IN that) (S (NP (NP (NP (DT the) (NNP Hezbollah) (POS 's)) (NN capture)) (PP (IN of) (NP (NNP Israeli) (NNS soldiers)))) (VP (MD could) (VP (VB lead) (PP (TO to) (NP (NP (VBN armed) (NN confrontation)) (PP (IN in) (NP (NNP Lebanon))) (PP (IN between) (NP (JJ Syrian) (CC and) (JJ Israeli) (NNS forces)))))))))))) (. .)))
+
+(S1 (FRAG (PP (IN On) (CC or) (IN about) (NP (NNP Oct))) (. .)))
+
+(S1 (S (NP (CD 8)) (, ,) (NP (NP (NNP Hassan) (NNP Nasrallah)) (, ,) (NP (NP (NN secretary) (NN general)) (PP (IN of) (NP (NNP Hezbollah)))) (, ,)) (VP (VBD reported) (PP (ADVP (RB directly)) (TO to) (NP (NNP Bashar))) (SBAR (IN that) (S (NP (DT the) (NN kidnapping)) (VP (VBD had) (VP (VBN been) (VP (VBN carried) (PRT (RP out)) (SBAR (RB as) (S (VP (VBN planned)))))))))) (. .)))
+
+(S1 (SINV (S (NP (NNP Bashar)) (VP (VBD was) (VP (VBN heard) (S (VP (TO to) (VP (VB have) (VP (VBN congratulated) (NP (PRP him)) (PP (IN on) (NP (PRP$ its) (`` ``) (JJ smooth) (NN execution)))))))))) (, ,) ('' '') (VP (VBZ goes)) (NP (DT the) (JJ undercover) (NN account)) (, ,) (CC and) (VBD assured) (NP (DT the) (JJ terrorist) (NN leader)) (NP (NP (JJ full) (NN backing)) (PP (IN against) (NP (NP (JJ anticipated) (JJ mild) (NNP U.N.) (NN reaction)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT a) (JJR stronger) (NN response)) (PP (IN from) (NP (NNP Israel))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN risk)) (VP (VBN accepted) (PP (IN by) (NP (NP (NNP Arab) (CC and) (NNP Persian) (NNS leaders)) (PP (IN in) (NP (NP (DT a) (JJ daring) (NN provocation)) (PP (IN within) (SBAR (WHNP (WP what)) (S (NP (NNP Israel)) (VP (VBZ considers) (NP (PRP$ its) (NN territory)))))))))))) (VP (VBD was) (NP (NP (NN evidence)) (PP (IN of) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (VP (VBG emerging) (SBAR (IN as) (S (NP (NNP Yasser) (NNP Arafat)) (VP (VBZ 's) (NP (NN strategy)))))))))))) (. .)))
+
+(S1 (PP (IN From) (NP (NP (PRP$ his) (NN turnabout)) (SBAR (WHNP (WDT that)) (S (ADVP (RB so)) (VP (VBD surprised) (NP (NNP President) (NNP Clinton)) (PP (IN at) (NP (DT the) (NNP Camp) (NNP David) (NN fiasco))) (, ,) (PP (TO to) (NP (PRP$ his) (NN reluctance) (S (VP (TO to) (VP (VB speak) (PRT (RP out)) (S (VP (TO to) (VP (VB restrain) (NP (NP (DT the) (NN rioting)) (PP (IN of) (NP (NP (NNPS Palestinians)) (CC and) (NP (NP (NN sniping)) (PP (IN of) (NP (NP (PRP$ his) (NN gunmen-police)) (, ,) (SBAR (S (NP (PRP$ his) (NN plan)) (VP (MD can) (VP (VB be) (VP (VBN deduced)))))))))))))))))))))))) (: :)))
+
+(S1 (S (NP (JJ First) (NN step)) (VP (VBZ is) (S (VP (TO to) (VP (VB transform) (NP (DT the) (`` ``) (NN peace) (NN process) (, ,) ('' '') (SBAR (WHNP (WDT which)) (S (VP (VBD was) (PP (IN in) (NP (NP (NN danger)) (PP (IN of) (S (VP (VBG succeeding) (PP (IN in) (S (VP (VBG establishing) (NP (DT a) (JJ small) (JJ Palestinian) (NN state)) (, ,) (PP (IN into) (NP (NP (DT a) (JJ religious) (`` ``) (NN war) (NN process) ('' ')) ('' ') (PP (IN for) (NP (NP (NP (NN control)) (PP (IN of) (NP (NNP Jerusalem)))) (CC and) (NP (NP (DT a) (NN state)) (VP (VBG incorporating) (NP (NP (NNP Jordan)) (CC and) (NP (NNP Israel))))))))))))))))))))))))) (. .)))
+
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ keeps) (NP (NNP Arafat)) (PP (IN in) (NP (NN power)))))) (VP (VBZ is) (RB not) (NP (NP (NP (DT the) (JJ dubious) (JJ economic) (NN promise)) (PP (IN of) (NP (DT a) (JJ struggling) (NN dictatorship)))) (CC but) (NP (NP (NP (PRP$ his) (JJ militant) (NNS followers) (POS ')) (NN dream)) (PP (IN of) (S (VP (VBG driving) (NP (DT the) (NNPS Jews)) (PP (IN out) (PP (IN of) (NP (DT the) (NNP Middle) (NNP East)))))))))) (. .)))
+
+(S1 (S (NP (JJ Second) (NN step)) (VP (VBZ is) (S (VP (TO to) (VP (VB whip) (PRT (RP up)) (NP (NP (NN support)) (PP (IN in) (NP (NN world) (NN opinion)))) (PP (IN by) (S (VP (VBG creating) (NP (NP (JJ innocent) (NNS victims)) (PP (IN of) (NP (NNP Israeli) (NNS guns))))))))))) (. .)))
+
+(S1 (S (NP (JJ Palestinian) (NNS snipers)) (VP (VBP draw) (NP (NN fire)) (PP (IN into) (NP (NP (JJ civilian) (NNS crowds)) (PP (IN for) (NP (NP (DT the) (JJ sole) (NN purpose)) (PP (IN of) (S (VP (VP (VBG sacrificing) (NP (NNS innocents))) (, ,) (VP (VBG creating) (NP (JJ anguished) (NN funeral) (NNS demonstrations))) (CC and) (VP (VBG spreading) (NP (NN hatred))))))))))) (. .)))
+
+(S1 (S (S (NP (DT Every) (NN casualty)) (VP (VBZ is) (ADJP (JJ exploitable)))) (: ;) (S (NP (NP (DT every) (NN picture)) (PP (IN of) (NP (NP (DT a) (NN boy)) (PP (IN with) (NP (NP (DT a) (NN slingshot)) (PP (RB rather) (IN than) (NP (DT a) (NN gun)))))))) (VP (VBZ is) (NP (DT a) (JJ small) (NN victory)))) (: ;) (S (NP (NP (DT the) (JJ gut-wrenching) (NN film)) (PP (IN of) (NP (NP (DT the) (NN boy)) (VP (VBG dying) (PP (IN in) (NP (DT a) (NN crossfire))))))) (VP (VBD was) (NP (DT a) (NN propaganda) (NN triumph)))) (. .)))
+
+(S1 (S (S (SBAR (IN Though) (S (NP (PDT such) (DT a) (NN war) (NN process)) (VP (VBZ does) (RB not) (VP (VB win) (NP (JJ military) (NN victory)))))) (, ,) (NP (PRP it)) (VP (VBZ delivers) (NP (NNS results)))) (: :) (S (PP (IN In) (NP (NP (DT a) (ADJP (ADVP (RB much) (RBR less)) (JJ well-armed)) (NN form)) (PP (IN of) (NP (NN intifada))))) (ADVP (NP (DT a) (JJ few) (NNS years)) (RB ago)) (, ,) (NP (PRP it)) (VP (VBD led) (PP (PP (TO to) (NP (NNP Oslo))) (CC and) (PP (ADVP (RB ultimately)) (TO to) (NP (NP (NNP Ehud) (NNP Barak) (POS 's)) (JJ stunning) (NNS concessions)))))) (. .)))
+
+(S1 (S (CC But) (S (S (VP (TO to) (VP (VB attain) (NP (NP (DT a) (NN goal)) (PP (IN of) (S (VP (VBG stimulating) (NP (NP (DT the) (NN defeat)) (PP (IN of) (NP (NNP Israel)))))))) (PP (IN by) (NP (NP (JJ Arab) (NNS armies)) (ADJP (ADJP (RB far) (JJR stronger)) (PP (IN than) (NP (PRP$ his) (JJ own))))))))) (, ,) (NP (NNP Arafat)) (VP (VBZ needs) (NP (NP (JJR more)) (PP (IN than) (NP (NP (VBN sustained) (JJ low-level) (NN belligerency)) (SBAR (WHNP (WDT that)) (S (VP (VBZ wears) (PRT (RP down)) (NP (DT the) (JJ Israeli) (NN will)))))))))) (: ;) (S (NP (PRP he)) (VP (VBZ needs) (S (VP (TO to) (VP (VB provoke) (NP (DT a) (JJ new) (NNP Middle) (NNP East) (NN war))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ explains) (NP (NP (DT the) (NN campaign)) (SBAR (S (VP (TO to) (VP (VB sacrifice) (NP (JJ Palestinian) (NNS women) (CC and) (NNS children)) (, ,) (S (VP (VBG opening) (NP (DT the) (NN possibility) (SBAR (IN for) (S (NP (DT a) (JJ stray) (NNP Israeli) (NN shell)) (VP (TO to) (VP (VB inflict) (NP (JJ horrific) (NN tragedy))))))))))))))) (. .)))
+
+(S1 (S (S (VP (VBD Infuriated) (NP (NNPS Muslims)) (PP (IN throughout) (NP (DT the) (NN region))))) (RB then) (S (VP (VBN put) (NP (NP (NN pressure)) (PP (IN on) (NP (JJ shaky) (NNS sheiks))) (S (VP (TO to) (VP (VB support) (NP (DT another) (JJ such) (NN war)))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP see) (S (NP (NP (NP (NNP Arafat) (POS 's)) (NNS allies)) (PP (IN in) (NP (DT the) (NNP Hezbollah)))) (VP (VBG enticing) (NP (NP (NNP Syria) (POS 's)) (NN strongman)) (PP (IN into) (S (VP (VBG taking) (NP (NP (NNS risks)) (SBAR (S (S (NP (PRP$ his) (NN dictator) (NN -father) (NNP Hafez) (NNP _)) (VP (VBG having) (VP (VBN learned) (NP (NP (DT a) (JJ bloody) (NN lesson)) (SBAR (WHNP (WDT that)) (S (VP (VBD cost) (NP (PRP him)) (NP (DT the) (NNP Golan) (NNP _))))))))) (VP (MD would) (VP (VB have) (VP (VBN avoided)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Arafat)) (ADVP (RB also)) (VP (VBZ knows) (SBAR (IN that) (S (NP (NP (NP (NNP Iraq) (POS 's)) (NNP Saddam) (NNP Hussein)) (, ,) (NP (NP (VBG developing) (NN weaponry)) (SBAR (S (VP (TO to) (VP (VB counter) (NP (NP (NNP Israel) (POS 's)) (JJ nuclear) (NN deterrent))))))) (, ,)) (VP (VBZ is) (VP (VBG spoiling) (S (VP (TO to) (VP (VB send) (NP (NP (PRP$ his) (NNS tanks)) (CC and) (NP (NNS Scuds))) (PP (IN through) (NP (NNP Jordan))) (PP (IN into) (NP (NP (PRP$ his) (NN enemy) (POS 's)) (NN homeland))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN possibility)) (PP (IN of) (NP (PDT such) (DT a) (JJ Palestinian) (JJ -sparked) (NN conflagration)))) (VP (MD must) (VP (VB be) (ADVP (RB foremost)) (PP (IN in) (NP (NP (NNP Barak) (POS 's)) (NN mind))) (SBAR (IN as) (S (NP (PRP he)) (VP (VBZ deals) (PP (IN with) (NP (NP (DT the) (NN rioting)) (CC and) (NP (NN kidnapping))))))))) (. .)))
+
+(S1 (S (S (NP (PRP He)) (VP (MD must) (VP (VB respond) (PP (IN with) (NP (JJ seeming) (NN toughness))) (, ,) (SBAR (IN lest) (S (NP (NNPS Israelis)) (VP (VBP scorn) (NP (PRP him)) (PP (IN for) (S (VP (VBG being) (ADJP (JJ weak))))))))))) (: ;) (CC yet) (S (NP (PRP he)) (VP (MD must) (RB not) (VP (VB use) (NP (ADJP (RB too) (JJ much)) (NN firepower)) (, ,) (SBAR (IN lest) (S (NP (PRP he)) (VP (VBP fall) (PP (IN into) (NP (NP (NNP Arafat) (POS 's)) (JJ wider-war) (NN trap))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Barak) (POS 's)) (VBN demonstrated) (NN dovishness)) (VP (MD may) (VP (VB force) (S (NP (PRP him)) (VP (TO to) (VP (VBP err) (PP (IN on) (NP (NP (DT the) (NN side)) (PP (IN of) (S (VP (VBG using) (NP (JJ ever-greater) (NN force)))))))) (CC and) (ADVP (RB thereby)) (VP (VB be) (VP (VBN drawn) (PP (IN into) (NP (NP (NNP Arafat) (POS 's)) (NN war) (NN process))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN paradox)) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (NP (DT the) (NNP Israeli) (NN opposition) (NN leader) (NNP Arik) (NNP Sharon) (POS 's)) (JJ longtime) (NN reputation)) (PP (IN for) (NP (NN fierceness)))) (VP (MD would) (VP (VB enable) (S (NP (DT the) (NNP Likud) (NN leader)) (VP (TO to) (VP (VP (VB enforce) (NP (NN separation))) (, ,) (VP (VB control) (NP (JJ military) (NN escalation))) (CC and) (VP (VB stop) (NP (DT that) (NN war) (NN process))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP America) (POS 's)) (NN mind)) (VP (VBZ is) (VP (VBN fixed) (PP (IN on) (NP (PRP$ its) (JJ own) (NNS affairs)))))) (, ,) (CC but) (S (NP (NP (NNS thanks)) (PP (TO to) (NP (NP (NNP Arafat)) (, ,) (SBAR (WHNP (WP whoever)) (S (VP (VBZ wins) (SBAR (S (NP (DT the) (NNP White) (NNP House)) (VP (VBZ is) (ADJP (JJ sure) (S (VP (TO to) (VP (VB have) (NP (DT a) (JJ stressful) (QP (RB first) (CD 100)) (NNS days)))))))))))))))) (. .)))
+
+(S1 (NP (CD NYT-11-19-00) (NN 2152EST)))
+

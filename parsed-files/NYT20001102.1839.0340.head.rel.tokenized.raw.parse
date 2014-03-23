@@ -1,0 +1,64 @@
+(S1 (NP (NP (CD NYT20001102.1839.0340) (NN NEWS) (NN STORY)) (QP (CD 2000-11-02) (CD 19:49:00))))
+
+(S1 (NP (NP (CD A5439) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NN p)) (NP (CD BC-BUCHANAN-NYT) (NNS &LR))) (: ;) (QP (CD 11-02) (CD 0495))))
+
+(S1 (NP (NNP BC-BUCHANAN-NYT)))
+
+(S1 (FRAG (NP (NNP BUCHANAN)) (, ,) (VP (VBG GOING) (SBAR (WHADVP (WRB WHERE)) (S (NP (NNS OTHERS)) (VP (VBP FEAR) (S (VP (TO TO) (VP (VB TREAD))))))))))
+
+(S1 (NP (NP (NP (NN &UR)) (: ;) (NP (PRN (-LRB- -LRB-) (NP (NP (NNP ATTN)) (: :) (NP (NNP Fla)) (. .)) (-RRB- -RRB-)) (NNS &LR)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR))) (: ;) (NP (NNP By) (NNP DAVID) (NNP E)) (. .)))
+
+(S1 (NP (NP (NNP ROSENBAUM) (NNS &LR)) (: ;) (NP (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NP (NNP TALLAHASSEE)) (, ,) (NP (NNP Fla.) (CD _))) (PP (IN After) (S (VP (VBG throwing) (NP (NNS barbs)) (PP (IN at) (NP (PDT all) (DT the) (JJ other) (JJ presidential) (NNS candidates)))))) (, ,) (NP (NP (NNP Scott) (NNP Dailey)) (, ,) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (DT the) (NN school) (NN board))) (ADVP (RB here))) (, ,)) (VP (VBD introduced) (NP (NNP Pat) (NNP Buchanan)) (PP (TO to) (NP (DT a) (NN luncheon) (NN audience))) (NP (NNP Thursday)) (PP (IN by) (S (VP (VBG joshing) (: :) (`` ``) (S (NP (NNP Pat)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ is) (NP (DT a) (JJ serious) (NN candidate))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS polls)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBZ is) (ADJP (RB dead) (JJ serious)))))) (. .) ('' '')))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (DT an) (NN assessment) (SBAR (IN that) (S (NP (NP (NNP Buchanan)) (, ,) (NP (DT the) (NNP Reform) (NNP Party) (NN candidate)) (, ,)) (VP (VBZ does) (RB not) (ADVP (RB strenuously)) (VP (VB dispute))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NP (JJ many)) (PP (IN in) (NP (JJ political) (NNS circles)))) (VP (VBP believe) (SBAR (IN that) (S (NP (NNP Ralph) (NNP Nader)) (VP (MD could) (VP (VB affect) (NP (NP (DT the) (NN outcome)) (PP (IN of) (NP (DT the) (NN election)))) (NP (JJ next) (NN week)) (PP (IN by) (S (VP (VBG draining) (NP (NNS votes)) (ADVP (RB away) (PP (IN from) (NP (NNP Vice) (NNP President) (NNP Al) (NNP Gore)) (PP (IN in) (NP (NP (JJ crucial) (NNS states)) (, ,) (ADVP (RB possibly)) (NP (RB even) (NNP Florida)))))))))))))))) (, ,) (NP (RB hardly) (NN anyone)) (, ,) (ADVP (JJS least) (PP (IN of) (NP (DT all) (NNP Buchanan)))) (, ,) (VP (VBZ believes) (SBAR (S (NP (DT the) (NNP Buchanan) (NN candidacy)) (VP (MD will) (VP (VB be) (ADJP (JJ decisive))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ does) (RB not) (VP (VB have) (NP (JJ much) (NN support)) (PP (IN in) (NP (DT the) (JJ first) (NN place))) (, ,) (SBAR (IN as) (S (NP (NP (NNP Dailey) (POS 's)) (NN introduction)) (VP (VBN implied)))))) (. .)))
+
+(S1 (S (CC And) (NP (NP (DT the) (NN support)) (SBAR (S (NP (PRP he)) (VP (VBZ does) (VP (VB have)))))) (PRN (, ,) (NP (NNP Buchanan)) (VP (VBZ feels)) (, ,)) (VP (VBZ is) (ADJP (RB as) (JJ likely) (S (VP (TO to) (VP (VB be) (VP (VBN drawn) (PP (IN from) (NP (NNP Gore) (CONJP (RB as) (IN from)) (NNP Bush))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NNP New) (NNP York) (NNP Times) (NNP News) (NN poll)) (VP (VBN taken) (NP (JJ statewide) (JJ last) (NN week)))) (VP (VBD showed) (NP (NNP Buchanan)) (PP (IN with) (NP (NP (CD 1) (NN percent)) (PP (IN of) (NP (NP (DT the) (NN vote)) (PP (IN in) (NP (NNP Florida)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ is) (ADVP (RB apparently)) (RB not) (VP (VBG doing) (ADVP (RB much) (RBR better)) (NP (NP (RB anywhere) (RB else)) (PP (IN in) (NP (DT the) (NN country)))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP (DT a) (NN news) (NN conference)) (ADVP (RB here)) (NP (NNP Thursday)))) (, ,) (NP (NNP Buchanan)) (VP (VBD said) (SBAR (S (NP (NP (CD one) (NN problem)) (SBAR (S (NP (PRP he)) (VP (VBD faced))))) (VP (VBD was) (NP (NP (PRP$ his) (NN lack)) (PP (IN of) (NP (NP (NN support)) (PP (IN from) (NP (JJ conservative) (NNPS Republicans)))))))))) (. .)))
+
+(S1 (S (`` ``) (NP (NP (DT The) (JJ great) (NN driving) (NN factor)) (PP (IN of) (NP (NNS conservatives)))) (PRN (, ,) ('' '') (S (NP (PRP he)) (VP (VBD said))) (, ,)) (`` ``) (VP (VBZ is) (S (VP (TO to) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (NNP Al) (NNP Gore)))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (JJ Many)) (PP (IN of) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB vote) (PP (IN for) (NP (PRP him)))))))))) (PRN (, ,) (S (NP (NNP Buchanan)) (VP (VBD said))) (, ,)) (VP (MD would) (ADVP (RB probably)) (RB not) (VP (VB bother) (S (VP (TO to) (VP (VB vote) (SBAR (IN if) (S (NP (PRP he)) (VP (VBD were) (RB not) (PP (IN in) (NP (DT the) (NN race))))))))))) (. .)))
+
+(S1 (S (NP (NNS Others)) (PRN (, ,) (S (NP (PRP he)) (VP (VBD said))) (, ,)) (VP (VBP are) (`` ``) (NP (JJ social) (JJ conservative) (NNPS Republicans))) (. .) ('' '')))
+
+(S1 (S (NP (RB Still) (NNS others)) (VP (VBP are) (NP (NP (JJ blue-collar) (NNPS Democrats)) (SBAR (WHNP (WP who)) (S (VP (VBP like) (NP (PRP$ his) (JJ protectionist) (NN trade) (NNS policies)))))) (SBAR (IN because) (S (NP (PRP they)) (VP (VBP fear) (SBAR (S (NP (PRP$ their) (NNS jobs)) (VP (MD could) (VP (VB go) (ADVP (RB overseas)))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NP (NNP Bush)) (CC and) (NP (NNP Gore))) (VP (VBP are) (PP (IN in) (NP (NNP Florida)))))) (, ,) (NP (PRP they)) (VP (VBP talk) (PP (IN about) (NP (NP (NNP Social) (NNP Security)) (, ,) (NP (NNP Medicare)) (, ,) (NP (NNS taxes) (CC and) (NN education))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NNS speeches)) (PP (IN like) (NP (NP (DT the) (NN one)) (SBAR (S (NP (PRP he)) (VP (VBD gave) (NP (NNP Thursday)) (PP (TO to) (NP (DT the) (NNP Tiger) (NNP Bay) (NNP Club) (NN downtown)))))))))) (, ,) (NP (NNP Buchanan)) (VP (VBD talked) (PP (IN about) (NP (NP (NNS issues)) (SBAR (WHNP (IN that)) (S (NP (DT the) (JJ other) (NNS candidates)) (VP (VBP skip) (: :) (NP (NP (NN immigration)) (, ,) (NP (DT the) (NN culture) (NN war)) (, ,) (NP (NN school) (NN prayer)) (CC and) (NP (JJ international) (NN trade))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Buchanan) (POS 's)) (NN television) (NNS advertisements)) (PP (IN in) (NP (JJ northern) (NNP Florida)))) (ADVP (RB also)) (VP (VBP deal) (PP (IN with) (NP (NP (NNS issues)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (RB not) (VP (VBG being) (VP (VBN addressed) (PP (IN by) (NP (NNS others)))))))) (: :) (PP (JJ English) (IN as) (NP (NP (DT an) (JJ official) (NN language)) (CC and) (NP (NP (DT the) (NN right)) (PP (IN of) (NP (DT the) (NNP Boy) (NNPS Scouts))) (S (VP (TO to) (VP (VB exclude) (NP (NNS gays))))))))))) (. .)))
+
+(S1 (S (NP (DT A) (JJ new) (NN advertisement)) (VP (VBZ depicts) (NP (NNP Gore) (CC and) (NNP Bush)) (PP (IN as) (S (VP (VBG selling) (PRT (RP out)) (PP (TO to) (NP (JJ special) (NNS interests))))))) (. .)))
+
+(S1 (SBARQ (WHADVP (WRB Why)) (SQ (VBZ is) (NP (PRP he)) (VP (VBG running) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBZ knows) (SBAR (S (NP (PRP he)) (VP (VBZ has) (NP (DT no) (NN chance) (S (VP (TO to) (VP (VP (VB win)) (CC or) (VP (ADVP (RB even)) (VB affect) (NP (DT the) (NN outcome))))))))))))))) (. ?)))
+
+(S1 (S (`` ``) (S (NP (PRP We)) (VP (VBP want) (S (VP (TO to) (VP (VB build) (NP (NP (DT a) (JJ new) (JJ third) (NN party)) (PP (VBG _) (NP (DT a) (JJ conservative) (NN party))))))))) (, ,) ('' '') (NP (NNP Buchanan)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (CD One) (JJ main) (NN goal)) (, ,) (ADVP (RB almost) (RB certainly) (IN out) (PP (IN of) (NP (NN reach)))) (, ,) (VP (VBZ is) (S (VP (TO to) (VP (VB get) (NP (NP (CD 5) (NN percent)) (PP (IN of) (NP (DT the) (NN vote)))) (ADVP (RB nationally)) (SBAR (RB so) (IN that) (S (NP (DT the) (NNP Reform) (NNP Party)) (VP (MD can) (VP (VB get) (NP (JJ federal) (VBG matching) (NNS funds)) (PP (IN in) (NP (DT the) (JJ next) (JJ presidential) (NN election))))))))))) (. .)))
+
+(S1 (SINV (ADVP (RB Here)) (VP (VBZ is)) (SBAR (WHADVP (WRB how)) (S (NP (PRP he)) (VP (VBD described) (NP (NP (DT this) (NN year) (POS 's)) (JJ presidential) (NN race))))) (: :) (`` ``) (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBD had) (NP (NNP Goldwater) (CC versus) (NNP Johnson))))) (, ,) (NP (PRP you)) (VP (VBD had) (NP (NN clarity)))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBD had) (NP (NP (NNP Nixon) (CC and) (NNP Agnew)) (CC versus) (NP (NNP McGovern)))))) (, ,) (NP (PRP you)) (VP (VBD had) (NP (NN clarity))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBD had) (NP (NNP Reagan) (FW versus) (NNP Mondale))))) (, ,) (NP (PRP you)) (VP (VBD had) (NP (NN clarity))) (. .) ('' '')))
+
+(S1 (S (NP (DT This) (NN year)) (, ,) (NP (PRP he)) (VP (VBD said) (, ,) (NP (NP (DT the) (JJ major-party) (NNS candidates) (NN campaign)) (PP (IN with) (NP (DT a) (`` ``) (JJ conscious) (NN vagueness))))) (. .) ('' '')))
+
+(S1 (NP (CD NYT-11-02-00) (NN 1949EST)))
+

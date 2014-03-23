@@ -1,0 +1,60 @@
+(S1 (NP (NP (CD APW20001023.0423.0148) (NN NEWS) (NN STORY)) (JJ 2000-10-23) (CD 04:33:15)))
+
+(S1 (NP (NN Mexico-Election)))
+
+(S1 (S (NP (NN Opposition)) (VP (VBZ Rejects) (NP (JJ Mexican) (NN Vote)))))
+
+(S1 (S (ADVP (RB VILLAHERMOSA)) (, ,) (NP (NP (NNP Mexico)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (PP (IN In) (NP (NP (DT an) (JJ important) (NN victory)) (PP (IN for) (NP (NP (NNP Mexico) (POS 's)) (JJ embattled) (VBG ruling) (NN party))))) (, ,) (NP (NNP Manuel) (NNP Andrade)) (PP (IN on) (NP (NNP Sunday))) (VP (VBD was) (VP (VBN declared) (S (NP (NP (DT the) (NN winner)) (PP (IN of) (NP (NP (NP (DT the) (JJ disputed) (NN governor) (POS 's)) (NN race)) (PP (IN for) (NP (JJ oil-rich) (NNP Tabasco) (NN state)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Members)) (PP (IN of) (NP (DT the) (NN opposition) (NNP Democratic) (NNP Revolution) (NNP Party)))) (VP (VBD held) (NP (NP (DT a) (JJ peaceful) (NN march)) (ADVP (RBR earlier))) (NP (NNP Sunday)) (, ,) (S (VP (VBG saying) (SBAR (S (NP (PRP they)) (VP (MD would) (RB not) (VP (VB recognize) (NP (DT the) (JJ official) (NNS results)) (, ,) (S (VP (VBG believing) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBN marred) (PP (IN by) (NP (NN fraud)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Preliminary) (NNS results)) (PP (IN from) (NP (DT the) (NN election)))) (ADVP (NP (DT a) (NN week)) (RB ago)) (VP (VBD gave) (NP (NNP Andrade)) (NP (NP (DT a) (JJ slight) (NN lead)) (PP (IN of) (NP (NP (CD 44) (NN percent)) (PP (TO to) (NP (NP (CD 43) (NN percent)) (PP (IN for) (NP (NN opposition) (NN candidate) (NNP Raul) (NNP Ojeda))))))))) (. .)))
+
+(S1 (S (S (NP (NN Election) (NNS officials)) (VP (VBD had) (VP (VBD said) (SBAR (S (NP (DT the) (NN race)) (VP (VBD was) (ADJP (RB too) (JJ close) (S (VP (TO to) (VP (VB declare) (NP (DT a) (NN winner)))))))))))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBD spent) (NP (DT the) (NN past) (NN week)) (S (VP (VBG pouring) (PRT (RP over)) (NP (NNS ballots)) (S (VP (TO to) (VP (VB determine) (NP (DT the) (JJ official) (NNS results))))))))) (. .)))
+
+(S1 (S (NP (JJ Late) (NNP Sunday)) (, ,) (NP (NN election) (NNS officials)) (VP (VBD announced) (SBAR (IN that) (S (NP (NNP Andrade)) (VP (VBZ has) (VP (VBN won) (PP (IN by) (NP (QP (JJR more) (IN than) (CD 8,000)) (NNS votes)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN announcement)) (VP (VBD prompted) (S (NP (NP (DT the) (NNP Democratic) (NNP Revolution)) (CC and) (NP (NNP National) (NNP Action) (NNP Party) (NNS representatives))) (VP (TO to) (VP (VB resign) (NP (PRP$ their) (NNS spots)) (PP (IN on) (NP (DT the) (JJ electoral) (NN council))))))) (. .)))
+
+(S1 (S (S (VP (VBG Tearing) (PRT (RP up)) (NP (NP (DT a) (NN copy)) (PP (IN of) (NP (DT the) (JJ electoral) (NN law)))))) (, ,) (NP (NP (NNP Democratic) (NNP Revolution) (POS 's)) (NNP Lorena) (NNP Villavicencio)) (VP (VBD said) (SBAR (S (NP (PRP she)) (VP (VBD refused) (S (VP (TO to) (`` ``) (VP (VB certify) (NP (NN fraud))))))))) (. .) ('' '')))
+
+(S1 (S (CC But) (NP (NP (NP (DT the) (VBG ruling) (NN party) (POS 's)) (NN representative)) (, ,) (NP (NNP Carlos) (NNP Jimenez)) (, ,)) (VP (VBD said) (: :) (`` ``) (S (S (NP (PRP We)) (VP (VBD won) (NP (DT the) (NN election)))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBD won) (NP (PRP it)) (PP (IN without) (NP (NN fraud))))))) (. .) ('' '')))
+
+(S1 (S (NP (DT The) (NN election)) (VP (VBD was) (NP (NP (DT an) (JJ important) (NN test)) (PP (IN for) (NP (NP (NP (NP (NNP Mexico) (POS 's)) (JJ ruling) (NNP Institutional) (NNP Revolutionary) (NNP Party)) (, ,) (CC or) (NP (NNP PRI))) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB recently)) (VP (VBD lost) (NP (NP (PRP$ its) (JJ first) (JJ presidential) (NN election)) (PP (IN since) (NP (PRP$ its) (NN creation)))) (PP (IN in) (NP (CD 1929)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP National) (NNP Action) (NNP Party)) (VP (VBZ 's) (SBAR (S (NP (NNP Vicente) (NNP Fox)) (VP (MD will) (VP (VB be) (VP (VBN sworn) (PRT (RP in)) (PP (IN as) (NP (NN president))) (NP (NNP Dec)))))))) (. .)))
+
+(S1 (FRAG (NP (CD 1)) (. .)))
+
+(S1 (S (NP (DT The) (NNP Tabasco) (NN race)) (VP (VBZ has) (VP (VBN been) (VP (VBN seen) (PP (IN as) (NP (NP (DT an) (NN indicator)) (PP (IN of) (NP (NP (DT the) (NNP PRI) (POS 's)) (NN ability) (S (VP (TO to) (VP (VB halt) (NP (DT a) (JJ possible) (NN collapse)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN party)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB never)) (VP (VBD admitted) (S (VP (VBG losing) (NP (DT any) (JJ statewide) (NN race)) (PP (IN before) (NP (CD 1989)))))))) (, ,)) (VP (VBZ has) (VP (VBN lost) (NP (JJ several) (JJ gubernatorial) (NNS races)) (PP (IN in) (NP (NP (JJ recent) (NNS years)) (VP (VBN _) (ADVP (RBS most) (RB recently)) (PP (IN in) (NP (JJ neighboring) (NNP Chiapas)))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ presidential) (NN loss)) (VP (VBN set) (PRT (RP off)) (NP (NP (DT a) (NN battle)) (PP (IN for) (NP (NP (NN control)) (PP (IN of) (NP (NP (DT the) (NNP PRI)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN dominated) (PP (IN by) (NP (NP (DT the) (NN nation) (POS 's)) (NN president))) (PP (IN since) (NP (DT the) (JJ early) (CD 1930s)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN favorite)) (PP (IN for) (NP (DT the) (NN leadership)))) (VP (VBZ is) (NP (NP (JJ outgoing) (NNP Tabasco) (NNP Gov.) (NNP Roberto) (NNP Madrazo)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN tried) (S (VP (TO to) (VP (VB use) (NP (DT the) (NN election)) (ADVP (RB here)) (PP (IN as) (NP (NP (DT a) (NN demonstration)) (PP (IN of) (NP (PRP$ his) (NN popularity)))))))))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Yet)) (NP (NP (NN observer) (NNS groups)) (CC and) (NP (NN opposition) (NNS parties))) (VP (VBP have) (VP (VBN accused) (NP (DT the) (NNP Tabasco) (NNS elections)) (PP (IN of) (S (VP (VBG having) (NP (NP (DT the) (JJ same) (NN sort)) (PP (IN of) (NP (NP (NNS irregularities)) (CC and) (NP (NN fraud)))) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (NP (ADJP (JJ common) (PP (IN in) (NP (DT the) (NNP PRI)))) (JJ -dominated) (NNS elections))))))))) (PP (IN of) (NP (NP (NNP Mexico) (POS 's)) (NN past)))))) (, ,) (CC and) (S (NP (JJ many)) (VP (VBP blame) (NP (NNP Madrazo)))) (. .)))
+
+(S1 (S (NP (NNP Madrazo)) (VP (VBZ has) (VP (VBN denied) (NP (DT the) (NNS claims)) (, ,) (S (VP (VBG saying) (SBAR (S (NP (NNP Andrade)) (VP (VBZ is) (NP (DT the) (JJ true) (NN winner))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Sunday))) (, ,) (NP (DT the) (VBG ruling) (NN party)) (VP (VBD held) (NP (NP (DT a) (NN rally)) (VP (VBG celebrating) (NP (PRP$ his) (NN victory))))) (. .)))
+
+(S1 (S (ADVP (RBR Earlier) (PP (IN in) (NP (DT the) (NN day)))) (, ,) (NP (NNP Ojeda)) (VP (VBD said) (SBAR (S (NP (NNP Fox)) (VP (MD should) (VP (VB recognize) (NP (PRP him)) (PP (IN as) (NP (DT the) (NN victor)))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP We)) (VP (VBP call) (PRT (RP on)) (S (NP (NNP Vicente) (NNP Fox)) (VP (TO to) (VP (VB comply) (PP (IN with) (NP (PRP$ his) (NN promise) (S (VP (TO to) (VP (VB guarantee) (NP (NP (NN democracy)) (PP (IN in) (NP (DT the) (JJ entire) (NN country)))))))))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD told) (NP (DT a) (VBG cheering) (NN crowd))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NP (NNS days)) (PP (IN of) (S (VP (VBG reviewing) (NP (NNS ballots))))))) (, ,) (NP (NP (CD one) (JJ electoral) (NN official)) (, ,) (NP (NNP Joaquin) (NNP Diaz)) (, ,)) (VP (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD would) (RB not) (VP (VB validate) (NP (DT the) (NNS results))))))) (CC and) (VP (VBD called) (PP (IN on) (NP (JJ other) (NN election) (NNS advisers))) (S (VP (TO to) (VP (VB do) (NP (DT the) (JJ same))))))) (. .)))
+
+(S1 (S (`` ``) (S (S (NP (PRP I)) (VP (VBP have) (NP (JJ many) (NNS doubts)))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB believe) (SBAR (IN that) (S (S (NP (PRP I)) (VP (VBP _))) (CC or) (S (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NNS advisers)))) (ADVP (RB _)) (VP (VBP have) (S (NP (DT the) (NNS instruments)) (ADJP (JJ necessary)) (S (VP (TO to) (VP (VB certify) (NP (DT the) (NNS results)))))))))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said) (, ,) (S (VP (VBG adding) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD thought) (SBAR (S (NP (JJ federal) (NN election) (NNS officials)) (VP (MD should) (VP (VB step) (ADVP (RB in)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Floricel) (NNP Medina)) (, ,) (NP (NP (JJ local) (NN director)) (PP (IN for) (NP (DT the) (VBG ruling) (NN party)))) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (NNP Diaz) (POS 's)) (NNS comments)) (`` ``) (VP (VBP are) (RB not) (NP (NP (NN reason)) (ADJP (JJ enough) (S (VP (TO to) (VP (VB annul) (NP (NP (DT the) (NN will)) (PP (IN of) (NP (DT the) (NNS people))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (JJ personal) (NN opinion))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Diaz)) (VP (VBD accused) (NP (NP (DT the) (NN president)) (PP (IN of) (NP (NP (NNP Tabasco) (POS 's)) (JJ electoral) (NN institute)))) (PP (IN of) (S (VP (VP (VBG favoring) (NP (DT the) (NNP PRI))) (CC and) (VP (VBG pressuring) (S (NP (NN election) (NNS officials)) (VP (TO to) (VP (VB close) (S (NP (DT the) (JJ preliminary) (NNS results) (RB early)) (VP (TO to) (VP (VB benefit) (NP (NNP Andrade))))))))))))) (. .)))
+
+(S1 (S (NP (NN Election) (NNS officials)) (VP (VBD denied) (NP (DT the) (NNS accusations)) (, ,) (S (VP (VBG saying) (SBAR (S (NP (PRP they)) (VP (VBD reviewed) (NP (DT each) (NN ballot)))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (DT The) (NNS results)) (VP (VBP are) (ADJP (JJ valid)))) (, ,) ('' '') (NP (NN spokesman) (NNP Marco) (NNP Dominguez)) (VP (VBD said)) (. .)))
+

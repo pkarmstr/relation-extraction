@@ -1,0 +1,60 @@
+(S1 (NP (NP (CD NYT20001214.1824.0331) (NN NEWS) (NN STORY)) (QP (CD 2000-12-14) (CD 19:04:00))))
+
+(S1 (NP (NP (CD A0491) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP f) (NNP BC-NBC-APPOINT-ART-NYT) (NN &LR)) (: ;) (NP (CD 12-14) (NNS 0620)))))
+
+(S1 (NP (NNP BC-NBC-APPOINT-ART-NYT)))
+
+(S1 (S (NP (NNP NBC)) (VP (VBZ PROMOTES) (`` `) (NP (NP (NP (NN TODAY) (POS ')) (JJ EXECUTIVE) (NN PRODUCER)) (PP (TO TO) (NP (NN ENTERTAINMENT) (NN DIVISION)))))))
+
+(S1 (FRAG (-LRB- -LRB-) (NP (NN ART) (NNS ADV)) (: :) (S (NP (NNP Photo) (NNP NYT21)) (VP (VBZ is) (VP (VBG being) (VP (VBN sent) (PP (TO to) (NP (NNP NYT) (NN photo) (NNS clients))))))) (. .)))
+
+(S1 (S (NP (NNS Nonsubscribers)) (VP (MD can) (VP (VB purchase) (NP (JJ one-time) (NNS rights)) (PP (IN by) (S (VP (VBG calling) (NP (NP (QP (CD 888-603-1036) (CC or) (CD 888-346-9867)) (. .) (-RRB- -RRB-) (NNS &QL)) (: ;) (NP (NP (PRN (-LRB- -LRB-) (NP (NNP EDS)) (: :) (S (NP (NNP Story)) (VP (MD may) (VP (VB update)))) (-RRB- -RRB-)) (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NNP By) (NNP BILL) (NNP CARTER) (NNP &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))))))))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (S (NP (NP (NNP Jeff) (NNP Zucker)) (, ,) (NP (NP (DT the) (JJ longtime) (JJ executive) (NN producer)) (PP (IN of) (NP (NP (NNP NBC) (POS 's)) (`` ``) (NX (NNP Today) (POS ')) ('' ') (NN program)))) (, ,)) (VP (MD will) (VP (VB be) (VP (VBN named) (NP (NNP Friday)) (PP (IN as) (NP (NP (DT the) (JJ new) (NN president)) (PP (IN of) (NP (NP (NNP NBC) (POS 's)) (NN entertainment) (NN division))))) (, ,) (S (VP (VBG replacing) (NP (NNP Garth) (NNP Ancier)))))))) (, ,) (NP (NNP NBC) (NNS executives)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NN move)) (VP (MD will) (VP (VB have) (NP (NP (DT a) (JJ ripple) (NN effect)) (PP (IN on) (NP (CD two) (NNP NBC) (NNS divisions)))) (, ,) (S (VP (VBG forcing) (S (NP (DT the) (NN network)) (VP (TO to) (VP (VB replace) (NP (NNP Zucker)) (PP (IN at) (NP (`` ``) (NP (NNP Today)) (, ,) ('' '') (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBZ has) (VP (VP (VBN led) (NP (DT the) (NN program)) (PP (TO to) (NP (NP (PRP$ its) (RBS most) (JJ dominant) (NNS ratings) (NN position)) (PP (IN in) (NP (NNS decades)))))) (, ,) (CC and) (VP (VBG shaking) (PRT (RP up)) (NP (NP (DT the) (NN entertainment) (NN division)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP Zucker)) (VP (VBZ has) (ADVP (RB never)) (VP (VBN worked)))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NP (NNP Zucker) (POS 's)) (JJ enormous) (NN success)) (PP (IN at) (NP (`` ``) (NP (NNP Today)) (, ,) ('' '') (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBZ has) (VP (VBN served) (PP (IN as) (NP (JJ executive) (NN producer))) (PP (IN since) (NP (CD 1994))))))) (, ,)))) (VP (VBZ has) (PP (IN for) (NP (JJ several) (NNS years))) (VP (VBN set) (NP (PRP him)) (PRT (RP up)) (PP (IN for) (NP (NP (DT a) (NN promotion)) (PP (IN at) (NP (DT the) (NN network)))))))) (, ,) (CC and) (S (NP (PRP he)) (VP (VBZ has) (VP (ADVP (RB frequently)) (VBN expressed) (NP (PRP$ his) (NN desire) (S (VP (TO to) (VP (VB move) (ADVP (RB on)) (PP (IN from) (`` ``) (NP (NNP Today)))))))))) (. .) ('' '')))
+
+(S1 (S (PP (IN On) (NP (NNP Tuesday) (NN night))) (, ,) (NP (NNP Zucker)) (VP (VBD said) (SBAR (IN that) (S (PP (IN after) (S (VP (VP (VBG covering) (NP (DT the) (JJ postelection) (NN news)) (PP (IN on) (NP (`` ``) (NP (NNP Today) (POS ')) (POS ')))) (CC and) (VP (VBG seeing) (S (NP (DT that) (NN story)) (VP (VB help) (S (VP (VB establish) (NP (NP (DT the) (JJ third) (NN hour)) (PP (IN of) (NP (NP (DT the) (NN program)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADVP (RB only)) (VP (VBN added) (PP (IN in) (NP (NNP October)))))))))))))))))) (, ,) (NP (PRP he)) (VP (VBD had) (RB little) (VP (VBN left) (S (VP (TO to) (VP (VB accomplish) (PP (IN at) (`` ``) (NP (NNP Today))))))))))) (. .) ('' '')))
+
+(S1 (S (CC But) (NP (NP (DT no) (NN job)) (PP (IN in) (NP (DT the) (NN news) (NN division)))) (VP (VBD had) (RB either) (VP (VBN been) (ADJP (JJ available) (PP (CC or) (PP (IN of) (NP (NP (NN interest)) (PP (TO to) (NP (NNP Zucker))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN move)) (PP (TO to) (NP (NNP NBC) (NNP Entertainment)))) (VP (VBZ serves) (PP (IN as) (NP (NP (DT the) (JJS best) (NN way)) (SBAR (IN for) (S (NP (NNP NBC)) (VP (TO to) (VP (VB retain) (NP (NP (DT an) (NN executive)) (SBAR (S (NP (PRP they)) (VP (VBP regard) (PP (IN as) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS best)) (PP (IN in) (NP (NN television)))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN decision)) (ADVP (RB abruptly)) (VP (VBZ ends) (NP (NP (NP (NNP Ancier) (POS 's)) (NN leadership)) (PP (IN of) (NP (NNP NBC) (NNP Entertainment)))) (PP (IN after) (NP (RB only) (CD 18) (NNS months)))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN tenure)) (VP (VBD became) (ADJP (RB extremely) (JJ troubled)) (NP (DT this) (NN fall)) (SBAR (IN after) (S (NP (NP (DT the) (JJ new) (NN lineup)) (PP (IN of) (NP (NNP NBC) (NN series)))) (VP (VBD stumbled) (ADVP (RB badly)))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT the) (NN move) (POS 's)) (NN timing)) (VP (VBZ is) (ADVP (RB still)) (ADJP (RB somewhat) (JJ surprising)) (SBAR (IN because) (S (NP (NNP NBC)) (VP (VBD had) (NP (JJ enough) (NN strength)) (PP (IN among) (NP (NP (PRP$ its) (NN core) (NN group)) (PP (IN of) (NP (NP (VBN hit) (NNS shows)) (SBAR (S (VP (TO to) (VP (VB win) (NP (NP (JJ last) (NN month) (POS 's)) (NNS ratings) (NN sweep) (NN competition)))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (CD three) (NNS series)) (VP (VBD _) (NP (`` ``) (NP (DT The) (NNP West) (NN Wing)) (, ,) ('' '') (`` ``) (NX (NX (NNP Law)) (CC and) (NX (NNP Order) (NNP S.V.U))))) (. .) ('' '')))
+
+(S1 (S (CC and) (NP (NP (`` ``) (NP (NNP Third) (NNP Watch) (POS ')) ('' ') (VP (VBG _) (NP (DT all) (JJ added) (JJ last) (NN fall)))) (, ,) (NP (NP (NP (NNP Ancier) (POS 's)) (JJ first)) (PP (IN at) (NP (NNP NBC)))) (, ,)) (VP (VBP have) (ADVP (IN since)) (VP (VBN become) (NP (JJ significant) (NNS hits)) (PP (IN for) (NP (DT the) (NN network))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNP Ancier) (POS 's)) (NN ouster)) (VP (VBD had) (VP (VBN been) (NP (NP (DT the) (NN subject)) (PP (IN of) (NP (JJ widespread) (NNS rumors)))) (PP (IN in) (NP (NNP Hollywood))) (PP (IN in) (NP (DT the) (JJ last) (JJ several) (NNS weeks))) (, ,) (PP (ADVP (RB largely)) (IN because) (IN of) (NP (NP (DT the) (NN failure)) (PP (IN of) (NP (NP (NP (DT this) (NN fall) (POS 's)) (NN slate)) (PP (IN of) (NP (NNS programs))))))))) (. .)))
+
+(S1 (S (S (NP (NNP NBC)) (VP (VBZ has) (NP (NP (JJ several) (VBG aging) (NNS hits)) (, ,) (PP (VBG including) (NP (`` ``) (NP (NNP Frasier) (POS ')) ('' ') (CC and) (`` ``) (NP (NNPS Friends)) (, ,) ('' '') (SBAR (WHNP (WDT that)) (S (VP (MD may) (RB not) (VP (VB have) (NP (JJ many) (JJR more) (NNS years)) (PP (IN on) (NP (DT the) (NN network)))))))))))) (, ,) (CC and) (S (NP (NNP NBC) (NNS executives)) (VP (VBP have) (VP (VBN said) (NP (DT this) (NN fall)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD was) (ADJP (RB especially) (JJ crucial) (SBAR (S (NP (DT the) (NN network)) (VP (VBP add) (NP (DT some) (JJ new) (NNS replacements)))))))))))) (. .)))
+
+(S1 (S (NP (NP (QP (RB Only) (CD one)) (NNP NBC) (NN show)) (, ,) (`` ``) (NP (NNP Ed)) (, ,) ('' '')) (VP (VBZ has) (VP (VBN performed) (PP (IN with) (NP (DT any) (JJ particular) (NN promise))) (, ,) (SBAR (IN although) (S (NP (NP (CD two) (NNS others)) (, ,) (`` ``) (NP (NNP DAG)) ('' ') (CC and) (`` ``) (S (VP (VBD Cursed))) (, ,) ('' '')) (VP (VBP have) (VP (VBN proved) (ADJP (ADVP (IN at) (JJS least)) (JJ serviceable) (PP (IN in) (NP (NP (NN time) (NNS periods)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBP are) (VP (VBN protected) (PP (IN by) (NP (JJ other) (NNP NBC) (NNS hits)))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (JJ many) (JJ other) (JJ new) (NNP NBC) (NN series)) (NP (DT this) (NN fall)) (VP (VBD collapsed) (ADVP (RB quickly)) (, ,) (S (VP (VBG including) (NP (NP (CD two) (JJ high-profile) (NNS shows)) (, ,) (NP (`` ``) (NP (DT The) (NNP Michael) (NNP Richards) (NNP Show) (POS ')) ('' ') (CC and) (`` ``) (NNS Titans)))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Ancier)) (VP (VBD was) (ADVP (RB especially)) (VP (VBN tied) (PP (TO to) (NP (DT the) (JJ latter))) (, ,) (S (VP (VBG having) (VP (VBN argued) (ADVP (RB strenuously)) (PP (IN for) (NP (PRP it))) (NP (JJ last) (NN spring)) (SBAR (IN before) (S (NP (NNP NBC)) (VP (VBD selected) (NP (PRP$ its) (NN schedule)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN show)) (VP (VBD had) (VP (VBN been) (VP (VBN opposed) (PP (IN by) (NP (NP (JJ several) (JJ other) (JJ senior) (NNP NBC) (NNS executives)) (, ,) (PP (VBG including) (S (NP (NP (DT the) (NN network) (NN president)) (, ,) (NP (NNP Bob) (NNP Wright)) (, ,)) (PP (IN on) (NP (NNS grounds) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ tasteless)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Ancier)) (VP (VBD had) (VP (VBN dismissed) (NP (DT that) (NN criticism)))) (. .)))
+
+(S1 (S (NP (NNP Ancier)) (VP (VBD was) (ADVP (RB also)) (NP (NP (DT the) (NN target)) (PP (IN of) (NP (NP (DT some) (NN criticism)) (PP (IN from) (NP (NNP Wright)))))) (NP (JJ last) (NN year)) (PP (IN after) (NP (NNP CBS))) (, ,) (PP (IN with) (NP (`` ``) (NP (NN Survivor)) (, ,) ('' '') (CC and) (NP (NNP ABC)))) (, ,) (SBAR (IN with) (S (`` ``) (SBAR (WHNP (WP Who)) (S (VP (VBZ Wants) (S (VP (TO To) (VP (VB Be) (NP (DT A) (NNP Millionaire)))))))) (, ,) ('' '') (VP (VBD turned) (NP (PRP$ their) (NNS networks)) (ADVP (RB around)) (PP (IN with) (NP (JJ so-called) (NN reality) (NNS programs))))))) (. .)))
+
+(S1 (S (NP (NNP Wright)) (VP (VBD questioned) (SBAR (WHADVP (WRB why)) (S (NP (NNP NBC) (NNP Entertainment)) (VP (VBD was) (NP (NP (DT the) (JJ only) (NN network)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (RB not) (VP (VBN picked) (PRT (RP up)) (NP (NNS programs)) (PP (IN in) (NP (DT the) (NN reality) (NN genre)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Ancier)) (VP (VBD had) (VP (VBN come) (PP (TO to) (NP (NNP NBC))) (PP (IN with) (NP (ADJP (RB seemingly) (JJ ideal)) (NNS qualifications))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD had) (ADVP (RB previously)) (VP (VBN worked) (PP (IN at) (NP (NNP NBC) (NNP Entertainment))))) (, ,) (VP (ADVP (RB then)) (VBD had) (VP (VBN run) (NP (NP (NNP Fox) (POS 's)) (NN programming)) (PP (IN in) (NP (NP (DT the) (JJ first) (NNS days)) (PP (IN of) (NP (DT that) (NN network))))))) (CC and) (VP (ADVP (RBS most) (RB recently)) (VBD had) (VP (VBN managed) (VP (VBG programming) (PP (IN at) (NP (DT the) (NNP WB) (NNP Network))) (, ,) (S (VP (VBG helping) (S (NP (DT that) (NN network)) (VP (VB establish) (NP (PRP itself)) (PP (IN as) (NP (NP (DT a) (JJ strong) (NN competitor)) (PP (IN for) (NP (JJ young) (NNS audiences))))))))))))) (. .)))
+
+(S1 (NP (CD NYT-12-14-00) (NN 1904EST)))
+

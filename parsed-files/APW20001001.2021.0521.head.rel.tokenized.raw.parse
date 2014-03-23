@@ -1,0 +1,52 @@
+(S1 (NP (NP (CD APW20001001.2021.0521) (NN NEWS) (NN STORY)) (QP (CD 2000-10-01) (CD 20:56:35))))
+
+(S1 (NP (NN Egypt-Assad)))
+
+(S1 (S (NP (JJ Syrian) (NNP President)) (VP (VBZ Travels) (PP (TO To) (NP (NNP Egypt))))))
+
+(S1 (S (S (NP (NP (NNP CAIRO) (, ,) (NNP Egypt)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (PP (IN In) (NP (PRP$ his) (JJ foreign) (NN policy) (NN debut))) (PP (IN as) (NP (NP (NNP Syria) (POS 's)) (NN president))))) (, ,) (NP (NNP Bashar) (NNP Assad)) (VP (VBD met) (NP (NNP Sunday)) (PP (IN with) (NP (NNP Egyptian) (NNP President) (NNP Hosni) (NNP Mubarak))) (PP (IN in) (NP (NP (NP (NNS talks)) (PP (IN on) (NP (NNP Mideast) (NN peace)))) (CC and) (NP (NP (DT the) (VBG escalating) (NN violence)) (PP (IN in) (NP (DT the) (JJ Palestinian) (NNS territories))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Assad)) (, ,) (PP (IN on) (NP (NP (PRP$ his) (JJ first) (NN trip)) (ADVP (RB abroad)) (PP (IN since) (S (VP (VBG becoming) (NP (NN president)) (PP (IN in) (NP (NNP July)))))))) (, ,)) (ADVP (RB also)) (VP (VBD dealt) (PP (IN with) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NNP Iraq))))) (PP (IN in) (NP (NP (DT the) (NNS talks)) (PP (IN with) (NP (NNP Mubarak))))))) (, ,) (NP (NNP Egyptian) (NNP Foreign) (NNP Minister) (NNP Amr) (NNP Mussa)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ Syrian) (NN leader) (POS 's)) (NN visit)) (VP (VBD came) (PP (IN on) (NP (NP (DT a) (JJ fourth) (NN day)) (PP (IN of) (NP (NP (NNS clashes)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN raged) (PP (IN in) (NP (NP (DT the) (NNP West) (NNP Bank)) (, ,) (NP (NNP Gaza) (NNP Strip)) (CC and) (NP (NNP Jerusalem)))) (, ,) (S (VP (VBG leaving) (S (NP (QP (JJR more) (IN than) (CD two) (NN dozen)) (NNPS Palestinians)) (ADJP (JJ dead)))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (EX There)) (VP (VBZ is) (NP (NP (JJ complete) (NN agreement)) (-LRB- -LRB-) (PP (IN between) (NP (NP (NNP Mubarak)) (CC and) (NP (NNP Assad)))) (-RRB- -RRB-)) (SBAR (IN as) (S (UCP (PP (TO to) (NP (NP (DT the) (NN seriousness)) (PP (IN of) (NP (DT the) (NN situation))))) (CC and) (SBAR (IN that) (S (NP (DT the) (JJ negative) (NNS repercussions)) (VP (MD would) (ADVP (RB adversely)) (VP (VB effect) (NP (DT the) (NN peace) (NN process)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (PP (IN in) (NP (PRP itself))) (PP (IN in) (NP (DT a) (ADJP (RB very) (JJ precarious)) (NN state))))))))))))))) (, ,) ('' '') (NP (NNP Moussa)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNP Assad)) (, ,) (NP (CD 35)) (, ,)) (VP (VBZ has) (VP (VBN focused) (PP (IN on) (NP (JJ domestic) (NNS issues))) (SBAR (IN since) (S (NP (NP (PRP$ his) (NN father)) (, ,) (NP (NNP Hafez) (NNP Assad)) (, ,)) (VP (VBD died) (PP (IN in) (NP (NNP June))) (PP (IN after) (NP (NP (CD 30) (NNS years)) (PP (IN in) (NP (NN power)))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ has) (VP (VBN taken) (NP (NP (NNS steps)) (SBAR (S (VP (TO to) (VP (VP (VB modernize) (NP (NP (PRP$ his) (NN nation) (POS 's)) (NN bureaucracy))) (CC and) (VP (VB revive) (NP (PRP$ its) (JJ stagnant) (NN economy)))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (DT This)) (VP (VBD was) (NP (NP (DT the) (JJ first) (NN meeting)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN visit)) (PP (IN of) (NP (NNP President) (NNP Bashar) (NNP Assad)))))) (PP (IN after) (NP (NP (DT the) (NN funeral)) (PP (IN of) (NP (PRP$ his) (NN father))))))) (, ,) (IN so) (S (NP (PRP it)) (VP (VBD was) (ADJP (RB only) (JJ normal)) (SBAR (IN for) (S (NP (DT the) (NNS discussions)) (VP (TO to) (VP (VB have) (NP (DT a) (JJ general) (NN tone)) (ADVP (RB ..)))))))) (. .)))
+
+(S1 (S (PP (IN in) (NP (NP (NP (NN addition)) (PP (TO to) (NP (NP (JJ certain) (NNS specifics)) (PP (IN of) (NP (JJ special) (NN importance))))) (PP (TO to) (NP (DT both) (NNS countries)))) (CC and) (NP (DT the) (JJ Arab) (NN world)))) (, ,) ('' '') (NP (NNP Moussa)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (RB late) (JJ Syrian) (NN president)) (ADVP (RB rarely)) (VP (VBD traveled) (ADVP (RB abroad))) (. .)))
+
+(S1 (S (PP (IN In) (NP (PRP$ his) (JJ last) (JJ few) (NNS years))) (, ,) (ADVP (RB however)) (, ,) (NP (PRP he)) (VP (VBD had) (VP (VBN sent) (NP (NP (NNP Bashar)) (, ,) (VP (VBN educated) (PP (IN as) (NP (DT an) (NN eye) (NN doctor)))) (, ,) (PP (IN on) (NP (JJ foreign) (NNS trips)))) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (PRP$ his) (NN grooming) (S (VP (TO to) (VP (VB become) (NP (NN president))))))))))) (. .)))
+
+(S1 (S (NP (NNS Prospects)) (VP (VBP appear) (ADJP (JJ dim) (PP (IN for) (NP (NP (NN progress)) (PP (IN on) (NP (CC either) (DT the) (JJ Syrian) (CC or) (JJ Palestinian) (NN peace) (NN track))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN deadlock)) (PP (IN in) (NP (JJ Palestinian) (JJ -Israeli) (NNS talks)))) (VP (VBZ is) (VP (VBN exacerbated) (PP (IN by) (NP (NP (DT the) (JJS worst) (NN violence)) (PP (IN in) (NP (CD four) (NNS years))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Syria) (POS 's)) (NN government) (JJ -run) (NN media)) (VP (VBD said) (NP (JJ last) (NN week)) (SBAR (IN that) (S (NP (DT no) (NN progress)) (VP (MD could) (VP (VB be) (VP (VP (VBN expected) (PP (ADVP (RB now)) (IN because) (IN of) (NP (DT the) (NNP U.S.) (NNS elections)))) (CC and) (VP (NP (NP (NNP Israeli) (NNP Prime) (NNP Minister) (NNP Ehud) (NNP Barak) (POS 's)) (JJ precarious) (NN situation)) (PP (IN as) (NP (NP (NN leader)) (PP (IN of) (NP (DT a) (NN minority) (NN government)))))))))))) (. .)))
+
+(S1 (S (NP (JJ Syrian) (JJ -Israeli) (NN peace) (NNS negotiations)) (VP (VBD broke) (PRT (RP down)) (PP (IN in) (NP (NNP January))) (, ,) (PP (IN with) (S (NP (NNP Syria)) (VP (VBG demanding) (NP (NP (DT a) (JJ full) (NN withdrawal)) (PP (IN from) (NP (NP (DT the) (NNP Golan) (NNPS Heights)) (, ,) (NP (NP (DT a) (JJ strategic) (NN plateau)) (VP (VBN captured) (PP (IN by) (NP (NNP Israel))) (PP (IN in) (NP (CD 1967)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Israel)) (VP (VBZ insists) (PP (IN on) (S (VP (VBG waiting) (S (VP (TO to) (VP (VB settle) (NP (NNS borders))))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ knows) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (MD will) (VP (VB gain) (PP (IN by) (S (VP (VBG returning) (NP (NNP Golan) (NN land)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Assad)) (VP (VBZ has) (VP (VBN made) (S (NP (PRP it)) (ADJP (JJ clear) (SBAR (S (NP (PRP he)) (VP (VBZ intends) (S (VP (TO to) (VP (VB follow) (NP (NP (NP (PRP$ his) (NN father) (POS 's)) (NN course)) (PP (IN in) (NP (NP (DT any) (NNS negotiations)) (PP (IN with) (NP (NNP Israel)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mubarak)) (CC and) (NP (NNP Assad))) (VP (VBD met) (PP (IN after) (NP (NP (DT a) (NN week)) (SBAR (WHADVP (WRB when)) (S (NP (NNP Russia) (, ,) (NNP France) (, ,) (NNP Jordan) (CC and) (NNP Yemen)) (VP (VBD sent) (NP (NNS planes)) (PP (TO to) (NP (NNP Baghdad))) (, ,) (S (VP (VBG challenging) (NP (NP (NNP U.N.) (NNS sanctions)) (VP (VBN imposed) (PP (IN on) (NP (NNP Iraq))) (PP (IN after) (NP (NP (PRP$ its) (CD 1990) (NN invasion)) (PP (IN of) (NP (NNP Kuwait))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Iraq)) (VP (VBZ is) (VP (VBG hoping) (SBAR (S (NP (JJ other) (NNP Arab) (NNS countries)) (VP (MD will) (VP (VB follow) (, ,) (PP (IN despite) (NP (NNP U.S.) (NNS complaints))) (, ,) (S (VP (VBG easing) (NP (PRP$ its) (NN isolation)))))))))) (. .)))
+
+(S1 (S (NP (NNP Moussa)) (VP (VP (VBD said) (SBAR (S (NP (DT the) (NNS presidents)) (VP (VBD discussed) (NP (NP (DT the) (NN situation)) (PP (IN in) (NP (NNP Iraq)))))))) (CC and) (VP (MD would) (VP (VB return) (PP (TO to) (NP (PRP it))) (NP (NNP Monday))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (PRP he)) (VP (MD would) (RB not) (VP (VB comment) (PP (IN on) (SBAR (IN whether) (S (NP (NNP Syria) (CC and) (NNP Egypt)) (VP (VBD were) (VP (VBG planning) (S (VP (TO to) (VP (VB send) (NP (NNS planes)) (PP (TO to) (NP (NNP Baghdad))))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Egypt) (CC and) (NNP Syria)) (VP (VBP are) (PP (IN on) (NP (JJ good) (NNS terms))))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBP have) (VP (VBN had) (NP (PRP$ their) (NNS differences))))) (. .)))
+
+(S1 (S (NP (NNP Hafez) (NNP Assad) (POS 's)) (VP (VBZ attempts) (S (VP (TO to) (VP (VB rally) (S (NP (NNP Arab) (NNS leaders)) (VP (TO to) (VP (VB present) (NP (DT a) (JJ unified) (NN front)) (PP (IN against) (SBAR (S (NP (NNP Israel)) (VP (VBN gained) (NP (JJ little) (NN ground))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD derided) (NP (NNP Egypt)) (PP (IN for) (S (VP (VBG signing) (NP (NP (DT a) (NN peace) (NN treaty)) (PP (IN with) (NP (NNP Israel))))))) (PP (IN in) (NP (CD 1979)))) (. .)))
+

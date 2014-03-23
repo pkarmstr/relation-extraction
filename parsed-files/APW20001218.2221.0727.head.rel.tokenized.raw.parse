@@ -1,0 +1,46 @@
+(S1 (NP (NP (CD APW20001218.2221.0727) (NN NEWS) (NN STORY)) (QP (CD 2000-12-18) (CD 22:42:15))))
+
+(S1 (NP (NN Weatherpage-Weather)))
+
+(S1 (S (NP (NNP Snow)) (VP (VBZ Spreads) (PP (IN Throughout) (NP (DT the) (NNP Midwest))))))
+
+(S1 (S (NP (NP (DT The) (JJS latest)) (PP (IN in) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS storms)))))) (VP (VBN spread) (NP (JJ fresh) (NN snow)) (PP (IN across) (NP (DT the) (JJ upper) (NNP Midwest))) (PP (IN on) (NP (NNP Monday))) (, ,) (S (VP (VP (VBG closing) (NP (NNS schools))) (CC and) (VP (VBG disrupting) (NP (NN travel)))))) (. .)))
+
+(S1 (S (S (NP (NP (QP (IN Up) (TO to) (CD 8) (NNS inches))) (PP (IN of) (NP (NN snow)))) (VP (VBD had) (VP (VBN fallen) (PP (IN by) (NP (NN midday))) (PP (IN at) (NP (NP (NNP Rockwell)) (, ,) (NP (NNP Iowa))))))) (, ,) (CC and) (S (NP (QP (JJR more) (IN than) (CD 4)) (NNS inches)) (VP (VBD had) (VP (VBN fallen) (PP (IN on) (NP (JJ southern) (NNP Minnesota)))))) (. .)))
+
+(S1 (S (NP (NP (DT An) (NN area)) (PP (IN of) (NP (NP (JJ low) (NN pressure) (NN area)) (PP (IN over) (NP (DT the) (NNP Midwest)))))) (VP (VBD carried) (ADJP (JJ light) (S (VP (TO to) (VP (VB moderate) (NP (NN snow)) (PP (IN across) (NP (NP (NNS parts)) (PP (IN of) (NP (NP (NAC (NNP Nebraska) (, ,) (NNP Iowa) (, ,)) (NNP Minnesota)) (, ,) (NP (NNP Wisconsin)) (, ,) (NP (JJ northern) (NNP Missouri)) (, ,) (NP (NNP Illinois)) (, ,) (NP (NNP Indiana)) (, ,) (CC and) (NP (NNP Michigan))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Schools)) (CC and) (NP (DT some) (NNS businesses))) (VP (VBD closed) (PP (IN in) (NP (NP (NNS parts)) (PP (IN of) (NP (NNP Nebraska)))))) (. .)))
+
+(S1 (S (NP (NNS Snowplows)) (VP (VBD were) (VP (VBN pulled) (PRT (RP off)) (NP (NP (DT the) (NNS roads)) (PP (IN in) (NP (NP (JJ northeastern) (NNP Nebraska) (POS 's)) (NNP Cuming) (NNP County)))) (PP (IN during) (NP (DT the) (NN morning))) (PP (IN because) (IN of) (NP (NP (JJ hazardous) (NN driving) (NNS conditions)) (CC and) (NP (NNS snowdrifts)))))) (. .)))
+
+(S1 (S (NP (NNP Travel)) (VP (VBD was) (VP (VBN discouraged) (PP (IN in) (NP (NNP Minnesota))) (PP (IN as) (S (VP (VBG blowing) (NP (NN snow) (NN cut) (NN visibility)) (PP (TO to) (NP (NP (QP (JJR less) (IN than) (PDT half) (DT a) (NN mile))) (CC and) (NP (NP (QP (RB about) (CD three) (NN dozen)) (NN school) (NNS districts)) (NP (VBN canceled) (NNS classes)))))))))) (. .)))
+
+(S1 (S (NP (NNP Wisconsin)) (ADVP (RB also)) (VP (VBD had) (VP (VBN scattered) (NP (NN school) (NNS closings)))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN line)) (PP (IN of) (NP (VBN mixed) (NN precipitation)))) (VP (VBD trailed) (ADVP (RB southward)) (PP (IN from) (NP (DT the) (NN storm) (NN system))) (, ,) (S (VP (VBG spreading) (NP (NP (JJ scattered) (NN show) (NNS showers)) (CC and) (NP (NN freezing) (NN rain))) (PP (IN into) (NP (NP (JJ western) (NNS sections)) (PP (IN of) (NP (NP (NNP Kentucky)) (CC and) (NP (NNP Tennessee))))))))) (. .)))
+
+(S1 (S (ADVP (RBR Farther) (RB south)) (, ,) (NP (JJ scattered) (NN rain) (NNS showers)) (VP (VBN extended) (PP (PP (IN across) (NP (NP (NNP Arkansas)) (, ,) (NP (NNP Mississippi)) (, ,) (CC and) (NP (NNP Louisiana)))) (CC and) (PP (IN into) (NP (JJ eastern) (NNP Texas))))) (. .)))
+
+(S1 (S (NP (DT Those) (NNS showers)) (VP (VBD were) (VP (VBN expected) (S (VP (TO to) (VP (VB move) (ADVP (RB eastward)) (PP (IN into) (NP (NP (NNP Alabama)) (, ,) (NP (NNP Georgia)) (, ,) (CC and) (NP (JJ northwestern) (NNP Florida)))) (PP (IN during) (NP (DT the) (NN night)))))))) (. .)))
+
+(S1 (S (ADVP (RBR Farther) (JJ west)) (, ,) (NP (VBN isolated) (NN snow) (NNS showers)) (VP (VBD were) (VP (VBN scattered) (PP (IN over) (NP (NP (NNS parts)) (PP (IN of) (NP (NP (NNP Wyoming)) (, ,) (NP (JJ western) (NNP South) (NNP Dakota)) (, ,) (NP (JJ eastern) (NNP Colorado)) (, ,) (CC and) (NP (NP (JJ western) (NNS sections)) (PP (IN of) (NP (NP (NNP Nebraska)) (CC and) (NP (NNP Kansas))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NNP Northeast))) (, ,) (NP (DT a) (JJ few) (JJ light) (NN snow) (NNS showers)) (VP (VBD were) (VP (VBN scattered) (PP (IN from) (NP (NNP Pennsylvania))) (PP (IN across) (NP (JJ upstate) (NNP New) (NNP York))) (PP (IN into) (NP (JJ northern) (NNP New) (NNP England))))) (. .)))
+
+(S1 (S (ADVP (RB Elsewhere)) (, ,) (S (NP (NN fog)) (VP (VBN formed) (PP (IN in) (NP (NP (DT some) (JJ western) (NNS parts)) (PP (IN of) (NP (NNP Washington))))))) (, ,) (CC and) (S (NP (NNS showers)) (VP (VBD were) (VP (VBN expected) (S (VP (TO to) (VP (VB move) (PP (IN into) (NP (NP (DT the) (NN region)) (PP (IN from) (NP (DT the) (NNP Pacific))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Monday) (POS 's)) (NNS temperatures)) (PP (IN around) (NP (DT the) (JJR Lower) (CD 48)))) (VP (VBD ranged) (PP (IN from) (NP (NP (DT a) (NN morning) (NN low)) (PP (IN of) (NP (CD 11)))) (PP (IN below) (NP (CD zero)))) (PP (IN at) (NP (NP (NNP Phillips)) (, ,) (NP (NNP Wis.)))) (, ,) (PP (TO to) (NP (NP (NN midday) (NNS readings)) (PP (IN of) (NP (CD 77))) (PP (IN at) (NP (NP (NP (NNP Oceanside)) (, ,) (NP (NNP Calif) (. .)) (, ,)) (CC and) (NP (NP (NNP Brownsville)) (, ,) (NP (NNP Texas)))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJS lowest) (NN wind) (NN chill)) (VP (VBD was) (ADVP (NP (CD 58)) (RB below)) (PP (IN at) (NP (NP (NNP Jamestown)) (, ,) (NP (NNP N.D))))) (. .)))
+
+(S1 (NP (NNP ___)))
+
+(S1 (PP (IN On) (NP (DT the) (NN Net)) (: :)))
+
+(S1 (NP (NP (NNP National) (NN Weather) (NNP Service)) (: :) (NP (CD http)) (: :)))
+
+(S1 (NP (NP (NN Intellicast)) (: :) (NP (CD http)) (: :)))
+
+(S1 (NP (NN Weather) (NNP Channel) (: :) (NP (NNS http)) (: :)))
+

@@ -1,0 +1,58 @@
+(S1 (NP (NP (CD NYT20001116.0145.0061) (NN NEWS) (NN STORY)) (QP (CD 2000-11-16) (CD 01:59:00))))
+
+(S1 (NP (NP (CD A0861) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP k) (NN BC-EDIT-VIETNAM-CLINTON-)) (NP (QP (CD 11-16) (CD 0532))))))
+
+(S1 (NP (NNP BC-EDIT-VIETNAM-CLINTON-NYT)))
+
+(S1 (NP (NN EDITORIAL) (: :) (NP (NP (DT A) (JJ PRESIDENTIAL) (NN JOURNEY)) (PP (TO TO) (NP (NNP VIETNAM))))))
+
+(S1 (NP (NP (NN &UR)) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (DT The) (NNP New) (NNP York) (NNP Times)) (VP (VBD said) (PP (IN in) (NP (NP (DT an) (NN editorial)) (PP (IN for) (NP (NP (NNP Thursday)) (, ,) (NP (NNP Nov))))))) (. .)))
+
+(S1 (NP (NP (CD 16)) (: :) (NP (DT The) (JJ last) (NNP U.S)) (. .)))
+
+(S1 (S (NP (NP (NN president)) (SBAR (S (VP (TO to) (VP (VB visit) (NP (NNP Vietnam))))))) (VP (VBD was) (NP (NP (NNP Richard) (NNP Nixon)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD traveled) (PP (TO to) (NP (NP (DT the) (NNP South) (NNP Vietnamese) (NN capital)) (PP (IN of) (NP (NNP Saigon))))) (PP (IN in) (NP (CD 1969))))))) (, ,) (PP (IN at) (NP (NP (DT the) (NN height)) (PP (IN of) (NP (NP (DT a) (NN war)) (SBAR (WHNP (WDT that)) (S (ADVP (RB eventually)) (VP (VBD took) (NP (CD 58,000) (ADJP (ADJP (JJ American)) (CC and) (ADJP (CD 3) (CD million))) (JJ Vietnamese) (NNS lives)))))))))) (. .)))
+
+(S1 (S (NP (NNP Thursday)) (, ,) (NP (NNP Bill) (NNP Clinton)) (VP (VBZ begins) (NP (NP (DT a) (JJ three-day) (NN trip)) (PP (TO to) (NP (NP (NNP Hanoi)) (CC and) (NP (NNP Ho) (NNP Chi) (NNP Minh) (NNP City))))) (, ,) (SBAR (IN as) (S (NP (NNP Saigon)) (VP (VBZ is) (ADVP (RB now)) (VP (VBN called)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Clinton) (POS 's)) (NN visit)) (VP (VBZ is) (NP (NP (JJ striking) (NN evidence)) (PP (IN of) (SBAR (WHADVP (WRB how) (RB far)) (S (NP (DT the) (CD two) (NNS countries)) (VP (VBP have) (VP (VBN moved) (PP (IN beyond) (NP (NP (DT the) (NN rancor)) (PP (IN of) (NP (DT that) (NN conflict)))))))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN if) (S (NP (DT a) (JJ healthy) (JJ new) (NN relationship)) (VP (VBZ is) (S (VP (TO to) (VP (VB be) (VP (VBN built)))))))) (, ,) (NP (NNP Hanoi)) (VP (MD must) (VP (VP (VB ease) (NP (NP (JJ bureaucratic) (NNS restrictions)) (PP (IN on) (NP (JJ foreign) (NN investment))))) (CC and) (VP (VB show) (NP (JJR greater) (NN respect)) (PP (IN for) (NP (NP (DT the) (JJ civil) (CC and) (JJ religious) (NNS liberties)) (PP (IN of) (NP (PRP$ its) (NNS people)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Clinton) (POS 's)) (NN itinerary)) (ADVP (RB inevitably)) (VP (VBZ looks) (PRT (RP back)) (PP (TO to) (NP (JJ war-related) (NNS issues))) (, ,) (PP (IN like) (S (VP (VP (VBG repatriating) (NP (NP (DT the) (NNS remains)) (PP (IN of) (NP (NNPS Americans))) (VP (VBN lost) (PP (IN in) (NP (NN action)))))) (CC and) (VP (VBG helping) (S (VP (VB remove) (NP (NP (NN land) (NNS mines)) (VP (ADVP (RB still)) (VBN buried) (PP (IN in) (NP (JJ Vietnamese) (NN soil)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (MD should) (ADVP (RB also)) (VP (VB use) (NP (PRP$ his) (NN visit)) (S (VP (TO to) (VP (VB press) (PP (IN for) (NP (NP (DT a) (JJR faster) (NN pace)) (PP (IN of) (NP (ADJP (JJ political) (CC and) (JJ economic)) (NN reform)))))))))) (. .)))
+
+(S1 (S (NP (JJ Much)) (VP (VBZ has) (VP (VBN changed) (PP (IN in) (NP (NNP Vietnam))) (PP (IN over) (NP (DT the) (JJ past) (CD three) (NNS decades))))) (. .)))
+
+(S1 (S (S (NP (NP (JJS Most)) (PP (IN of) (NP (PRP$ its) (QP (CD 79) (CD million)) (NNS people)))) (VP (VBP have) (VP (VBN been) (VP (VBN born) (PP (IN since) (NP (NP (DT the) (NN war)) (VP (VBN ended)))))))) (, ,) (CC and) (S (NP (NP (JJR younger) (NNS Vietnamese)) (, ,) (PP (IN in) (ADJP (JJ particular))) (, ,)) (VP (VBP look) (ADVP (RB admiringly)) (PP (IN upon) (NP (NP (JJ American) (NN prosperity)) (CC and) (NP (JJ personal) (NNS freedoms)))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (DT the) (NNP Communist) (NNP Party)) (ADVP (RB still)) (VP (ADVP (RB jealously)) (VBZ monopolizes) (NP (NP (NN government) (NN power)) (CC and) (NP (JJ public) (JJ political) (NN debate)))))) (, ,) (NP (JJ ordinary) (NNS Vietnamese)) (VP (VBP are) (ADVP (RB no) (RBR longer)) (ADJP (JJ afraid) (S (VP (TO to) (VP (VB talk) (PP (IN about) (NP (NNS politics))))))) (PP (IN in) (ADJP (JJ private)))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NN anyone)) (SBAR (WHNP (WP who)) (S (VP (VBZ speaks) (PRT (RP out)) (PP (IN for) (NP (NP (ADJP (RBR more) (JJ accountable)) (NN government)) (CC or) (NP (JJR wider) (NN freedom)))))))) (VP (VBZ faces) (NP (JJ stern) (NN repression))) (. .)))
+
+(S1 (S (NP (NNP Hanoi)) (VP (VBZ continues) (S (VP (TO to) (VP (VP (NN jail) (NP (JJ open) (NNS critics))) (, ,) (VP (VB persecute) (NP (JJ religious) (NNS believers))) (, ,) (VP (VBP censor) (NP (NNS newspapers))) (, ,) (VP (VB restrict) (NP (DT the) (NNP Internet))) (CC and) (VP (ADVP (RB otherwise)) (VB suppress) (NP (NN dissent))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB routinely)) (VP (VBZ violates) (NP (NP (NNS provisions)) (PP (IN of) (NP (NP (DT the) (JJ International) (NN Covenant)) (PP (IN on) (NP (JJ Civil) (CC and) (JJ Political) (NNS Rights))) (, ,) (SBAR (WHPP (TO to) (WHNP (WDT which))) (S (NP (PRP it)) (VP (VBD acceded) (PP (IN in) (NP (CD 1982))) (, ,) (S (VP (VP (VBG guaranteeing) (NP (NP (NN freedom)) (PP (IN of) (NP (NP (NN expression)) (, ,) (NP (NN association)) (CC and) (NP (JJ religious) (NN belief)))))) (CC and) (VP (VBG prohibiting) (NP (JJ arbitrary) (NNS detentions)))))))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NP (DT a) (JJ disastrous) (NN decade)) (PP (IN of) (S (VP (VBG trying) (S (VP (TO to) (VP (VB impose) (NP (NP (NNP North) (NNP Vietnam) (POS 's)) (ADJP (JJ austere) (CC and) (JJ repressive)) (NN communism)) (PP (IN on) (NP (DT the) (JJR more) (NN freewheeling))))))))))) (NP (NNP South)) (, ,) (NP (NP (DT the) (NN country) (POS 's)) (NNS leaders)) (VP (VP (VBD reversed) (NP (NN course)) (PP (IN in) (NP (DT the) (JJ late) (CD 1980s)))) (CC and) (VP (VBD began) (S (VP (VBG encouraging) (NP (NNP Southern) (NN style) (NN entrepreneurship)))))) (. .)))
+
+(S1 (S (CC But) (PP (IN over) (NP (DT the) (JJ past) (CD three) (NNS years))) (, ,) (NP (NP (NP (NNP Vietnam) (POS 's)) (NN program)) (PP (IN of) (NP (NN market) (NN liberalization)))) (VP (VBZ has) (VP (VBN stalled) (SBAR (IN as) (S (NP (NP (DT the) (NN country) (POS 's)) (JJ political) (NNS leaders)) (VP (VBP have) (VP (VBN grown) (ADJP (JJ concerned) (PP (IN about) (S (VP (VBG decentralizing) (NP (JJ economic) (NN power)))))))))))) (. .)))
+
+(S1 (S (NP (JJ Foreign) (NNS investors)) (VP (VP (VBP have) (VP (VBN become) (VP (VBN frustrated) (PP (IN with) (NP (NP (DT the) (NNP Vietnam) (POS 's)) (JJ bureaucratic) (NNS hurdles)))))) (CC and) (VP (VBP have) (VP (VBN taken) (NP (PRP$ their) (NNS investments)) (PP (TO to) (NP (NP (NNP China)) (CC and) (NP (JJ other) (ADJP (JJ Southeast) (JJ Asian)) (NNS nations))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NNP Clinton)) (VP (VBZ talks) (PP (TO to) (NP (NP (NN university) (NNS students)) (PP (IN in) (NP (NNP Hanoi))))) (PP (IN on) (NP (NNP Friday)))))) (NP (PRP he)) (VP (MD should) (VP (VB speak) (ADVP (RB plainly)) (PP (IN about) (NP (NP (DT the) (NNS merits)) (PP (IN of) (NP (NP (JJ human) (NNS rights)) (, ,) (NP (NN democracy)) (, ,) (NP (JJ free) (NNS markets)) (CC and) (NP (NP (DT the) (NN rule)) (PP (IN of) (NP (NN law)))))))) (, ,) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD did) (PP (IN during) (NP (NP (PRP$ his) (CD 1998) (NN trip)) (PP (TO to) (NP (NNP China)))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB also)) (VP (VBZ needs) (S (VP (TO to) (VP (VB raise) (NP (DT these) (NNS issues)) (PP (IN in) (NP (NP (PRP$ his) (NNS discussions)) (PP (IN with) (NP (NN government) (CC and) (JJ Communist) (NN Party) (NNS leaders))))) (ADVP (RB as) (RB well)))))) (. .)))
+
+(S1 (S (S (VP (VBG Establishing) (NP (JJ firm) (JJ legal) (NNS protections)) (PP (IN for) (NP (NP (JJ Vietnamese) (NNS -Americans)) (SBAR (WHNP (WP who)) (S (VP (VBP want) (S (VP (TO to) (VP (VB return) (NP (NN home)))))))))) (S (VP (TO to) (VP (VB do) (NP (NN business))))))) (VP (MD should) (VP (VB be) (NP (NP (DT an) (JJ important) (NN part)) (PP (IN of) (NP (PRP$ his) (NN agenda)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (MD would) (ADVP (RB also)) (VP (VB do) (ADVP (RB well)) (S (VP (TO to) (VP (VB follow) (NP (NP (DT the) (NN advice)) (PP (IN of) (NP (NNP Sen))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP John) (NNP McCain)) (CC and) (NP (NNS others))) (VP (CC and) (VP (VBP seek) (S (VP (TO to) (VP (VB expand) (NP (NP (JJ legal) (NN exchange) (NNS programs)) (SBAR (S (VP (TO to) (VP (VB cover) (NP (NP (NN press) (CC and) (NN human) (NNS rights) (NNS issues)) (CONJP (RB as) (RB well) (IN as)) (NP (JJ commercial) (NN law))))))))))))) (. .)))
+
+(S1 (NP (CD NYT-11-16-00) (NN 0159EST)))
+

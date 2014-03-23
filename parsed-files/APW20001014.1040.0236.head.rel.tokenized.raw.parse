@@ -1,0 +1,42 @@
+(S1 (NP (NP (CD APW20001014.1040.0236) (NN NEWS) (NN STORY)) (QP (CD 2000-10-14) (CD 10:41:12))))
+
+(S1 (NP (NNS UN-Israel-Palestinians)))
+
+(S1 (S (NP (NNP General) (NNP Assembly)) (VP (TO To) (VP (VB Hold) (NP (NN Meeting))))))
+
+(S1 (S (NP (NP (NNP UNITED) (NNP NATIONS)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-)) (NP (NNP _) (NNP The) (NNP General) (NNP Assembly))) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB hold) (NP (NP (DT an) (NN emergency) (NN meeting)) (NP (JJ next) (NN week)) (PP (IN on) (NP (DT the) (NNP Middle) (NNP East))) (S (VP (TO to) (VP (VB consider) (NP (NP (DT a) (NN resolution)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB condemn) (`` ``) (NP (NP (JJ excessive) (NN use)) (PP (IN of) (NP (NN force))) ('' ')) ('' ') (PP (IN by) (NP (NNP Israeli) (NNS soldiers))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (DT a) (NN draft)) (VP (VBN obtained) (PP (IN by) (NP (NNP The) (NNP Associated) (NNP Press))))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN draft)) (VP (VBZ is) (ADJP (ADJP (JJR stronger)) (PP (IN than) (NP (NP (DT the) (NN resolution)) (VP (VBN adopted) (PP (IN by) (NP (DT the) (NNP Security) (NNP Council))) (NP (JJ last) (NNP Saturday)))))))) (, ,) (CC but) (S (NP (DT the) (NN wording)) (VP (VBD was) (ADVP (JJR softer)) (PP (IN on) (NP (NNP Israel))) (PP (VBN compared) (PP (TO to) (NP (JJ past) (NNS resolutions)))) (PP (IN on) (NP (DT the) (NNP Israel) (JJ -Palestinian) (NN conflict))))) (. .)))
+
+(S1 (S (NP (DT The) (NN draft)) (VP (VP (VBZ supports) (VP (VBN continued) (NP (NNS negotiations)) (PP (IN in) (NP (NP (NN search)) (PP (IN of) (NP (NN peace))))))) (CC and) (VP (VBZ takes) (NP (NP (DT no) (NN side)) (PP (IN on) (NP (NP (JJ divisive) (NNS issues)) (PP (JJ such) (IN as) (NP (NNP Jerusalem))))))) (, ,) (S (VP (VBG saying) (ADVP (RB only)) (SBAR (IN that) (S (NP (NP (DT the) (JJ holy) (NNS places)) (ADVP (RB there))) (VP (MD must) (VP (VB be) (ADJP (VBN respected))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (VP (VBZ takes) (PP (IN into) (NP (NN account))) (NP (NP (DT the) (NN security) (NNS needs)) (PP (IN of) (NP (DT both) (NNPS Israelis) (CC and) (NNPS Palestinians))))) (CC and) (VP (VBZ expresses) (NP (NP (JJ deep) (NN concern)) (PP (IN about) (NP (NP (NNS casualties)) (PP (IN on) (NP (DT both) (NNS sides)))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Arab) (NNS states)) (CC and) (NP (VBG developing) (NNS nations))) (VP (VBD asked) (PP (IN for) (NP (DT the) (NN emergency) (NN meeting))) (NP (NNP Friday)) (SBAR (IN after) (S (NP (DT the) (NNP Security) (NNP Council)) (VP (VBD indicated) (SBAR (S (NP (PRP it)) (VP (VBD did) (RB not) (VP (VB want) (NP (DT another) (JJ contentious) (NN session)) (SBAR (IN while) (S (NP (JJ diplomatic) (NNS efforts)) (VP (VBD were) (PP (IN under) (NP (NP (NN way)) (SBAR (S (VP (TO to) (VP (VB end) (NP (NP (DT the) (NN violence)) (SBAR (WHNP (WDT that)) (S (VP (VBP cost) (NP (NP (DT the) (NNS lives)) (PP (IN of) (NP (NP (CD 96) (NNS people)) (, ,) (NP (JJS most) (NNPS Palestinians)))))))))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN With) (S (NP (NP (DT a) (NN majority)) (PP (IN of) (NP (DT the) (CD 189) (NNP U.N.) (NN member) (NNS states)))) (ADVP (RB now)) (VP (VBG supporting) (NP (NP (DT a) (JJ special) (NN session)) (PP (IN on) (NP (DT the) (JJ current) (NN unrest))))))) (, ,) (NP (DT an) (NN emergency) (NN meeting)) (VP (VBZ is) (ADJP (RB virtually) (JJ certain))) (. .)))
+
+(S1 (S (S (NP (NN Spokeswoman) (S (VP (VB Sue) (NP (NNP Markham))))) (VP (VBD said) (SBAR (S (NP (NNP General) (NNP Assembly) (NNP President) (NNP Harri) (NNP Holkeri)) (VP (MD will) (VP (VB consult) (PP (IN with) (NP (JJ other) (NN member) (NNS states))) (PP (IN on) (NP (DT the) (NN request))))))))) (CC and) (S (NP (NNP Arab) (NNS diplomats)) (VP (VBD said) (SBAR (S (NP (DT a) (NN meeting)) (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (VP (VBN held) (NP (RB early) (JJ next) (NN week)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ Palestinian) (NN representative)) (, ,) (NP (NNP Nasser) (NNP Al-Kidwa)) (, ,)) (VP (VBD had) (ADVP (RB originally)) (VP (VBN requested) (NP (NP (DT an) (NN emergency) (NN meeting)) (PP (IN of) (NP (DT the) (NNP Security) (NNP Council))) (SBAR (S (VP (TO to) (VP (VB adopt) (NP (DT a) (JJ new) (NN resolution)) (, ,) (S (VP (VBG saying) (SBAR (S (NP (NP (JJ Israeli) (NN rocket) (NNS attacks)) (PP (IN on) (NP (JJ Palestinian) (NN command) (NNS centers)))) (NP (NNP Thursday)) (VP (VBD _) (NP (NP (NN retaliation)) (PP (IN for) (NP (NP (DT the) (JJ brutal) (NN lynching)) (PP (IN of) (NP (CD two) (JJ Israeli) (NNS soldiers)))))) (SBAR (S (NP (NNS _)) (VP (VBD were) (`` ``) (ADJP (JJ tantamount) (PP (TO to) (NP (NP (DT the) (NN declaration)) (PP (IN of) (NP (NP (DT an) (JJ overall) (NN war)) (PP (IN against) (NP (DT the) (JJ entire) (JJ Palestinian) (NNS people))))))))))))))))))))))) (. .) ('' '')))
+
+(S1 (S (CC But) (S (NP (NNP U.S.) (NNP Ambassador) (NNP Richard) (NNP Holbrooke)) (VP (VBD said) (SBAR (S (NP (DT the) (NNP United) (NNPS States)) (VP (MD would) (VP (VB veto) (NP (DT any) (JJ new) (NN resolution)))))))) (CC and) (S (NP (JJ other) (NN council) (NNS members)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD wanted) (S (VP (TO to) (VP (VB give) (NP (NNP Secretary-General) (NNP Kofi) (NNP Annan)) (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB negotiate) (NP (DT a) (NN truce)) (PP (IN before) (S (VP (VBG taking) (NP (DT any) (JJ new) (NN action)))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (CD two) (NNS sides)) (VP (VBD announced) (NP (NNP Saturday)) (SBAR (S (NP (PRP they)) (VP (MD would) (VP (VB hold) (NP (NP (DT a) (NN summit)) (PP (IN in) (NP (NNP Egypt))))))))) (. .)))
+
+(S1 (S (NP (NNP Security) (NNP Council) (NNS resolutions)) (VP (VBP have) (NP (JJR more) (NN clout)) (SBAR (IN because) (S (NP (PRP they)) (VP (VBP are) (ADJP (RB legally) (JJ binding)))))) (. .)))
+
+(S1 (S (NP (NNP General) (NNP Assembly) (NNS resolutions)) (VP (VP (VBP are) (VP (VBN adopted) (PP (IN by) (NP (NN majority) (NN vote))))) (CC and) (VP (VBP cannot) (VP (VB be) (VP (VBN vetoed)))) (, ,) (CC but) (VP (VBP are) (RB not) (ADJP (RB legally) (JJ binding)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Security) (NNP Council)) (NN resolution) (JJ last) (NN week)) (VP (VBD condemned) (NP (DT the) (`` ``) (JJ excessive) (NN use) (PP (IN of) (NP (NN force))) ('' ')) ('' ') (PP (IN against) (S (NP (DT the) (NNPS Palestinians)) (VP (VBG _) (PP (IN without) (S (VP (VBG naming) (NP (NNP Israel))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP General) (NNP Assembly) (NN draft) (NN resolution)) (VP (MD would) (VP (VB condemn) (`` ``) (NP (NP (DT the) (JJ excessive) (NN use)) (PP (IN of) (NP (NN force))) (PP (IN by) (NP (NP (DT the) (NNP Israeli) (JJ occupying) (NNS forces)) (PP (IN against) (NP (JJ Palestinian) (NNS civilians)))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Israel)) (VP (VBZ says) (SBAR (S (NP (PRP$ its) (NNS soldiers)) (VP (VBP use) (NP (JJ live) (NN ammunition)) (SBAR (WHADVP (RB only) (WRB when)) (S (NP (PRP$ their) (NNS lives)) (VP (VBP are) (PP (IN in) (NP (NN danger)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (VBN proposed) (NN draft)) (VP (VBZ reiterates) (SBAR (IN that) (S (NP (NP (JJ Jewish) (NNS settlements)) (PP (IN in) (NP (NP (NN territory)) (VP (VBN captured) (PP (IN in) (NP (DT the) (CD 1967) (NNP Mideast) (NN war))))))) (`` ``) (VP (VBP are) (ADJP (JJ illegal))) (, ,) ('' '') (CC and) (S (NP (NP (DT an) (NN obstacle)) (PP (TO to) (NP (NN peace)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Security) (NNP Council) (NN resolution)) (VP (VBD backed) (NP (`` ``) (NP (DT a) (JJ speedy) (CC and) (JJ objective) (NN inquiry) ('' ')) ('' ') (PP (IN into) (NP (DT the) (NN fighting))))) (. .)))
+
+(S1 (S (NP (DT The) (VBN proposed) (NNP General) (NNP Assembly) (NN resolution)) (VP (VP (ADVP (RB strongly)) (VBZ supports) (NP (`` ``) (NP (DT a) (NN mechanism)) (PP (IN of) (NP (NN inquiry) (POS '))) ('' ')) (PP (IN into) (NP (DT the) (NNS events)))) (CC and) (VP (VBZ asks) (S (NP (NNP Annan)) (VP (TO to) (VP (VB report) (PP (TO to) (NP (NP (DT the) (NN assembly)) (PP (IN in) (NP (NP (CD 10) (NNS days)) (PP (IN on) (NP (PRP$ his) (NNS efforts) (S (VP (TO to) (VP (VB establish) (NP (PDT such) (DT a) (NN mechanism)))))))))))))))) (. .)))
+

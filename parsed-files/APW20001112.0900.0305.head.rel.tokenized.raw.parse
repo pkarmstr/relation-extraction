@@ -1,0 +1,46 @@
+(S1 (NP (NP (CD APW20001112.0900.0305) (NN NEWS) (NN STORY)) (QP (CD 2000-11-12) (CD 10:42:53))))
+
+(S1 (NP (NN Indonesia-Aceh)))
+
+(S1 (NP (NP (CD 6) (NN Die)) (PP (IN in) (NP (NP (NNP Indonesia) (POS 's)) (NNP Aceh) (NNP Province)))))
+
+(S1 (S (NP (NP (NNP BANDA) (NNP ACEH)) (, ,) (NP (NP (NNP Indonesia)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-)) (NP (NNP _) (NNP Police)))) (VP (VBD searched) (PP (IN for) (NP (NP (JJ separatist) (NNS activists)) (PP (IN in) (NP (NP (NNP Indonesia) (POS 's)) (JJ war-torn) (NNP Aceh) (NN province))))) (NP (NNP Sunday)) (SBAR (IN after) (S (NP (NP (NNS tens)) (PP (IN of) (NP (NP (NNS thousands)) (PP (IN of) (NP (NNS people)))))) (VP (VBD rallied) (VP (VBG demanding) (NP (DT an) (NN independence) (NN referendum))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NNS bodies)) (PP (IN of) (NP (CD six) (NNS people)))) (VP (VBD were) (VP (VBN found) (PP (IN in) (NP (NP (DT the) (JJ eastern) (NN part)) (PP (IN of) (NP (DT the) (NN region))))) (NP (NNP Sunday)) (, ,) (S (VP (VBG raising) (NP (NP (DT the) (NN death) (NN toll)) (PP (IN from) (NP (NP (CD four) (NNS days)) (PP (IN of) (NP (NN violence)))))) (PP (TO to) (NP (CD 25)))))))) (, ,) (NP (NP (JJ local) (NN hospital) (NNS officials)) (CC and) (NP (NNS police))) (VP (VBD said)) (. .)))
+
+(S1 (S (S (NP (CD Two)) (VP (VBD were) (NP (NNS soldiers)))) (, ,) (NP (PRP they)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (JJ civilian) (NNS victims)))) (VP (VBD were) (VP (VBN shot) (PP (IN by) (NP (NN security) (NNS forces))))) (. .)))
+
+(S1 (S (NP (NP (NNP Indonesia) (POS 's)) (JJ reformist-minded) (NNP President) (NNP Abdurrahman) (NNP Wahid)) (VP (VBZ has) (VP (VBN blamed) (NP (DT the) (NN army) (CC and) (NNS police)) (PP (IN for) (NP (DT the) (NNS deaths))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ provincial) (NN capital))) (NP (NNP Banda) (NNP Aceh)) (, ,) (NP (JJ Indonesian) (NN security) (NNS forces)) (VP (VBD opened) (NP (NN fire)) (PP (IN at) (NP (CD two) (NNS cars))) (PP (IN after) (NP (DT the) (NN rally))) (NP (NNP Saturday) (NN night)) (, ,) (S (VP (VBG injuring) (NP (CD six) (JJ local) (NNS residents))))) (. .)))
+
+(S1 (S (S (NP (NN Security) (NNS forces)) (VP (VBN patrolled) (S (NP (NP (DT the) (NN city)) (PP (IN in) (NP (JJ armored) (NNS vehicles))))))) (, ,) (CC and) (S (NP (NNS officers)) (VP (VBD carried) (PRT (RP out)) (NP (JJ random) (NN identification) (NNS checks)) (, ,) (S (VP (VBG looking) (PP (IN for) (NP (JJ separatist) (NNS leaders))))))) (. .)))
+
+(S1 (S (NP (NNS Police)) (VP (VP (VBD blocked) (PRT (RP off)) (NP (NNS roads))) (CC and) (VP (VBD prevented) (NP (NNS thousands)) (PP (IN from) (S (VP (VBG returning) (NP (NN home))))))) (. .)))
+
+(S1 (S (NP (NN Intercity) (NNS buses)) (VP (VBD were) (VP (VBN shut) (PRT (RP down)))) (. .)))
+
+(S1 (S (NP (JJ Local) (NNS media) (NNS reports)) (VP (VBD estimated) (SBAR (IN that) (S (NP (QP (IN up) (TO to) (CD 100,000)) (NNS people)) (VP (VBD rallied) (NP (NNP Saturday)) (PP (IN in) (NP (NNP Banda) (NNP Aceh))) (, ,) (S (VP (VBG demanding) (NP (NP (DT a) (JJ U.N) (JJ .-supervised) (NN vote)) (PP (IN for) (NP (NN independence)))))))))) (. .)))
+
+(S1 (S (NP (NNS Witnesses)) (VP (VBP put) (NP (DT the) (NN figure)) (PP (IN at) (NP (QP (RB about) (CD 30,000))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN rally) (POS 's)) (NNS organizers)) (VP (VBD accused) (NP (NN security) (NNS forces)) (PP (IN of) (S (VP (VBG preventing) (NP (JJ pro-independence) (NNS residents)) (PP (IN from) (S (VP (VBG reaching) (NP (NP (DT the) (NN capital)) (PP (IN for) (NP (NP (DT the) (NN rally)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (JJ last) (NN year)) (VP (VBD attracted) (NP (DT an) (VBN estimated) (CD 250,000) (NNS people))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Separatists)) (VP (VBP have) (VP (VBN fought) (PP (IN since) (NP (CD 1975))) (PP (IN for) (NP (NP (NN independence)) (PP (IN in) (NP (NP (NNP Aceh)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ is) (ADJP (JJ rich) (PP (IN in) (NP (NN oil) (CC and) (NN gas))))) (CC and) (VP (VBZ has) (NP (NP (DT a) (NN population)) (PP (IN of) (NP (QP (RB about) (CD 4.1) (CD million)) (NNS people)))))))))))))) (. .)))
+
+(S1 (S (NP (QP (IN At) (JJS least) (CD 5,500)) (NNS people)) (VP (VBP have) (VP (VBN been) (VP (VBN killed) (ADVP (RB there)) (PP (IN in) (NP (DT the) (JJ past) (NN decade)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN government)) (VP (VBZ plans) (S (VP (TO to) (VP (VB meet) (PP (IN with) (NP (NP (DT the) (JJ rebel) (NN group)) (, ,) (NP (DT the) (NNP Free) (NNP Aceh) (NNP Movement)) (, ,))) (PP (IN in) (NP (NNP Switzerland))) (NP (DT this) (NN week)) (S (VP (TO to) (VP (VB try) (S (VP (TO to) (VP (VB stem) (NP (NP (DT the) (JJ recent) (NN escalation)) (PP (IN in) (ADJP (JJ bloodshed)))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT Both) (NNS sides)) (VP (VBD signed) (NP (DT a) (NN truce)) (PP (IN in) (NP (NNP Geneva))) (PP (IN on) (NP (NNP June) (CD 2))))) (, ,) (CC but) (S (NP (DT the) (NN violence)) (VP (VBZ has) (VP (VBN continued) (, ,) (S (VP (VBG killing) (NP (QP (IN at) (JJS least) (CD 227)) (NNS people)) (PP (IN since) (NP (RB then)))))))) (. .)))
+
+(S1 (X (ADVP (RB Meanwhile)) (, ,) (NP (DT a) (NNPS U.N)) (. .)))
+
+(S1 (S (NP (NNP Security) (NNP Council) (JJ fact-finding) (NN team)) (VP (VBD arrived) (NP (NNP Sunday)) (PP (IN in) (NP (NP (NNP East) (NNP Timor)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD won) (VP (VBD broke))))))) (PP (IN from) (NP (NNP Indonesia))) (NP (JJ last) (NN year))) (. .)))
+
+(S1 (S (NP (DT The) (NN mission)) (VP (VBD was) (S (VP (TO to) (VP (VB assess) (NP (DT the) (NN security) (NN situation)) (PP (IN on) (NP (NP (DT the) (NN island)) (PP (IN after) (NP (NP (DT the) (NNS deaths)) (PP (IN of) (NP (CD three) (NNS U.N))))))))))) (. .)))
+
+(S1 (S (VP (VB aid) (NP (NP (NNS workers)) (PP (IN in) (NP (JJ Indonesian) (NNP West) (NNP Timor)))) (PP (IN in) (NP (NNP September)))) (. .)))
+

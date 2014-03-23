@@ -1,0 +1,72 @@
+(S1 (NP (NP (CD NYT20001106.1705.0187) (NN NEWS) (NN STORY)) (QP (CD 2000-11-06) (CD 18:26:00))))
+
+(S1 (NP (NP (CD A9514) (NNS &Cx1f)) (: ;) (NP (NP (JJ tta-z) (NNP u) (NN p)) (NP (CD BC-BUSH-ART-NYT) (NNS &LR))) (: ;) (QP (CD 11-06) (CD 0696))))
+
+(S1 (NP (NNP BC-BUSH-ART-NYT)))
+
+(S1 (S (S (VP (VBG COMING) (NP (JJ FULL) (NN CIRCLE)))) (, ,) (NP (NNP BUSH)) (VP (VBZ VOWS) (S (VP (TO TO) (VP (VB END) (NP (NP (NN DISCORD)) (PP (IN IN) (NP (NNP WASHINGTON))))))))))
+
+(S1 (FRAG (-LRB- -LRB-) (NP (NNP EDS)) (: :) (S (NP (DT This) (JJ early) (NN version)) (VP (MD will) (VP (VB be) (VP (VBN updated) (PP (IN from) (NP (NAC (NNP Davenport) (, ,) (NNP Iowa) (. .) (-RRB- -RRB-)) (NN &QL))))))) (: ;) (-LRB- -LRB-) (NP (NNP ART) (NNP ADV)) (: :) (S (NP (NNS Photos) (CD NYT11) (CC and) (CD 25)) (VP (VBP are) (VP (VBG being) (VP (VBN sent) (PP (TO to) (NP (NNP NYT) (NN photo) (NNS clients))))))) (. .)))
+
+(S1 (S (NP (NNS Nonsubscribers)) (VP (MD can) (VP (VB purchase) (NP (JJ one-time) (NNS rights)) (PP (IN by) (S (VP (VBG calling) (NP (NP (QP (CD 888-603-1036) (CC or) (CD 888-346-9867)) (. .) (-RRB- -RRB-) (NNS &QL)) (: ;) (NP (NP (NN &UR)) (: ;) (NP (NNP By) (NNP FRANK) (NNP BRUNI) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))))))))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (S (NP (NNP CHATTANOOGA)) (, ,) (NP (NNP Tenn.)) (VP (VBD _) (SBAR (NP (RB Nearly) (CD 17) (NNS months)) (IN after) (S (NP (PRP he)) (ADVP (RB first)) (VP (VBD issued) (NP (NP (PRP$ his) (NN call)) (PP (IN for) (NP (DT a) (`` ``) (JJ fresh) (NN start)))) (PP (IN after) (NP (NP (DT a) (NN season)) (PP (IN of) (NP (NN cynicism)))))))))) (, ,) ('' '') (NP (NNP Gov.) (NNP George) (NNP W.) (NNP Bush)) (VP (VBD ended) (NP (NP (PRP$ his) (NN quest)) (PP (IN for) (NP (DT the) (NN presidency)))) (NP (NNP Monday)) (PP (IN on) (NP (NP (DT a) (ADJP (RB nearly) (JJ identical)) (NN note)) (, ,) (VP (VBG pledging) (S (VP (TO to) (VP (VB purge) (NP (NNP Washington)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBN cast) (PP (IN as) (NP (DT a) (JJ crippling) (NN discord)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN course)) (SBAR (WHNP (WDT that)) (S (NP (NNP Bush)) (VP (VBD charted) (PP (IN over) (NP (PRP$ his) (JJ final) (NNS hours))) (PP (IN on) (NP (NP (DT the) (NN campaign) (NN trail)) (, ,) (VP (VBD plotted) (PP (IN with) (NP (NP (ADJP (RB as) (JJ much)) (NN concern)) (PP (IN for) (NP (NN symbolism))))) (PP (IN as) (PP (IN for) (NP (JJ raw) (JJ electoral) (NN arithmetic))))) (, ,))))))) (VP (VBD left) (NP (NP (DT no) (NN doubt)) (PP (IN about) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD placed) (NP (NP (DT the) (NN blame)) (PP (IN for) (NP (DT that) (NN atmosphere)))))))))) (. .)))
+
+(S1 (S (S (NP (PRP$ His) (JJ first) (JJ major) (NN rally)) (VP (VBD was) (PP (IN in) (NP (NNP Tennessee))))) (CC and) (S (NP (PRP$ his) (NN last)) (VP (VBD was) (VP (VBN planned) (PP (IN for) (NP (NP (NNP Arkansas)) (, ,) (NP (NP (DT the) (NN home) (NNS states)) (, ,) (ADVP (RB respectively)) (, ,) (PP (IN of) (NP (NNP Vice) (NNP President) (NP (NNP Al) (NNP Gore) (CC and) (NNP President) (NNP Clinton)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Texas) (NN governor) (POS 's)) (NNS words)) (VP (VBD made) (S (ADJP (RB equally) (JJ clear)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD saw) (NP (PRP himself)) (SBAR (IN as) (S (NP (NP (NP (DT the) (NN country) (POS 's)) (JJS best) (NN hope)) (PP (IN for) (S (VP (VBG bridging) (ADJP (JJ ideological)))))) (VP (VBZ divides) (, ,) (S (VP (VP (VBG healing) (NP (JJ partisan) (NNS wounds))) (CC and) (VP (VBG making) (ADJP (JJ sure) (SBAR (IN that) (S (NP (NNPS Americans)) (VP (MD could) (VP (VBP gaze) (PP (IN upon) (NP (DT the) (NNP White) (NNP House))) (PP (IN with) (NP (JJ unfettered) (NN respect))))))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (JJR better) (NN day)) (ADVP (RB ahead))) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN leader)) (SBAR (WHNP (WP who)) (S (VP (VBZ 's) (ADJP (JJ willing) (S (VP (VP (TO to) (VP (VB unite) (NP (DT the) (NN country)))) (, ,) (VP (TO to) (VP (VB bring) (NP (NNS people)) (ADVP (RB together)))) (, ,) (VP (TO to) (VP (VB elevate) (NP (NP (NP (DT the) (NNS people) (POS 's)) (NN business)) (PP (IN above) (NP (JJ everyday) (NNS politics)))))))))))))))))) (, ,) ('' '') (NP (NNP Bush)) (VP (VBD said) (PP (IN at) (NP (NP (DT a) (NN rally)) (PP (IN inside) (NP (NP (DT a) (NN hangar)) (PP (IN at) (NP (DT the) (NN airport))) (ADVP (RB here)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NP (NNS supporters) (POS ')) (NNS chants)) (VP (VBD evoked) (NP (NP (DT the) (NN nearness)) (PP (IN of) (NP (DT the) (NN moment))) (PP (IN of) (NP (NN decision)))))))))))) (. .)))
+
+(S1 (FRAG (`` ``) (NP (CD One) (JJR more) (NN day)) (. !) ('' '')))
+
+(S1 (S (NP (PRP they)) (VP (VBD roared)) (. .)))
+
+(S1 (FRAG (`` ``) (NP (CD One) (JJR more) (NN day)) (. !) ('' '')))
+
+(S1 (S (SBAR (WHNP (WP What)) (S (NP (DT the) (NN nation)) (VP (VBN needed)))) (PRN (, ,) (S (NP (NNP Bush)) (VP (VBD told) (NP (PRP them)))) (, ,)) (VP (VBD was) (`` ``) (NP (NP (DT a) (NN president)) (SBAR (WHNP (WP who)) (S (VP (MD can) (VP (VB unite) (NP (DT this) (NN nation))))))) (, ,) (NP (NP (DT a) (NN president)) (SBAR (WHNP (WP who)) (S (VP (VBZ puts) (PRT (RP aside)) (NP (NP (DT the) (JJ endless) (JJ partisan) (NN bickering)) (SBAR (WHNP (WDT that)) (S (VP (VBZ seems) (S (VP (TO to) (VP (NN gridlock) (NP (NP (NP (PRP$ our) (NN nation) (POS 's)) (NN capitol)) (, ,) (NP (NP (DT a) (NN president)) (SBAR (WHNP (WP who)) (S (VP (VBZ puts) (NP (DT the) (NNS people)) (ADVP (RB first)) (, ,) (NP (NP (DT a) (NN president)) (SBAR (WHNP (WP who)) (S (VP (VBZ lifts) (NP (NP (DT this) (NN nation) (POS 's)) (NNS spirits))))))))))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (MD 'll) (VP (VB be) (NP (DT that) (NN president))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD added) (, ,) (SBAR (NP (DT a) (NN sentence)) (IN that) (S (VP (VBD was) (NP (NP (JJ equal) (NNS parts) (NN promise)) (CC and) (NP (NN prediction))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD underscored) (NP (DT the) (NN optimism) (SBAR (IN that) (S (NP (NNP Bush)) (VP (VBZ has) (, ,) (PP (IN from) (NP (DT the) (JJ very) (NN beginning))) (, ,) (VP (VBN sought) (S (VP (TO to) (VP (VB project) (PP (TO to) (NP (NNS voters)))))))))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ His) (NN schedule)) (PP (IN over) (NP (NP (DT the) (NN course)) (PP (IN of) (NP (DT a) (JJ 16-hour) (NN day)))))) (VP (VBD was) (ADVP (RB also)) (NP (NP (DT an) (NN expression)) (PP (IN of) (NP (DT that) (NN confidence))))) (. .)))
+
+(S1 (S (PP (IN In) (PP (IN between) (NP (NNP Tennessee) (CC and) (NNP Arkansas)))) (, ,) (S (NP (PRP$ his) (NN campaign) (NN plane)) (VP (VBD touched) (PRT (RP down)) (PP (IN in) (NP (NP (NNP Wisconsin)) (CC and) (NP (NNP Iowa)))))) (, ,) (CC and) (S (SBAR (IN while) (S (NP (NP (DT any) (CD one)) (PP (IN of) (NP (DT those) (CD four) (NNS states)))) (VP (MD could) (VP (VB wind) (PRT (RP up)) (S (VP (VBG providing) (NP (NP (DT the) (NN key)) (PP (TO to) (NP (DT a) (NNP Bush) (NN victory)))))))))) (, ,) (NP (NN none)) (VP (VBP have) (NP (ADJP (RB as) (JJ many)) (JJ electoral) (NNS votes)) (PP (IN as) (NP (NP (JJ such) (NNS battlegrounds)) (PP (IN as) (NP (NP (NNP Michigan)) (CC and) (NP (NNP Pennsylvania)))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (NP (NP (JJ genuine) (NNS tossups)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (ADVP (RB initially)) (VP (VBN predicted) (S (VP (TO to) (VP (VB be) (ADJP (ADVP (RB much) (RBR more)) (JJ hospitable) (PP (TO to) (NP (NNP Gore))))))))))))) (. .)))
+
+(S1 (S (PP (IN By) (S (VP (VBG visiting) (NP (PRP them)) (NP (NNP Monday))))) (, ,) (NP (NNP Bush)) (VP (VBD emphasized) (NP (NP (NP (DT the) (NN breadth)) (PP (IN of) (NP (PRP$ his) (NN appeal)))) (CC and) (NP (NP (DT the) (ADJP (RB sometimes) (JJ surprising)) (NN vulnerability)) (PP (IN of) (NP (DT the) (NN vice) (NN president)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD did) (RB not) (VP (VB let) (S (NP (NP (PRP$ his) (NN assertion)) (PP (IN of) (NP (NN strength) (CC and) (NN confidence)))) (VP (VB distract) (NP (PRP him)) (PP (IN from) (NP (NP (DT the) (JJ important) (NN business)) (PP (IN of) (NP (VBG beseeching) (NNS supporters))) (S (VP (TO to) (VP (VB grant) (NP (PRP him)) (NP (NN victory))))))))))) (. .)))
+
+(S1 (S (PP (IN With) (NP (NP (RB just) (CD 24) (NNS hours)) (PP (IN before) (NP (NNP Election) (NNP Day))))) (, ,) (NP (NNP Bush)) (PP (IN in) (NP (JJ many) (NNS ways))) (VP (VBD stripped) (S (VP (VBG campaigning) (PP (TO to) (NP (PRP$ its) (NN essence))))) (: :) (S (VP (VBG coaxing) (CC and) (VBG cajoling) (, ,) (VBG pleading) (CC and) (VBG persuading)))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBP want) (S (NP (PRP you)) (VP (TO to) (VP (VB understand) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can) (RB n't) (VP (VB win) (PP (IN without) (NP (PRP you)))))))))))) (, ,) ('' '') (NP (NNP Bush)) (VP (VBD told) (NP (NP (DT a) (NN crowd)) (PP (IN of) (NP (QP (JJR more) (IN than) (CD 1,000)) (NNS people)))) (PP (IN at) (NP (NP (DT a) (NN convention) (NN center)) (PP (IN in) (NP (NP (NNP Green) (NNP Bay)) (, ,) (NP (NNP Wis.)))))) (S (`` ``) (NP (PRP I)) (VP (VBP hope) (SBAR (S (NP (PRP you)) (VP (VBP redouble) (NP (PRP$ your) (NNS efforts) (S (VP (TO to) (VP (VB make) (ADJP (JJ sure) (SBAR (S (NP (NNS people)) (VP (VBP get) (PP (IN out) (PP (TO to) (NP (DT the) (NNS polls)))))))))))))))))) (. .) ('' '')))
+
+(S1 (S (ADVP (NP (NNS Minutes)) (RB later)) (, ,) (NP (PRP he)) (VP (VBD added) (: :) (`` ``) (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VP (VB go) (ADVP (RB out) (RB there))) (CC and) (VP (VB tell) (NP (DT the) (NNS folks)) (SBAR (SBAR (WHADVP (WRB where)) (S (NP (PRP we)) (VP (VBP stand) (PP (IN on) (NP (DT the) (NNS issues)))))) (CC and) (SBAR (WHADVP (WRB where)) (S (S (NP (PRP we)) (VP (VBP stand) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ comes) (S (VP (TO to) (VP (VBG bringing) (NP (NNS people)) (ADVP (RB together)) (S (VP (TO to) (VP (VB get) (S (NP (NNS things)) (VP (VBN done)))))))))))))) (, ,) (CC and) (S (NP (PRP you)) (VP (VBP tell) (NP (PRP them)) (SBAR (IN that) (S (NP (NP (DT the) (NN core)) (PP (IN of) (NP (DT this) (NN campaign)))) (VP (VBZ is) (NP (NP (DT the) (JJ inherent) (NN trust)) (PP (IN in) (NP (DT the) (JJ American) (NNS people)))))))))))))))) (, ,) (NP (PRP I)) (VP (VBP believe) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB matter) (SBAR (WHNP (WP what) (JJ political) (NN party)) (S (NP (PRP they)) (VP (VBP 're) (PP (IN in)))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB come) (NP (PRP$ our) (NN way))))))) (. .) ('' '')))
+
+(S1 (S (PP (IN In) (NP (NNP Chattanooga))) (, ,) (NP (NNP Bush)) (ADVP (RB repeatedly)) (VP (VBD needled) (NP (NP (NNP Gore)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (NP (NP (JJ much)) (PP (IN of) (NP (NP (DT the) (NN point)) (PP (IN of) (S (VP (VBG going) (PP (TO to) (NP (NP (NNP Tennessee)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP Gore)) (VP (VBZ is) (RB not) (ADVP (IN at) (DT all)) (ADJP (JJ certain) (S (VP (TO to) (VP (VB prevail) (PP (IN on) (NP (NNP Tuesday))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Texas) (NN governor)) (VP (VBD claimed) (SBAR (IN that) (S (NP (NP (NP (NNP Gore) (POS 's)) (NNS decades)) (PP (IN of) (NP (NP (NN experience)) (PP (IN in) (NP (NNP Washington)))))) (VP (VBD had) (VP (VBN estranged) (NP (PRP him)) (PP (IN from) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN country))))) (PP (IN by) (S (VP (VBG making) (S (NP (PRP him)) (ADJP (ADJP (RB too) (JJ trusting) (PP (IN of) (NP (JJ federal) (NN government)))) (CC and) (ADJP (RB too) (JJ fond) (PP (IN of) (NP (JJ federal) (NN spending)))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP$ My) (NN opponent)) (VP (VBZ vows) (S (VP (TO to) (VP (VB carry) (NP (PRP$ his) (NN home) (NN state))))))) (, ,) ('' '') (NP (NNP Bush)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP He)) (VP (MD may) (VP (VB win) (NP (NP (NNP Washington)) (, ,) (NP (NNP D.C.)))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB win) (NP (NNP Tennessee)))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP He)) (VP (VBD forgot) (NP (PRP$ his) (NNS roots)))) (, ,) ('' '') (NP (NNP Bush)) (VP (VBD added)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP He)) (VP (VBD forgot) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBZ 's) (NP (IN from)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ trusts) (NP (NNP Washington))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (VBP trust) (NP (DT the) (NNS people))) (. .) ('' '')))
+
+(S1 (NP (CD NYT-11-06-00) (NN 1826EST)))
+

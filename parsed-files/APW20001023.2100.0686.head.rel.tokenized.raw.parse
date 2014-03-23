@@ -1,0 +1,56 @@
+(S1 (NP (NP (CD APW20001023.2100.0686) (NN NEWS) (NN STORY)) (JJ 2000-10-23) (CD 21:28:28)))
+
+(S1 (NP (NN HKN-Roy-Arrest)))
+
+(S1 (NP (NNS Police) (: :) (NP (NP (NP (NNP Roy) (POS 's)) (NN Wife)) (NP (JJ Feared) (NN Husband)))))
+
+(S1 (NP (NP (NNP LITTLETON)) (, ,) (NP (NNP Colo)) (. .)))
+
+(S1 (S (NP (NP (-LRB- -LRB-) (NNP AP) (-RRB- -RRB-) (NNP _)) (NP (NP (DT The) (NN wife)) (PP (IN of) (NP (NP (NNP Patrick) (NNP Roy)) (, ,) (NP (NP (DT the) (NNP NHL) (POS 's)) (JJS winningest) (NN goalie)) (, ,))))) (VP (VBD called) (NP (CD 911)) (SBAR (IN because) (S (NP (PRP she)) (VP (VBD was) (ADJP (JJ afraid) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (PRP$ her) (NN husband)) (VP (MD would) (VP (VB do) (SBAR (IN as) (S (NP (PRP they)) (VP (VBD argued) (PP (IN about) (NP (NNS in-laws))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (DT a) (NN police) (NN report)) (VP (VBN released) (NP (NNP Monday))))))))))))))))))) (. .)))
+
+(S1 (S (S (S (NP (NNP Michele) (NNP Roy)) (VP (VBD was) (RB not) (VP (VBN hurt) (PP (IN during) (NP (NP (DT the) (NN dispute)) (PP (IN at) (NP (PRP$ their) (NN home))))) (NP (JJ early) (NNP Sunday))))) (, ,) (CC but) (S (NP (NNP Roy)) (VP (VBD admitted) (S (VP (VP (VBG pulling) (NP (DT a) (NN bedroom) (NN door)) (PP (IN off) (NP (PRP$ its) (NNS hinges)))) (CC and) (VP (VBG damaging) (NP (DT another))))) (SBAR (IN after) (S (NP (PRP$ his) (NN wife)) (VP (VP (VBD called) (NP (NNP Greenwood) (NNP Village)) (NP (NN police))) (CC and) (VP (VBD hung) (PRT (RP up)) (PP (IN without) (NP (NN speaking)))))))))) (, ,) (NP (DT the) (NN report)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ somber) (NNP Colorado) (NN Avalanche) (NN goalie)) (, ,) (VP (VBN accompanied) (PP (IN by) (NP (PRP$ his) (NNS parents) (, ,) (NN sister) (CC and) (NN brother)))) (, ,)) (VP (VBD stood) (PP (IN with) (NP (NP (PRP$ his) (NNS hands)) (VP (VBN clasped) (PP (IN behind) (NP (PRP$ his) (NN back)))))) (PP (IN during) (NP (DT a) (JJ brief) (NN court) (NN appearance)))) (. .)))
+
+(S1 (S (NP (DT The) (JJ initial) (NN hearing)) (VP (VBD was) (VP (VBN postponed) (PP (IN until) (NP (NNP Nov))))) (. .)))
+
+(S1 (FRAG (NP (CD 7)) (. .)))
+
+(S1 (S (NP (NNP Roy)) (VP (VP (VBD remained) (ADJP (JJ free)) (PP (IN on) (NP (DT a) (ADJP ($ $) (CD 750)) (NN bail)))) (CC and) (VP (VBD left) (PP (IN by) (NP (DT a) (NN side) (NN door))) (PP (IN without) (NP (NN comment))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN wife)) (VP (VBD was) (ADJP (JJ absent))) (. .)))
+
+(S1 (S (NP (DT The) (NN judge)) (ADVP (RB also)) (VP (VBD issued) (NP (NP (DT a) (NN restraining) (NN order)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (NN standard)))))) (PP (IN in) (NP (JJ domestic-dispute) (NNS cases))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ requires) (S (NP (NNP Roy)) (VP (TO to) (VP (VB refrain) (PP (IN from) (NP (NP (NN alcohol)) (CC and) (NP (JJ illegal) (NNS drugs)) (CC and) (NP (NP (NN possession)) (PP (IN of) (NP (NNS guns) (CC or) (NNS weapons))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD was) (VP (VBN permitted) (S (VP (TO to) (VP (VB return) (NP (NN home)) (PP (TO to) (NP (PRP$ his) (NN family)))))))) (CC and) (VP (VBZ is) (VP (VBN allowed) (S (VP (TO to) (VP (VB travel) (PP (IN with) (NP (NP (DT the) (NN team)) (PP (TO to) (NP (JJ out-of-state) (NNS games))))))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NP (DT the) (NN Avalanche) (POS 's)) (NN practice))) (, ,) (NP (NNP Roy)) (VP (VBD read) (NP (DT a) (JJ brief) (NN statement)) (, ,) (S (VP (VBG noting) (SBAR (IN that) (S (NP (PRP he)) (VP (MD could) (RB not) (VP (VB comment) (PP (IN on) (NP (PRP$ his) (NN arrest))) (PP (IN on) (NP (NP (DT the) (NN advice)) (PP (IN of) (NP (PRP$ his) (NN lawyer)))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB also)) (VP (VBD asked) (SBAR (IN that) (S (NP (DT the) (NN public)) (VP (VB respect) (NP (NP (PRP$ his) (NN family) (POS 's)) (NN privacy)))))) (. .)))
+
+(S1 (S (`` ``) (S (ADVP (RB Obviously)) (, ,) (S (NP (DT this)) (VP (VBZ is) (VP (VBG creating) (NP (DT a) (NN distraction))))) (, ,) (CC and) (S (NP (PRP$ my) (NN wish)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT this) (NN distraction)) (VP (MD will) (VP (VB be) (ADVP (RB over) (RB soon))))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP I)) (VP (VBP am) (ADJP (JJ thankful) (PP (IN for) (NP (NP (DT the) (NN support)) (SBAR (S (NP (PRP I)) (VP (VBP am) (VP (VBG getting) (PP (IN from) (NP (NP (PRP$ my) (NN family)) (CC and) (NP (NP (DT every) (CD one)) (PP (IN of) (PRP$ my) (NNS teammates))))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Colorado) (NNS players)) (VP (VBD showed) (NP (NP (JJ unified) (NN support)) (PP (IN for) (NP (NNP Roy)))) (, ,) (S (VP (VBG saying) (SBAR (S (NP (PRP they)) (VP (VBP believe) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VB remain) (VP (VBN focused) (PP (IN after) (NP (DT an) (JJ eight-game) (PRN (-LRB- -LRB-) (JJ 6-0-2) (-RRB- -RRB-)) (JJ unbeaten) (NN streak) (S (VP (TO to) (VP (VB start) (NP (DT the) (NN season)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN team) (POS 's)) (JJ next) (NN game)) (VP (VBZ is) (PP (IN at) (NP (NP (NN home)) (NP (NNP Wednesday)) (PP (IN against) (NP (NNP Nashville)))))) (. .)))
+
+(S1 (S (`` ``) (S (S (NP (PRP We)) (VP (VBP 've) (ADVP (RB always)) (VP (VBN stuck) (ADVP (RB together))))) (CC and) (S (NP (PRP we)) (VP (MD 'll) (VP (VB stick) (PP (IN by) (NP (NNP Patrick))))))) (, ,) ('' '') (NP (JJ defenseman) (NNP Ray) (NNP Bourque)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP We)) (VP (VBP know) (SBAR (S (NP (PRP he)) (VP (VBZ is) (NP (NP (DT a) (NN quality) (NN person)) (CC and) (NP (DT a) (JJ great) (NN family) (NN man))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Defenseman) (NNP Aaron) (NNP Miller)) (VP (VBD said) (, ,) (`` ``) (S (SBAR (IN Until) (S (NP (PRP we)) (VP (VB find) (PRT (RP out)) (SBAR (WHNP (RB exactly) (WP what)) (S (VP (VBZ 's) (VP (VBG going) (PRT (RP on))))))))) (, ,) (NP (PRP we)) (VP (VBP 're) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB let) (NP (PRP it)) (VP (VB bother) (NP (PRP us))) (CC or) (VP (VB distract) (NP (PRP us)))))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP speak) (PP (IN for) (NP (DT the) (JJ whole) (NN team))) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP 're) (PP (IN behind) (NP (NNP Patty) (CD 100) (NN percent)))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Roy)) (, ,) (NP (CD 35)) (, ,)) (VP (VBD was) (VP (VBN arrested) (CC and) (VBN charged) (NP (NNP Sunday)) (PP (IN with) (NP (NP (NN misdemeanor) (JJ criminal) (NN mischief)) (SBAR (WHNP (WDT which)) (S (VP (VBD occurred) (PP (IN during) (NP (NP (DT an) (NN act)) (PP (IN of) (NP (JJ domestic) (NN violence)))))))))))) (. .)))
+
+(S1 (SINV (S (SBAR (IN If) (S (VP (VBN convicted)))) (, ,) (NP (PRP he)) (VP (VBZ faces) (NP (NP (NP (DT a) (NN maximum)) (PP (IN of) (NP (NP (CD one) (NN year)) (PP (IN in) (NP (DT the) (NN county) (NN jail)))))) (CC and) (NP (DT a) (ADJP ($ $) (CD 1,000)) (NN fine))))) (, ,) (VP (VBD said)) (NP (NP (DT a) (NN spokesman)) (PP (IN for) (NP (NP (DT the) (NNP Arapahoe) (NNP County) (NN district) (NN attorney) (POS 's)) (NN office)))) (. .)))
+
+(S1 (S (NP (NNS Officers)) (VP (VBD responded) (PP (TO to) (NP (NP (DT the) (CD 911) (NN hang-up) (NN call)) (PP (IN at) (NP (NP (NNP Roy) (POS 's)) (NN residence))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP Michele) (NNP Roy)) (VP (VBD told) (NP (PRP them)) (SBAR (S (NP (DT the) (CD two)) (VP (VBD had) (VP (VBN been) (VP (VBG arguing)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Roy)) (VP (VBD was) (VP (VBN honored) (NP (NNP Friday) (NN night)) (PP (IN for) (S (VP (VBG winning) (NP (PRP$ his) (JJ 448th) (NN game)) (ADVP (NP (CD three) (NNS days)) (RB before))))) (, ,) (NP (NP (DT a) (JJ 4-3) (NN victory)) (PP (IN in) (NP (NP (NN overtime)) (PP (IN against) (NP (DT the) (NNP Washington) (NNS Capitals)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD broke) (NP (NP (DT the) (NN mark)) (VP (VBN set) (PP (IN by) (NP (NNP Terry) (NNP Sawchuk)))))) (. .)))
+

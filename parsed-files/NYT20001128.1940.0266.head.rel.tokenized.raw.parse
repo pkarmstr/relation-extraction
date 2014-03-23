@@ -1,0 +1,36 @@
+(S1 (NP (NP (CD NYT20001128.1940.0266) (NN NEWS) (NN STORY)) (QP (CD 2000-11-28) (CD 19:49:00))))
+
+(S1 (NP (NP (CD A3547) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP f) (NNP BC-TIMES-NATGEO-NYT) (NN &LR)) (: ;) (NP (QP (CD 11-28) (CD 0284))))))
+
+(S1 (NP (NNP BC-TIMES-NATGEO-NYT)))
+
+(S1 (S (NP (NNP NEW) (NNP YORK) (NNP TIMES)) (VP (VBZ JOINS) (PP (IN WITH) (NP (NP (NNP NATIONAL) (NNP GEOGRAPHIC)) (PP (IN FOR) (NP (NN SCIENCE))))))))
+
+(S1 (NP (NP (NN PROGRAMMING) (NNS &LR)) (: ;) (NP (NP (NN &QL)) (: ;) (NP (PRN (-LRB- -LRB-) (NP (NP (NNP EDS)) (: :) (NP (DT no) (NN byline))) (-RRB- -RRB-)) (NNS &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NP (NP (NNP NEW) (NNP YORK)) (NNP _) (NNP National) (NNP Geographic)) (CC and) (NP (NP (DT the) (NN television) (NN production) (NN unit)) (PP (IN of) (NP (DT The) (NNP New) (NNP York) (NNP Times))))) (VP (VBP have) (VP (VBN agreed) (S (VP (TO to) (VP (VB collaborate) (PP (IN on) (NP (NP (DT a) (JJ weekly) (NN science) (NN program)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB be) (VP (VBN shown) (PP (IN on) (NP (NP (NNP National) (NNP Geographic) (POS 's)) (VBG coming) (NN cable) (NN channel))) (PP (VBG beginning) (PP (IN in) (NP (NNP June)))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN program)) (VP (MD will) (VP (VB take) (NP (PRP$ its) (NN title)) (PP (IN from) (NP (NP (DT The) (NNP Time) (NN &UR)) (: ;) (NP (NP (NNP s) (POS ')) (NNS &LR)) (: ;) (NP (JJ weekly) (NNP Science) (NNP Times) (NN section)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN content)) (VP (MD will) (VP (VB be) (VP (ADVP (RB jointly)) (VBN developed) (PP (IN by) (NP (NP (NP (DT the) (NN channel) (POS 's)) (NN news) (NN division)) (CC and) (NP (NP (DT the) (NN television) (NN production) (NN unit)) (, ,) (NP (NP (NP (NNP New) (NNP York) (NNP Times)) (NP (NNP Television))) (, ,) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (DT The) (NNP New) (NNP York) (NNP Times) (NNP News) (NNP Services))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (DT The) (NN show)) (VP (MD will) (VP (VB be) (VP (ADVP (RB largely)) (VBN based) (PP (IN on) (NP (NP (NNS articles)) (SBAR (WHNP (WDT that)) (S (NP (NP (DT The) (NNP New) (NNP York) (NNP Times) (POS ')) (NN science) (NN section)) (VP (VP (ADVP (RB either)) (VBZ has) (VP (VBN run))) (CC or) (VP (VBZ plans) (S (VP (TO to) (VP (VB run)))))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Richard) (NNP Flaste)) (, ,) (NP (NP (NN managing) (NN editor)) (PP (IN of) (NP (NNP New) (NNP York) (NNP Times) (NNP Television) (NNP Enterprises))))) (. .)))
+
+(S1 (S (NP (NNP National) (NNP Geographic)) (NP (NNP Channel)) (VP (VBZ is) (VP (VBN scheduled) (S (VP (TO to) (VP (VB be) (ADJP (JJ available) (PP (IN in) (NP (QP (CD 10) (CD million)) (NNS homes)))) (NP (DT this) (NNP January))))))) (. .)))
+
+(S1 (S (S (NP (NNP National) (NNP Geographic)) (VP (MD will) (VP (VB own) (NP (NP (NN one-third)) (PP (IN of) (NP (DT the) (NN channel))))))) (CC and) (S (NP (DT the) (NNP Fox) (NNP Cable) (NNPS Networks) (NNP Group)) (VP (MD will) (VP (VB own) (NP (DT the) (NN rest))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS companies)) (VP (VBG planning) (S (VP (TO to) (VP (VB carry) (NP (DT the) (NN channel))))))) (VP (VBP include) (NP (NP (NNP AT&AMP)) (: ;) (NP (NP (NN T) (NNP Broadband)) (, ,) (NP (NNP Adelphia) (NNP Cable))) (CC and) (NP (NNP DirecTV)))) (. .)))
+
+(S1 (S (NP (NNP National) (NNP Geographic)) (VP (VBD introduced) (NP (NP (DT an) (JJ international) (NN channel)) (PP (IN in) (NP (NNP September) (CD 1997))) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ is) (PP (IN in) (NP (CD 115) (NNS countries)))) (CC and) (VP (VBZ reaches) (NP (QP (CD 85) (CD million)) (NNS homes)))))))) (. .)))
+
+(S1 (SINV (S (NP (DT The) (NNP U.S.) (NN channel)) (VP (MD will) (RB not) (VP (VB be) (NP (NP (DT an) (NN extension)) (PP (IN of) (NP (DT the) (JJ overseas) (NN channel))))))) (, ,) (VP (VBD said)) (NP (NP (NNP Laureen) (NNP Ong)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (DT the) (NNP American) (NN channel))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Times)) (VP (VBZ is) (ADVP (RB already)) (ADJP (JJ active) (PP (IN in) (NP (NN television)))) (PP (IN through) (NP (NP (DT a) (JJ three-year) (JJ joint) (NN venture)) (PP (IN with) (NP (NNP Granada) (NNP Media))))) (S (VP (TO to) (VP (VB produce) (NP (NP (NNS documentaries)) (CC and) (NP (NP (DT an) (JJ experimental) (NN partnership)) (PP (IN with) (NP (NNP ABC) (NNP News))) (S (VP (TO to) (VP (VB produce) (NP (NNS reports)) (PP (IN for) (NP (`` ``) (NP (CD 20) (POS ')) ('' ') (CC and) (`` ``) (NP (JJ Good) (NN Morning) (NNP America))))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (DT That) (NN agreement)) (VP (VBZ is) (VP (VBN scheduled) (S (VP (TO to) (VP (VB expire) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT this) (NN year)))))))))) (. .)))
+
+(S1 (NP (CD NYT-11-28-00) (NN 1949EST)))
+

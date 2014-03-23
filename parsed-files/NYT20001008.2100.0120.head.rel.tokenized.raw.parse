@@ -1,0 +1,80 @@
+(S1 (NP (NP (CD NYT20001008.2100.0120) (NN NEWS) (NN STORY)) (QP (CD 2000-10-08) (CD 21:13:00))))
+
+(S1 (NP (NP (CD A7398) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NN p) (NN BC-GORE-ART-515&AMP)) (: ;) (NP (JJ ADD-NYT) (NN &LR)) (: ;) (NP (QP (CD 10-08) (CD 0816))))))
+
+(S1 (NP (NN BC-GORE-ART-515&AMP) (: ;) (JJ ADD-NYT)))
+
+(S1 (S (NP (NNP GORE) (NNP CAMP)) (VP (VBZ PLANS) (S (VP (TO TO) (VP (VB ASSAIL) (NP (NP (NNP BUSH) (POS 'S)) (NN RECORD))))))))
+
+(S1 (FRAG (-LRB- -LRB-) (NP (NN ART) (NNS ADV)) (: :) (S (NP (NNP Photo) (NNP NYT12)) (VP (VBZ is) (VP (VBG being) (VP (VBN sent) (PP (TO to) (NP (NNP NYT) (NN photo) (NNS clients))))))) (. .)))
+
+(S1 (S (NP (NNS Nonsubscribers)) (VP (MD can) (VP (VB purchase) (NP (JJ one-time) (NNS rights)) (PP (IN by) (S (VP (VBG calling) (NP (NP (QP (CD 888-603-1036) (CC or) (CD 888-346-9867)) (. .) (-RRB- -RRB-) (NNS &QL)) (: ;) (NP (NP (NN &UR)) (: ;) (NP (NNP By) (NNP KEVIN) (NN SACK) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))))))))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (S (S (NP (NP (NP (NNP LONGBOAT) (NNP KEY)) (, ,) (NP (NNP Fla.) (CD _))) (PP (IN As) (NP (NNP Vice) (NNP President) (NNP Al) (NNP Gore)))) (VP (VBZ fends) (VP (ADVP (RB off)) (VBN intensified) (NP (NP (NNS attacks)) (PP (IN on) (NP (PRP$ his) (NN credibility))))))) (, ,) (S (NP (PRP$ his) (NN campaign) (CC and) (JJ Democratic) (NNS surrogates)) (VP (VBP are) (VP (VBG planning) (NP (NP (NP (DT a) (NNS multimedia) (NN offensive)) (NP (DT this) (NN week))) (SBAR (WHNP (WDT that)) (S (VP (VBZ assails) (NP (NNP Bush)) (PP (IN for) (NP (NP (PRP$ his) (NN record)) (PP (IN in) (NP (NNP Texas)))))))))))) (CC and) (S (NP (PRP$ his) (JJ occasional)) (VP (VBZ slips) (PP (IN of) (NP (DT the) (NN tongue)))))) (, ,) (NP (NNP Gore) (NNS aides)) (VP (VBD said) (NP (NNP Sunday))) (. .)))
+
+(S1 (S (NP (DT The) (JJ Democratic) (NN strategy)) (VP (VBZ calls) (SBAR (IN for) (S (NP (NNP Gore)) (VP (TO to) (VP (VB delegate) (NP (DT the) (NNS attacks)) (PP (TO to) (NP (PRP$ his) (NNS aides))) (SBAR (IN so) (S (NP (PRP he)) (VP (MD can) (VP (VB maintain) (NP (PRP$ his) (NN pledge) (S (VP (TO to) (VP (VB remain) (PP (IN above) (NP (DT the) (NN fray)))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (SBAR (RB even) (IN as) (S (NP (PRP$ his) (NNS aides)) (VP (VBD were) (VP (VBG finalizing) (NP (NP (NNS plans)) (PP (IN for) (NP (PRP$ their) (NN assault)))))))) (, ,) (NP (NNP Gore)) (VP (VBD discussed) (NP (NP (PRP$ his) (NN education) (NNS proposals)) (PP (IN on) (NP (NNP Sunday) (NN afternoon)))) (PP (IN with) (NP (NNS teachers) (, ,) (NNS students) (CC and) (NNS parents))) (PP (IN during) (NP (NP (DT a) (JJ photo) (NN opportunity)) (PP (IN at) (NP (NP (PRP$ his) (NN residence)) (PP (IN in) (NP (NNP Washington)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB then)) (VP (VBD flew) (PP (TO to) (NP (NP (DT this) (NN beach) (NN resort)) (PP (IN near) (NP (NNP Sarasota))))) (PP (IN for) (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (NP (NN preparation)) (PP (IN for) (NP (NP (NP (NNP Wednesday) (NN night) (POS 's)) (NN debate)) (PP (IN with) (NP (NNP Bush))))))))) (PP (IN in) (NP (NP (NNP Winston-Salem)) (, ,) (NP (NNP N.C.)))) (, ,) (NP (NP (DT the) (JJ second)) (PP (IN of) (NP (PRP$ their) (CD three) (JJ scheduled) (NNS encounters))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NP (NNP Gore) (POS 's)) (NNS surrogates)) (, ,) (PP (VBG including) (NP (NP (NP (PRP$ his) (VBG running) (NN mate)) (, ,) (NP (NNP Sen.) (NNP Joseph) (NNP Lieberman)) (, ,)) (CC and) (NP (NP (NP (DT the) (NNP Democratic) (NNP National) (NNP Committee) (POS 's)) (JJ national) (NN chairman)) (, ,) (NP (NNP Joe) (NNP Andrew))))) (, ,)) (VP (MD will) (ADVP (RB apparently)) (VP (VB feel) (NP (JJ little) (JJ such) (NN restraint)))) (. .)))
+
+(S1 (S (CC And) (NP (NP (NP (NNP Gore) (POS 's)) (NN press) (NN secretary)) (, ,) (NP (NNP Chris) (NNP Lehane)) (, ,)) (VP (VBD made) (S (NP (PRP it)) (ADJP (JJ clear)) (PP (IN in) (NP (DT an) (NN interview))) (SBAR (IN that) (S (NP (NNP Gore) (NNS aides)) (VP (VBP do) (RB not) (VP (VB feel) (ADJP (VBN bound) (PP (IN by) (NP (NP (PRP$ their) (NN candidate) (POS 's)) (NN pledge)))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (DT The) (NN governor)) (VP (MD will) (VP (VB be) (VP (VBN held) (PP (TO to) (NP (JJ presidential) (NNS standards))) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ comes) (PP (TO to) (S (VP (VBG describing) (NP (PRP$ his) (NN policy) (NNS views)))))))))))) (, ,) ('' '') (NP (NNP Lehane)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (ADVP (RB Thus) (RB far)) (, ,) (NP (PRP he)) (VP (VBZ has) (RB not) (VP (VBN met) (NP (DT the) (NNP Quayle) (NN standard)))) (. .) ('' '')))
+
+(S1 (S (NP (DT That)) (VP (VBD was) (NP (NP (DT a) (NN reference)) (PP (TO to) (NP (NP (JJ former) (NNP Vice) (NNP President) (NNP Dan) (NNP Quayle)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN renowned) (PP (IN for) (NP (PRP$ his) (JJ verbal) (VBZ slips))) (SBAR (IN while) (S (VP (VBG serving) (PP (IN under) (NP (NP (NNP Bush) (POS 's)) (NN father)))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Similarly)) (, ,) (NP (NP (NNP Mark) (NNP D.) (NNP Fabiani)) (, ,) (NP (NP (NNP Gore) (POS 's)) (NN deputy) (NN campaign) (NN manager)) (, ,)) (VP (VBD told) (NP (NP (NP (NNP CNN) (POS 's)) (`` ``) (JJ Late) (NN Edition) ('' ')) (: ') (NP (NNP Sunday))) (SBAR (IN that) (S (NP (NNP Bush)) (VP (`` ``) (VBD was) (NP (NP (JJ incoherent) (NN _)) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ babbling)) ('' '))))) ('' ') (PP (IN in) (S (VP (VBG trying) (S (VP (TO to) (VP (VB explain) (NP (PRP$ his) (JJ own) (JJ tax-cut) (NN proposal)) (PP (IN at) (NP (NP (DT a) (NNP Saturday) (NN campaign) (NN stop)) (PP (IN in) (NP (NNP Florida))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Gore) (NNS aides)) (VP (VBD said) (SBAR (S (NP (DT the) (NN campaign)) (VP (VBD had) (ADVP (RB long)) (VP (VBN planned) (S (VP (TO to) (VP (VB focus) (NP (NN attention)) (PP (IN on) (NP (NP (NP (NNP Bush) (POS 's)) (NN record)) (PP (IN in) (NP (NP (DT the) (CD four) (NNS weeks)) (PP (IN before) (NP (DT the) (NNP Nov))))))))))))))) (. .)))
+
+(S1 (NP (CD 7) (NN election) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN timing)) (VP (VBZ takes) (PRT (RP on)) (NP (JJ additional) (NN significance)) (PP (PP (IN because) (IN of) (NP (NP (DT the) (VBG continuing) (NN closeness)) (PP (IN of) (NP (NP (DT the) (NN race)) (PP (IN after) (NP (NP (NP (DT the) (NNS candidates) (POS ')) (JJ first) (NN debate)) (NP (JJ last) (NN week)))))))) (CC and) (PP (IN because) (IN of) (NP (NP (DT the) (NNP Bush) (NN campaign) (POS 's)) (NNS efforts) (S (VP (TO to) (VP (VB label) (NP (NNP Gore)) (PP (IN as) (NP (DT a) (`` ``) (JJ serial) (NN exaggerator)))))))))) (. .) ('' '')))
+
+(S1 (S (NP (DT Those) (NNS words)) (VP (VBD were) (VP (VBN used) (NP (NNP Sunday)) (PP (IN by) (NP (NP (NP (NNP Bush) (POS 's)) (JJ chief) (NN strategist)) (, ,) (NP (NNP Karl) (NNP Rove)) (, ,))) (PP (IN in) (NP (NP (DT an) (NN interview)) (PP (IN on) (NP (NNP CNN))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ new) (NNP Gore) (NN offensive)) (VP (MD will) (VP (VB include) (NP (NP (NNP Democratic) (NNP National) (NNP Committee) (NN television) (NNS advertisements)) (PP (IN about) (NP (NP (NP (NP (NNP Bush) (POS 's)) (NN record)) (PP (IN on) (NP (NN health) (NN care)))) (CC and) (NP (DT the) (NN environment))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Several) (NNS advertisements)) (VP (VBN tailored) (PP (TO to) (NP (JJ individual) (NNS cities) (CC and) (NNS states))))) (VP (VBP have) (VP (VBN started) (S (VP (VBG being) (VP (VBN broadcast) (PP (IN in) (NP (NP (VBN selected) (NNS markets)) (PP (IN in) (NP (JJ recent) (NNS days)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (ADJP (RB environmentally) (JJ conscious)) (NNP Seattle))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (NP (CD one) (NN commercial)) (VP (VP (VBZ describes) (NP (NP (DT the) (NN smog)) (PP (IN in) (NP (NNP Houston))))) (CC and) (VP (VBZ implores) (S (NP (NNS viewers)) (VP (TO to) (`` ``) (VP (VP (VB take) (NP (DT a) (JJ deep) (NN breath))) (CC and) (VP (VB imagine) (NP (NNP Seattle)) (PP (IN with) (NP (NP (NNP Bush) (POS 's)) (ADJP (NNP Texas) (JJ -style)) (JJ environmental) (NN regulation))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (DT An) (NN advertisement)) (VP (VBG being) (VP (VBN shown) (PP (IN in) (NP (NNP Iowa)))))) (VP (VBZ compares) (NP (NP (NP (NNP Texas) (POS ')) (JJ national) (NN standing)) (PP (PP (IN in) (NP (NN health) (NN care))) (CC and) (PP (IN in) (NP (NN student) (NN test) (NNS scores))))) (PP (IN with) (NP (NP (NNP Iowa) (POS 's)) (JJR higher) (NNS rankings)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (S (NP (NNP Lieberman)) (VP (MD will) (VP (VB be) (VP (VBN dispatched) (PP (TO to) (NP (NNP Texas))) (PP (IN for) (NP (NP (DT a) (`` ``) (JJ failed) (NN leadership) (NN tour) ('' ')) (: ') (NP (DT this) (NN week)))))))) (, ,) (CC and) (S (NP (NNP Andrew)) (VP (MD will) (VP (VB hold) (NP (NP (DT a) (NN news) (NN conference)) (PP (IN on) (NP (NP (DT the) (NN subject)) (ADVP (RB here)))) (PP (IN on) (NP (NNP Monday))))))) (. .)))
+
+(S1 (SINV (S (NP (NP (JJ Other) (NNS surrogates)) (, ,) (PP (VBG including) (NP (NP (NNS members)) (PP (IN of) (NP (NNP Congress))))) (, ,)) (ADVP (RB also)) (VP (MD will) (VP (VB be) (VP (VBN used))))) (, ,) (VP (VBD said)) (NP (NP (NNP Douglas) (NNP Hattaway)) (, ,) (NP (DT a) (NNP Gore) (NN spokesman))) (. .)))
+
+(S1 (PRN (-LRB- -LRB-) (S (NP (NNP STORY)) (VP (MD CAN) (VP (VB END) (ADVP (RB HERE)) (S (VP (VBG _) (NP (JJ OPTIONAL) (NN MATERIAL) (VBZ FOLLOWS))))))) (-RRB- -RRB-)))
+
+(S1 (S (NP (DT This)) (VP (VBZ is) (RB not) (NP (NP (DT a) (JJ new) (NN role)) (PP (IN for) (NP (NNP Lieberman))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD traveled) (PP (TO to) (NP (NNP Houston))) (PP (IN in) (NP (JJ late) (NNP September))) (S (VP (TO to) (VP (VB attack) (NP (NP (NNP Bush) (POS 's)) (JJ environmental) (NN record)) (PP (IN at) (NP (NP (DT a) (NN park)) (PP (IN in) (NP (NP (DT the) (NN shadow)) (PP (IN of) (NP (DT an) (NN oil) (NN refinery))))))))))) (. .)))
+
+(S1 (S (NP (NNP Lieberman)) (VP (VBD provided) (NP (DT a) (NN preview)) (NP (NNP Sunday)) (PP (IN by) (S (VP (VBG faulting) (NP (NP (NNP Bush) (POS 's)) (UCP (JJ environmental) (CC and) (NN health-care)) (NNS records)) (PP (IN in) (NP (NP (DT an) (NN interview)) (PP (IN on) (NP (NNP CNN))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (DT The) (NN fact)) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (NP (NNP George) (NNP Bush) (POS 's)) (NN record)) (PP (IN on) (NP (DT the) (NN environment))) (PP (IN in) (NP (NNP Texas)))) (VP (VBZ is) (ADJP (JJ horrible))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP They)) (VP (VBP have) (ADVP (RBS most) (RB toxically)) (NP (NP (JJ polluted) (NN air)) (PP (IN in) (NP (NNP America))))) (. .)))
+
+(S1 (S (NP (NNP Houston)) (VP (VBZ is) (NP (DT the) (JJS dirtiest) (NN city))) (. .)))
+
+(S1 (S (NP (NP (NNS Kids)) (PP (IN in) (NP (NNP Houston)))) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (PRP they)) (VP (MD can) (VP (VB go) (PRT (RP out)) (S (VP (TO to) (VP (VB play) (NP (DT every) (NN day)) (SBAR (IN until) (S (NP (NP (DT the) (NN school) (NNS officials)) (CC or) (NP (DT the) (JJ local) (NNS officials))) (VP (VB check) (NP (DT the) (NN air) (NN quality)))))))))))))) (. .) ('' '')))
+
+(S1 (S (S (PP (IN In) (NP (NP (NN addition)) (PP (TO to) (S (VP (VBG drawing) (NP (NN attention)) (PP (TO to) (NP (NP (NP (NP (NNP Bush) (POS 's)) (NN record)) (PP (IN on) (NP (NN health) (NN care)))) (CC and) (NP (DT the) (NN environment))))))))) (, ,) (NP (DT the) (NNP Gore) (NNS surrogates)) (VP (VBP are) (ADVP (RB also)) (VP (VBN expected) (S (VP (TO to) (VP (VB discuss) (NP (NP (NP (NNP Bush) (POS 's)) (NN approval)) (PP (IN of) (NP (NP (NN legislation)) (VP (VBG permitting) (NP (NP (DT the) (NN carrying)) (PP (IN of) (NP (VBN concealed) (NNS weapons)))))))) (PP (IN in) (NP (NP (NNS churches)) (, ,) (NP (NNS hospitals)) (CC and) (NP (NN nursing) (NNS homes)))))))))) (, ,) (NP (NNP Gore) (NNS aides)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NNP Gore) (NN campaign)) (, ,) (PP (VBG according) (PP (TO to) (NP (NNS aides)))) (, ,) (VP (VP (MD will) (VP (VB issue) (NP (JJ regular) (NN press) (NNS releases)) (S (VP (VBG highlighting) (NP (NP (NNP Bush) (POS 's)) (JJ tortured) (NN syntax)))))) (CC and) (VP (MD will) (VP (VB feature) (NP (JJ recent) (NNS examples)) (PP (IN on) (NP (PRP$ its) (NNP Web) (NN site))) (, ,) (PP (IN like) (NP (NP (PRP$ his) (JJ disjointed) (NN description)) (PP (IN of) (NP (PRP$ his) (NN tax) (NN plan))) (PP (IN on) (NP (NNP Saturday)))))))) (. .)))
+
+(S1 (SINV (S (NP (DT The) (NNP Democratic) (NNP National) (NNP Committee)) (VP (VBZ is) (VP (VBG issuing) (NP (NP (JJ similar) (NNS releases)) (PP (IN by) (NP (NN fax) (CC and) (NN e-mail) (NNS messages))) (, ,) (VP (VBN called) (S (`` ``) (NP (NNP Bush) (NNP Lite)))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Jennifer) (NNP Backus)) (, ,) (NP (DT a) (NN party) (NN spokeswoman))) (. .)))
+
+(S1 (S (NP (NNP Lehane)) (, ,) (S (VP (VBG adopting) (NP (NP (DT a) (NN snippet)) (PP (IN of) (NP (DT the) (JJ vulgar) (NN phrase))) (SBAR (IN that) (S (NP (NNP Bush)) (VP (VBD used) (S (VP (TO to) (VP (VB describe) (NP (DT a) (NN reporter)) (NP (JJ last) (NN month))))))))))) (, ,) (VP (VBD said) (SBAR (IN that) (`` ``) (S (NP (NNP Bush)) (VP (VBZ has) (VP (VBN shown) (NP (NP (DT a) (JJ consistent) (NN pattern)) (PP (IN of) (S (VP (VBG making) (NP (JJ major-league) (NNS mistakes)) ('' ') (S (VP (POS ') (SBAR (WHADVP (WRB when)) (S (VP (VBG trying) (S (VP (TO to) (VP (VB explain) (NP (PRP$ his) (NNS policies))))))))))))))))))) (. .)))
+
+(S1 (NP (QP (CD NYT-10-08-00) (CD 2113EDT))))
+

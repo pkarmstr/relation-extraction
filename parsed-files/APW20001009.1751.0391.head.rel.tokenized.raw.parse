@@ -1,0 +1,56 @@
+(S1 (NP (NP (CD APW20001009.1751.0391) (NN NEWS) (NN STORY)) (QP (CD 2000-10-09) (CD 17:51:42))))
+
+(S1 (NP (NN France-Fashion)))
+
+(S1 (S (NP (NNP Rabanne) (NNP Fashion)) (VP (VBZ Has) (NP (JJ Silver) (NN Lining)))))
+
+(S1 (S (NP (NP (NNP PARIS)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (NP (NP (NNP Paco) (NNP Rabanne) (POS 's)) (NNP Monday) (NN show)) (PP (IN of) (NP (NP (JJ ready-to-wear)) (PP (IN for) (NP (NN summer) (CD 2001)))))) (VP (VBD was) (ADJP (JJ shiny) (, ,) (JJ young) (CC and) (JJ happy)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD decided) (SBAR (IN that) (S (NP (NN fashion)) (VP (VBZ has) (NP (DT a) (NN silver) (NN lining)) (NP (NNP _) (CC and) (NNP exterior)) (, ,) (ADVP (RB as) (RB well)))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN designer)) (VP (VBD was) (VP (VBN expected) (S (VP (TO to) (VP (VB retire) (ADVP (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS seasons)))) (RB ago)))))))) (, ,) (CC but) (S (NP (PRP he)) (ADVP (RB only)) (VP (VP (VBD gave) (PRT (RP up)) (NP (JJ haute) (NN couture))) (, ,) (CC and) (VP (VBD threw) (NP (NP (PRP$ his) (JJ well-known) (NNS talents)) (PP (IN for) (NP (NN chain-mail) (CC and) (NNS sequins)))) (PP (IN into) (NP (NN boutique) (NNS clothes)))))) (. .)))
+
+(S1 (S (PP (IN With) (NP (DT a) (NN waterfall) (NN background))) (, ,) (NP (NP (NP (DT the) (NNS models)) (VP (VBN paraded) (PP (IN by) (PP (IN in) (NP (NP (NN gold)) (CC or) (NP (JJ silver) (NN disc) (NNS dresses))))))) (, ,) (NP (JJ super) (JJ slithery) (JJ silver) (NN metallic) (NNS bikinis)) (, ,)) (VP (VBZ wraps) (NP (CC and) (NP (JJ micro-mini) (NNS dresses)) (CC or) (NP (JJ hot) (NNS pants)))) (. .)))
+
+(S1 (S (PP (RB Well) (IN over) (NP (CD sixty))) (, ,) (NP (NNP Rabanne)) (ADVP (RB still)) (VP (VBZ has) (NP (NP (DT an) (NN eye)) (PP (IN for) (NP (DT the) (JJR younger) (NN circuit))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ smooth) (JJ caramel) (NN imitation) (NN leather) (NN outfits)) (PP (IN with) (NP (NNS nailheads)))) (VP (VBD _) (SBAR (S (NP (NP (NNS jackets)) (, ,) (NP (VBN flared) (NNS pants)) (CC and) (NP (JJR more) (NNS _))) (VP (VBD were) (ADJP (JJ remarkable)))))) (. .)))
+
+(S1 (SINV (ADVP (RB Also)) (ADJP (JJ entertaining)) (VP (VBD was)) (NP (NP (DT the) (NN bikini)) (PP (IN in) (NP (JJ tortoise-shell-patterned) (NN plastic) (NNS discs)))) (. .)))
+
+(S1 (S (NP (JJ Bare) (NNS midriffs) (CC and) (NNS trousers)) (VP (VP (VBN flared)) (CC and) (VP (VBD split) (ADJP (JJ halfway) (SBAR (S (NP (RB up) (DT the) (NN leg)) (VP (VBD looked) (ADJP (JJ zingy)))))))) (. .)))
+
+(S1 (S (S (PP (IN Of) (NP (NN course))) (, ,) (NP (EX there)) (VP (VBD were) (NP (JJ hot) (NNS pants)) (, ,) (PP (IN in) (NP (NP (JJ glitzy) (NNS metallics)) (CC and) (NP (JJ soft) (NN leather)))))) (, ,) (CC and) (S (NP (EX there)) (VP (VBD were) (NP (NP (NN metal) (NN hip) (NNS belts)) (CC or) (NP (JJ breastplate) (JJ neckwear) (NN galore))))) (. .)))
+
+(S1 (S (NP (NP (NN Softwear)) (ADVP (RB here))) (VP (VBD included) (NP (NP (NNS geometrics)) (PP (IN on) (NP (JJ striped) (NNS minis)))) (PP (IN in) (NP (NP (JJ little) (NN crepe)) (CC or) (NP (JJ organza) (NNS dresses)))) (, ,) (S (NP (NP (DT some) (JJ good) (NN trouser) (NN outfits)) (PP (IN with) (NP (NN plastic) (CC or) (NN metal)))) (VP (VBG adorning) (NP (JJ halter-neck) (NNS toppers))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (JJ eye-popping) (NNS specials))) (, ,) (NP (NNP Rabanne)) (VP (VBD came) (PRT (RP out)) (PP (IN with) (NP (NP (JJ plenty)) (PP (IN of) (NP (JJ fluorescent) (NN green) (CC and) (NN orange) (, ,) (RB quite) (NN fun))))) (PP (IN for) (NP (NP (DT the) (NN disco)) (PP (IN in) (NP (NP (DT a) (JJ rhodoid) (JJ disc-decorated) (NN minidress)) (PP (IN with) (NP (VBG matching) (NN bag)))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ long) (UCP (JJ silky) (CC and) (JJ tulle)) (JJ black) (NN ballerina) (NNS outfits)) (VP (VBD were) (NP (DT a) (JJ sober) (NN note)) (, ,) (SBAR (IN though) (S (NP (DT the) (NNS sandals)) (VP (VBD were) (ADJP (JJ interesting)) (ADVP (NP (CD _) (NNS heels)) (RB only)) (, ,) (PP (VBG clinging) (PP (TO to) (NP (NP (DT the) (NN foot)) (, ,) (PP (IN with) (NP (NP (DT a) (NN ring)) (PP (IN on) (NP (DT a) (NN toe)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Dries) (NNP van) (NNP Noten)) (ADVP (RB also)) (VP (VBD produced) (NP (NP (DT an) (JJ amusing) (, ,) (JJ appealing) (NN collection)) (SBAR (WHNP (WDT that)) (S (VP (VBD stood) (PP (IN as) (NP (DT a) (JJ feminine) (NN moment)))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN flowered)) (VP (VBZ skirts) (PP (IN in) (NP (NN sun) (NNS pleats))))) (, ,) (NP (NP (DT the) (JJ interesting) (JJ striped) (NNS jackets)) (PP (IN in) (NP (JJ Indian) (NN silk))) (, ,) (VP (VBD teamed) (PP (IN with) (NP (JJ shiny) (ADJP (JJ black) (CC and) (JJ white)) (NN patent) (JJ high-heeled) (NNS pumps)))) (, ,)) (VP (VBD looked) (UCP (RB partly) (ADVP (RB retro)) (, ,) (CC but) (ADJP (RB eminently) (JJ wearable)))) (. .)))
+
+(S1 (S (NP (NP (JJ Low-keyed) (NN glamour)) (ADVP (RB here))) (VP (VBD included) (NP (NP (JJR flapper) (NNS looks)) (PP (IN in) (NP (JJ low-belted) (NN outfits))) (PP (IN with) (NP (JJ short) (JJ pleated) (VBZ skirts) (, ,) (NP (NP (DT some) (JJ super) (JJ sailor) (JJ -style) (NN trouser) (NN outfits)) (PP (IN with) (NP (NP (JJ fluid) (NN ivory)) (CC or) (NP (JJ white) (NNS pants))))) (CC and) (NP (NP (JJ little) (NNS jackets)) (CC and) (NP (JJ striped) (NNS shirts))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Prints)) (PP (IN for) (NP (DT the) (NNP georgette) (NNS crepes) (CC and) (NNS chiffons)))) (VP (VBD were) (VP (ADVP (RB often)) (JJ wonderful))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD looked) (PP (IN like) (NP (NP (NNS watercolors)) (PP (IN of) (NP (NNS arbors) (CC or) (NN fantasy) (NNS flowers)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Ruffles)) (VP (VBG peeping) (ADVP (RB out) (RB here) (CC and) (RB there)) (PP (PP (IN from) (NP (NNP skirts))) (CC or) (PP (IN on) (NP (NNS tops)))))) (VP (VBD added) (NP (JJR more) (JJ feminine) (NNS touches))) (. .)))
+
+(S1 (S (NP (NP (NNS Dresses)) (PP (IN in) (NP (NP (JJ hibiscus-embroidered) (NNS fabrics)) (, ,) (NP (NP (JJ large) (NN chiffon) (NNS shawls)) (PP (IN with) (NP (JJ floral) (NNS embroideries)))) (, ,) (NP (JJ boxy) (NN silk) (NNS jackets)) (CC and) (NP (DT the) (JJ hipster) (NNS pants))))) (DT all) (VP (VBN made) (PP (IN for) (NP (DT a) (JJ fine) (NN offering)))) (. .)))
+
+(S1 (S (NP (NP (NNP Gaspard) (NNP Yurkievitch)) (, ,) (NP (DT a) (JJ young) (NNP French) (NN designer)) (, ,) (VP (VBG showing) (PP (IN in) (NP (DT the) (NNP Petit) (NNP Palais)))) (, ,)) (VP (MD could) (VP (VB make) (NP (NP (DT the) (NN grade)) (PP (IN in) (NP (DT some) (NNS stores)))) (PP (IN with) (NP (NP (PRP$ his) (JJ offhand) (NNS styles)) (SBAR (SBAR (WHNP (WDT that)) (S (NP (DT some)) (VP (VBP find) (ADJP (JJ cool))))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBD lacked) (NP (NN sex) (NN appeal)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ black) (NN bathing) (NN suit)) (PP (IN with) (NP (NP (DT a) (NNP fawn) (NN suede) (NN jacket)) (PP (IN with) (NP (NN nailhead) (VBZ snaps)))))) (VP (VBD was) (VP (VBN followed) (PP (IN by) (NP (JJ skinny) (NNP fawn) (NNS trousers))) (PP (IN with) (S (NP (NP (NN plenty)) (PP (IN of) (NP (JJ bare) (NN midriff)))) (VP (VBG showing) (PP (IN under) (NP (DT the) (JJ black) (NN bra)))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Then)) (NP (NNS things)) (VP (VBD went) (PP (IN into) (NP (DT the) (JJ puffy) (, ,) (JJ baggy) (NNS lines))))) (, ,) (NP (DT the) (JJS latest) (JJ look-back-to-Eighties) (NNS styles)) (VP (VBN seen) (PP (IN on) (NP (DT some) (NNS runways)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN cotton) (NNS satins)) (CC and) (NP (JJ other) (NNS fabrics)))) (, ,) (NP (NNP Yurkievitch)) (VP (VBD showed) (NP (NP (NNS pants)) (PP (IN with) (NP (NN baggy) (NNS bottoms)))) (, ,) (S (VP (VBZ skirts) (PP (IN with) (NP (NP (JJ bubbly) (NNS effects)) (CC and) (NP (NP (DT some) (JJ odd) (NNS ruffles)) (PP (IN around) (NP (NNS armholes))))))))) (. .)))
+
+(S1 (S (NP (DT These)) (ADVP (RB often)) (VP (VBD came) (PP (IN in) (NP (NP (NNS colors)) (PP (IN like) (NP (JJ magenta) (CC or) (JJ brown)))))) (. .)))
+
+(S1 (S (NP (RB Even) (NP (NN harem) (NNS pants)) (CC or) (NP (NP (DT a) (ADJP (RB totally) (JJ topless)) (NN number)) (PP (IN with) (NP (NP (JJ lacy) (JJ black) (NNS pants)) (CC and) (NP (NN bikini) (NNS bottoms)))))) (VP (VBD failed) (S (VP (TO to) (VP (VB lure))))) (. .)))
+

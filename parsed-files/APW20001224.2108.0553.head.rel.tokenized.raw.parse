@@ -1,0 +1,24 @@
+(S1 (NP (NP (CD APW20001224.2108.0553) (NN NEWS) (NN STORY)) (QP (CD 2000-12-24) (CD 22:02:08))))
+
+(S1 (NP (NNS Iran-Jews)))
+
+(S1 (S (NP (NP (NN Treatment)) (PP (IN of) (NP (NNP Non-Muslims)))) (ADJP (VBN Questioned))))
+
+(S1 (S (S (NP (NP (NNP TEHRAN)) (, ,) (NP (NP (NP (NNP Iran) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-)) (NNP _) (NNP Iran) (POS 's)) (JJ only) (JJ Jewish) (NN legislator)) (PP (IN on) (NP (NNP Sunday))))) (VP (VBD criticized) (NP (NP (DT the) (NN treatment)) (PP (IN of) (NP (NP (NNS non-Muslims)) (PP (IN in) (NP (DT the) (NN country)))))))) (, ,) (NP (DT the) (NNP Islamic) (NNP Republic) (NNP News) (NNP Agency)) (VP (VBD reported)) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP I)) (VP (VBP call) (PRT (RP on)) (S (NP (DT the) (NNP Muslim)) (NP (NP (JJ religious) (NNS leaders)) (CC and) (NP (NP (DT the) (NNS officials)) (PP (IN of) (NP (DT the) (NN judiciary) (S (VP (TO to) (VP (VB pay) (NP (JJR more) (NN attention)) (PP (TO to) (NP (NP (DT the) (NNS rights)) (PP (IN of) (NP (JJ non-Muslim) (NNS families))))) (ADVP (ADVP (RB as) (RB far)) (SBAR (IN as) (S (NP (NP (NP (NNS issues)) (PP (JJ such) (IN as) (NP (NN blood) (NN money)))) (CC and) (NP (NP (DT the) (NNS verdicts)) (PP (IN of) (NP (DT the) (NNS courts))))) (VP (VBP are) (VP (VBN concerned)))))))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Maurice) (NNP Motamed)) (, ,) (NP (NP (DT the) (JJ sole) (JJ Jewish) (NN representative)) (PP (IN in) (NP (NP (NNP Iran) (POS 's)) (JJ 290-seat) (NN parliament))))) (. .)))
+
+(S1 (S (NP (NP (NNP Iran) (POS 's)) (JJ criminal) (NNS laws) (NN award)) (ADVP (RB twice) (PP (IN as) (NP (JJ much) (NN blood) (NN money)))) (VP (VBD _) (NP (NP (JJ financial) (NN compensation)) (PP (TO to) (NP (NP (DT a) (NN murder) (NN victim) (POS 's)) (NN family) (NNS _)))) (PP (TO to) (NP (NNPS Muslims)) (PP (IN than) (PP (TO to) (NP (NNS non-Muslims)))))) (. .)))
+
+(S1 (S (NP (NNP Motamed)) (, ,) (S (VP (VBG speaking) (PP (IN during) (NP (DT a) (NN session))) (PP (IN at) (NP (NP (DT the) (NNPS Majlis)) (, ,) (CC or) (NP (NN parliament)))))) (, ,) (ADVP (RB also)) (VP (VBD criticized) (NP (NN government) (NN recruitment) (NNS policies))) (. .)))
+
+(S1 (S (NP (NNP Iran)) (VP (VBZ maintains) (SBAR (IN that) (S (NP (NP (DT all)) (PP (IN of) (NP (PRP$ its) (NNS citizens)))) (, ,) (ADVP (RB regardless) (PP (IN of) (NP (PRP$ their) (NN race) (CC or) (NN religion)))) (, ,) (VP (VBP enjoy) (NP (JJ equal) (NNS rights)))))) (. .)))
+
+(S1 (S (NP (JJ Iranian) (NNPS Jews)) (VP (VP (VBP are) (VP (VBN allowed) (S (VP (TO to) (VP (VB practice) (NP (NP (NNS aspects)) (PP (IN of) (NP (PRP$ their) (NN religion))))))))) (CC but) (VP (VBP are) (VP (VBN forbidden) (S (VP (TO to) (VP (VB teach) (NP (NNP Hebrew)))))))) (. .)))
+
+(S1 (S (S (NP (EX There)) (VP (VBD were) (NP (NP (CD 80,000) (NNPS Jews)) (PP (IN in) (NP (NNP Iran)))) (PP (ADVP (RB just)) (IN before) (NP (DT the) (CD 1979) (NNP Islamic) (NN revolution))))) (, ,) (CC but) (S (NP (DT the) (NN community)) (VP (VBZ has) (VP (VBD dwindled) (PP (TO to) (NP (CD 25,000)))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ remains) (S (NP (NP (DT the) (JJS largest) (JJ Jewish) (NN community)) (PP (IN in) (NP (DT the) (NNP Middle) (NNP East)))) (PP (IN outside) (NP (NNP Israel))))) (. .)))
+
+(S1 (S (NP (NNP Iran)) (VP (VBD came) (PP (IN under) (NP (JJ intense) (JJ international) (NN pressure))) (NP (JJ last) (NN year)) (SBAR (IN after) (S (NP (PRP it)) (VP (VP (VBN arrested) (NP (CD 13) (NNP Iranian) (NNPS Jews))) (CC and) (VP (ADVP (RB later)) (VBN convicted) (NP (CD 10)) (PP (IN of) (S (VP (VBG spying) (PP (IN for) (NP (NNP Israel))))))))))) (. .)))
+

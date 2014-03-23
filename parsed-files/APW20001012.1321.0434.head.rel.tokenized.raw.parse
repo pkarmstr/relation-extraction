@@ -1,0 +1,28 @@
+(S1 (NP (NP (CD APW20001012.1321.0434) (NN NEWS) (NN STORY)) (QP (CD 2000-10-12) (CD 13:36:03))))
+
+(S1 (NP (NNP Detective-Slain)))
+
+(S1 (FRAG (NP (NN Cop)) (, ,) (VP (VB Suspect) (NP (JJ Fatally) (NN Shot)) (PP (IN at) (NP (NNP Station))))))
+
+(S1 (S (NP (NP (NNP WARREN)) (, ,) (NP (NNP Mich.)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (NP (DT A) (NN detective)) (CC and) (NP (DT a) (NN drug) (NN suspect))) (VP (VBD were) (RB fatally) (VP (VBN wounded) (PP (IN during) (NP (DT a) (NN struggle))) (SBAR (IN while) (S (NP (DT the) (NN officer)) (VP (VBD was) (VP (VBG booking) (NP (PRP him)) (PP (IN at) (NP (NN police) (NNS headquarters)))))))))))) (. .)))
+
+(S1 (S (NP (NNS Officers)) (VP (VBD said) (SBAR (S (NP (NNS investigators)) (VP (VBD were) (VP (VBG reviewing) (NP (NP (DT a) (NN videotape)) (PP (IN of) (NP (NP (DT the) (NN lockup) (NN area)) (PP (IN in) (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB figure) (PRT (RP out)) (NP (NP (DT the) (NN sequence)) (PP (IN of) (NP (NP (NNS events)) (SBAR (WHNP (WDT that)) (S (VP (VBD led) (PP (TO to) (NP (DT the) (VBG shooting) (NNP Wednesday) (NN evening)))))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (NN Detective) (NNP Christopher) (NNP Wouters)) (VP (VBD had) (VP (VBN arrested) (NP (DT a) (NN suspect)) (PP (IN on) (NP (NN drug) (NNS charges)))))) (, ,) (NP (NNP Warren) (NN police) (NNP Chief) (NNP James) (NNP Vohs)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT Both)) (VP (VBD were) (VP (VBN wounded) (PP (IN around) (NP (CD 6:30) (NN p.m))))) (. .)))
+
+(S1 (S (SBAR (IN after) (S (S (NP (DT the) (NN man)) (`` ``) (VP (VBD produced) (NP (DT a) (NN gun)))) (CC and) (S (NP (EX there)) (VP (VBD was) (NP (DT a) (NN struggle)))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNS Authorities)) (VP (VBD did) (RB not) (ADVP (RB immediately)) (VP (VB say) (SBAR (IN whether) (S (NP (DT the) (NN gun)) (VP (VBD belonged) (PP (TO to) (NP (NP (DT the) (NN detective)) (CC or) (NP (DT the) (NN suspect))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Wouters)) (, ,) (NP (CD 42)) (, ,)) (VP (VBD died) (ADVP (NP (DT an) (NN hour)) (RB later)) (PP (IN at) (NP (NNP St.) (NNP John) (NNP Macomb) (NNP Hospital)))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN suspect)) (VP (VBD died) (NP (RB later) (DT the) (JJ same) (NN night)))) (, ,) (NP (NP (NN hospital) (NN spokeswoman)) (NP (NNP Rebecca) (NNP O') (NNP Grady))) (VP (VBD said) (NP (NNP Thursday))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN name)) (VP (VBD was) (RB n't) (VP (VBN released))) (. .)))
+
+(S1 (S (NP (NNS Vohs)) (VP (VBD described) (NP (NP (NNP Wouters)) (, ,) (NP (DT a) (JJ 19-year) (NN veteran)) (, ,)) (PP (IN as) (NP (NP (DT a) (JJ good) (NN officer)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD was) (VP (VBN married))) (CC and) (VP (VBD had) (NP (CD two) (JJ young) (NNS daughters))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT the) (JJ first) (NN time)) (PP (IN since) (NP (CD 1969))) (SBAR (IN that) (S (NP (DT an) (NN officer)) (VP (VBZ has) (VP (VBN been) (VP (VBN killed) (PP (IN in) (NP (NP (DT the) (NN line)) (PP (IN of) (NP (NN duty))))) (PP (IN in) (NP (NP (NNP Warren)) (, ,) (NP (DT a) (ADJP (JJ large) (JJ blue-collar)) (NNP Detroit) (NN suburb))))))))))) (. .)))
+

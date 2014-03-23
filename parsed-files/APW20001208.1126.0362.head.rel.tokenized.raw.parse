@@ -1,0 +1,50 @@
+(S1 (NP (NP (CD APW20001208.1126.0362) (NN NEWS) (NN STORY)) (QP (CD 2000-12-08) (CD 11:30:15))))
+
+(S1 (NP (NN Russia-Anthem)))
+
+(S1 (ADJP (JJ Russian) (S (VP (TO To) (VP (VB Restore) (NP (NNP Soviet) (NNP Anthem)))))))
+
+(S1 (S (NP (NP (NNP MOSCOW)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (NP (JJ Russian) (NNS lawmakers)) (PP (IN on) (NP (NNP Friday)))) (VP (ADVP (RB overwhelmingly)) (VBD approved) (NP (DT the) (JJ Soviet) (NN anthem)) (PP (IN as) (NP (NP (NNP Russia) (POS 's)) (JJ national) (JJ hymn) (NN _))) (NP (NP (DT a) (NN move)) (VP (VP (VBN praised) (PP (IN by) (NP (DT some))) (PP (IN as) (NP (NP (DT a) (NN gesture)) (PP (IN of) (NP (NN reconciliation)))))) (CC and) (VP (VBN denounced) (PP (IN by) (NP (NNS others))) (PP (IN as) (NP (NP (DT a) (JJ symbolic) (NN approval)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (JJ totalitarian) (NN past)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP State) (NNP Duma)) (, ,) (CC or) (NP (NP (JJR lower) (NN house)) (PP (IN of) (NP (NN parliament)))) (, ,)) (VP (VBD voted) (NP (CD 381-51)) (S (VP (TO to) (VP (VB approve) (NP (NP (DT the) (NN bill)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADVP (RB strongly)) (VP (VBN backed) (PP (IN by) (NP (NNP President) (NNP Vladimir) (NNP Putin)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN move)) (VP (VBD restored) (NP (NP (NP (NP (DT the) (JJ old) (NN anthem) (POS 's)) (NN music)) (PP (IN by) (NP (NN composer) (NNP Alexander) (NNP Alexandrov)))) (CC but) (RB not) (NP (NP (DT the) (JJ original) (NN text)) (SBAR (WHNP (WDT that)) (S (VP (VBD included) (NP (NN praise)) (PP (IN for) (NP (NNP Communist) (NNS leaders) (NNP Vladimir) (NNP Lenin) (CC and) (NNP Josef) (NNP Stalin))))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (DT the) (JJ same) (JJ strong) (NN majority))) (, ,) (NP (DT the) (NNP Duma)) (VP (VBD approved) (NP (NP (NN legislation)) (VP (ADVP (RB formally)) (VBG endorsing) (NP (NP (DT the) (NN country) (POS 's)) (JJ current) (JJ white-red-and-blue) (NN flag)))) (PP (IN as) (NP (NP (NNP Russia) (POS 's)) (JJ official) (NN flag)))) (. .)))
+
+(S1 (S (NP (DT That) (NN legislation)) (ADVP (RB also)) (VP (VP (VBZ brings) (PRT (RP back)) (NP (DT the) (JJ Soviet) (JJ -era) (JJ red) (NN banner)) (PP (IN as) (NP (NP (DT the) (NN military) (POS 's)) (NN flag)))) (CC and) (VP (VBZ retains) (NP (DT the) (ADJP (NNP Czarist) (JJ double-headed)) (NNP eagle)) (PP (IN as) (NP (DT the) (NN state) (NN emblem))))) (. .)))
+
+(S1 (S (NP (NNP Putin)) (VP (VBZ has) (VP (VBN said) (SBAR (S (NP (NP (DT the) (NN mixture)) (PP (IN of) (NP (JJ old) (UCP (NNP Russian) (CC and) (NNP Soviet)) (NNS symbols)))) (VP (MD would) (VP (VB mend) (NP (NP (JJ bitter) (NNS rifts)) (PP (IN in) (NP (NN society)))) (PP (IN by) (S (VP (VBG paying) (NP (NP (NN tribute)) (PP (TO to) (NP (NP (DT the) (JJ positive) (NN heritage)) (PP (IN of) (NP (DT both) (NNS periods))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD referred) (PP (TO to) (NP (NP (NN opinion) (NNS polls)) (VP (VBG showing) (SBAR (IN that) (S (NP (JJS most) (NNS people)) (VP (VBP prefer) (NP (NP (NNP Alexandrov) (POS 's)) (NN music)) (PP (TO to) (NP (NP (DT a) (NN melody)) (PP (IN by) (NP (NP (JJ 19th-century) (NN composer) (NNP Mikhail) (NNP Glinka)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN been) (NP (NP (NNP Russia) (POS 's)) (NN anthem)) (PP (IN since) (NP (DT the) (CD 1991) (NNP Soviet) (NN collapse)))))))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Liberal) (NNS politicians) (CC and) (JJ many) (JJ leading) (JJ cultural) (NNS figures)) (VP (VBP have) (VP (ADVP (RB strongly)) (VBN opposed) (NP (NP (DT the) (NN reinstatement)) (PP (IN of) (NP (DT the) (JJ Soviet) (NN anthem)))) (, ,) (S (VP (VBG saying) (SBAR (S (NP (PRP it)) (VP (VBN symbolized) (NP (JJ political) (NN repression))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP We)) (ADVP (RB strongly)) (VP (VB protest) (PP (IN against) (NP (NP (DT the) (JJ Stalinist) (NN anthem)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN stained) (PP (IN by) (NP (NP (DT the) (NN blood)) (PP (IN of) (NP (NP (NNS millions)) (PP (IN of) (NP (NNS victims))))))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Grigory) (NNP Yavlinsky)) (, ,) (NP (NP (DT the) (NN head)) (PP (IN of) (NP (DT the) (JJ liberal) (NNP Yabloko) (NN faction))))) (. .)))
+
+(S1 (S (NP (NP (NNP Yabloko)) (CC and) (NP (NP (DT another) (JJ liberal) (NN faction)) (, ,) (NP (NP (DT the) (NNP Union)) (PP (IN of) (NP (NNP Right) (NNPS Forces)))) (, ,))) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD might) (VP (VB appeal) (S (NP (NNP Friday) (POS 's)) (VP (VB vote) (PP (IN in) (NP (DT the) (JJ Constitutional) (NN Court)))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP Duma)) (ADVP (RB usually)) (VP (VBZ hears) (NP (NP (NNS speeches)) (PP (IN by) (NP (NN faction) (NNS leaders)))) (PP (IN before) (NP (DT a) (NN vote))))) (, ,) (CC but) (S (NP (DT this) (NN time)) (NP (NNS lawmakers)) (VP (VBD skipped) (SBAR (S (NP (DT the) (NN debate)) (VP (VBZ _) (NP (NP (DT a) (NN move)) (SBAR (S (NP (DT the) (NNS liberals)) (VP (VBD described) (PP (IN as) (NP (DT a) (JJ procedural) (NN violation)))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (PP (IN For) (NP (DT the) (JJ first) (NN time))) (, ,) (NP (DT the) (NN opposition)) (VP (VBD was) (VP (VBN refused) (NP (DT the) (NN right) (S (VP (TO to) (VP (VB speak) (PRT (RP out))))))))) (, ,) ('' '') (NP (NNP Yavlinsky)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (DT The) (JJ presidential) (NN administration) (CC and) (NNPS Communists)) (VP (VBD were) (ADJP (JJ afraid) (PP (IN of) (NP (NP (PRP$ our) (NNS arguments)) (PP (IN against) (NP (DT the) (JJ Soviet) (NN anthem))))))) (. .) ('' '')))
+
+(S1 (S (NP (JJ Former) (NNP President) (NNP Boris) (NNP Yeltsin)) (VP (VBZ has) (VP (VBN joined) (NP (NP (JJ other) (NNS critics)) (PP (IN of) (NP (DT the) (NN move) (S (VP (TO to) (VP (VB restore) (NP (DT the) (NN anthem)))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (PP (IN in) (NP (NP (DT an) (NN interview)) (VP (VBN published) (NP (NNP Friday))))) (PP (IN in) (NP (DT the) (JJ daily) (NNP Komsomolskaya) (NNP Pravda))) (SBAR (IN that) (S (NP (DT the) (JJ solemn) (NN music)) (VP (VBZ recalls) (NP (NP (NNP Communist) (NNP Party) (NNS congresses)) (, ,) (RB not) (NP (NP (JJ Soviet) (NNS sports) (NNS victories)) (CC and) (NP (NNS achievements)))) (PP (IN in) (NP (NN space))) (, ,) (SBAR (IN as) (S (NP (NNP Putin)) (VP (VBD had) (VP (VBN said))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB categorically)) (PP (IN against) (NP (NP (DT the) (NN restoration)) (PP (IN of) (NP (DT the) (JJ Soviet) (NN anthem))))))) (, ,) ('' '') (NP (NNP Yeltsin)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNPS Communists)) (CC and) (NP (JJ other) (NNS hard-liners))) (VP (VBD had) (VP (VBN opposed) (NP (NP (DT the) (NN tricolor) (NN flag)) (CC and) (NP (DT the) (NNP eagle))) (PP (IN as) (NP (NP (DT a) (NN vestige)) (PP (IN of) (NP (DT the) (NNS Czars))))) (, ,) (S (VP (VBG forcing) (S (NP (NNP Yeltsin)) (VP (TO to) (VP (VB approve) (NP (PRP them)) (PP (IN by) (NP (NN decree)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP they)) (VP (VBD agreed) (S (VP (TO to) (VP (VP (VB abandon) (NP (PRP$ their) (NN criticism))) (CC and) (VP (VB back) (NP (NP (JJ formal) (NN approval)) (PP (IN for) (NP (DT the) (NNS symbols)))) (PP (IN in) (NP (NP (NN response)) (PP (TO to) (NP (NP (DT the) (NN reintroduction)) (PP (IN of) (NP (DT the) (JJ Soviet) (NN anthem)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT No) (JJ conclusive) (NN version)) (PP (IN of) (NP (NP (JJ new) (NNS lyrics)) (PP (IN for) (NP (DT the) (JJ old) (NN music)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN approved) (ADVP (RB yet))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Duma)) (VP (VBD asked) (NP (NNP Putin)) (S (VP (TO to) (VP (VB set) (PRT (RP up)) (NP (NP (DT a) (NN panel)) (SBAR (S (VP (TO to) (VP (VP (VB consider) (NP (DT the) (NN text))) (CC and) (VP (VB submit) (NP (NP (DT the) (JJ final) (NN version)) (PP (IN for) (NP (PRP$ its) (NN approval)))))))))))))) (. .)))
+
+(S1 (S (PP (IN During) (NP (NP (NNP Friday) (POS 's)) (NN debate))) (, ,) (NP (NNP Duma) (NN speaker) (NNP Gennady) (NNP Seleznyov)) (VP (VBD said) (SBAR (S (NP (NNS officials)) (VP (VBD had) (VP (VBN received) (NP (NP (DT an) (JJ anonymous) (NN telephone) (NN call)) (VP (VBG saying) (SBAR (S (NP (DT a) (NN bomb)) (VP (VBD had) (VP (VBN been) (VP (VBN planted) (PP (IN in) (NP (DT the) (NN building))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Lawmakers)) (VP (VP (VBD ignored) (NP (PRP it))) (CC and) (VP (VBD continued) (NP (PRP$ their) (NN session)) (SBAR (IN as) (S (NP (NP (NN police) (NNS officers)) (PP (IN with) (NP (NN sniffer) (NNS dogs)))) (VP (VBD searched) (NP (DT the) (NNS premises))))))) (. .)))
+

@@ -1,0 +1,60 @@
+(S1 (NP (NP (CD NYT20001107.1907.0300) (NN NEWS) (NN STORY)) (JJ 2000-11-07) (CD 19:07:00)))
+
+(S1 (NP (NP (CD A0909) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP f)) (JJ BC-WEB-TRACK-AD-COLUMN-N) (QP (CD 11-07) (CD 0630)))))
+
+(S1 (NP (NNP BC-WEB-TRACK-AD-COLUMN-NYT)))
+
+(S1 (NP (NN ADVERTISING) (: :) (S (S (VP (VBG TRACKING) (SBAR (WHADVP (WRB HOW)) (S (NP (NNP WEB) (NNS SURFERS)) (VP (VBP ENTER) (NP (NNS SITES))))))) (VP (MD MAY) (VP (VB HELP) (NP (NNP AD)))))))
+
+(S1 (NP (NP (NNS BUYERS) (NNS &LR)) (: ;) (NP (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NNP By) (NNP STUART) (NNP ELLIOTT) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (CD c.2000) (NNP N.Y))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NNP NEW) (NNP YORK) (NNS _)) (ADVP (RB Never)) (VP (VB mind) (NP (NP (DT those) (NNS points)) (PP (IN of) (NP (NN light))) (SBAR (S (NP (DT a) (JJ former) (NN president)) (VP (VBD talked) (PP (IN about))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN research) (NN company)) (VP (VBZ is) (VP (VBG proposing) (SBAR (IN that) (S (`` ``) (NP (NP (NNS points)) (PP (IN of) (NP (NN presence))) ('' ')) ('' ') (VP (VBP are) (SBAR (WHNP (WP what)) (S (VP (VBP matter)))) (, ,) (SBAR (ADVP (IN at) (JJS least)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ comes) (PP (TO to) (NP (JJ online) (NN marketing))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN company)) (, ,) (NP (NP (NN Word)) (PP (IN of) (NP (JJ Net)))) (, ,)) (VP (VBZ is) (VP (VBG introducing) (NP (NP (DT a) (NN system)) (VP (VBN meant) (S (VP (TO to) (VP (VB measure) (NP (DT the) (JJ various) (NNS points)) (SBAR (WHPP (IN at) (WHNP (WDT which))) (S (NP (NN computer) (NNS users)) (VP (VBP are) (VP (VBN exposed) (PP (TO to) (NP (NNP Web) (NNS sites))) (, ,) (SBAR (WHADVP (WRB wherever)) (S (NP (DT those) (NNS exposures)) (VP (MD may) (VP (VB occur)))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN measurement) (NN system)) (, ,) (PP (VBN called) (NP (DT the) (NN visibility) (NN index))) (, ,) (VP (VBZ is) (VP (VBN intended) (S (VP (TO to) (VP (VB provide) (NP (NP (NN information)) (PP (IN beyond) (NP (NP (DT the) (NN tracking)) (PP (IN of) (NP (NN traffic)))))) (PP (TO to) (NP (DT a) (NN site))) (PP (IN by) (S (VP (VBG tracking) (NP (NP (DT the) (NN exposure)) (PP (TO to) (NP (NNS sites)))) (PP (IN through) (NP (NP (NN search) (NNS engines)) (, ,) (NP (NN keyword) (NNS inquiries)) (, ,) (NP (NNS listings)) (, ,) (NP (NP (NNS links)) (PP (IN from) (NP (NP (JJ other) (NX (NX (NNS sites)) (CC and) (NX (NN category) (NNS listings)))) (PP (IN in) (NP (JJ online) (NNS directories)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (DT the) (NN index)))) (VP (VBZ is) (S (VP (TO to) (VP (VB help) (S (NP (NNS advertisers)) (VP (VB increase) (NP (NP (PRP$ their) (NN visibility)) (VP (VBN online) (PP (IN by) (S (VP (VBG spending) (ADVP (RBR more) (RB effectively)) (SBAR (WHADVP (WRB when)) (S (VP (VBG buying) (NP (NP (NNS banners)) (CC and) (NP (NP (JJ other) (NNS types)) (PP (IN of) (NP (NP (JJ interactive) (NNS advertisements)) (SBAR (S (VP (TO to) (VP (VB generate) (NP (NN traffic)))))))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT That)) (VP (VBZ has) (VP (VBN become) (ADJP (RB particularly) (JJ important)) (SBAR (IN since) (S (NP (DT the) (JJ dot-com) (NN shake-out)) (VP (VBD began))))))) (CC and) (S (NP (NN advertisement) (NNS dollars)) (VP (VBP have) (VP (VBN grown) (ADJP (RB increasingly) (JJ scarce))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ key) (NN marketing) (NN competitive-intelligence) (NN tool)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ highlights) (NP (NP (NN exposure)) (PP (ADVP (DT all)) (IN over) (NP (DT the) (NNP Internet))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Astrid) (NNP van) (NNP Dorst)) (, ,) (NP (NP (JJ senior) (NN analyst)) (PP (IN for) (NP (DT the) (JJ e-marketing) (NN intelligence) (NN group))) (PP (IN at) (NP (NP (DT the) (NNP Gartner) (NNP Group)) (PP (IN in) (NP (NP (NNP San) (NNP Jose)) (, ,) (NP (NNP Calif) (. .)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBD briefed) (PP (IN about) (NP (DT the) (NN index))) (PP (IN by) (NP (NP (NN Word)) (PP (IN of) (NP (NP (NN Net)) (PP (IN before) (NP (PRP$ its) (JJ public) (NN introduction))))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP You)) (VP (MD will) (VP (VB see) (NP (NP (JJR more)) (PP (IN of) (NP (DT this)))) (SBAR (IN as) (S (NP (NNP Internet) (NNS metrics)) (VP (VBZ reaches) (NP (NP (DT the) (JJ next) (NN level)) (PP (IN of) (NP (NN maturity)))))))))) (, ,) ('' '') (NP (PRP she)) (VP (VBD added)) (. .)))
+
+(S1 (S (NP (DT The) (NN index) (NNS data)) (VP (VBP are) (VP (VBN presented) (PP (IN as) (NP (NP (NNS scores)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN weighted))))))))) (. .)))
+
+(S1 (X (X (X (DT The) (JJR higher)) (NP (NP (DT the) (NN score)) (PP (IN on) (NP (DT the) (NN index))))) (, ,) (X (DT the) (JJR more)) (NP (NP (NNS points)) (PP (IN of) (NP (NP (NN presence)) (UCP (PP (IN for) (NP (DT a) (NN site))) (CC and) (RB thus) (SBAR (X (DT the) (RBR more) (JJ visible)) (S (NP (PRP it)) (VP (VBZ is) (PP (TO to) (NP (NNS consumers)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Web) (NN site)) (VP (VBN ranked) (ADVP (RB first)) (PP (IN in) (NP (DT the) (JJ initial) (NN visibility) (NN index))))) (, ,) (PP (IN with) (NP (NP (DT a) (NN score)) (PP (IN of) (NP (CD 973))))) (, ,) (VP (VBZ is) (ADJP (JJ www.aol.com)) (, ,) (PP (IN from) (NP (NNP America) (NNP Online)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN rest)) (PP (IN of) (NP (DT the) (JJ top) (CD five)))) (VP (VBP are) (NP (NP (NP (NN www.zdnet.com)) (, ,) (PP (IN from) (NP (NNP CNet))) (, ,) (PP (IN with) (NP (NP (DT a) (NN score)) (PP (IN of) (NP (CD 936)))))) (: ;) (NP (CD http)) (: :)) (, ,) (ADVP (RB also) (PP (IN from) (NP (NP (NP (NNP America) (NNP Online)) (, ,) (NP (CD 925))) (: ;) (NP (NP (NN www.msn.com)) (, ,) (PP (IN from) (NP (NP (NNP Microsoft)) (, ,) (NP (CD 922))))) (: ;) (CC and) (NP (NN www.go.com))))) (, ,) (PP (IN from) (NP (NP (DT the) (NNP Walt) (NNP Disney) (NNP Co) (. .)) (, ,) (NP (CD 915))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (NP (DT The) (JJ real) (NN value)) (PP (IN of) (NP (PRP$ our) (NN technology)))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ provides) (NP (NP (DT a) (NN way)) (SBAR (S (VP (TO to) (VP (VB measure) (NP (NP (NN return)) (PP (IN on) (NP (NN investment))) (PP (IN for) (NP (PRP$ your) (NN marketing) (NNS campaigns)))))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Eric) (NNP Sanders)) (, ,) (NP (NP (JJ chief) (NN executive)) (PP (IN at) (NP (NP (NN Word)) (PP (IN of) (NP (NP (NN Net)) (PP (IN in) (NP (NP (NNP Sherman) (NNPS Oaks)) (, ,) (NP (NNP Calif)))))))))) (. .)))
+
+(S1 (S (`` ``) (S (S (NP (NN Online) (NN advertising)) (VP (VBZ is) (NP (DT a) (ADJP (QP ($ $) (CD 5) (CD billion) (TO to) ($ $) (CD 7) (CD billion))) (NN industry)))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB nearly) (JJ accountable) (RB enough))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD added)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP You)) (VP (MD can) (VP (VB use) (NP (PRP$ our) (NNS data)) (S (VP (TO to) (VP (VB determine) (SBAR (WHNP (WHNP (WDT which)) (PP (IN of) (NP (PRP$ your) (NN marketing)))) (S (VP (VBZ spends) (VP (VB generate) (NP (NNS sales))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (DT The) (NN index)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN intended) (S (VP (TO to) (VP (VB enable) (S (NP (NNS advertisers)) (VP (TO to) (VP (VB monitor) (SBAR (WHNP (WRB how) (JJ pervasive)) (S (NP (NP (DT the) (VBZ mentions)) (PP (IN of) (NP (NP (NNP Web) (NNS sites)) (VP (VBN operated) (PP (IN by) (NP (NNS rivals))))))) (VP (MD may) (VP (VB be) (PP (IN in) (NP (NN cyberspace))))))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (DT This)) (VP (VBZ is) (ADJP (JJ helpful)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ gives) (NP (PRP you)) (NP (NP (DT a) (NN sense)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (PRP you)) (VP (VBP come) (PRT (RP up)) (PP (IN against) (NP (PRP$ your) (NNS competitors))))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Michele) (NNP Chaboudy)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN for) (NP (NN marketing))) (PP (IN at) (NP (NP (NNP MarketWatch.com)) (PP (IN in) (NP (NNP San) (NNP Francisco))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ operates) (NP (NP (DT a) (NNP Web) (NN site)) (PP (IN in) (NP (NP (DT the) (JJ crowded) (NN field)) (PP (IN of) (NP (JJ financial) (NN news))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (CC And) (NP (PRP it)) (VP (MD can) (VP (VB help) (S (NP (PRP you)) (VP (VB plan) (NP (PRP$ your) (NN marketing) (NNS campaigns))))))) (, ,) ('' '') (NP (PRP she)) (VP (VBD added) (, ,) (`` ``) (SBAR (IN because) (S (NP (PRP you)) (VP (MD can) (ADVP (RB actually)) (VP (VB see) (SBAR (WHADVP (WRB where)) (S (NP (NNS people)) (VP (VBP are) (VP (VBG coming) (PP (TO to) (NP (PRP$ your) (NN site))) (PP (IN from))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Chaboudy)) (VP (VBD described) (NP (PRP herself)) (PP (IN as) (`` ``) (ADJP (RB pretty) (JJ skeptical)) ('' ')) ('' ') (PP (IN about) (NP (JJ new) (NNS measurements))) (`` ``) (SBAR (IN because) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN seen) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (PRP them))))))))) (. .) ('' '')))
+
+(S1 (S (S (CC But) (NP (NP (NNS data)) (SBAR (WHNP (WDT that)) (S (NP (NP (NN Word)) (PP (IN of) (NP (JJ Net)))) (VP (VBZ has) (VP (VBN shared) (PP (IN with) (NP (PRP her)))))))) (ADVP (RB so) (RB far)) (VP (VBN led) (PP (TO to) (NP (NP (DT a) (NN decision)) (`` ``) (S (VP (TO to) (VP (VB look) (PP (IN at) (NP (NP (DT some) (NNS places)) (SBAR (S (NP (PRP we)) (VP (MD might) (VP (VB want) (S (VP (TO to) (VP (VB advertise))))))))))))) (, ,) ('' '') (SBAR (WHADVP (WRB where)) (S (NP (NNP MarketWatch.com)) (VP (VBZ is) (RB not) (NP (NN advertising)) (ADVP (RB now))))))))) (, ,) (NP (PRP she)) (VP (VBD added)) (. .)))
+
+(S1 (S (S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NNP MarketWatch.com)) (VP (VBZ is) (VP (VBG planning) (S (VP (TO to) (VP (VB become) (NP (NP (DT a) (NN Word)) (PP (IN of) (NP (JJ Net) (NN subscriber)))))))))) (, ,) (NP (NNP Chaboudy)) (VP (VBD said) (, ,) (S (VP (VBG adding) (PP (IN with) (NP (DT a) (NN laugh))) (, ,) (`` ``) (S (PP (IN Of) (NP (NN course))) (, ,) (NP (PRP we)) (VP (ADVP (RB always)) (VBP negotiate) (NP (DT the) (NN price))))))) (. .) ('' '')))
+
+(S1 (S (S (VP (VBG Speaking) (PP (IN of) (NP (NN money))))) (, ,) (NP (NNP Sanders)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (NN Word)) (PP (IN of) (NP (JJ Net)))) (VP (VBD had) (VP (`` ``) (VP (VBN raised) (NP (QP ($ $) (CD 2) (CD million))) (PP (TO to) (NP (NN date)))) ('' ') (: ') (PP (IN from) (NP (NNS investors))))))) (, ,) (S (VP (VBG adding) (SBAR (IN that) (S (NP (JJ additional) (NN money)) (VP (VBD was) (VP (VBG being) (VP (VBN sought))))))))) (. .)))
+
+(S1 (S (PP (IN Among) (NP (NP (DT the) (NNS clients)) (PP (IN of) (NP (NP (NN Word)) (PP (IN of) (NP (JJ Net))))))) (, ,) (NP (PRP he)) (VP (VBD listed) (NP (NP (NNP DirecTV)) (, ,) (NP (NNP Forbes)) (, ,) (NP (NNP Park) (NNP Place) (NNP Entertainment) (, ,) (NNP Tickets.com) (, ,) (NNP Sony) (, ,) (NNP Universal) (CC and) (NNP Variety)))) (. .)))
+
+(S1 (NP (CD NYT-11-07-00) (NN 1907EST)))
+

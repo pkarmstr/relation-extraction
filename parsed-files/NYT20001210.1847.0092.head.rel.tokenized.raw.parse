@@ -1,0 +1,118 @@
+(S1 (NP (NP (CD NYT20001210.1847.0092) (NN NEWS) (NN STORY)) (JJ 2000-12-10) (CD 19:33:00)))
+
+(S1 (NP (NP (CD A5671) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NN p)) (NP (CD BC-ELN-MICH-TIE-NYT) (NNS &LR))) (: ;) (QP (CD 12-10) (CD 0749))))
+
+(S1 (NP (NNP BC-ELN-MICH-TIE-NYT)))
+
+(S1 (S (NP (DT THIS) (NN HAND) (NN COUNT)) (VP (VBD ENDED) (PP (IN IN) (NP (DT A) (NN TIE))) (, ,) (PP (IN WITHOUT) (NP (DT THE) (NNS LAWYERS) (CC OR) (NN TV))))))
+
+(S1 (NP (NP (NNS REPORTERS) (NNS &LR)) (: ;) (NP (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (NP (NP (NNP FIFE) (NNP LAKE)) (, ,) (NP (NNP Mich)) (. .)))
+
+(S1 (S (ADVP (RB _)) (NP (EX There)) (VP (VBP are) (NP (NP (DT no) (NNS teams)) (PP (IN of) (NP (NP (NNS lawyers)) (PP (IN in) (NP (DT this) (JJ sleepy) (JJ little) (NN hamlet))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBP are) (S (NP (DT no) (NN television) (NNS anchors)) (VP (VBG standing) (PP (IN on) (NP (NP (NN courthouse) (NNS steps)) (VP (VBG chattering) (ADVP (RB endlessly)) (PP (IN about) (NP (DT the) (JJS latest) (NN twist)))))) (PP (IN in) (NP (DT the) (NN election) (NN dispute)))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (DT an) (NN election) (NN dispute)) (, ,) (S (NP (DT a) (NN tie)) (VP (VB vote) (PP (IN as) (NP (NP (DT a) (NN matter)) (PP (IN of) (NP (NN fact)))))))) (. .)))
+
+(S1 (S (CC And) (PP (ADVP (RB just) (IN as)) (IN in) (NP (NNP Florida))) (, ,) (S (NP (NNS votes)) (VP (VBP have) (VP (VBN been) (VP (VBN recounted) (PP (IN by) (NP (NN hand))))))) (, ,) (CC but) (S (NP (NP (DT the) (JJ chief) (NN executive) (POS 's)) (NN race)) (VP (VBZ remains) (ADJP (JJ unsettled)))) (. .)))
+
+(S1 (S (CC But) (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT any) (NN comparison)) (PP (IN between) (NP (NP (NNP Florida)) (CC and) (NP (NP (DT this) (JJ former) (VBG logging) (NN town)) (ADVP (NP (CD 250) (NNS miles)) (RB north)) (PP (IN of) (NP (NNP Detroit))))))) (VP (VBZ ends))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP have) (VP (VBN counted) (NP (NP (PDT all) (DT the) (NNS votes)) (PP (IN for) (NP (NNP Fife) (NNP Lake) (NNP Township) (NN supervisor)))) (NP (CD three) (NNS times)) (, ,) (UCP (PP (ADVP (RB twice)) (IN on) (NP (NN election) (NN night))) (CC and) (ADVP (RB once) (PP (IN in) (NP (NP (DT a) (NN hand) (NN recount)) (PP (IN on) (NP (NNP Dec))))))))) (. .)))
+
+(S1 (FRAG (NP (CD 1)) (. .)))
+
+(S1 (S (NP (DT The) (NN result)) (VP (VBZ is) (NP (NP (CD 297) (NNS votes)) (NP (DT each)) (PP (IN for) (NP (NP (DT the) (JJ incumbent) (, ,) (NNP Dave) (NNP Stremlow)) (, ,) (CC and) (NP (NP (DT the) (NNP Republican) (NNP challenger)) (, ,) (NP (NNP Toni) (NNP Larson))))))) (. .)))
+
+(S1 (S (NP (NN Nobody)) (VP (VBZ has) (VP (VBN said) (NP (DT a) (NN word)) (PP (IN about) (NP (NP (DT a) (NN court) (NN challenge)) (CC or) (NP (DT another) (NN recount)))))) (. .)))
+
+(S1 (S (CC And) (NP (NP (DT the) (JJ simple) (NN solution)) (VP (VBN laid) (PRT (RP out)) (PP (IN in) (NP (NNP Michigan) (NN law))))) (VP (MD will) (VP (VB be) (VP (VBN followed) (NP (NNP Monday) (NN morning)) (PP (IN up) (NP (DT the) (NN road)) (PP (NP (DT a) (JJ few) (NNS miles)) (IN at) (NP (NP (DT the) (NN county) (NN building)) (PP (IN in) (NP (NNP Traverse) (NNP City))))))))) (. .)))
+
+(S1 (S (NP (EX There)) (, ,) (NP (NNP Grand) (NNP Traverse) (NNP County) (NN Clerk) (NNP Linda) (NNP Coburn)) (VP (MD will) (VP (VB hold) (NP (NP (DT a) (NN box)) (PP (IN with) (NP (NP (NP (CD two)) (VP (VBN folded) (S (VP (VBZ slips) (PP (IN of) (NP (NN paper))))))) (, ,) (NP (NP (CD one)) (VP (VBD marked) (ADJP (`` ``) (VBN elected) ('' ') ('' ')))) (CC and) (NP (NP (CD one)) (VP (VBD marked) (`` ``) (RB not) (VP (VBN elected))))))))) (. .) ('' '')))
+
+(S1 (S (NP (DT The) (NNS candidates)) (VP (MD will) (VP (VB draw))) (. .)))
+
+(S1 (S (NP (NP (DT The) (VBZ slips)) (PP (IN of) (NP (NN paper)))) (VP (MD will) (VP (VB be) (VP (VBN read)))) (. .)))
+
+(S1 (S (CC And) (NP (DT the) (NN race)) (VP (MD will) (VP (VB be) (ADVP (IN over)))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ speechless)) (, ,) (ADVP (DT no) (NN matter) (SBAR (WHADVP (WRB how)) (S (NP (PRP I)) (VP (VBP look) (PP (IN at) (NP (PRP it))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NNP Larson)) (, ,) (S (VP (VBG adding) (SBAR (IN that) (S (NP (PRP she)) (ADVP (RB never)) (VP (VBD thought) (PP (IN of) (S (VP (VBG questioning) (NP (DT the) (NN hand) (NN recount)))))))))) (. .)))
+
+(S1 (FRAG (`` ``) (INTJ (UH Oh) (, ,) (VB gosh) (UH no)) (. .)))
+
+(S1 (SBARQ (WHNP (WHADJP (WRB How) (JJ many)) (NNS times)) (SQ (VBP do) (NP (PRP you)) (VP (VBP need) (NP (DT a) (NN recount)))) (. ?)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ crazy))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Coburn)) (VP (VBD said) (SBAR (S (NP (NNS ties)) (VP (VBD were) (ADJP (ADJP (JJ rare)) (CC but) (RB not) (ADJP (JJ unheard) (IN of))))))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBZ has) (VP (VBN seen) (NP (CD one) (JJ other)) (PP (IN in) (NP (NP (PRP$ her) (CD 20) (NNS years)) (PP (IN on) (NP (DT the) (NN job))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN race)) (PP (IN for) (NP (NN township) (NN supervisor)))) (VP (VBD was) (NP (DT an) (JJ engaging) (CD one)) (PP (IN from) (NP (DT the) (NN beginning))) (, ,) (SBAR (IN since) (S (NP (DT both) (NNP Stremlow) (CC and) (NNP Larson)) (ADVP (RB already)) (VP (VBP sit) (PP (IN on) (NP (NP (NP (NP (DT the) (NN township) (POS 's)) (NNP Board)) (PP (IN of) (NP (NP (NNS Trustees)) (VP (VBN _) (NP (NNP Stremlow)) (PP (IN as) (NP (NN supervisor))))))) (CC and) (NP (NNP Larson)))) (PP (IN as) (NP (NN township) (NN clerk))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ interesting) (S (VP (TO to) (VP (VB watch) (NP (DT the) (NNS meetings)))))) (, ,) (PP (IN with) (S (NP (PRP$ her)) (VP (VP (VBG running) (PP (IN against) (NP (NP (PRP him)) (CC and) (NP (PRP them))))) (CC both) (VP (VBG having) (S (VP (TO to) (VP (VB sit) (ADVP (RB together))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Pat) (NNP Gibson)) (, ,) (NP (NP (NN owner)) (PP (IN of) (NP (NP (NP (NNP Gibson) (POS 's)) (NNP Hardware) (NNP Store)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB occasionally)) (VP (VBZ attends) (NP (NNS meetings))))))))) (. .)))
+
+(S1 (S (`` ``) (NP (EX There)) (VP (VBD was) (NP (DT a) (JJ little) (S (VP (VB give) (CC and) (VB take))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Fife) (NNP Lake)) (VP (VP (VBD came) (PP (TO to) (NP (NN life))) (PP (IN in) (NP (CD 1872)))) (CC and) (VP (VBD was) (NP (DT a) (VBG thriving) (VBG logging) (NN town)) (PP (IN by) (NP (CD 1885))))) (. .)))
+
+(S1 (S (NP (NN Ice)) (VP (VBD was) (VP (VBN harvested) (PP (IN from) (NP (DT the) (JJ frozen) (NN lake))) (PP (IN in) (NP (DT the) (NN winter))) (PP (IN for) (NP (JJ prerefrigeration) (NN ice) (NNS boxes) (NN downstate))))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (NP (PRP it)) (VP (VBZ is) (ADVP (RB mostly)) (NP (NP (DT a) (NN bedroom) (NN community)) (PP (IN for) (NP (NP (NP (NNP Traverse) (NNP City)) (PP (TO to) (NP (DT the) (NN north)))) (CC and) (NP (NNP Cadillac))))) (PP (TO to) (NP (DT the) (NN south))) (, ,) (SBAR (IN though) (S (NP (DT some) (NNS people)) (VP (VBP make) (NP (NP (DT a) (NN living)) (VP (VBG farming) (NP (NNP Christmas) (NNS trees)) (PP (CC or) (PP (IN from) (NP (NN summer) (NN tourism)))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN population)) (VP (VBZ is) (PP (IN between) (NP (CD 1,800) (CC and) (CD 1,900))))) (, ,) (NP (NNP Stremlow)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NN Township) (NN government)) (ADVP (RB here) (RB mostly)) (VP (VBZ takes) (NP (NP (NP (NN care)) (PP (IN of) (NP (DT the) (NN volunteer) (NN fire) (NN department)))) (CC and) (NP (NN ambulance) (NN service)))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (JJ annual) (NN budget)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 200,000))))) (VP (VBZ includes) (NP (NP (DT a) (ADJP ($ $) (CD 6,500)) (NN salary)) (PP (IN for) (NP (DT the) (JJ part-time) (NN supervisor)))))) (, ,) (NP (NNP Stremlow)) (VP (VBD said)) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (PRP he)) (VP (VBD admitted) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADJP (RB somewhat) (JJ awkward) (S (VP (TO to) (VP (VB be) (VP (VBN challenged) (PP (IN by) (NP (PRP$ his) (JJ own) (NN clerk)))))))))))))) (, ,) (NP (NNP Stremlow)) (VP (VBD said) (SBAR (S (NP (DT the) (NN race)) (VP (VBD was) (ADJP (JJ cordial) (CC and) (JJ positive)) (, ,) (PP (IN with) (NP (DT no) (JJ striking) (NN campaign) (NNS issues))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done) (NP (NP (DT a) (NN lot)) (PP (IN for) (NP (DT the) (NN township)))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NP (NNP Stremlow)) (, ,) (NP (CD 70))) (, ,) (NP (NP (DT a) (VBN retired) (NN auto) (NN worker)) (PP (IN from) (NP (NNP Flint))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP We)) (VP (VBP have) (NP (NP (DT a) (JJ new) (NN ambulance)) (CC and) (NP (DT a) (JJ new) (NN fire) (NN wagon)))) (. .)))
+
+(S1 (S (CC And) (NP (DT the) (NN kitty)) (VP (VBZ is) (ADJP (ADJP (NP (DT a) (RB little)) (JJR better)) (SBAR (ADVP (RB off)) (IN than) (S (NP (PRP it)) (VP (VBD was) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD started))))))))) (. .) ('' '')))
+
+(S1 (SINV (`` ``) (S (NP (DT Both) (NNS people)) (VP (VBP are) (ADJP (RB well) (VBN liked)))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Gary) (NNP Gilmore)) (, ,) (NP (CD 52))) (, ,) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD sipped) (NP (PRP$ his) (NNP Saturday) (NN morning) (NN coffee)) (PP (IN at) (NP (DT the) (NNP Sugar) (NNP Bowl) (NN Restaurant)))))) (. .)))
+
+(S1 (S (`` ``) (NP (NN Everybody)) (VP (VBZ knows) (NP (NN everybody)) (ADVP (RB here))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Carl) (NNP Fales)) (, ,) (NP (NP (DT a) (JJ 74-year-old) (NN retiree)) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (PP (IN for) (NP (NNP Larson))))))) (, ,)) (VP (VBD agreed)) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP They)) (VP (VBP are) (NP (DT both) (JJ good) (NNS people)))) (, ,) ('' '') (NP (NNP Fales)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (DT Either) (PRP one)) (VP (MD will) (VP (VB do) (ADJP (JJ fine)))) (. .) ('' '')))
+
+(S1 (S (SBAR (IN Although) (S (NP (DT the) (NN matter)) (VP (VBZ is) (VP (VBG being) (VP (VBN settled) (ADVP (RB quietly))))))) (, ,) (NP (EX there)) (VP (VBD was) (NP (NN drama)) (PP (IN on) (NP (NN election) (NN night)))) (. .)))
+
+(S1 (S (NP (DT The) (JJ first) (NN count)) (VP (VBD had) (S (NP (NP (NNP Larson)) (, ,) (NP (DT a) (JJ 66-year-old) (VBN retired) (NN school) (NN clerk)) (, ,)) (ADJP (RB ahead) (PP (IN by) (NP (CD two) (NNS votes)))))) (. .)))
+
+(S1 (S (CC But) (S (NP (NP (NNP Larson)) (, ,) (NP (IN as) (NN clerk)) (, ,)) (VP (VBD was) (VP (VBG overseeing) (NP (DT the) (NN count))))) (CC and) (S (NP (PRP she)) (VP (VBD noticed) (SBAR (IN that) (S (NP (DT the) (NN tally)) (VP (VBD did) (RB not) (VP (VB match) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS ballots)) (VP (VBN cast))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ second) (NN run)) (PP (IN through) (NP (DT the) (VBG counting) (NN machine)))) (VP (VBN left) (NP (NNP Stremlow)) (NP (DT the) (NN winner)) (PP (IN by) (NP (CD one) (NN vote)))) (. .)))
+
+(S1 (S (NP (NNP Larson)) (VP (VBD requested) (NP (NP (DT a) (NN hand-recount)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN held) (NP (NNP Dec)))))))) (. .)))
+
+(S1 (FRAG (NP (CD 1)) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (RB there)) (SBAR (IN that) (S (NP (CD one)) (VP (VBD rejected) (SBAR (S (NP (NN ballot)) (VP (VBD was) (VP (VBN discovered))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Voters)) (ADVP (RB here))) (VP (VBD cast) (NP (NNS ballots)) (PP (IN by) (S (VP (VBG making) (NP (DT a) (NX (NX (NN pen)) (CC or) (NX (NN pencil) (NN mark)))) (ADVP (JJ next) (PP (TO to) (NP (NP (DT the) (NN candidate)) (PP (IN of) (NP (PRP$ their) (NN choice)))))))))) (. .)))
+
+(S1 (S (CC And) (NP (NNP Coburn)) (VP (VBD said) (SBAR (S (NP (DT the) (VBN rejected) (NN ballot)) (VP (VBD had) (NP (DT a) (JJ slight) (NN mark)) (ADVP (JJ next) (PP (TO to) (NP (NP (NP (NNP Stremlow) (POS 's)) (NN name)) (CC but) (NP (NP (DT a) (ADJP (RB clearly) (JJ marked)) (NN vote)) (PP (IN for) (NP (NNP Larson))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NN board)) (PP (IN of) (NP (NNS canvassers))) (, ,) (VP (VBD made) (PRT (RP up)) (PP (IN of) (NP (NP (CD two) (NNPS Republicans)) (CC and) (NP (CD two) (NNPS Democrats))))) (, ,)) (ADVP (DT all)) (VP (VBD agreed) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN vote)) (PP (IN for) (NP (NNP Larson)))) (, ,) (S (VP (VBG creating) (NP (DT the) (NN tie))))))))) (, ,) (NP (NNP Coburn)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (S (S (NP (PRP I)) (VP (VBD did) (RB n't) (VP (VB agree) (PP (TO to) (NP (NN anything)))))) (, ,) (NP (PRP I)) (ADVP (RB just)) (VP (VP (VBD sat) (ADVP (RB there))) (CC and) (VP (VBD watched)))) (, ,) ('' '') (NP (NNP Stremlow)) (VP (VBD said) (PP (IN of) (NP (DT the) (NN recount))) (, ,) (SBAR (IN though) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (NP (PRP he)) (ADVP (RB never)) (VP (VBD considered) (NP (DT a) (JJ legal) (NN challenge))))))))) (. .)))
+
+(S1 (S (`` ``) (INTJ (UH Nope)) (, ,) ('' '') (NP (NNP Stremlow)) (VP (VBD said) (PP (IN with) (NP (DT a) (NN laugh))) (SBAR (WHADVP (WRB when)) (S (VP (VBN asked) (SBAR (IN if) (S (NP (PRP he)) (VP (VBD had) (VP (VBN consulted) (NP (DT a) (NN lawyer)))))))))) (. .)))
+
+(S1 (S (`` ``) (NP (DT The) (NN job)) (VP (VBZ does) (RB n't) (VP (VB pay) (NP (DT that) (JJ much)))) (. .) ('' '')))
+
+(S1 (NP (CD NYT-12-10-00) (NN 1933EST)))
+

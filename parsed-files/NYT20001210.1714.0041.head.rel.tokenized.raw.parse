@@ -1,0 +1,74 @@
+(S1 (NP (NP (CD NYT20001210.1714.0041) (NN NEWS) (NN STORY)) (JJ 2000-12-10) (CD 17:14:10)))
+
+(S1 (NP (NP (CD A5602) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP f) (NNP BC-WEB-ECON-NYT) (NN &LR)) (: ;) (NP (QP (CD 12-10) (CD 0540))))))
+
+(S1 (NP (NNP BC-WEB-ECON-NYT)))
+
+(S1 (S (NP (NNS EFFICIENCIES)) (VP (VBD FOUND) (RB ONLINE) (VP (VB HELP) (S (NP (NNS COMPANIES)) (VP (VB BUILD) (S (NP (NNS PROFITS)) (ADJP (JJ ONLINE)))))))))
+
+(S1 (NP (NP (NNP &UR)) (: ;) (PP (NNP By) (NP (NNP CLAUDIA) (NNP H))) (. .)))
+
+(S1 (NP (NP (JJ DEUTSCH) (NNS &QC)) (: ;) (NP (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (DT The) (NNS dot-coms)) (VP (MD may) (VP (VB get) (NP (DT the) (NN publicity)))) (. .)))
+
+(S1 (S (CC But) (NP (NNP John) (NNP F.) (NNP Welch) (NNP Jr.)) (VP (VBZ is) (ADJP (JJ certain) (SBAR (IN that) (S (NP (NP (NNS companies)) (PP (IN like) (NP (NNP General) (NNP Electric)))) (VP (MD will) (VP (VB reap) (NP (DT the) (NNS profits)))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (DT The) (NNP Internet)) (VP (VBD was) (VP (VBN made) (PP (IN for) (NP (JJ big) (NNS companies)))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Welch)) (, ,) (NP (NP (NNP GE) (POS 's)) (NX (NX (NN chairman)) (CC and) (NX (NNP Web) (NN champion-in-chief))))) (. .)))
+
+(S1 (S (`` ``) (NP (DT The) (NNS dot-coms)) (VP (VBP understand) (VP (VBG buying) (CC and) (VBG selling))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (JJ real) (NNS efficiencies)) (VP (VBP come) (PP (IN in) (NP (NP (DT that) (JJ middle) (NN part)) (PP (IN of) (NP (DT the) (NN equation))))) (: :) (S (VP (VBG making) (NP (NNS things))))) (. .) ('' '')))
+
+(S1 (S (PP (ADVP (RB Long)) (IN before) (NP (DT the) (NNP Web))) (, ,) (NP (JJ sophisticated) (JJ old-economy) (NNS companies)) (VP (VBD were) (VP (VBG using) (S (NP (NP (NN computer) (NNS networks)) (, ,) (CC and) (RB even) (NP (DT the) (NNP Internet)) (, ,)) (VP (VP (TO to) (VP (VB communicate) (PP (IN with) (NP (NNS suppliers))))) (, ,) (VP (TO to) (VP (VB fine-tune) (NP (NNS inventories)))) (, ,) (VP (TO to) (VP (VB streamline) (NP (JJ back-office) (NNS functions)))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NNP Web)) (, ,) (PP (IN as) (NP (NP (DT an) (JJ easy)) (SBAR (S (VP (TO to) (VP (VB use) (NP (NNP interface)) (PP (IN for) (NP (DT the) (NNP Internet))))))))) (, ,) (VP (VBZ has) (VP (VBN opened) (NP (NP (JJ large) (NNS swaths)) (PP (IN of) (NP (JJ uncharted) (NN territory)))) (PP (IN for) (NP (JJ industrial) (NNP America))))) (. .)))
+
+(S1 (S (PP (PP (IN Through) (NP (JJ Web-based) (NN buying) (NNS consortiums))) (, ,) (PP (IN through) (NP (NP (NNS auctions) (CC and) (NN reverse) (NNS auctions)) (CC and) (NP (NP (JJ various) (JJ other) (NNS types)) (PP (IN of) (NP (NNS e-marketplaces))))))) (, ,) (NP (NNS companies)) (VP (VBP are) (VP (VBG saving) (NP (NP (NNS millions)) (PP (IN of) (NP (NNS dollars)))) (PP (IN in) (NP (NP (DT the) (NN procurement)) (PP (IN of) (NP (NNS supplies) (CC and) (NNS services))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Web)) (VP (VBZ is) (VP (VBG changing) (NP (DT the) (NN sell) (NN side)) (, ,) (ADVP (RB too)))) (. .)))
+
+(S1 (S (PP (IN With) (NP (JJ well-designed) (NN home) (NNS pages))) (, ,) (NP (NNS companies)) (VP (MD can) (VP (VB pitch) (NP (PRP$ their) (NNS products)) (PP (PP (IN at) (NP (NP (NNS businesses)) (ADJP (RB too) (JJ small) (S (VP (TO to) (VP (VB warrant) (NP (DT a) (NNS sales) (NN call)))))))) (CC and) (PP (IN at) (NP (NP (NNS consumers)) (SBAR (WHNP (WP who)) (S (VP (MD may) (VP (VB live) (NP (NNS hours)) (ADVP (RB away) (PP (IN from) (NP (DT the) (JJS nearest) (NX (NX (NN store)) (CC or) (NX (NN distributor))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS companies)) (VP (MD can) (VP (VB anticipate) (NP (NNS questions) (CC and) (NN post) (NNS answers)) (SBAR (IN before) (S (NP (DT the) (NNS queries)) (VP (VBP are) (ADVP (RB even)) (VP (VBN made))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (MD can) (VP (VB let) (S (NP (NNS customers)) (VP (VB download) (NP (NP (NN software)) (SBAR (WHNP (WDT that)) (S (VP (VBZ helps) (S (NP (PRP them)) (VP (VB update) (NP (PRP$ their) (NNS products)))))))))))) (. .)))
+
+(S1 (S (NP (JJ Diversified) (NNS corporations)) (, ,) (ADVP (RB meanwhile)) (, ,) (VP (VBP are) (VP (VBG learning) (S (VP (TO to) (VP (VB use) (NP (DT the) (NNP Web)) (PP (TO to) (NP (NN bundle) (NNS services)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ near) (NN future))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (NP (NP (NN someone)) (VP (VBG buying) (NP (DT a) (NN refrigerator)) (PP (IN from) (NP (NP (NNP GE) (NN Appliance) (POS 's)) (NNP Web) (NN site))))) (VP (MD might) (VP (VB receive) (NP (NP (DT an) (NN offer)) (PP (IN from) (NP (NNP GE) (NNP Capital))) (S (VP (TO to) (VP (VB finance) (NP (DT the) (NN purchase)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP GE)) (, ,) (PP (IN with) (NP (NP (PRP$ its) (JJ corporate) (NNS tentacles)) (VP (VBG reaching) (PP (IN into) (NP (NP (NNS businesses)) (ADJP (ADJP (RB as) (JJ diverse)) (PP (IN as) (NP (NP (NN X-ray) (NNS machines)) (, ,) (NP (NNS mortgages)) (CC and) (NP (NN light) (NNS bulbs)))))))))) (, ,)) (VP (VBZ provides) (NP (NP (RB perhaps) (DT the) (VBG leading) (NN example)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (DT an) (JJ old-economy) (NN company)) (VP (MD can) (VP (VB do) (PP (IN with) (NP (JJ new-economy) (NNS tools)))))))))) (. .)))
+
+(S1 (S (NP (NNP GE) (NNPS Plastics)) (VP (VBD put) (PRT (RP up)) (NP (NP (NP (DT the) (NN company) (POS 's)) (JJ first) (NNP Web) (NN page)) (PP (IN on) (NP (NNP Oct))))) (. .)))
+
+(S1 (FRAG (NP (CD 21) (, ,) (CD 1994)) (: ;) (S (NP (NN today)) (, ,) (NP (DT each) (NNP GE) (NN business)) (VP (VBZ sells) (NP (NP (NNS products)) (PP (IN on) (NP (DT the) (NNP Web)))))) (. .)))
+
+(S1 (S (CC And) (NP (DT this) (NN year)) (, ,) (NP (NNP GE)) (VP (MD will) (ADVP (RB probably)) (VP (VB buy) (NP (NP (QP ($ $) (CD 6) (CD billion))) (PP (IN of) (NP (NNS goods)))) (PP (IN through) (NP (DT the) (NNP Web))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP We)) (VP (MD 'll) (VP (VB save) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS millions)) (PP (IN of) (NP (NNS dollars))))))))) (, ,) ('' '') (NP (NNP Welch)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (NP (NN Nothing)) (ADJP (RB else))) (VP (MD would) (VP (VB give) (NP (PRP you)) (NP (NP (DT that) (NN type)) (PP (IN of) (NP (NN quantum) (NN change)))))) (. .) ('' '')))
+
+(S1 (S (NP (DT The) (NNP Web)) (VP (VBZ is) (ADVP (RB also)) (VP (VBG letting) (S (NP (NNP GE)) (VP (VB help) (S (NP (PRP$ its) (JJ own) (NNS customers)) (VP (VB compare) (NP (NNS notes)))))))) (. .)))
+
+(S1 (S (NP (NNP GE)) (VP (VBZ posts) (NP (NP (NNS data)) (PP (IN on) (NP (PRP$ its) (NNP Web) (NNS pages))) (VP (VBG _) (VP (VBN stripped) (, ,) (PP (IN of) (NP (NN course))) (, ,) (PP (IN of) (NP (NP (NN identification) (NNS _)) (PP (IN on) (SBAR (SBAR (WHADVP (WRB how) (RB efficiently)) (S (NP (NNS hospitals)) (VP (VBP use) (NP (PRP$ its) (NNP CAT) (NNS scanners))))) (, ,) (SBAR (WHADVP (WRB how) (RB often)) (S (NP (NNS airlines)) (VP (VBP do) (NP (NP (JJ routine) (NN maintenance)) (PP (IN on) (NP (PRP$ its) (NNS engines))))))) (, ,) (SBAR (WHADVP (WRB how) (RB well)) (S (NP (NNS utilities)) (VP (VBP use) (NP (NP (NN waste) (NN heat)) (CC or) (NP (NN water))) (S (VP (TO to) (VP (VB generate) (NP (JJR more) (NN electricity)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Customers)) (PP (IN with) (NP (DT a) (NN password)))) (VP (MD can) (VP (VP (VB tap) (PP (IN into) (NP (DT the) (NNS data)))) (CC and) (VP (VB use) (NP (PRP it)) (S (VP (TO to) (VP (NN benchmark) (NP (PRP$ their) (JJ own) (NN performance)))))))) (. .)))
+
+(S1 (S (NP (NNP GE)) (VP (VBZ is) (ADVP (RB even)) (VP (VBG using) (NP (DT the) (NNP Web)) (S (VP (TO to) (VP (VB let) (S (NP (NNS customers)) (VP (VB test-drive) (NP (NP (NN software)) (, ,) (PP (VBG including) (NP (NP (DT the) (NNS programs)) (SBAR (S (NP (DT the) (NN company)) (VP (VBZ has) (VP (VBN developed) (S (VP (TO to) (VP (VB help) (S (NP (NNS hospitals)) (VP (VB make) (NP (NP (ADJP (RBR more) (JJ efficient)) (NN use)) (PP (IN of) (NP (DT some) (JJ medical) (NN equipment))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP GE)) (VP (MD will) (VP (VB let) (S (NP (PRP them)) (VP (VP (VB download) (NP (DT the) (NN software))) (CC and) (VP (VB use) (NP (PRP it))) (NP (JJ free) (NNS _)) (PP (IN for) (NP (CD 30) (NNS days))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (DT that))) (, ,) (NP (DT the) (NN software)) (VP (VBZ self-destructs) (, ,) (SBAR (IN unless) (S (NP (DT the) (NN customer)) (VP (VBZ has) (VP (VBN paid) (S (VP (TO to) (VP (VB receive) (NP (DT a) (JJ permanent) (NN version)))))))))) (. .)))
+
+(S1 (S (`` ``) (S (PP (IN With) (NP (NP (DT the) (NNP Web)) (, ,) (NP (DT every) (NN day)))) (NP (PRP you)) (VP (VP (VBP wake) (ADVP (RB up))) (CC and) (VP (NN laugh) (PP (IN at) (SBAR (WHADVP (WRB how) (RB little)) (S (NP (PRP you)) (VP (VBD knew) (NP (NP (DT the) (NN day)) (ADVP (RB before)))))))))) (, ,) ('' '') (NP (NNP Welch)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (VBZ 's) (PP (IN like) (S (VP (VBG peeling) (PRT (RP back)) (NP (DT an) (NN onion)))))) (. .)))
+
+(S1 (FRAG (NP (DT Every) (NN day)) (S (NP (PRP we)) (VP (VB uncover) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS millions)) (PP (IN of) (NP (NNS dollars)))))) (PP (IN in) (NP (NNS efficiencies))))) (. .) ('' '')))
+
+(S1 (NP (CD NYT-12-10-00) (NN 1714EST)))
+

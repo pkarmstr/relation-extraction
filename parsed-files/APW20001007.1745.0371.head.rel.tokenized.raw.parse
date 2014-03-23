@@ -1,0 +1,74 @@
+(S1 (NP (NP (CD APW20001007.1745.0371) (NN NEWS) (NN STORY)) (JJ 2000-10-07) (CD 18:21:36)))
+
+(S1 (NP (NN Israel-Fallen-Fort)))
+
+(S1 (S (NP (NNP W.Bank) (NNP Holy) (NN Site)) (VP (VBN Destroyed) (PP (IN by) (NP (NNP War))))))
+
+(S1 (S (NP (NNP NABLUS)) (, ,) (NP (NP (NNP West) (NNP Bank)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (NP (NP (NNP Joseph) (POS 's)) (NN Tomb)) (, ,) (NP (NP (DT the) (NN flashpoint)) (PP (IN in) (NP (NP (DT a) (NN week)) (PP (IN of) (NP (JJ bitter) (NNP West) (NNP Bank) (NNS clashes)))))) (, ,)) (VP (VBZ is) (ADVP (RB now)) (NP (NP (DT a) (NN casualty)) (PP (IN of) (NP (NN war)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS steps)) (VP (VBG leading) (PRT (RP down)) (PP (TO to) (NP (DT the) (NN tomb))))) (VP (VBP are) (VP (VBN strewn) (PP (IN with) (NP (NP (NNS stones)) (VP (VBN chipped) (PP (IN off) (NP (DT the) (NNS walls)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN top)) (PP (IN of) (NP (DT the) (NN dome)))) (VP (VBZ is) (VP (VBN smashed) (PRT (RP through)) (PP (IN in) (NP (CD two) (NNS places))))) (. .)))
+
+(S1 (S (PP (IN Inside) (NP (DT the) (NN tomb))) (, ,) (NP (NP (JJ soggy) (NNS books)) (, ,) (NP (VBN burned) (NN sleeping) (NNS bags)) (CC and) (NP (NP (JJ scattered) (NNS cans)) (PP (IN of) (NP (NP (NN food) (NN litter)) (NP (DT the) (NN muddy) (NN floor)) (, ,) (CC and) (NP (DT the) (NNS walls)))))) (VP (VBP are) (VP (VBN charred) (ADJP (JJ black) (PP (IN from) (NP (NN fire)))))) (. .)))
+
+(S1 (S (S (CC But) (NP (DT the) (NN stone) (NN sarcophagus)) (VP (VBZ is) (VP (VBN untouched)))) (, ,) (ADVP (RB perhaps)) (S (NP (DT the) (CD one)) (VP (VBP object) (ADVP (RB still)) (VP (VBN respected) (PP (IN at) (NP (NP (DT this) (JJ holy) (NN site)) (, ,) (VP (VBN revered) (PP (IN by) (NP (DT some))) (PP (IN as) (NP (NP (DT the) (NN burial) (NN place)) (PP (IN of) (NP (DT the) (JJ biblical) (NN patriarch))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN compound)) (VP (VBD was) (NP (NN home)) (PP (TO to) (NP (NP (DT a) (JJ Jewish) (NN seminary)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (QP (IN about) (CD 30)) (NNS students)) (VP (MD would) (VP (VB study) (PP (IN during) (NP (DT the) (NN day)))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP Israeli) (NN army)) (VP (VBN evacuated) (NP (DT the) (NN outpost)) (PP (IN before) (NP (NN dawn))) (PP (IN on) (NP (NNP Saturday))))) (, ,) (PP (IN after) (NP (NP (NNS clashes)) (ADVP (RB there)))) (NP (JJ last) (NN week)) (VP (VBD killed) (NP (NP (CD six) (NNPS Palestinians)) (CC and) (NP (DT an) (NNP Israeli) (NN border) (NN policeman)))) (. .)))
+
+(S1 (S (NP (DT The) (NN seminary)) (VP (VBD had) (VP (VBN been) (VP (VBN closed) (PP (IN during) (NP (DT the) (NN violence)))))) (. .)))
+
+(S1 (S (NP (JJ Palestinian) (NN security) (NNS officials)) (VP (VBD were) (VP (VBN left) (NP (JJ standing) (NN guard)) (SBAR (IN as) (S (NP (NP (NNS hundreds)) (PP (IN of) (NP (NNPS Palestinians)))) (VP (VBD converged) (PP (IN on) (NP (DT the) (NN square))) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (DT the) (NN site))))) (, ,) (S (VP (VBG cheering) (NP (DT the) (NN withdrawal))))))))) (. .)))
+
+(S1 (S (PP (IN With) (NP (NP (DT the) (NN arrival)) (PP (IN of) (NP (NP (NNS dozens)) (PP (IN of) (NP (JJ Palestinian) (NNS gunmen))))))) (, ,) (NP (DT the) (NN celebration)) (VP (VBD degenerated) (PP (IN into) (NP (NP (DT a) (NN trashing)) (PP (IN of) (NP (DT the) (NN compound))))) (, ,) (PP (IN with) (S (NP (NNS crowds)) (VP (VP (VBG vandalizing) (NP (DT the) (NN tomb))) (, ,) (VP (VBG setting) (NP (NNS fires))) (CC and) (VP (VBG hammering) (ADVP (RB away)) (PP (IN at) (NP (DT the) (NN stone) (NNS buildings)))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP We)) (VP (VBD did) (NP (PRP it)) (SBAR (IN so) (S (NP (DT the) (NNPS Jews)) (ADVP (RB never)) (VP (VBP come) (PRT (RP back))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Haitham) (NNP Najid) (NNP Kabee)) (, ,) (NP (CD 14)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD vandalized) (NP (NP (DT the) (NN tomb)) (PP (IN with) (NP (PRP$ his) (NNS friends)))))))) (. .)))
+
+(S1 (NP (NNP Nablus) (NNP Gov) (. .)))
+
+(S1 (S (NP (NNP Mahmoud) (NNP Aloul)) (VP (VBD came) (PP (TO to) (NP (DT the) (NN square))) (S (VP (TO to) (VP (VB plead) (PP (IN with) (NP (NP (DT the) (NNS vandals)) (SBAR (S (VP (TO to) (VP (VB stop))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP We)) (VP (MD should) (VP (VP (VB protect) (NP (DT this) (NN building))) (CC and) (VP (VB make) (S (NP (PRP it)) (NP (NP (DT a) (NN symbol)) (PP (IN for) (NP (NP (PRP$ our) (NNS martyrs)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN killed) (VP (VBG defending) (NP (PRP it))))))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Aloul)) (, ,) (SBAR (WHNP (WP$ whose) (NN son)) (S (VP (VBD was) (VP (VBN killed) (PP (IN in) (NP (NNS clashes))) (NP (JJ last) (NN week))))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP We)) (VP (MD will) (VP (VP (VB stop) (ADVP (RB here)) (ADVP (RB together))) (CC and) (VP (VB prevent) (NP (DT any) (NNPS Jews)) (PP (IN from) (S (VP (VBG coming) (ADVP (RB back) (PP (TO to) (NP (DT this) (NN place)))))))))) (. .) ('' '')))
+
+(S1 (S (CC But) (NP (NP (DT the) (NN governor) (POS 's)) (NN call)) (VP (VBD went) (ADJP (JJ unheeded))) (. .)))
+
+(S1 (S (NP (NNS Demonstrators)) (VP (VBD threw) (NP (JJ Jewish) (NN prayer) (NNS books)) (PP (IN from) (NP (DT the) (NN tomb))) (, ,) (S (VP (VBG burning) (CC and) (VBG tearing) (NP (PRP them))))) (. .)))
+
+(S1 (S (NP (DT Some) (VBG laughing) (NNS teens)) (VP (VBD walked) (PP (IN out) (PP (IN of) (NP (NP (DT the) (JJ compound) (VBG wearing) (NNP Israeli) (NNS helmets) (CC and) (NNS vests)) (VP (VBN found) (ADVP (RB inside))))))) (. .)))
+
+(S1 (S (NP (NNS Dozens)) (VP (VP (VBD climbed) (PP (IN on) (NP (NP (DT the) (NN roof)) (PP (IN of) (NP (DT the) (NN tomb)))))) (CC and) (VP (VBD began) (S (VP (VP (VBG hammering)) (, ,) (VP (VBG breaking) (PRT (RP off)) (NP (NP (NNS chunks)) (PP (IN of) (NP (NN rock))))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (JJ late) (NN afternoon))) (, ,) (NP (NNS firefighters)) (VP (VBD had) (VP (VBN put) (PRT (RP out)) (NP (CD three) (NNS fires)) (PP (IN in) (NP (DT the) (NN compound))))) (. .)))
+
+(S1 (S (NP (NNS People)) (ADVP (RB still)) (VP (VBD wandered) (ADVP (RB curiously)) (PP (IN around) (NP (NP (DT the) (JJ small) (NN enclave)) (, ,) (VP (ADVP (RB now)) (VBN topped) (PP (IN by) (NP (NP (DT a) (JJ large) (NN flag)) (PP (IN of) (NP (NP (DT the) (JJ radical) (NNP Islamic) (NN group) (NNP Hamas)) (, ,) (CC and) (NP (DT a) (JJR smaller) (JJ Palestinian) (NN flag)))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP I)) (VP (VBP am) (ADJP (RB very) (JJ happy)))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Nidal) (NNP Abdel) (NNP Jawad)) (, ,) (NP (CD 40))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (VBD was) (ADVP (RB still)) (NP (NN occupation)) (ADVP (ADVP (RB as) (RB long)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBD were) (ADVP (RB here))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (DT The) (NN withdrawal)) (PP (IN of) (NP (NNS troops))) (PP (IN from) (NP (DT the) (NN tomb)))) (VP (VBD marked) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (NNP Israel)) (VP (VBZ has) (VP (VBN relinquished) (NP (NN territory)) (PP (IN as) (NP (NP (DT a) (JJ direct) (NN result)) (PP (IN of) (NP (JJ Palestinian) (NN violence))))))))))) (. .)))
+
+(S1 (S (NP (NNP Deputy) (NNP Defense) (NNP Minister) (NNP Ephraim) (NNP Sneh)) (VP (VBD said) (SBAR (S (NP (DT the) (NN enclave)) (VP (VBD had) (VP (VBN become) (NP (DT a) (NN liability))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN after) (NP (NP (DT the) (NN destruction)) (SBAR (WHNP (WDT that)) (S (VP (VBD followed) (NP (DT the) (NN withdrawal))))))) (, ,) (NP (JJ Israeli) (NNS officials)) (VP (VBD were) (ADJP (JJ furious))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (DT The) (NNPS Palestinians)) (VP (VP (VBN betrayed) (NP (PRP$ their) (NN commitment))) (CC and) (VP (VB have) (S (VP (VB let) (NP (DT this) (NN shrine)) (VP (VB fall) (PP (IN into) (NP (NP (DT the) (NNS hands)) (PP (IN of) (NP (DT the) (NN mob) (VBG waiting) (NN outside))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NNP Israeli) (NN government) (NN spokesman) (NNP Nahman) (NNP Shai)) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (DT the) (NN government)) (VP (`` ``) (ADVP (RB deeply)) (VP (VBZ deplores)) ('' ') ('' ') (NP (NP (DT the) (NN trashing)) (PP (IN of) (NP (DT the) (NN tomb)))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN statement)) (PP (IN by) (NP (DT the) (JJ 15-member) (NNP European) (NNP Union)))) (ADVP (RB also)) (VP (VBD condemned) (NP (DT the) (NN destruction))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NN tomb) (POS 's)) (NN holiness)) (VP (VBZ is) (VP (VBN disputed) (, ,) (SBAR (IN as) (S (NP (NN tradition)) (VP (VBZ holds) (SBAR (IN that) (S (NP (NNP Joseph)) (VP (VBD was) (ADVP (RB actually)) (VP (VBN buried) (PP (IN in) (NP (NNP Egypt))))))))))))) (: ;) (S (NP (NP (DT the) (NN connection)) (PP (IN of) (NP (NP (DT the) (NN site)) (PP (TO to) (NP (NNP Joseph)))))) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB relatively) (JJ recent)) (JJ local) (JJ Arab) (NN tradition)) (VP (ADVP (RB also)) (VBN observed) (PP (IN by) (NP (DT some) (NNPS Jews))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (SBAR (WHNP (WP What)) (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB understand))))))) (VP (VBZ is) (SBAR (IN if) (S (NP (NNP Joseph)) (VP (VBZ is) (RB not) (VP (VBN buried) (ADVP (RB there)) (, ,) (SBAR (WHADVP (WRB why)) (S (NP (DT this) (NN place)) (VP (VBD was) (ADJP (RB so) (JJ important))))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Abdul) (NNP Fateh) (NNP Sayed)) (, ,) (NP (CD 62)) (, ,) (SBAR (WHNP (WHNP (WP$ whose) (NN bookstore)) (PP (IN across) (NP (DT the) (NN street)))) (S (VP (VBD was) (VP (VBN hit) (PP (IN by) (NP (NP (JJ stray) (NNS bullets)) (PP (IN in) (NP (DT the) (NN fighting)))))))))) (. .)))
+
+(S1 (S (`` ``) (ADVP (RB Now)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ over))) (. .)))
+
+(S1 (S (S (NP (PRP We)) (VP (VBP are) (ADJP (RB very) (JJ happy)))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said) (, ,) (S (VP (VBG leafing) (PP (IN through) (NP (NP (DT a) (JJ thick) (NN law) (NN book)) (, ,) (SBAR (S (NP (PRP$ its) (NNS pages)) (VP (VBD shot) (ADVP (RB through)) (PP (IN by) (NP (NNS bullets))))))))))) (. .)))
+
+(S1 (S (`` ``) (NP (EX There)) (VP (MD should) (ADVP (RB never)) (VP (VB have) (VP (VBN been) (NP (NP (DT a) (JJ military) (NN base)) (PP (IN in) (NP (DT a) (JJ civilian) (NN area))))))) (. .) ('' '')))
+

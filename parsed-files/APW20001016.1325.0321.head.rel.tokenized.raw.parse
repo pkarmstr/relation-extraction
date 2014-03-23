@@ -1,0 +1,66 @@
+(S1 (NP (NP (CD APW20001016.1325.0321) (NN NEWS) (NN STORY)) (QP (CD 2000-10-16) (CD 13:30:59))))
+
+(S1 (NP (NNS College-Costs)))
+
+(S1 (S (NP (NN Survey)) (VP (VBZ Finds) (S (NP (NN College) (NNS Costs)) (ADJP (JJ Rising))))))
+
+(S1 (S (NP (NP (NNP NEW) (NNP YORK)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (NP (DT The) (NN price)) (PP (IN of) (NP (DT a) (NN college) (NN degree)))) (VP (VBZ continues) (S (VP (TO to) (VP (VB rise) (ADVP (RBR faster) (PP (IN than) (NP (NN inflation)))) (, ,) (PP (IN with) (NP (NP (NN tuition)) (CC and) (NP (NP (NNS fees)) (PP (IN at) (NP (NP (JJ public) (JJ four-year) (NNS colleges)) (PP (IN up) (NP (NP (DT an) (JJ average) (CD 4.4) (NN percent)) (SBAR (S (NP (DT this) (NN fall)) (, ,) (PP (ADVP (RB even) (JJR more)) (IN at) (NP (JJ private) (NNS schools))) (, ,) (NP (DT a) (JJ new) (NN survey)) (VP (VBZ has) (VP (VBN found))))))))))))))))))) (. .)))
+
+(S1 (S (CC And) (NP (NNS loans)) (VP (VBP provide) (NP (NP (DT a) (VBG growing) (NN chunk)) (PP (IN of) (NP (NP (DT the) (JJ extra) (NN money)) (SBAR (S (NP (NNS students)) (VP (VBP need) (S (VP (TO to) (VP (VB pay) (PP (IN for) (NP (DT those) (NNS degrees))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (JJ Average) (JJ in-state) (NN tuition)) (CC and) (NP (NNS fees))) (PP (IN at) (NP (JJ public) (, ,) (JJ four-year) (NNS schools)))) (VP (VBZ is) (NP (NP ($ $) (CD 3,510)) (PP (IN per) (NP (NN semester) (CD _))) (ADJP (ADJP (NP ($ $) (CD 148)) (JJR more)) (PP (IN than) (NP (JJ last) (NN year))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NNS figures)) (VP (VBN released) (NP (NNP Monday)) (PP (IN by) (NP (DT the) (NNP College) (NNP Board)))))))) (. .)))
+
+(S1 (S (NP (JJ On-campus) (NN room) (CC and) (NN board)) (ADVP (RB now)) (VP (VBZ averages) (NP (NP ($ $) (CD 4,960)) (, ,) (ADVP (RB up) (NP (CD 5.1) (NN percent))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (JJ private) (JJ four-year) (NNS colleges))) (, ,) (NP (NP (NN tuition)) (CC and) (NP (NNS fees))) (VP (VBP average) (NP (NP ($ $) (CD 16,332)) (, ,) (ADVP (RB up) (NP (CD 5.2) (NN percent)) (PP (IN from) (NP (JJ last) (NN year)))))) (. .)))
+
+(S1 (S (NP (NP (NN Room) (CC and) (NN board)) (PP (IN on) (NP (NN campus)))) (VP (VBZ is) (ADVP (RB now)) (NP (NP ($ $) (CD 6,209)) (, ,) (NP (DT a) (ADJP (CD 4.2) (NN percent)) (NN increase)))) (. .)))
+
+(S1 (S (NP (NP (JJ Only) (JJ public) (JJ two-year) (NNS schools)) (, ,) (RB chiefly) (NP (NN community) (NNS colleges)) (, ,)) (VP (VBD stayed) (PP (IN below) (NP (NP (DT the) (JJ current) (NN inflation) (NN rate)) (ADVP (RB _) (CC but) (RB barely))))) (. .)))
+
+(S1 (S (S (NP (NN Tuition)) (VP (VBD rose) (NP (DT this) (NN year)) (PP (TO to) (NP ($ $) (CD 1,705))) (, ,) (ADVP (RB up) (NP (CD 3.4) (NN percent))))) (, ,) (NP (DT the) (NN survey)) (VP (VBD found)) (. .)))
+
+(S1 (S (NP (JJ Private) (JJ two-year) (NNS schools)) (VP (VBD boosted) (NP (NP (NN tuition)) (CC and) (NP (NNS fees))) (PP (TO to) (NP (NP ($ $) (CD 7,458)) (, ,) (NP (DT a) (ADJP (CD 7) (NN percent)) (NN rise))))) (. .)))
+
+(S1 (SINV (S (NP (DT This) (NN pattern)) (VP (VBZ follows) (NP (DT an) (JJ old) (, ,) (JJ familiar) (NN trend)))) (, ,) (VP (VBD said)) (NP (NP (NNP Joni) (NNP Finney)) (, ,) (NP (NP (DT a) (NN policy) (NN analyst)) (PP (IN at) (NP (NP (DT the) (NNP National) (NNP Center)) (PP (IN for) (NP (NP (NNP Public) (NNP Policy)) (CC and) (NP (NNP Higher) (NNP Education)))) (PP (IN in) (NP (NP (NNP San) (NNP Jose)) (, ,) (NP (NNP Calif.)) (SBAR (S (`` ``) (S (NP (NNS Colleges) (CC and) (NNS universities)) (VP (VBP have) (NP (NP (DT a) (ADJP (RB very) (JJ difficult)) (NN time)) (VP (VBG controlling) (NP (PRP$ their) (NNS costs)))))) (, ,) ('' '') (NP (PRP she)) (VP (VBD said)))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (DT These) (NNS institutions)) (VP (VBD were) (VP (VBN underfunded) (PP (IN in) (NP (NP (DT the) (JJ early) (NN part)) (PP (IN of) (NP (DT the) (NNS '90s)))))))) (, ,) ('' '') (NP (NNP Finney)) (VP (VBD said)) (. .)))
+
+(S1 (FRAG ('' '') (NP (NN ..)) (. .) (CC But) (S (NP (PRP they)) (VP (VBP 've) (ADVP (RBR more) (IN than)) (VP (VBN made) (PRT (RP up)) (PP (IN for) (NP (VBN lost) (NN ground)))))) (. .) ('' '')))
+
+(S1 (S (CC But) (NP (NP (NNP Stanley) (NNP Eikenberry)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NP (DT the) (NNP American) (NNP Council)) (PP (IN on) (NP (NNP Education)))) (, ,) (NP (DT an) (NN umbrella) (NN group)))) (PP (IN for) (NP (JJR higher) (NN education)))) (, ,)) (VP (VBD said) (PP (IN in) (NP (DT a) (NN statement))) (, ,) (`` ``) (S (PP (VBN Given) (NP (NP (DT the) (JJ large) (, ,) (VBN fixed) (NNS costs)) (PP (IN of) (NP (JJS most) (NNS campuses))))) (, ,) (PP (IN in) (NP (NP (NNS personnel) (CC and) (NNS facilities)) (ADVP (RB especially)))) (, ,) (NP (DT these) (NNS numbers)) (VP (VBP show) (SBAR (S (NP (NNS institutions)) (VP (VBP are) (VP (VBG working) (ADVP (RB hard)) (S (VP (TO to) (VP (VB hold) (NP (DT the) (NN line)) (PP (IN on) (NP (NNS increases))))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (DT The) (JJ recent) (NNS increases)) (VP (VBP push) (PP (IN past) (NP (NN inflation)))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP Consumer) (NNP Price) (NNP Index)) (VP (VBD rose) (NP (CD 2.7) (NN percent)) (PP (IN in) (NP (CD 1999))))) (: ;) (S (NP (NP (DT the) (JJ first) (CD eight) (NNS months)) (PP (IN of) (NP (DT this) (NN year)))) (, ,) (NP (NN consumer) (NNS prices)) (VP (VBD rose) (PP (IN at) (NP (NP (DT an) (JJ annual) (NN rate)) (PP (IN of) (NP (CD 3.5) (NN percent))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN year)) (, ,) (NP (NP (NN college) (NN tuition)) (CC and) (NP (NNS fees))) (VP (VBD rose) (NP (QP (JJR less) (IN than) (CD 5)) (NN percent))) (. .)))
+
+(S1 (SINV (S (PP (IN Despite) (NP (DT the) (NNS increases))) (, ,) (NP (NN college)) (VP (VBZ remains) (NP (JJ affordable) (CC and) (DT a) (JJ good) (NN investment)))) (, ,) (VP (VBD said)) (NP (NNP College) (NNP Board) (NNP President) (NNP Gaston) (NNP Caperton)) (PP (IN in) (NP (NP (DT a) (NN statement)) (PP (IN with) (NP (DT the) (NNS surveys))))) (. .)))
+
+(S1 (S (`` ``) (S (PP (IN In) (NP (DT both) (NN earning) (UCP (JJ potential) (CC and) (VBG learning)) (NN potential))) (, ,) (NP (PRP you)) (VP (VBP cannot) (VP (VB beat) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT a) (NN college) (NN education))))))) (, ,) ('' '') (NP (DT the) (JJ former) (NNP West) (NNP Virginia) (NN governor)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP College) (NNP Board) (POS 's)) (NNS figures)) (VP (VB concern) (NP (NP (DT the) (NNS costs)) (PP (IN for) (NP (NP (QP (CD 6.4) (CD million)) (JJ full-time) (NNS undergraduates)) (VP (VBG _) (NP (NP (NP (CD 54) (NN percent)) (VP (VBG attending) (NP (JJ four-year) (JJ public) (NNS institutions)))) (, ,) (NP (NP (CD 27) (NN percent)) (PP (IN at) (NP (JJ four-year) (JJ private) (NNS schools)))) (, ,) (NP (NP (CD 17) (NN percent)) (PP (IN at) (NP (JJ two-year) (NN community) (NNS colleges)))) (CC and) (NP (NP (CD 1) (NN percent)) (PP (IN at) (NP (JJ private) (JJ two-year) (NNS schools)))))))))) (. .)))
+
+(S1 (S (S (S (NP (NP (DT A) (NN majority)) (PP (IN of) (NP (NNS students)))) (VP (VBP need) (NP (NP (NNS grants) (CC or) (NNS loans) (NNS _)) (CC or) (NP (DT both) (NNS _))))) (CC but) (S (NP (PRP$ their) (JJ exact) (NNS numbers)) (VP (VBP are) (ADJP (JJ unknown))))) (, ,) (NP (DT a) (NNP College) (NNP Board) (NN spokesman)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (JJ Last) (NN school) (NN year)) (, ,) (NP (NNS loans)) (VP (VBD made) (PRT (RP up)) (NP (NP (CD 59) (NN percent)) (PP (IN of) (NP (DT a) (NN record) (QP ($ $) (CD 68) (CD billion))))) (PP (IN in) (NP (JJ financial) (NN aid)))) (. .)))
+
+(S1 (S (ADVP (NP (DT A) (NN decade)) (RB ago)) (, ,) (NP (NNS loans)) (VP (VBD made) (PRT (RP up)) (NP (NP (QP (RB just) (IN over) (CD 41)) (NN percent)) (PP (IN of) (NP (NN student) (JJ financial) (NN help))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN pool)) (PP (IN of) (NP (NP (NN money)) (PP (IN from) (NP (UCP (JJ federal) (, ,) (NN state) (CC and) (NN school)) (NNS sources)))))) (NP (JJ last) (NN year)) (VP (VBD was) (ADJP (ADJP (NP (CD 4) (NN percent)) (JJR greater) (PP (IN than) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (, ,) (CC but) (ADJP (ADJP (NP (CD 88) (NN percent)) (JJR more)) (PP (IN than) (ADVP (NP (DT a) (NN decade)) (RB before))))) (, ,) (S (VP (VBG taking) (NP (NN inflation)) (PP (IN into) (NP (NN account)))))) (. .)))
+
+(S1 (S (NP (DT The) (ADJP (NNP New) (NNP York) (JJ -based)) (NNP College) (NNP Board)) (VP (VBZ is) (NP (NP (DT a) (JJ nonprofit) (NN organization)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBZ administers) (NP (DT the) (NNS SATs))) (CC and) (VP (VBZ promotes) (NP (JJR higher) (NN education)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD surveyed) (NP (QP (JJR more) (IN than) (CD 3,000)) (NNS schools)) (S (VP (TO to) (VP (VB find) (PRT (RP out)) (NP (NP (JJ undergraduate) (NNS charges)) (PP (IN for) (NP (CD 2000-2001)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN companion) (NN survey)) (PP (IN on) (NP (JJ financial) (NN aid)))) (, ,) (VP (VBD was) (VP (VBN based) (PP (IN on) (NP (NP (UCP (JJ federal) (, ,) (NN state) (CC and) (NN school)) (NNS statistics)) (PP (IN from) (NP (CD 1999-2000))))))) (. .)))
+
+(S1 (S (NP (JJ Current) (NN grant) (CC and) (NN loan) (NNS figures)) (VP (VBP are) (RB not) (ADJP (JJ available)) (SBAR (IN until) (S (NP (DT the) (NN school) (NN year)) (VP (VBZ ends))))) (. .)))
+
+(S1 (NP (NNP ____)))
+
+(S1 (FRAG (PP (IN On) (NP (DT the) (JJ Net))) (: :) (NP (NN http)) (: :)))
+
+(S1 (NP (NP (NP (NNP American) (NNP Council)) (PP (IN on) (NP (NNP Education)))) (: :) (NP (CD http)) (: :)))
+

@@ -1,0 +1,44 @@
+(S1 (NP (NP (CD APW20001113.1815.0535) (NN NEWS) (NN STORY)) (QP (CD 2000-11-13) (CD 18:21:15))))
+
+(S1 (NP (NNS Denmark-US-Ballots)))
+
+(S1 (S (NP (NP (JJ Presidential) (NNS Ballots)) (PP (IN in) (NP (NNP Denmark))))))
+
+(S1 (S (INTJ (UH COPENHAGEN)) (, ,) (NP (NP (NNP Denmark)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (DT A) (JJ Danish) (NN couple)) (VP (VBD were) (VP (VBN surprised) (NP (DT this) (NN weekend)) (SBAR (WHADVP (WRB when)) (S (NP (NP (CD two) (JJ absentee) (NNS ballots)) (PP (IN from) (NP (DT the) (NNP U.S))))))))))) (. .)))
+
+(S1 (S (NP (JJ presidential) (NN election)) (VP (VBD turned) (ADVP (RB up)) (PP (IN in) (NP (PRP$ their) (NN mail)))) (. .)))
+
+(S1 (S (NP (NP (NNP Brian) (NNP Kain)) (, ,) (NP (NP (DT a) (JJ 33-year-old) (NN accountant)) (CC and) (NP (NN sailing) (NN enthusiast))) (, ,)) (ADVP (RB eagerly)) (VP (VBD opened) (NP (NP (DT a) (JJ large) (NN envelope)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD arrived) (NP (NNP Saturday)) (PP (IN with) (NP (NP (DT some) (NN information)) (PP (IN about) (NP (NN navigation) (NNS charts))))) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD had) (VP (VBN ordered) (PP (IN from) (NP (NP (DT a) (NN company)) (VP (VBN based) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Washington))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD assumed) (SBAR (S (NP (NP (CD two) (JJ extra) (JJ sealed) (JJ yellow) (NNS envelopes)) (PP (IN inside) (NP (DT the) (NN package)))) (VP (VP (VBD were) (NP (NNS ads))) (CC and) (VP (VBD planned) (S (VP (TO to) (VP (VB throw) (NP (PRP them)) (ADVP (RB away)) (SBAR (IN until) (S (NP (NP (PRP$ his) (NN wife)) (, ,) (NP (NNP Helle)) (, ,)) (VP (VBD opened) (NP (NP (CD one)) (PP (IN of) (NP (PRP them))))))) (S (VP (TO to) (VP (VB discover) (NP (NP (DT the) (JJ absentee) (NN ballot)) (PP (IN of) (NP (NP (NNP Steven) (NNP H.) (NNP Forrester)) (PP (IN of) (NP (NP (NNP Bellevue)) (, ,) (NP (NNP Wash)))))))))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (NP (DT The) (RBS most) (JJ interesting) (NN thing)) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (NP (NP (DT the) (JJ free) (NN chart)) (CC and) (NP (DT the) (NN brochure))))) (, ,) ('' '') (VP (VBD said)) (NP (NNP Kain)) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Kains)) (VP (VP (VBD did) (RB n't) (VP (VB open) (NP (DT the) (JJ second) (NN envelope)))) (CC but) (VP (VBD assumed) (SBAR (S (NP (PRP it)) (ADVP (RB also)) (VP (VBD was) (NP (DT a) (NN ballot)) (SBAR (IN since) (S (NP (DT both)) (VP (VBD were) (VP (VBN marked) (PP (IN with) (NP (NP (DT the) (NNS words)) (`` ``) (S (NP (JJ Official) (NN ballot) (NNS _)) (VP (VB do) (RB not) (VP (VB delay))))))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (PRP They)) (VP (VBD contacted) (NP (DT the) (NNP U.S))) (. .)))
+
+(S1 (S (VP (VP (NNP Embassy) (PP (IN in) (NP (NNP Copenhagen))) (PP (IN on) (NP (NNP Monday)))) (CC and) (VP (VBD were) (VP (VBN asked) (S (VP (TO to) (VP (VB put) (NP (DT the) (NNS envelopes)) (PP (IN in) (NP (DT the) (NN mail))))))))) (. .)))
+
+(S1 (S (NP (NNP Embassy) (NN spokeswoman)) (NP (NNP Lela) (NNP Margiou)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VP (VBD were) (VP (VBG waiting) (S (VP (TO to) (VP (VB receive) (NP (DT the) (NNS ballots))))))) (CC and) (VP (VBD had) (RB not) (ADVP (RB yet)) (VP (VBN decided) (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP them))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP It)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (ADJP (JJ unusual)))) (, ,) ('' '') (NP (NNP Margiou)) (VP (VBD said) (, ,) (S (VP (VBG adding) (SBAR (IN that) (S (S (NP (DT the) (NNS ballots)) (`` ``) (VP (VBD were) (RB not) (ADJP (JJ valid)))) (, ,) (VP (VBD were) (RB not) (ADJP (JJ meaningful)) (SBAR (IN because) (S (NP (NP (VBG counting)) (PP (IN in) (NP (NNP Washington) (NN State)))) (VP (VBZ has) (VP (VBN been) (VP (VBN completed)))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Kain)) (VP (VBD had) (VP (VBN ordered) (S (NP (NP (DT the) (NN information)) (PP (IN via) (NP (DT the) (NAC (NNP Internet) (PP (IN from) (NP (NNS Tides)))) (NNP End) (NNP Ltd))))))) (. .)))
+
+(S1 (FRAG (PP (IN of) (NP (NNP Washington))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ large) (NN envelope)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN postmarked) (PP (IN from) (NP (NNP Shaw) (NNP Island))))))) (, ,)) (VP (VBD arrived) (VP (VBN unsealed) (PP (IN at) (NP (NP (NP (DT the) (NNPS Kains) (POS ')) (NN home)) (PP (IN in) (NP (NP (NNP Odense)) (, ,) (ADVP (NP (CD 105) (NNS miles)) (RB west) (PP (IN of) (NP (DT the) (NN capital)))) (, ,) (NP (NNP Copenhagen)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Fyens) (NNP Stiftstidende)) (, ,) (NP (DT the) (JJ main) (JJ local) (NN newspaper)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD contacted) (NP (NNP Forrester)) (S (VP (TO to) (VP (VB tell) (NP (PRP him)) (SBAR (S (S (NP (PRP$ his) (NN ballot)) (VP (VBD had) (VP (VBN landed) (PP (IN in) (NP (NNP Denmark)))))) (CC and) (S (NP (PRP he)) (VP (VBD did) (RB not) (VP (VB understand) (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (MD could) (VP (VB have) (VP (VBN been) (VP (VBN postmarked) (PP (IN in) (NP (NP (NNP Shaw) (NNP Island)) (, ,) (NP (NP (CD 50) (NNS miles)) (PP (IN from) (SBAR (WHADVP (WRB where)) (S (NP (PRP$ his) (NN wife)) (VP (VBD mailed) (NP (PRP it)) (PP (IN in) (NP (NNP Bellevue)))))))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Forrester)) (VP (VBD told) (NP (DT the) (NN newspaper)) (SBAR (S (NP (PRP he)) (VP (VBD had) (NP (DT no) (NNS plans)) (PP (IN of) (S (VP (VBG pursuing) (NP (DT the) (NN matter))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (DT The) (NN vote)) (VP (VBZ is) (ADJP (PRN (, ,) (S (NP (PRP I)) (VP (VBP think))) (, ,)) (JJ over)))) (, ,) ('' '') (NP (PRP he)) (VP (VBD was) (VP (VBN quoted) (PP (IN as) (S (VP (VBG saying)))))) (. .)))
+
+(S1 (NP (NP (DT The) (NNP U.S)) (. .)))
+
+(S1 (NP (NP (JJ presidential) (NN race)) (PP (IN between) (NP (NNP Republican) (NN nominee) (NNP Texas) (NNP Gov))) (. .)))
+
+(S1 (S (NP (NP (NNP George) (NNP W.) (NNP Bush)) (CC and) (NP (NNP Democratic) (NNP Vice) (NNP President) (NNP Al) (NNP Gore))) (VP (VBD remained) (NP (JJ undecided) (NNP Monday)) (PP (IN with) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NP (NNP Florida) (POS 's)) (CD 25) (JJ electoral) (NNS votes) (RB still))))) (PP (IN at) (NP (NN stake)))) (. .)))
+

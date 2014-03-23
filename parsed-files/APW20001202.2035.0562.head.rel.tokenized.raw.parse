@@ -1,0 +1,80 @@
+(S1 (NP (NP (CD APW20001202.2035.0562) (NN NEWS) (NN STORY)) (QP (CD 2000-12-02) (CD 20:59:26))))
+
+(S1 (NP (NN Fox-Open-Border)))
+
+(S1 (NP (NP (NP (NN Skepticism)) (NNPS Greets) (NNP Fox) (POS 's)) (NNP Border) (NNP Plan)))
+
+(S1 (S (NP (NP (NP (NNP BROWNSVILLE)) (, ,) (NP (NNP Texas))) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (PP (IN In) (NP (NN speech))) (PP (IN after) (NP (NN speech))) (PRN (, ,) (S (NP (NNP Mexico) (NNP President) (NNP Vicente) (NNP Fox)) (VP (VBZ argues) (PP (IN for) (NP (NP (PRP$ his) (NN dream)) (: :) (NP (NP (DT A) (JJ free) (NN flow)) (PP (IN of) (NP (NP (NNS workers)) (PP (IN across) (NP (DT an) (JJ open) (NN border)))))))))) (, ,)) (NP (NP (DT an) (JJ international) (NN boundary)) (SBAR (WHNP (WDT that)) (S (VP (VBZ ceases) (S (VP (TO to) (VP (VB be) (NP (DT a) (NN barrier)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT the) (JJ 2,000-mile) (NN frontier)) (PP (IN between) (NP (NP (NNP Mexico)) (CC and) (NP (DT the) (NNP United) (NNPS States))))) (VP (VBZ is) (VP (VBN delineated) (PP (IN by) (NP (NP (NN steel) (NNS walls)) (CC and) (NP (NP (JJ barbed) (NN wire)) (, ,) (VP (VBD watched) (PRT (RP over)) (PP (IN by) (NP (NP (JJ uniformed) (NNS guards)) (PP (IN from) (NP (DT the) (NNP Border) (NNP Patrol))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP It)) (VP (MD will) (ADVP (RB never)) (VP (VB happen)))) (, ,) ('' '') (NP (NP (NNP Rosalinda) (NNP Arebalo)) (PP (IN of) (NP (NP (JJ neighboring) (NNP Matamoros)) (, ,) (NP (NNP Mexico)) (, ,)))) (VP (VBD said) (ADVP (RB flatly) (PP (IN of) (NP (NP (NNP Fox) (POS 's)) (NN dream))))) (. .)))
+
+(S1 (S (`` ``) (SBAR (IN If) (S (NP (PRP it)) (VP (VBD did)))) (, ,) (NP (PRP it)) (VP (MD would) (VP (VB be) (NP (DT a) (NN miracle)))) (. .) ('' '')))
+
+(S1 (S (PP (IN If) (NP (NN anything))) (, ,) (NP (DT the) (NN border)) (VP (VBZ is) (VP (VBG closing) (PRT (RP down)))) (. .)))
+
+(S1 (S (NP (DT The) (NNP United) (NNPS States)) (VP (VBD announced) (NP (NNS plans)) (NP (DT this) (NN fall) (S (VP (TO to) (VP (VB step) (PRT (RP up)) (NP (NN border) (NN security)) (PP (IN with) (NP (NP (NP (CD 1,300) (NNS miles)) (PP (IN of) (NP (NN road) (CC and) (NN fence)))) (, ,) (NP (NNS cameras)) (CC and) (NP (NP (NNS thousands)) (PP (IN of) (NP (JJ portable) (NNP floodlights))))))))))) (. .)))
+
+(S1 (S (PP (IN From) (NP (CD 1993))) (PP (IN through) (NP (CD 1999))) (, ,) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNP Border) (NNP Patrol) (NNS agents)))) (VP (VBD doubled) (PP (IN from) (NP (QP (CD 4,000) (TO to) (CD 8,000))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP I)) (VP (MD 'll) (VP (VB be) (ADJP (JJ honest)) (, ,) (SBAR (S (NP (PRP$ your) (NN country)) (VP (VBZ is) (RB n't) (ADJP (JJ ready) (PP (IN for) (NP (PRP it)))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Fernando) (NNP Kleinfingher)) (, ,) (NP (NP (DT a) (NN computer) (NN consultant)) (PP (IN in) (NP (NP (NNP Tijuana)) (, ,) (NP (NNP Mexico)))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (MD would) (VP (VB be) (ADJP (RB very) (JJ hard)) (SBAR (IN for) (S (NP (NNP America)) (VP (TO to) (VP (VB accept))))))) (. .) ('' '')))
+
+(S1 (SINV (`` ``) (S (NP (DT The) (NNP United) (NNPS States)) (VP (MD will) (ADVP (RB never)) (VP (VB allow) (NP (DT an) (JJ open) (NN border))))) (, ,) ('' '') (VP (VBD predicted)) (NP (NP (NNP Faustino) (NNP Avalos)) (, ,) (NP (NP (DT a) (JJ 65-year-old) (NN farmer)) (VP (VBG strolling) (ADVP (NN home)) (PP (TO to) (NP (NNP Matamoros)))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP They)) (ADVP (RB only)) (VP (VBP want) (S (NP (NNPS Mexicans)) (VP (TO to) (VP (VB visit) (CC and) (VB buy) (NP (NNS things)))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ undocumented) (NNS workers)) (VP (VBP get) (NP (NP (NN nothing)) (CC but) (NP (NN injustice)))) (. .) ('' '')))
+
+(S1 (S (NP (NNS Economists)) (VP (VBP say) (SBAR (S (NP (DT the) (NN skepticism)) (VP (VBZ is) (ADJP (JJ well-founded)))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (ADJP (RB totally) (JJ unrealistic)) (NN proposal)))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Steve) (NNP Bronars)) (, ,) (NP (NP (DT a) (NN professor)) (PP (IN of) (NP (NNS economics))) (PP (IN at) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Texas))) (PP (IN at) (NP (NNP Austin))))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (RB not) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Fox)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN sworn) (PP (IN into) (NP (NN office))) (NP (NNP Friday)))))) (, ,)) (ADVP (RB first)) (VP (VBD pledged) (S (VP (TO to) (VP (VB open) (NP (DT the) (NN border)) (PP (IN during) (NP (NP (DT a) (JJ heated) (NN campaign)) (SBAR (S (VP (TO to) (VP (VB overturn) (NP (DT the) (JJ ruling) (NNP Institutional) (NNP Revolutionary) (NNP Party)))))))))))) (. .)))
+
+(S1 (S (S (VP (VBN Pressed) (PP (IN for) (NP (NP (NNS details)) (PP (IN after) (NP (PRP$ his) (NNP July) (NN election))))))) (, ,) (NP (DT the) (JJ former) (NNP Coca-Cola) (NN executive)) (VP (VBD revised) (NP (PRP$ his) (NN scheme)) (, ,) (S (VP (VBG promising) (S (VP (TO to) (VP (VP (VB bring) (NP (JJ Mexican) (NNS wages)) (PRT (RP up)) (PP (TO to) (NP (NNP U.S.) (NNS standards)))) (CC and) (VP (VB open) (NP (DT the) (NN border)) (PP (IN within) (NP (CD 10) (NNS years))) (, ,) (SBAR (IN although) (S (NP (PRP he)) (VP (VBZ remains) (ADJP (JJ vague) (PP (IN about) (NP (DT a) (NN schedule)))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Economists)) (VP (VBP say) (SBAR (S (NP (NP (DT an) (JJ unfettered) (NN flow)) (PP (IN of) (NP (JJ Mexican) (NNS workers)))) (VP (MD could) (VP (VP (VB drive) (NP (NNS wages)) (PRT (RP down))) (CC and) (VP (VB strain) (NP (JJ social) (NNS services)) (PP (TO to) (NP (DT the) (NN breaking) (NN point))) (, ,) (PP (ADVP (RB particularly)) (IN in) (NP (NN border) (NNS states))))))))) (. .)))
+
+(S1 (SINV (PP (IN On) (NP (NP (NN top)) (PP (IN of) (NP (DT that))))) (, ,) (VP (VBZ adds)) (NP (NP (NNP El) (NNP Paso)) (NP (NNP Mayor) (NNP Carlos) (NNP Ramirez))) (: :) (`` ``) (S (NP (EX There)) (VP (VBP are) (NP (NP (NN safety) (NNS issues)) (PP (IN of) (NP (NP (NNS drugs)) (, ,) (NP (NNS terrorists)) (CC and) (NP (NN contraband))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP President) (NNP Clinton)) (CC and) (NP (NNP Vice) (NNP President) (NNP Al) (NNP Gore))) (VP (VBD were) (ADJP (JJ noncommittal)) (PP (IN in) (NP (NP (NNP August) (NNS meetings)) (PP (IN with) (NP (NNP Fox)))))) (. .)))
+
+(S1 (S (CC And) (NP (NNP Texas) (NNP Gov.) (NNP George) (NNP W.) (NNP Bush)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD supported) (NP (NP (`` ``) (DT a) (JJ humane) (NN way) ('' ')) ('' ') (PP (IN of) (S (VP (VBG cracking) (PRT (RP down)) (PP (IN on) (NP (NP (NN migration)) (PP (IN from) (`` ``) (NP (NP (PRP$ our) (JJ friendly) (NN neighbor)) (PP (TO to) (NP (DT the) (NN south))))))))))))))) (. .) ('' '')))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBP appreciate) (NP (-LRB- -LRB-) (NP (NNP Fox) (POS 's)) (-RRB- -RRB-) (JJ optimistic) (NN vision)))) (, ,) ('' '') (NP (NNP Bush)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNP Mark) (NNP Krikorian)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (NP (DT the) (JJ nonpartisan) (, ,) (ADJP (NNP Washington) (JJ -based)) (NNP Center)) (PP (IN for) (NP (NNP Immigration) (NNPS Studies)))))) (, ,)) (VP (VBZ believes) (SBAR (S (NP (NP (NP (NNP Fox) (POS 's)) (NN call)) (PP (IN for) (NP (DT an) (JJ open) (NN border)))) (VP (VBZ is) (NP (DT a) (`` ``) (NN bargaining) (NN chip)))))) (. .) ('' '')))
+
+(S1 (S (S (NP (NNP Fox)) (VP (MD will) (VP (VP (VB demand) (NP (DT a) (JJ porous) (NN boundary))) (CC and) (RB then) (VP (VB settle) (PP (IN for) (NP (NP (DT an) (NN increase)) (PP (IN in) (NP (JJ legal) (NN migration))))))))) (, ,) (NP (PRP he)) (VP (VBD predicted)) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP He)) (VP (VBZ 's) (VP (VBG hoping) (SBAR (S (NP (DT the) (NNP United) (NNPS States)) (VP (MD will) (VP (VB split) (NP (DT the) (NN difference))))))))) (, ,) ('' '') (NP (NNP Krikorian)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN time)) (SBAR (S (VP (TO to) (VP (VB cut) (NP (DT a) (NN deal)))))))) (. .)))
+
+(S1 (S (S (NP (NNP U.S.) (NN unemployment)) (VP (VBZ is) (PP (IN at) (NP (NP (PRP$ its) (JJS lowest)) (PP (IN in) (NP (CD three) (NNS decades))))))) (CC and) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJR fewer) (NNS people)) (SBAR (S (VP (TO to) (VP (VB fill) (NP (NP (JJ low-skilled) (NNS jobs)) (PP (IN in) (NP (NNS farms) (, ,) (NNS restaurants) (CC and) (NNS factories))))))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN scenario)) (VP (VBZ rings) (ADJP (JJ familiar) (PP (TO to) (NP (NP (NNP Arebalo)) (, ,) (NP (CD 49)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD went) (PP (PP (IN from) (NP (NNP Matamoros))) (PP (TO to) (NP (NNP North) (NNP Carolina)))) (S (VP (TO to) (VP (VB work) (PP (IN in) (NP (NP (NN soybean) (NNS fields)) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBD was) (NP (DT a) (NN girl))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP$ Her) (NN family)) (VP (VBD needed) (NP (DT the) (NN money)))) (CC and) (S (NP (DT the) (NNS farms)) (VP (VBD needed) (NP (DT the) (NN help)))) (. .)))
+
+(S1 (S (NP (DT Those)) (VP (VBD were) (NP (NP (DT the) (NNS days)) (PP (IN of) (NP (NP (DT the) (NNP Bracero) (NNP Program)) (, ,) (NP (NP (NNP World) (NNP War) (NNP II-era) (NN legislation)) (SBAR (WHNP (WDT that)) (S (VP (VBD beckoned) (NP (NP (NNS thousands)) (PP (IN of) (NP (JJ Mexican) (NNS nationals)))) (S (VP (TO to) (VP (VB replenish) (NP (DT a) (VBG dwindling) (NNP U.S.) (NN labor) (NN pool))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1954))) (, ,) (NP (DT a) (JJ military) (NN -style)) (NP (NNP Immigration) (CC and) (NNP Naturalization) (NNP Service)) (VP (NN campaign) (VP (VBD called) (SBAR (S (NP (`` ``) (NP (NP (NN Operation)) (NP (NNP Wetback) (POS '))) ('' ')) (VP (VBD drove) (NP (QP (RB about) (CD 1) (CD million)) (JJ illegal) (NNS immigrants)) (ADVP (RB back) (PP (IN into) (NP (NNP Mexico))))))))) (. .)))
+
+(S1 (S (ADVP (NP (CD Ten) (NNS years)) (RB later)) (, ,) (NP (DT the) (NNP Bracero) (NNP Program)) (VP (VBD fizzled) (PRT (RP out))) (. .)))
+
+(S1 (S (`` ``) (S (S (ADVP (RB Back) (RB then)) (NP (PRP it)) (VP (VBD was) (ADJP (JJ simple) (S (VP (TO to) (VP (VB get) (NP (NNS papers)))))) (S (VP (TO to) (VP (VB work) (ADVP (RB here))))))) (, ,) (CC and) (S (NP (PRP you)) (VP (MD could) (ADVP (RB just)) (VP (VB come) (PRT (RP across)))))) (, ,) ('' '') (NP (NNP Arebalo)) (VP (VBD said) (SBAR (IN as) (S (NP (PRP she)) (VP (VBD stepped) (PRT (RP off)) (NP (DT the) (JJ international) (NN bridge)) (PP (IN into) (NP (NP (NNP Brownsville) (POS 's)) (NN shopping) (NN district))))))) (. .)))
+
+(S1 (S (`` ``) (CC But) (RB then) (NP (NN everything)) (VP (VBD changed)) (. .) ('' '')))
+
+(S1 (NP (NNP ___)))
+
+(S1 (PP (IN On) (NP (DT the) (NN Net)) (: :)))
+
+(S1 (NP (NNP Immigration) (CC and) (NNP Naturalization) (NNP Service) (: :) (NP (NNS http)) (: :)))
+

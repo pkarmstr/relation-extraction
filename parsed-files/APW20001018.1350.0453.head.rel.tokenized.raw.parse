@@ -1,0 +1,80 @@
+(S1 (NP (NP (CD APW20001018.1350.0453) (NN NEWS) (NN STORY)) (QP (CD 2000-10-18) (CD 14:20:24))))
+
+(S1 (NP (NN Social-Security)))
+
+(S1 (NP (NP (NNP Social) (NNP Security) (NNS Checks)) (SBAR (S (VP (TO To) (VP (VB Jump)))))))
+
+(S1 (S (NP (NP (NNP WASHINGTON)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (NP (DT The) (QP (CD 45.2) (CD million)) (NNPS Americans)) (VP (VBG getting) (NP (NNP Social) (NNP Security) (NNS checks)))) (VP (MD will) (VP (VB see) (S (NP (PRP them)) (VP (VB grow) (PP (IN by) (NP (CD 3.5) (NN percent))) (NP (JJ next) (NN year)) (, ,) (NP (NP (DT the) (JJS biggest) (JJ cost-of-living) (NN increase)) (PP (IN in) (NP (QP (RB almost) (DT a)) (NN decade))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (IN because) (S (NP (NN inflation)) (VP (VBZ has) (VP (VBN picked) (PRT (RP up)) (NP (NN speed)) (, ,) (ADVP (RB almost) (RB entirely)) (S (NP (NP (DT a) (NN reflection)) (PP (IN of) (NP (VBG surging) (NN energy) (NNS prices)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS increases)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB begin) (S (VP (VBG showing) (PRT (RP up)) (PP (IN in) (NP (NN benefit) (NNS payments))) (PP (IN for) (NP (NNP January))))))))) (, ,)) (VP (VBD were) (VP (VBN announced) (PP (IN by) (NP (NP (NNP Social) (NNP Security)) (VP (VBN based) (PP (IN on) (NP (NP (NN inflation) (NNS figures)) (VP (VBN released) (NP (NNP Wednesday)) (PP (IN by) (NP (DT the) (NNP Labor) (NNP Department))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN cost-of-living) (NN announcement)) (VP (VBZ comes) (SBAR (NP (RB just) (NNS weeks)) (IN before) (S (NP (NNPS Americans)) (VP (VBP elect) (NP (DT a) (JJ new) (NN president)) (NP (NNP Nov)))))) (. .)))
+
+(S1 (FRAG (NP (CD 7)) (. .)))
+
+(S1 (S (NP (NP (NNP Florida)) (CC and) (NP (NP (NNP Pennsylvania) (NNP _)) (PP (IN among) (NP (NP (DT the) (JJ tossup) (NNS states)) (PP (IN in) (NP (DT the) (JJ presidential) (NN race) (NN _))))))) (VP (VBP have) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NP (JJR older) (NNS people)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP tend) (S (VP (TO to) (VP (VB be) (S (NP (DT the) (ADJP (RBS most) (JJ likely))) (VP (TO to) (VP (VB vote)))))))))))))) (. .)))
+
+(S1 (NP (NNP Texas) (NNP Gov) (. .)))
+
+(S1 (S (NP (NP (NP (NNP George) (NNP W.) (NNP Bush)) (, ,) (NP (DT the) (NNP Republican) (JJ presidential) (NN nominee)) (, ,)) (CC and) (NP (NP (NNP Vice) (NNP President) (NNP Al) (NNP Gore)) (, ,) (NP (DT the) (NNP Democrat)) (, ,))) (VP (VBP have) (VP (ADVP (RB repeatedly)) (VBN clashed) (PP (IN over) (NP (NNP Social) (NNP Security))))) (. .)))
+
+(S1 (S (NP (NNP Bush)) (VP (VBZ proposes) (S (VP (VBG allowing) (NP (NNS individuals)) (NP (NP (DT some) (NN control)) (PP (IN over) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB invest) (NP (PRP$ their) (NN retirement) (NNS funds)) (, ,) (SBAR (IN while) (S (NP (NNP Gore)) (VP (VBZ says) (SBAR (S (NP (DT that)) (VP (MD would) (VP (VB threaten) (NP (NP (DT the) (JJ long-term) (NN solvency)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (JJ huge) (NN retirement) (NN system)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (CD 3.5) (NN percent) (NN increase)) (VP (VBD was) (NP (NP (DT the) (JJS largest)) (PP (IN since) (NP (NP (DT a) (CD 3.7) (NN percent) (NN rise)) (PP (IN in) (NP (CD 1992))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ means) (SBAR (S (NP (NP (DT the) (JJ average) (JJ monthly) (NN check)) (PP (IN for) (NP (NNS retirees)))) (VP (MD will) (VP (VB rise) (PP (IN by) (NP (QP ($ $) (CD 29) (TO to) ($ $) (CD 845)))) (NP (JJ next) (NN year)) (, ,) (ADVP (RB up) (PP (IN from) (NP (NP ($ $) (CD 816)) (NP (DT this) (NN year)))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ compares) (PP (IN with) (NP (NP (DT an) (NN increase)) (PP (IN of) (NP (NP (CD 2.4) (NN percent)) (PP (IN for) (NP (CD 2000))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBN translated) (PP (IN into) (NP (NP (DT an) (NN average)) (PP (IN of) (NP (NP ($ $) (CD 19)) (ADVP (NP (DT a) (NN month)) (RBR more)))) (PP (IN for) (NP (NNS retirees))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN addition)) (PP (TO to) (NP (NN retirement) (NNS checks))))) (, ,) (NP (DT the) (NNS increases)) (VP (VBP affect) (NP (NP (NNP Social) (NNP Security) (NNS benefits)) (VP (VBN paid) (PP (TO to) (NP (NP (JJ disabled) (NNS workers)) (CC and) (NP (NP (NNS families)) (SBAR (WHNP (WP$ whose) (NNS breadwinners)) (S (VP (VBP have) (VP (VBN died))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ maximum) (JJ monthly) (NN payment)) (PP (IN for) (S (NP (JJ low-income) (NNS individuals)) (VP (VBG receiving) (NP (NP (NNP Supplemental) (NNP Security) (NNP Income)) (, ,) (VP (VBN known) (PP (IN as) (NP (NNP SSI)))) (, ,)))))) (ADVP (RB also)) (VP (MD will) (VP (VB rise) (PP (IN by) (NP (CD 3.5) (NN percent))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (MD will) (VP (VB boost) (NP (DT the) (JJ maximum) (JJ monthly) (NNP SSI) (NN check)) (PP (IN by) (NP (QP ($ $) (CD 18) (TO to) ($ $) (CD 530)))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT a) (NN couple))) (, ,) (NP (DT the) (NNP SSI) (NN maximum)) (VP (VBZ goes) (ADVP (RB up) (NP ($ $) (CD 27)) (PP (TO to) (NP ($ $) (CD 796))))) (. .)))
+
+(S1 (S (NP (NP (VBN Increased) (NNS payments)) (PP (TO to) (NP (NNP SSI) (NNS recipients)))) (VP (MD will) (VP (VB begin) (PP (IN on) (NP (NNP Dec))))) (. .)))
+
+(S1 (FRAG (NP (CD 29)) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (DT The) (JJ annual) (NN cost-of-living) (NN adjustment)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (RB critically) (JJ important)) (NNS features)) (PP (IN of) (NP (DT the) (NNP Social) (NNP Security) (NN program)))))))) (, ,) ('' '') (VP (VBD said)) (NP (NNP Social) (NNP Security) (NNP Commissioner) (NNP Kenneth) (NNP Apfel)) (. .)))
+
+(S1 (S (`` ``) (PP (IN For) (NP (DT the) (JJ elderly))) (, ,) (NP (PRP it)) (VP (VBZ guarantees) (SBAR (IN that) (S (NP (NP (PRP$ their) (NN foundation)) (PP (IN of) (NP (NN retirement) (NN income)))) (VP (MD will) (VP (VB remain) (ADJP (JJ strong)) (PP (IN for) (ADVP (ADVP (RB as) (JJ long)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP live))))))))))) (. .) ('' '')))
+
+(S1 (S (ADVP (RB Separately)) (, ,) (NP (NP (DT the) (NNP Department)) (PP (IN of) (NP (NP (NNP Health)) (CC and) (NP (NNP Human) (NNPS Services))))) (VP (VBD announced) (SBAR (IN that) (S (NP (DT the) (JJ monthly) (NNP Medicare) (NN premium)) (VP (VBD deducted) (PP (IN from) (NP (NP (RBS most) (JJ elderly)) (CC and) (NP (JJ disabled) (NNPS Americans)))) ('' ') (NP (NP (NNP Social) (NNP Security) (NNS checks)) (SBAR (IN for) (S (NP (NP (NN insurance) (NN coverage)) (PP (IN of) (NP (NP (NNS doctors) (POS ')) (NN office) (NNS visits)))) (VP (MD will) (VP (VB increase) (PP (IN by) (NP (QP ($ $) (CD 4.50) (TO to) ($ $) (CD 50)))) (PP (IN in) (NP (CD 2001)))))))))))) (. .)))
+
+(S1 (FRAG (NP (NP (DT The) (NN increase)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ takes) (NP (NN effect)))))) (NP (NNP Jan)) (. .)))
+
+(S1 (S (LST (LS 1)) (, ,) (VP (VBZ reflects) (NP (NP (JJR higher) (NN health-care) (NNS costs)) (CC and) (NP (NP (NNS changes)) (PP (IN in) (NP (NNP Medicare) (NN law)))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (RB not) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ cost-of-living) (NN adjustment)) (VP (VBN tied) (PP (TO to) (NP (DT the) (NNP CPI)))))))) (. .)))
+
+(S1 (S (PP (IN Since) (NP (CD 1975))) (, ,) (NP (DT the) (NN benefit) (NN cost-of-living) (NN adjustment)) (VP (VBZ has) (VP (VBN been) (ADJP (JJ automatic)) (, ,) (S (VP (VBG requiring) (NP (NP (DT no) (NN vote)) (PP (IN by) (NP (NNP Congress)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (S (VP (VBN calculated) (PP (VBN based) (PP (IN on) (NP (NP (NNS changes)) (PP (IN in) (NP (DT the) (NNP Consumer) (NNP Price) (NNP Index))) (VP (VBG _) (NP (NP (DT the) (NN government) (POS 's)) (NN inflation) (NN yardstick) (NN _)) (PP (PP (IN from) (NP (NP (DT the) (JJ third) (NN quarter)) (PP (IN of) (NP (CD one) (NN year))))) (PP (TO to) (NP (NP (DT the) (JJ corresponding) (NN quarter)) (PP (IN of) (NP (DT the) (JJ next))))))))))))) (. .)))
+
+(S1 (S (PP (IN Because) (IN of) (NP (JJ tame) (NN inflation))) (, ,) (NP (DT the) (JJ yearly) (NN benefit) (NNS boosts)) (VP (VBP have) (VP (VBN been) (PP (IN below) (NP (CD 3.0) (NN percent))) (PP (IN since) (NP (CD 1994))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (ADJP (CD 1999) (NN increase))) (PP (IN of) (NP (CD 1.3) (NN percent)))) (, ,) (VP (VBD matched) (NP (NP (DT a) (NN record) (NN low)) (VP (VBN set) (PP (IN in) (NP (CD 1987)))))) (. .)))
+
+(S1 (S (ADVP (RBR More) (RB recently)) (, ,) (NP (NN consumer) (NNS prices)) (VP (VBP have) (VP (VBN been) (VP (VBG edging) (ADVP (RP up)) (, ,) (PP (ADVP (RB largely)) (IN because) (IN of) (NP (JJR higher) (NN energy) (NNS costs)))))) (. .)))
+
+(S1 (S (NP (NN Crude-oil) (NNS prices)) (VP (VBD hit) (NP (DT a) (JJ 10-year) (NN high)) (PP (IN in) (NP (NNP September))) (, ,) (S (VP (VBG contributing) (PP (TO to) (NP (NP (JJR costlier) (NN gasoline)) (CC and) (NP (NN heating) (NN oil))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (JJ overall) (NN inflation)) (VP (VBZ is) (VP (VBG rising))))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADVP (RB still)) (ADJP (JJ moderate)) (PP (VBN compared) (PP (IN with) (NP (JJ other) (NNS periods))))) (. .)))
+
+(S1 (S (NP (NP (JJ Double-digit) (NN inflation)) (PP (IN in) (NP (DT the) (JJ late) (NNS 1970s)))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (VP (VBD drove) (NP (DT the) (JJ cost-of-living) (NN increase)) (ADVP (RB up) (PP (TO to) (NP (CD 14.3) (NN percent)))) (PP (IN in) (NP (CD 1980)))) (. .)))
+
+(S1 (S (NP (NNP Social) (NNP Security)) (ADVP (RB also)) (VP (VBD announced) (NP (NNP Wednesday)) (SBAR (IN that) (S (PP (IN for) (S (VP (VBG working) (NP (NNPS Americans))))) (, ,) (NP (NP (DT the) (JJ maximum) (JJ annual) (NNS earnings)) (ADJP (JJ subject) (PP (TO to) (NP (NP (NNP Social) (NNP Security) (NNS taxes)) (NP (JJ next) (NN year)))))) (VP (MD will) (VP (VB rise) (PP (TO to) (NP ($ $) (CD 80,400))) (PP (IN from) (NP ($ $) (CD 76,200)))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN limit)) (PP (IN along) (PP (IN with) (NP (NP (DT the) (NNP Social) (NNP Security) (NN tax) (NN rate)) (PP (IN of) (NP (CD 6.2) (NN percent)))))) (VP (VBZ is) (VP (VBN set) (PP (IN by) (NP (NN law))))) (. .)))
+
+(S1 (NP (NNP ___)))
+
+(S1 (PP (IN On) (NP (DT the) (NNP Web)) (: :)))
+
+(S1 (NP (NNP Social) (NNP Security) (NNP Administration) (: :) (NP (NNS http)) (: :)))
+

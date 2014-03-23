@@ -1,0 +1,64 @@
+(S1 (NP (NP (CD NYT20001222.2029.0326) (NN NEWS) (NN STORY)) (QP (CD 2000-12-22) (CD 20:33:00))))
+
+(S1 (NP (NP (CD A9224) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP f) (NNP BC-CI-MACKENZIE-NYT) (NN &LR)) (: ;) (NP (QP (CD 12-22) (CD 0544))))))
+
+(S1 (NP (NNP BC-CI-MACKENZIE-NYT)))
+
+(S1 (S (NP (JJ CANADIAN) (JJ MUTUAL) (NN FUND) (NN COMPANY)) (VP (VBZ WITHDRAWS) (VP (VBN BID) (PP (IN FOR) (NP (JJR LARGER) (NN RIVAL)))))))
+
+(S1 (NP (NP (NN &UR)) (: ;) (NP (NP (NNP By) (NNP TIMOTHY) (NNP PRITCHARD) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NNP TORONTO)) (VP (VBZ _) (ADJP (JJ Unwilling) (S (VP (TO to) (VP (VB fight) (NP (NP (DT a) (NN counterbid)) (SBAR (WHNP (WDT that)) (S (ADVP (RB so) (RB far)) (VP (VBZ is) (NP (NP (JJ only) (NN speculation)) (, ,) (NP (NNP C.I.) (NNP Fund) (NNP Management) (NNP Inc)))))))))))) (. .)))
+
+(S1 (S (VP (VBZ has) (VP (VBN scrapped) (NP (NP (DT a) (ADJP (QP ($ $) (CD 2.5) (CD billion))) (JJ hostile) (NN takeover) (NN attempt)) (PP (IN of) (NP (NP (DT a) (JJR larger) (NN rival)) (, ,) (NP (NP (DT the) (NNP Mackenzie) (NNP Financial) (NNP Corp) (. .)) (, ,) (ADVP (IN along) (PP (IN with) (NP (NP (PRP$ its) (NN hope)) (PP (IN of) (S (VP (VBG combining) (NP (DT the) (CD two) (NNP Toronto) (NNS companies)) (S (VP (TO to) (VP (VB form) (NP (NP (NNP Canada) (POS 's)) (JJS largest) (JJ mutual-fund) (NN empire))))))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NP (NP (NNP C.I.) (NNP Fund) (POS 's)) (JJ cash-and-stock) (NN offer)) (, ,) (VP (VBN made) (ADVP (NP (CD six) (NNS weeks)) (RB ago))) (, ,)) (VP (VBD was) (ADJP (ADJP (NP (QP (RB almost) (CD 40)) (NN percent)) (JJR higher)) (PP (IN than) (NP (NP (DT the) (NN price)) (PP (IN of) (NP (NNP Mackenzie) (NNS shares)))))) (PP (IN on) (NP (DT the) (NNP Toronto) (NNP Stock) (NNP Exchange)))))) (, ,) (NP (NNP Mackenzie) (NN management)) (VP (VP (ADVP (RB quickly)) (JJ branded) (S (NP (DT the) (NN offer)) (`` ``) (ADJP (JJ opportunistic)) ('' ') ('' '))) (CC and) (VP (VBN activated) (NP (NP (DT a) (NN poison) (NN pill)) (, ,) (NP (NP (DT a) (NN strategy)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (S (NP (DT a) (JJ hostile) (NN bid)) (ADJP (RB prohibitively) (JJ expensive))))))) (, ,) (SBAR (S (VP (TO to) (VP (VB give) (NP (PRP it)) (NP (JJR more) (NN time) (S (VP (TO to) (VP (VB find) (NP (JJ other) (NNS buyers))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mackenzie)) (ADVP (RB also)) (VP (VBD told) (NP (PRP$ its) (CD 1,400) (NNS employees)) (SBAR (IN that) (S (NP (NP (NN anyone)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN fired) (PP (IN by) (NP (DT a) (JJ new) (NN owner)))))))) (VP (MD would) (VP (VB receive) (NP (NP (DT a) (NN year) (POS 's)) (NN salary))))))) (. .)))
+
+(S1 (S (NP (NNP C.I.) (NNP Fund)) (VP (VBD was) (RB not) (VP (VBN helped) (PP (IN in) (NP (PRP$ its) (NN quest))) (PP (IN by) (NP (NP (DT another) (JJ small) (NN fund) (NN company)) (, ,) (NP (NNP AIC) (NNP Ltd)))))) (. .)))
+
+(S1 (FRAG (PP (IN of) (NP (NP (NNP Burlington)) (, ,) (NP (NNP Ontario)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ owns) (NP (NP (CD 24.5) (NN percent)) (PP (IN of) (NP (NP (NNP Mackenzie) (POS 's)) (NNS shares))))))))) (. .)))
+
+(S1 (S (NP (NNP AIC)) (VP (VBD agreed) (SBAR (IN that) (S (NP (DT the) (NNP C.I.) (NNP Fund) (NN offer)) (VP (VBD was) (ADJP (JJ inadequate)))))) (. .)))
+
+(S1 (S (CC And) (NP (NN industry) (NNS sources)) (VP (VBD suggested) (SBAR (IN that) (S (NP (NNP AIC)) (VP (MD would) (VP (VB make) (NP (DT a) (NN counterbid)) (, ,) (PP (RB perhaps) (PP (IN with) (NP (NP (DT the) (JJ powerful) (NNP Caisse) (FW de) (NNP Depot) (FW et) (NNP Placement) (FW du) (NNP Quebec)) (, ,) (NP (NP (DT a) (ADJP (QP ($ $) (CD 60) (CD billion))) (NN pension) (NN fund)) (SBAR (WHNP (WDT that)) (S (ADVP (RB already)) (VP (VBZ owns) (NP (NP (CD 5) (NN percent)) (PP (IN of) (NP (NP (NNP Mackenzie) (POS 's)) (NNS shares)))))))))))))))) (. .)))
+
+(S1 (NP (NP (NNP Investors) (NNP Group)) (PP (IN of) (NP (NP (NP (NNP Winnipeg)) (, ,) (NP (NP (NNP Manitoba)) (, ,) (NP (NP (NNP Canada) (POS 's)) (JJS largest) (NN mutual-fund) (NN manager)) (, ,))) (CC and) (NP (DT the) (NNP American) (NNP Express) (NNP Co)))) (. .)))
+
+(S1 (S (PP (IN of) (NP (NNP New) (NNP York))) (VP (VBD were) (ADVP (RB also)) (VP (VBN talked) (PP (IN about)) (PP (IN as) (NP (JJ possible) (NNS bidders))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (DT the) (NNS weeks)) (VP (VBD went) (ADVP (RP by))))) (, ,) (ADVP (RB however)) (, ,) (NP (DT no) (JJ rival) (NN bid)) (VP (VBD emerged)) (. .)))
+
+(S1 (S (PP (IN After) (S (VP (VBG extending) (NP (DT the) (NN expiration) (NN date)) (PP (IN on) (NP (NP (NP (PRP$ its) (NN offer)) (TO to) (NP (CD 35) (NNS days)) (PP (IN from) (NP (CD 21)))) (, ,) (NP (NP (DT a) (NN period)) (SBAR (WHNP (WDT that)) (S (VP (VBD brought) (NP (DT no) (JJ new) (NNS developments))))))))))) (, ,) (NP (NNP C.I.) (NNP Fund)) (VP (VBD requested) (NP (NP (DT a) (NN hearing)) (PP (IN before) (NP (DT the) (NNP Ontario) (NNP Securities) (NNP Commission)))) (NP (RBR earlier) (DT this) (NN week))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD wanted) (S (NP (DT the) (NN commission)) (VP (TO to) (VP (VB dissolve) (NP (NP (NNP Mackenzie) (POS 's)) (NN poison) (NN pill)) (, ,) (S (VP (VBG arguing) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD interfered) (PP (IN with) (NP (NP (DT the) (NNS rights)) (PP (IN of) (NP (NP (NNP Mackenzie) (POS 's)) (NNS shareholders)))))))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NP (NNP Tuesday)) (, ,) (NP (NP (DT the) (NN day)) (PP (IN before) (NP (DT the) (NN hearing)))))) (, ,) (NP (NNP AIC)) (VP (VBD said) (ADVP (RB publicly)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD was) (VP (`` ``) (VBG evaluating) ('' ') ('' ') (NP (NP (DT a) (NN bid)) (PP (IN for) (NP (NNP MacKenzie)))) (ADVP (IN along) (PP (IN with) (NP (DT the) (NNP Caisse) (FW de) (NNP Depot))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (JJ friendly) (NN offer)) (VP (VP (MD would) (VP (VB be) (ADJP (JJR higher)))) (CC and) (VP (MD would) (VP (VB include) (NP (NP (JJR more)) (PP (IN than) (NP (NP (DT the) (QP ($ $) (CD 400) (CD million))) (PP (IN in) (NP (NN cash))) (SBAR (WHNP (IN that)) (S (NP (NNP C.I.) (NNP Fund)) (VP (VBD had) (VP (VBN offered)))))))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Wednesday) (NN morning))) (, ,) (S (NP (NNP C.I.) (NNP Fund)) (VP (VBD withdrew) (NP (NP (PRP$ its) (NN request)) (PP (IN for) (NP (DT the) (NN commission) (NN hearing)))))) (CC and) (S (PP (IN on) (NP (NNP Thursday) (NN night))) (NP (PRP$ its) (NN offer)) (VP (VBD died) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN deadline)) (PP (IN for) (NP (NN acceptance)))) (VP (VBD expired)))))) (. .)))
+
+(S1 (S (NP (NP (NNP William) (NNP Holland)) (, ,) (NP (NP (NNP C.I.) (NNP Fund) (POS 's)) (JJ chief) (NN executive)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP$ his) (NN company)) (VP (VBD withdrew) (SBAR (IN because) (S (NP (PRP$ its) (JJ first) (NN offer)) (VP (VBD was) (NP (NP (DT the) (JJS best)) (SBAR (S (NP (PRP it)) (VP (MD could) (VP (VB make))))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Mackenzie)) (VP (VBZ is) (ADJP (RB almost) (JJ certain) (S (VP (TO to) (VP (VB be) (VP (VBN sold) (PP (IN over) (NP (DT the) (JJ next) (JJ few) (NNS weeks)))))))))) (, ,) (CC and) (S (NP (NNP AIC)) (VP (VBZ is) (NP (DT the) (ADJP (RBS most) (JJ likely)) (NN buyer)))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNP James) (NNP Hunter)) (, ,) (NP (NP (NNP Mackenzie) (POS 's)) (JJ chief) (NN executive)) (, ,)) (VP (VBD said) (SBAR (S (S (NP (EX there)) (VP (VBD were) (ADVP (RB still)) (NP (JJ several) (JJ possible) (NNS buyers)))) (CC and) (S (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VBG finding) (NP (DT the) (JJS best) (NN price)))))) (VP (VBD continued)))))) (. .)))
+
+(S1 (S (PP (IN Over) (NP (DT the) (JJ last) (CD two) (NNS years))) (, ,) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NN fund) (NNS managers)) (PP (IN in) (NP (NNP Canada)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN trimmed) (PP (IN by) (NP (QP (PDT half) (DT a) (NN dozen)) (NNS takeovers)))))) (. .)))
+
+(S1 (S (NP (NP (JJR Smaller) (NNS firms)) (, ,) (VP (VBN squeezed) (PP (IN by) (NP (ADJP (RB comparatively) (JJ high)) (NNS overheads)))) (, ,)) (VP (VBP have) (VP (VBN been) (NP (DT the) (RBS most) (JJ vulnerable)))) (. .)))
+
+(S1 (S (CC But) (NP (JJR larger) (NNS companies)) (VP (VBP have) (ADVP (RB also)) (VP (VBN been) (VP (VBN put) (PP (IN on) (NP (DT the) (NN block))) (PP (IN as) (NP (NP (PRP$ their) (NX (NX (NNS founders)) (CC and) (NX (VBG controlling) (NNS shareholders)))) (PP (IN near) (NP (NN retirement) (NN age)))))))) (. .)))
+
+(S1 (S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (NN consolidation)))) (VP (VBZ has) (VP (VBN involved) (NP (JJ domestic) (NNS companies)))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (JJS largest) (NN takeover)) (ADVP (RB so) (RB far)) (VP (VBD was) (PP (IN by) (NP (NP (NNP Amvescap) (NNP PLC)) (PP (IN of) (NP (NP (NNP London)) (, ,) (SBAR (WHNP (WDT which)) (S (PP (IN in) (NP (NNP May))) (VP (VBD paid) (NP (QP ($ $) (CD 1.8) (CD billion))) (PP (IN for) (NP (NP (NP (NNP Canada) (POS 's)) (JJ sixth-largest) (NN fund) (NN company)) (, ,) (NP (DT the) (NNP Trimark) (NNP Financial) (NNP Corp)))))))))))) (. .)))
+
+(S1 (FRAG (PP (IN of) (NP (NNP Toronto))) (. .)))
+
+(S1 (NP (CD NYT-12-22-00) (NN 2033EST)))
+

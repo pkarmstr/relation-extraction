@@ -1,0 +1,50 @@
+(S1 (NP (NP (CD APW20001127.1346.0419) (NN NEWS) (NN STORY)) (QP (CD 2000-11-27) (CD 14:24:22))))
+
+(S1 (NP (NNP BBA-Rangers-Rodriguez)))
+
+(S1 (ADJP (JJ A-Rod) (S (VP (TO To) (VP (VB Meet) (PP (IN With) (NP (NNP Texas) (NNPS Rangers))))))))
+
+(S1 (S (S (NP (NP (NP (NNP ARLINGTON)) (, ,) (NP (NNP Texas))) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBZ _) (NP (NP (CD One)) (PP (IN of) (NP (NP (NN baseball) (POS 's)) (JJS biggest) (JJ free-agent) (NNS prizes)))))) (, ,) (NP (NNP Alex) (NNP Rodriguez)) (VP (VBZ is) (VP (VBG getting) (NP (NP (JJ red-carpet) (NN treatment)) (PP (IN from) (NP (DT the) (NNP Texas) (NNPS Rangers)))))) (. .)))
+
+(S1 (S (CC And) (NP (RB even) (DT the) (NNP Dallas) (NNS Stars)) (VP (VBP are) (VP (VBG lending) (NP (NP (DT a) (NN hand)) (PP (IN in) (S (VP (VBG trying) (S (VP (TO to) (VP (VB win) (PRT (RP over)) (NP (DT the) (JJ All-Star) (NN shortstop))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Rodriguez)) (CC and) (NP (NN agent) (NNP Scott) (NNP Boras))) (VP (VBD were) (VP (VBN expected) (S (VP (TO to) (VP (VB meet) (NP (NNP Monday)) (PP (IN with) (NP (NNPS Rangers) (NN owner) (NNP Tom) (NNP Hicks)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (MD will) (VP (VB be) (VP (VBN joined) (PP (IN by) (NP (NP (JJ general) (NN manager) (NNP Doug) (NNP Melvin)) (, ,) (NP (NN manager) (NNP Johnny) (NNP Oates)) (CC and) (NP (JJ several) (NNS players))))))) (. .)))
+
+(S1 (S (NP (NP (NP (DT The) (NN team) (POS 's)) (NN bid)) (PP (IN for) (NP (NNP Rodriguez)))) (VP (VBZ has) (RB n't) (VP (VBN been) (VP (VBN slowed) (PP (IN by) (NP (NP (DT the) (VBN expected) (NN demand)) (PP (IN of) (NP (ADVP (IN at) (JJS least)) (DT a) (JJ 10-year) (NN contract))))) (, ,) (PP (IN in) (NP (NP (DT the) (NN range)) (PP (IN of) (NP (NP (QP ($ $) (CD 20) (CD million))) (NP (DT a) (NN year)))) (, ,) (VP (VBN loaded) (PP (IN with) (NP (NN fringe) (NNS benefits))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP We)) (VP (VBP feel) (SBAR (S (PP (IN at) (NP (NP (DT the) (NN expense)) (PP (IN of) (NP (JJ last) (NN year))))) (, ,) (NP (PRP we)) (VP (VBP have) (NP (NP (PRP$ our) (NN roster)) (SBAR (WHADVP (WRB where)) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (S (VP (TO to) (VP (VB trade) (NP (NNS people)) (S (VP (TO to) (VP (VB make) (NP (DT this) (NN work)))))))))))))))))) (, ,) ('' '') (NP (NNP Melvin)) (VP (VBD said) (PP (IN in) (NP (DT the) (NNP Fort) (NNP Worth))) (NP (NNP Star-Telegram)) (PP (IN on) (NP (NNP Monday)))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG saying) (SBAR (S (NP (PRP we)) (VP (VBP have) (NP (NP (PDT all) (DT the) (NN money)) (PP (IN in) (NP (DT the) (NN world)))))))))) (, ,) (CC but) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (S (VP (TO to) (VP (NN bust) (NP (PRP$ our) (NN budget)) (ADVP (RB completely)))))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (VBP 're) (PP (IN in) (NP (NP (DT a) (JJR better) (NN position)) (PP (IN than) (NP (JJS most) (JJ other) (NNS clubs)))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Stars) (NN center) (NNP Mike) (NNP Modano)) (VP (VBZ is) (VP (VBG being) (VP (VBN called) (PRT (RP in)) (S (VP (TO to) (VP (VB help) (S (VP (VP (VB show) (NP (NNP Rodriguez)) (PP (IN around) (NP (DT the) (NNP Dallas-Fort) (NNP Worth) (NN area)))) (CC and) (VP (VB tell) (NP (PRP him)) (SBAR (WHADVP (WRB why)) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (NP (NP (DT a) (JJ great) (NN place)) (SBAR (S (VP (TO to) (VP (VB play))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Melvin)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ does) (RB n't) (VP (VB expect) (S (NP (DT the) (NNPS Rangers)) (VP (TO to) (VP (VB make) (NP (DT a) (JJ formal) (NN offer)) (SBAR (IN until) (S (NP (PRP they)) (VP (MD can) (VP (VB gauge) (NP (NP (DT the) (NN level)) (PP (IN of) (NP (NP (NN interest)) (PP (IN from) (NP (NNP Rodriguez)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ 25-year-old) (NN shortstop)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hit) (NP (NP (QP (CD .316) (IN with) (CD 41)) (NNS homers)) (CC and) (NP (NP (CD 132) (NN RBIs)) (PP (IN at) (NP (NNP Seattle))))) (NP (JJ last) (NN season))))) (, ,)) (ADVP (RB also)) (ADVP (RB reportedly)) (VP (VBZ has) (VP (VBN been) (VP (VBN targeted) (PP (IN by) (NP (NP (DT the) (NNP Chicago) (NNP White) (NNPS Sox)) (, ,) (NP (NNP Los) (NNP Angeles) (NNPS Dodgers)) (, ,) (NP (NNP New) (NNP York) (NNPS Mets)) (CC and) (NP (NNP Atlanta) (NNPS Braves))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNPS Mariners)) (, ,) (NP (NP (NP (NNP Rodriguez) (POS 's)) (NN team)) (NP (DT the) (JJ past) (CD six) (NNS years))) (, ,)) (ADVP (RB also)) (VP (VBD wanted) (S (VP (TO to) (VP (VB re-sign) (NP (PRP him)))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (DT This)) (VP (VBZ gives) (NP (PRP us)) (NP (DT a) (NN chance) (S (VP (TO to) (VP (VP (VB tell) (NP (PRP him)) (PP (IN about) (NP (NP (PRP$ our) (NN organization)) (CC and) (NP (NP (DT the) (NN direction)) (SBAR (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going))))))))) (, ,) (VP (VB answer) (NP (NP (DT any) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (MD might) (VP (VB have) (PP (IN about) (NP (PRP us))))))))))))))) (, ,) ('' '') (NP (NNP Melvin)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT Some)) (ADVP (RB even)) (VP (VBP have) (NP (NP (DT a) (NN neighborhood) (NN _)) (SBAR (S (NP (NP (DT the) (JJ fashionable) (NNP Dallas) (NN suburb)) (PP (IN of) (NP (NNP Highland) (NNP Park)))) (VP (VBD _) (VP (VBN picked) (PRT (RP out)) (PP (IN for) (NP (NNP Rodriguez))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Neighbors)) (PP (IN of) (NP (CD one) (JJ available) (NN residence)))) (VP (VBD _) (SBAR (S (NP (DT a) (NN five-bedroom)) (VP (VBD spread) (SBAR (S (NP (ADJP (JJ worth) (NP (QP ($ $) (CD 11.95) (CD million)))) (NNS _)) (VP (MD would) (VP (VB include) (NP (NNP Hicks) (, ,) (NNP Modano) (CC and) (NNP Dallas) (NNPS Cowboys) (NN owner) (NNP Jerry) (NNP Jones)))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (NNP Alex)) (VP (VBZ needs) (S (VP (TO to) (VP (VB buy) (NP (DT this) (NN house))))))) (, ,) ('' '') (NP (NP (NNP Ronda) (NNP Needham)) (, ,) (NP (DT a) (NN listing) (NN agent)) (, ,)) (VP (VBD told) (NP (DT The) (NNP Dallas) (NN Morning)) (NP (NNP News))) (. .)))
+
+(S1 (S (`` ``) (NP (NP (DT The) (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP own) (NP (DT this) (NN house)))))) (VP (VBP set) (NP (PRP it)) (PRT (RP up)) (PP (IN around) (NP (PRP$ their) (CD two) (JJ baseball-playing) (NNS sons)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (ADJP (RB very) (JJ sports-minded)) (NN house))) (. .) ('' '')))
+
+(S1 (S (NP (NP (DT The) (NNP Mets)) (, ,) (VP (ADVP (RB once)) (VBN considered) (S (NP (DT the) (NNS favorites)) (VP (TO to) (VP (VB get) (NP (NNP Rodriguez)))))) (, ,)) (VP (VBP have) (VP (VBN slowed) (NP (PRP$ their) (NN chase)))) (. .)))
+
+(S1 (S (NP (NNP General) (NN manager) (NNP Steve) (NNP Phillips)) (VP (ADVP (RB publicly)) (VBD criticized) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS demands)) (VP (ADVP (RB supposedly)) (VBN made) (PP (IN by) (NP (NNP Boras)))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN agent)) (VP (VBZ says) (SBAR (S (NP (NNP Rodriguez)) (VP (VBZ is) (VP (VBG making) (NP (DT no) (JJ special) (NNS demands))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (MD can) (RB n't) (VP (VB anticipate) (NP (NP (DT any) (NN change)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB draw) (NP (PRP us)) (ADVP (RB back)) (PP (IN into) (NP (PRP it))))))))))) (, ,) ('' '') (NP (NNP Phillips)) (VP (VBD said)) (. .)))
+

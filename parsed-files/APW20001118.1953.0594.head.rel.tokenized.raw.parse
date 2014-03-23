@@ -1,0 +1,22 @@
+(S1 (NP (NP (CD APW20001118.1953.0594) (NN NEWS) (NN STORY)) (QP (CD 2000-11-18) (CD 20:15:29))))
+
+(S1 (NP (NNP Jesse-Ventura)))
+
+(S1 (NP (NP (NNS Callers)) (NNP Admonish) (NNP Ventura)))
+
+(S1 (S (NP (NP (NNP ST.) (NNP PAUL)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (NP (NNP Gov.) (NNP Jesse) (NNP Ventura) (POS 's)) (JJ weekly) (NN radio) (NN show)) (VP (VBZ has) (VP (VBN been) (VP (VBN flooded) (PP (IN with) (NP (NP (NNS calls)) (PP (IN about) (NP (NP (PRP$ his) (JJ new) (JJ part-time) (NN job)) (PP (IN as) (NP (DT a) (NN football) (NN commentator))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP You)) (VP (VBP belong) (PP (TO to) (NP (NP (DT the) (NNS people)) (, ,) (ADJP (CD 100) (NN percent) (, ,) (JJ 24-hours-a-day)) (, ,))) (NP (NP (CD seven) (NNS days)) (NP (DT a) (NN week))))) (, ,) ('' '') (NP (CD one) (NN caller)) (VP (VBD admonished) (NP (NNP Friday))) (. .)))
+
+(S1 (S (NP (NNS Others)) (VP (VBD said) (SBAR (S (NP (NP (PRP$ his) (NN association)) (PP (IN with) (NP (DT the) (NN XFL)))) (VP (VBZ _) (NP (NP (DT a) (JJ rough-and-tumble) (NN league)) (VP (VBN organized) (PP (IN by) (NP (NP (NNP NBC)) (CC and) (NP (DT the) (NNP World) (NN Wrestling) (NNP Federation) (NNP _)))))) (PP (JJ degraded) (NP (PRP$ his) (NN office))))))) (. .)))
+
+(S1 (S (NP (NNP Ventura)) (VP (VBD brushed) (PRT (RP aside)) (NP (DT the) (NN criticism)) (, ,) (S (VP (VBG saying) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB stop) (SBAR (IN if) (S (S (NP (DT the) (NN XFL)) (VP (VBZ becomes) (ADJP (RB too) (JJ raunchy)))) (CC or) (S (NP (PRP he)) (VP (VBZ deems) (NP (PRP it)) (PP (IN in) (`` ``) (NP (NP (DT any) (NN way)) (ADJP (JJ unacceptable) (PP (TO to) (NP (NP (PRP$ my) (NN position)) (PP (IN as) (NP (NN governor))))))))))))))))))) (. .) ('' '')))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (JJ Democratic) (NN state) (NNP Sen.) (NNP Ellen) (NNP Anderson)) (VP (VBD said) (SBAR (S (NP (PRP she)) (VP (MD would) (VP (VB introduce) (NP (DT a) (NN bill) (S (VP (TO to) (VP (VB make) (NP (NP (DT the) (NN job)) (PP (IN of) (NP (NN governor)))))))) (NP (NP (DT a) (JJ part-time) (NN position)) (, ,) (ADJP (JJ similar) (PP (TO to) (NP (NN state) (NN lawmaker) (NNS positions)))))))))) (. .)))
+
+(S1 (S (`` ``) (S (S (NP (PRP It)) (VP (MD would) (VP (VB fit) (PP (IN in) (NP (PRN (-LRB- -LRB-) (NP (NNP Ventura) (POS 's)) (-RRB- -RRB-)) (JJ political) (NN philosophy)))))) (CC and) (S (NP (PRP it)) (VP (MD would) (VP (VB take) (PRT (RP away)) (NP (NP (DT the) (NN criticism)) (PP (IN of) (S (NP (PRP him)) (VP (VBG taking) (NP (JJ outside) (NNS jobs)))))))))) (, ,) ('' '') (NP (PRP she)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (NN contract)) (VP (VBD announced) (NP (NNP Thursday))))) (, ,) (NP (DT the) (JJ former) (NN wrestler)) (VP (VBD agreed) (S (VP (TO to) (VP (VB work) (NP (CD 10) (NNP Saturday) (NN night)) (NP (NP (NNS games)) (PP (VBG starting) (PP (IN in) (NP (NNP February))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (MD can) (VP (VB miss) (NP (PRP them)) (SBAR (IN if) (S (NP (NN state) (NN business)) (VP (VBZ demands) (NP (PRP it))))))) (. .)))
+

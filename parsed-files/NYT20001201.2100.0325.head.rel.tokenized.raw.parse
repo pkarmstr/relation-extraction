@@ -1,0 +1,56 @@
+(S1 (NP (NP (CD NYT20001201.2100.0325) (NN NEWS) (NN STORY)) (QP (CD 2000-12-01) (CD 21:00:00))))
+
+(S1 (NP (NP (CD A7331) (NNS &Cx1f)) (: ;) (NP (NP (JJ tta-z) (NNP u) (NN p)) (JJ BC-ELN-FLORIDA-CONTEST-N) (QP (CD 12-01) (CD 0564)))))
+
+(S1 (NP (NNP BC-ELN-FLORIDA-CONTEST-NYT)))
+
+(S1 (NP (NNP FLORIDA) (NNPS JUSTICES) (NN HAND) (NNP GORE) (CD TWO) (NNS SETBACKS)))
+
+(S1 (FRAG (-LRB- -LRB-) (NP (NNP Eds)) (: :) (S (NP (JJ 2nd) (NN take)) (VP (MD will) (VP (VB move) (PP (IN by) (NP (CD 9:15) (RB p.m)))))) (. .)))
+
+(S1 (NP (NP (NNP ET) (. .) (-RRB- -RRB-) (NNS &QL)) (: ;) (NP (NP (NN &UR)) (: ;) (NP (NNP By) (NNP DAVID) (NNP FIRESTONE) (NNS &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (CD &LR)) (: ;)))
+
+(S1 (NP (NP (NNP TALLAHASSEE)) (, ,) (NP (NNP Fla)) (. .)))
+
+(S1 (S (NP (RB _) (DT The) (NNP Florida) (NNP Supreme) (NNP Court)) (VP (VBD rejected) (NP (DT an) (NN appeal)) (NP (NNP Friday)) (PP (IN by) (NP (NNP Vice) (NNP President) (NNP Al) (NNP Gore))) (SBAR (IN that) (S (NP (PRP it)) (VP (VB begin) (NP (NP (DT the) (JJ immediate) (JJ manual) (NN recount)) (PP (IN of) (NP (NP (CD 14,000) (VBN disputed) (NNS ballots)) (PP (IN from) (NP (NNP South) (NNP Florida)))))) (, ,) (S (VP (VBG forcing) (NP (NP (NP (NNP Gore) (POS 's)) (NN contest)) (PP (IN of) (NP (DT the) (JJ presidential) (NN election)))) (PP (IN into) (NP (NP (DT a) (NN lower-court) (NN trial)) (SBAR (WHNP (WDT that)) (S (VP (VBZ begins) (NP (NNP Saturday) (NN morning))))))))))))) (. .)))
+
+(S1 (S (ADVP (NP (DT An) (NN hour)) (RB later)) (, ,) (NP (NP (DT the) (NN state) (POS 's)) (JJS highest) (NN court)) (VP (VBD dealt) (NP (NP (DT another) (NN blow)) (PP (TO to) (NP (NP (NNS supporters)) (PP (IN of) (NP (NNP Gore)))))) (PP (IN in) (NP (NNP Palm) (NNP Beach) (NNP County))) (, ,) (S (VP (VBG refusing) (S (VP (TO to) (VP (VB order) (NP (NP (DT a) (JJ new) (NN election)) (SBAR (IN that) (S (NP (JJ many) (NNS voters)) (VP (VBD said) (SBAR (S (VP (VBD was) (ADJP (JJ necessary)) (PP (IN because) (IN of) (NP (NP (DT the) (JJ confusing) (NN nature)) (PP (IN of) (NP (DT the) (`` ``) (NAC (NN butterfly) ('' ')) ('' ') (NN ballot)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN day)) (PP (IN in) (NP (NNP Tallahassee)))) (VP (VBD was) (RB not) (NP (NP (DT a) (JJ complete) (NN loss)) (PP (IN for) (NP (NP (DT the) (NN vice) (NN president) (POS 's)) (NN camp)))) (, ,) (ADVP (RB however))) (. .)))
+
+(S1 (S (NP (NP (NNP Judge) (NNP N.) (NNP Sanders) (NNP Sauls)) (PP (IN of) (NP (NNP Leon) (NNP County) (NNP Circuit) (NNP Court))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBG presiding) (PP (IN over) (NP (DT the) (NN contest) (NN lawsuit))))))) (, ,)) (VP (VBD announced) (SBAR (WHNP (WP what)) (S (VP (MD could) (VP (VB be) (NP (NP (DT a) (ADJP (RB relatively) (JJ brisk)) (NN pace)) (PP (IN for) (NP (NP (NNP Saturday) (POS 's)) (NN trial)))) (, ,) (S (VP (VBG expressing) (NP (DT the) (NN hope) (SBAR (IN that) (S (NP (PRP it)) (VP (MD could) (VP (VB be) (VP (VBN concluded) (PP (IN in) (NP (CD one) (NN marathon) (NN 12-hour) (NN session)))))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT the) (NN judge)) (VP (MD should) (VP (VB agree) (PP (IN on) (NP (NNP Saturday))) (PP (TO to) (NP (NP (NNP Gore) (POS 's)) (NN demand) (SBAR (IN that) (S (NP (DT the) (NNS ballots)) (VP (VB be) (VP (VBN counted))))))))))) (, ,) (NP (DT the) (NNP Democratic) (NN team)) (VP (MD would) (RB not) (VP (VB be) (ADJP (ADJP (RB much) (JJR further) (PP (IN behind) (NP (NN schedule)))) (PP (IN than) (SBAR (IN if) (S (NP (DT the) (NNP Supreme) (NNP Court)) (VP (VBD had) (VP (VBN agreed) (PP (TO to) (NP (DT the) (NN appeal))))))))))) (. .)))
+
+(S1 (NP (NP (NNS Lawyers)) (PP (IN for) (NP (NNP Gov))) (. .)))
+
+(S1 (S (NP (NNP George) (NNP W.) (NNP Bush)) (VP (VBP have) (VP (VBN vowed) (S (VP (TO to) (VP (VB use) (NP (DT every) (NN argument)) (PP (IN at) (NP (PRP$ their) (NN disposal) (S (VP (TO to) (VP (VB make) (ADJP (JJ certain) (SBAR (SBAR (IN that) (S (NP (DT no) (NNS ballots)) (VP (VBP are) (VP (VBN counted))))) (, ,) (CC and) (SBAR (IN that) (S (NP (DT the) (NN contest) (NN lawsuit)) (VP (VBZ is) (VP (VBN dismissed))))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP they)) (VP (VBD backed) (PRT (RP away)) (NP (NNP Friday)) (PP (IN from) (NP (NP (DT some) (JJR earlier) (NNS plans)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB have) (VP (VBN delayed) (NP (DT the) (NN trial)) (, ,) (PP (VBG including) (NP (DT a) (NN demand) (SBAR (IN that) (S (NP (CD three) (NNP Florida) (NNS counties)) (VP (VB send) (NP (QP (CD 1.17) (CD million)) (NNS ballots)) (PP (TO to) (NP (NP (NNP Tallahassee)) (, ,) (PP (IN in) (NP (NP (NN addition)) (PP (TO to) (NP (NP (NP (DT the) (QP (CD 1.16) (CD million)) (NNS ballots)) (PP (IN from) (NP (NNP Palm) (NNP Beach)))) (CC and) (NP (NP (JJ Miami-Dade) (NNS counties)) (SBAR (WHNP (WDT that)) (S (VP (VBD finished) (VP (VBG arriving) (ADVP (RB here)) (NP (NNP Friday)))))))))))))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Instead)) (, ,) (NP (DT the) (NNP Bush) (NNS lawyers)) (VP (VBD agreed) (PP (TO to) (NP (NP (DT the) (NN proposal)) (PP (IN by) (NP (NNP Sauls))))) (SBAR (IN that) (S (S (NP (NP (DT the) (NNS ballots)) (PP (IN in) (NP (NNP Volusia) (, ,) (NNP Broward) (CC and) (NNP Pinellas) (NNS counties)))) (ADVP (RB simply)) (VP (VB be) (VP (VBN impounded) (PP (IN as) (NP (NP (JJ possible) (NN evidence)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBP are))))))))) (, ,) (CC and) (S (RB not) (VP (VB be) (VP (VBN transported))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Bush) (POS 's)) (NNS lawyers)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD would) (RB not) (VP (VB insist) (SBAR (IN that) (S (NP (NP (DT the) (NN opening)) (PP (IN of) (NP (DT the) (NN trial)))) (VP (VB deal) (PP (IN with) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (JJ new) (NNS issues))) (SBAR (S (NP (PRP they)) (VP (VBD raised) (PP (IN in) (NP (NP (DT a) (NN brief)) (PP (IN on) (NP (NNP Thursday) (NN night)))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT Those) (NNS issues)) (VP (VBP include) (SBAR (IN whether) (S (NP (NNP Gore)) (VP (VBZ is) (ADVP (RB really)) (NP (NP (DT a) (NN candidate)) (VP (VBD entitled) (S (VP (TO to) (VP (VB bring) (NP (DT a) (NN contest) (SBAR (S (NP (NN lawsuit)) (VP (VBZ _) (ADVP (RB technically)) (, ,) (SBAR (SBAR (S (NP (NP (RB only) (DT the) (NNS electors)) (PP (IN for) (NP (DT a) (NN candidate)))) (VP (VBP are) (PP (IN on) (NP (DT a) (JJ presidential) (NN ballot) (NN _)))))) (CC and) (SBAR (IN whether) (S (NP (DT any) (JJ presidential) (NN election)) (VP (MD can) (RB truly) (VP (VB be) (VP (VBN contested) (PP (IN under) (NP (NNP Florida) (NN law)))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Bush) (NN team)) (ADVP (RB also)) (VP (VBD agreed) (S (VP (TO to) (VP (VB call) (NP (QP (DT no) (JJR more) (IN than) (CD 20)) (NNS witnesses)) (PP (IN at) (NP (NP (DT the) (NN trial)) (, ,) (RB not) (NP (NP (DT the) (CD 93)) (VP (VBN named) (PP (IN in) (NP (NP (DT a) (NN witness) (NN list)) (VP (VBN submitted) (NP (NNP Thursday) (NN night))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Gore) (POS 's)) (NNS lawyers)) (VP (VBP plan) (S (VP (TO to) (VP (VB call) (NP (CD two) (NNS witnesses)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN willingness)) (PP (IN of) (NP (DT the) (NNP Bush) (NN team))) (S (VP (TO to) (VP (VB pare) (PRT (RP down)) (NP (PRP$ its) (NNS demands)))))) (VP (MD may) (VP (VB have) (VP (VBN come) (PP (IN from) (NP (DT the) (NN realization) (SBAR (IN that) (S (NP (NNP Sauls)) (VP (VBD was) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB allow) (NP (DT any) (JJ obvious) (NN delay) (NNS tactics)) (PP (IN in) (NP (DT the) (NN trial))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN judge)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD understood) (SBAR (WHADVP (WRB why)) (S (NP (NNP Gore)) (VP (VBD needed) (S (VP (TO to) (VP (VB accelerate) (NP (DT the) (NN process)) (: ;) (SBAR (IN if) (S (NP (NP (DT the) (NN trial)) (, ,) (NP (DT the) (NN vote-counting)) (CC and) (NP (DT any) (JJ subsequent) (NNS appeals))) (VP (VBP extend) (PP (IN beyond) (NP (NNP Dec)))))))))))))))) (. .)))
+
+(S1 (S (S (NP (CD 12)) (, ,) (NP (DT the) (NNP Florida) (NN Legislature)) (VP (MD will) (VP (VB send) (NP (NP (NNP Bush) (POS 's)) (NNS electors)) (PP (TO to) (NP (DT the) (JJ Electoral) (NN College)))))) (CC and) (S (NP (DT the) (NN contest) (NN lawsuit)) (VP (MD will) (ADVP (RB likely)) (VP (VB become) (ADJP (JJ moot))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT a) (JJ preliminary) (NN hearing))) (NP (NNP Friday) (NN afternoon)) (, ,) (NP (NNP Sauls)) (VP (VBD made) (S (NP (PRP it)) (ADJP (JJ clear)) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB take) (NP (NP (DT a) (JJ no-nonsense) (NN approach)) (PP (TO to) (NP (DT the) (NN trial)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Lawyers)) (PP (IN for) (NP (NP (DT the) (JJ various) (NNS parties)) (PP (TO to) (NP (DT the) (NN suit)))))) (VP (MD would) (RB not) (VP (VB be) (VP (VBN allowed) (S (VP (TO to) (VP (VB repeat) (NP (NP (NNS arguments)) (VP (ADVP (RB already)) (VBN made) (PRN (, ,) (S (NP (PRP he)) (VP (VBD said))) (, ,)) (NP (DT an) (JJ important) (NN consideration)) (SBAR (IN because) (S (NP (EX there)) (VP (VBP are) (NP (NP (NP (JJ multiple) (NNS defendants)) (PP (IN in) (NP (DT the) (NN suit)))) (: :) (NP (NP (NNP Bush)) (: ;) (NP (NP (NNP Katherine) (NNP Harris)) (, ,) (NP (NP (DT the) (NNP Florida) (NN secretary)) (PP (IN of) (NP (NN state))))) (: ;) (CC and) (NP (NP (DT the) (NN election) (NNS boards)) (PP (IN of) (NP (CD three) (NNS counties))))))))))))))))) (. .)))
+
+(S1 (NP (-LRB- -LRB-) (NP (RBR MORE)) (-RRB- -RRB-)))
+
+(S1 (NP (CD NYT-12-01-00) (NN 2100EST)))
+

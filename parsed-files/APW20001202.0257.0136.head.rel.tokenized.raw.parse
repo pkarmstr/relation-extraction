@@ -1,0 +1,50 @@
+(S1 (NP (NP (CD APW20001202.0257.0136) (NN NEWS) (NN STORY)) (QP (CD 2000-12-02) (CD 03:36:58))))
+
+(S1 (NP (NNP Nerve-Gas)))
+
+(S1 (NP (NP (NNP Army)) (, ,) (NP (NNP Colo)) (. .)))
+
+(S1 (S (VP (VB Agree) (PP (IN on) (NP (NN Nerve) (NNP Gas) (NNP Plan))))))
+
+(S1 (S (NP (NP (NNP DENVER)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (NNP State) (CC and) (NNP Army) (NNS officials)) (VP (VBD agreed) (NP (NNP Friday)) (PP (IN on) (NP (DT a) (NN plan) (S (VP (TO to) (VP (VB destroy) (NP (CD six) (`` ``) (NNS bomblets) (, ,) ('' '')) (PP (IN at) (NP (NP (JJS least)) (VP (ADVP (RB half)) (VBG containing) (NP (NP (JJ deadly) (NN sarin) (NN nerve) (NN gas)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN found) (PP (IN in) (NP (NP (DT a) (NN scrap) (NN metal) (NN heap)) (PP (IN at) (NP (DT the) (NNP Rocky) (NNP Mountain) (NN Arsenal)))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN plan)) (VP (VBZ calls) (SBAR (IN for) (S (NP (DT the) (NNS canisters)) (VP (TO to) (VP (VB be) (VP (VBN taken) (PP (TO to) (NP (NP (DT a) (JJ vapor-tight) (NN building)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB be) (VP (VBN constructed) (PP (IN at) (NP (NP (DT the) (JJ 27-square-mile) (NN arsenal)) (ADVP (RB northeast) (PP (IN of) (NP (NNP Denver)))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS bomblets)) (VP (MD would) (VP (VB be) (VP (VP (VBN placed) (PP (IN in) (NP (NP (DT an) (JJ oven-sized) (NN chamber)) (PP (IN inside) (NP (DT the) (NN building)))))) (, ,) (RB then) (VP (VBD cracked) (ADJP (JJ open)) (PP (IN with) (NP (DT a) (JJ small) (JJ explosive) (NN charge))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN nerve) (NN gas)) (VP (MD would) (ADVP (RB then)) (VP (VB be) (VP (VBN neutralized) (PP (IN with) (NP (DT a) (JJ caustic) (NN chemical)))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP We)) (VP (VBP believe) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ provides) (NP (NP (DT the) (JJS highest) (NN level)) (PP (IN of) (NP (NNS assurances) (SBAR (IN that) (S (NP (DT these) (NNS bomblets)) (VP (MD will) (VP (VB be) (VP (VBN disposed) (PP (IN of) (ADVP (ADVP (RB as) (RB safely)) (CC and) (ADVP (RB as) (RB quickly)))) (PP (IN as) (ADJP (JJ possible)))))))))))))))) (, ,) ('' '') (NP (NNP Gov.) (NNP Bill) (NNP Owens)) (VP (VBD said) (NP (NNP Friday))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (DT the) (NN process)) (VP (MD could) (VP (VB take) (NP (QP (CD five) (TO to) (CD seven)) (NNS weeks))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ first)) (PP (IN of) (NP (DT the) (JJ grapefruit-size) (NNS bomblets)))) (VP (VBD was) (VP (VBN found) (PP (IN by) (S (NP (NNS workers)) (VP (VBG removing) (NP (JJ industrial) (NN waste)) (PP (IN from) (NP (NP (DT a) (NN scrap) (NN pile)) (PP (IN on) (NP (NNP Oct)))))))))) (. .)))
+
+(S1 (FRAG (NP (CD 16)) (. .)))
+
+(S1 (S (ADVP (RB So) (RB far)) (, ,) (NP (NP (CD three)) (PP (IN of) (NP (DT the) (NNP M-139) (NNS bomblets)))) (VP (VBP have) (VP (VBN been) (VP (VBN confirmed) (S (VP (TO to) (VP (VB contain) (NP (NP (NN sarin)) (, ,) (NP (NP (DT the) (JJ same) (NN chemical)) (VP (VBN used) (PP (IN in) (NP (NP (DT a) (NNP Tokyo) (NN subway) (NN attack)) (PP (IN in) (NP (CD 1995))) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (CD 12) (NNS people)))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN arsenal)) (VP (VBZ is) (VP (VBG being) (VP (VBN converted) (PP (IN into) (NP (DT a) (NN wildlife) (NN refuge))))))) (, ,) (CC but) (S (PP (IN during) (NP (DT the) (NNP Cold) (NNP War))) (, ,) (NP (NN sarin)) (VP (VBD was) (VP (VBN manufactured) (ADVP (RB there))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS bomblets)) (VP (VBD were) (VP (VBN designed) (S (VP (TO to) (VP (VB be) (VP (VBN carried) (PP (IN in) (NP (NP (DT a) (NN battlefield) (JJ tactical) (NN missile)) (PP (IN in) (NP (NP (NNS clusters)) (PP (IN of) (NP (CD 368))))))))))))) (. .)))
+
+(S1 (S (NP (DT Each) (NN bomblet)) (VP (VBZ holds) (NP (NP (CD 1.3) (NNS pounds)) (PP (IN of) (NP (NN sarin))) (, ,) (VP (VBN designed) (S (VP (TO to) (VP (VB kill) (NP (NN everyone)) (PP (IN within) (NP (CD 900) (NNS feet))))))))) (. .)))
+
+(S1 (S (NP (NNP Owens)) (VP (VBD said) (SBAR (S (NP (NP (QP (IN at) (JJS least) (CD one))) (PP (IN of) (NP (DT the) (NNS bomblets)))) (VP (VBD found) (SBAR (S (VP (VBD had) (NP (NP (DT a) (JJ serial) (NN number)) (SBAR (WHNP (WDT that)) (S (VP (VBD identified) (NP (PRP it)) (PP (IN as) (NP (DT a) (NN test) (NN model)))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (DT the) (NNP Army)) (VP (VBD told) (NP (PRP him)) (SBAR (S (NP (PDT all) (DT the) (NN production) (NNS bomblets)) (VP (VBD had) (VP (VBN been) (VP (VBN accounted) (PP (IN for))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN state)) (CC and) (NP (DT the) (NNP Army))) (VP (VBP have) (VP (VBN been) (PP (IN at) (NP (NP (NNS odds)) (PP (IN about) (NP (NP (DT the) (NN handling)) (PP (IN of) (NP (DT the) (NNS bomblets))))))))) (. .)))
+
+(S1 (S (NP (NNP Owens)) (VP (VBD complained) (PP (TO to) (NP (NNP Defense) (NNP Secretary) (NNP William) (NNP Cohen))) (, ,) (PP (VBG prompting) (NP (NP (DT a) (NN meeting)) (NP (NNP Friday)) (PP (IN between) (NP (NP (DT the) (NN governor)) (CC and) (NP (NP (NNP Gen.) (NNP John) (NNP Coburn)) (, ,) (NP (NP (NN commander)) (PP (IN of) (NP (DT the) (NNP Army) (NNP Material) (NNP Command)))))))))) (. .)))
+
+(S1 (S (NP (NNP Owens)) (VP (VBD said) (SBAR (S (NP (UCP (NN state) (NN health) (CC and) (JJ environmental)) (NNS experts)) (VP (MD would) (VP (VB meet) (PP (IN with) (NP (NNP Army) (NNS officials))) (NP (JJ next) (NN week)) (S (VP (TO to) (VP (VB ensure) (SBAR (S (NP (DT the) (NN plan)) (VP (VBZ is) (ADJP (JJ sound))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (DT the) (NNP Army)) (ADVP (RB also)) (VP (VBD agreed) (S (VP (TO to) (VP (ADVP (RB extensively)) (VB search) (NP (NP (DT the) (NN area)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS bomblets)) (VP (VBD were) (VP (VBN found))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Residents)) (VP (VBG living) (ADVP (RB nearby)))) (VP (VBP have) (VP (VBD questioned) (SBAR (IN whether) (S (NP (DT the) (NNP Army)) (VP (VBZ knows) (SBAR (WHNP (WP what)) (S (NP (JJ other) (NNS dangers)) (VP (MD might) (VP (VB be) (VP (VBN buried) (ADVP (RB there)))))))))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP I)) (VP (MD 'll) (VP (VB take) (NP (PRP$ their) (NN word)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (NP (DT the) (JJS best)) (SBAR (S (NP (PRP they)) (, ,) (VP (MD can) (PRN (CC but) (ADVP (RBR sooner) (CC or) (RBR later))) (SBAR (S (NP (NN something) (RB else)) (VP (MD will) (VP (VB turn) (PRT (RP up))))))))))))))))))) (. .)))
+
+(S1 (SINV (S (NP (PRP It)) (VP (ADVP (RB always)) (VBZ has))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Jeff) (NNP Kanost)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN lived) (PP (IN near) (NP (DT the) (NN site))) (PP (IN since) (NP (CD 1978)))))))) (. .)))
+

@@ -1,0 +1,108 @@
+(S1 (NP (NP (CD NYT20001109.1946.0315) (NN NEWS) (NN STORY)) (QP (CD 2000-11-09) (CD 20:10:00))))
+
+(S1 (NP (NP (CD A3555) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NN p)) (NP (CD BC-ELN-NADER-NYT) (NNS &LR))) (: ;) (QP (CD 11-09) (CD 0796))))
+
+(S1 (NP (NNP BC-ELN-NADER-NYT)))
+
+(S1 (S (NP (NNP NADER) (NNS VOTERS)) (VP (VBP GO) (ADJP (JJ ONLINE) (S (VP (TO TO) (VP (VB EXPRESS) (NP (NP (NN ANGER)) (, ,) (NP (NN REGRET)) (CC AND) (NP (DT SOME) (NN SUPPORT))))))))))
+
+(S1 (NP (NP (NP (NN &UR)) (: ;) (NP (NNP By) (NNP JAMES) (NNP DAO) (NNP &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR))) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (S (NP (NNP WASHINGTON) (NNP _) (NNP Ralph) (NNP Nader)) (VP (MD may) (RB not) (VP (VB be) (VP (VBG feeling) (NP (NP (DT any) (NNS regrets)) (PP (IN about) (NP (PRP$ his) (NNP Green) (NNP Party) (JJ presidential) (NN campaign)))))))) (, ,) (CC but) (S (NP (NP (DT some) (NNS visitors)) (PP (TO to) (NP (NP (DT the) (ADJP (VB chat)) (NN room)) (PP (IN on) (NP (NP (NNP Nader2000.org)) (, ,) (NP (NP (NNP Nader) (POS 's)) (JJ official) (NN campaign) (NN website)) (, ,)))))) (VP (VBD sounded) (SBAR (IN as) (IN if) (S (NP (DT a) (JJ bad) (NN hangover)) (VP (VBD had) (VP (VBN come) (VP (VBG crashing) (ADVP (RB down)) (PP (IN on) (NP (PRP them)))))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (DT this) (NN entry)) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBN posted) (NP (NNP Thursday) (NN morning)) (PP (IN by) (NP (NP (DT a) (NN writer)) (VP (VBN named) (S (`` ``) (NP (NN wreckz)) ('' ''))))))) (: :)))
+
+(S1 (S (`` ``) (NP (PRP I)) (, ,) (ADVP (RB too)) (, ,) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB apologize) (PP (TO to) (NP (NNP America)))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN duped))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Ralph) (NNP Nader) (POS 's)) (NN enjoyment)) (PP (IN of) (NP (NP (DT all)) (PP (IN of) (NP (DT this)))))) (VP (VBZ is) (NP (NP (DT an) (NN indication)) (PP (IN of) (NP (NP (DT a) (NN man)) (ADJP (ADJP (RBR more) (VBN concerned) (PP (IN with) (NP (JJ vindictive) (NNS politics)))) (PP (IN than) (NP (NP (NP (DT the) (NN future)) (PP (IN of) (NP (PRP$ our) (NN country)))) (CC and) (NP (NN planet))))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP am) (ADVP (RB no) (RB longer)) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (DT the) (NNP Green) (NNP Party))))) (. .)))
+
+(S1 (S (ADVP (RB Instead)) (, ,) (NP (PRP I)) (VP (VBP 'm) (NP (NP (DT a) (NN member)) (PP (IN of) (S (NP (DT the) (JJ green) (NN movement)) (VP (VBG _) (NP (DT a) (NN movement)) (PP (IN without) (NP (NNP Ralph) (NNP Nader)))))))) (. .) ('' '')))
+
+(S1 (S (NP (CC Or) (NP (DT this) (CD one)) (, ,)) (ADVP (RB also)) (VP (VBD posted) (NP (NNP Thursday) (NN morning)) (, ,) (PP (IN from) (`` ``) (NP (NNP Noni)) ('' ''))) (: :)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBD saw) (S (NP (NP (DT an) (NN interview)) (PP (IN with) (NP (NNP Ralph) (NNP Nader)))) (NP (NN today))))) (CC and) (S (NP (PRP he)) (VP (VBD seemed) (S (VP (TO to) (VP (VB be) (VP (VBG enjoying) (SBAR (WHNP (WP what)) (S (VP (VBZ has) (VP (VBN happened))))))))))) (. !)))
+
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (VBN seen) (NP (PRP him)) (ADVP (NN smile) (RB so) (RB broadly)))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP regret) (NP (PRP$ my) (NN support))) (. .)))
+
+(S1 (S (ADVP (NNP Nader)) (, ,) (S (NP (PRP you)) (VP (VBP 're) (NP (DT a) (JJ well-intending) (NN man)))) (CC and) (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ your) (NNS positions))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT the) (JJ symbolic) (NN run)) (PP (IN for) (NP (DT the) (NNP White) (NNP House)))) (VP (VBZ has) (VP (VBN destroyed) (S (NP (NP (PRP$ our) (NN Party)) (CC and) (NP (PRP$ our) (NN cause)))))) (. .)))
+
+(S1 (S (NP (ADJP (RB Very) (JJ bad)) (NNS things)) (VP (VBP are) (PP (IN in) (NP (PRP$ our) (NN future)))) (. .)))
+
+(S1 (S (NP (PRP You)) (VP (MD should) (RB not) (VP (VB be) (VP (VBG smiling)))) (. .)))
+
+(S1 (S (CC And) (NP (PRP we)) (PRN (, ,) (S (NP (DT the)) (VP (VBD misled))) (, ,)) (VP (MD should) (VP (VB feel) (NP (NN shame)) (PP (IN for) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP 've) (VP (VBN done)))))))) (. .) ('' '')))
+
+(S1 (S (NP (DT The) (NNS remarks)) (VP (VBD expressed) (NP (NNS fears) (SBAR (IN that) (S (NP (NP (NNS votes)) (PP (IN for) (NP (NNP Nader)))) (VP (MD may) (VP (VB have) (VP (VBD put) (NP (NNP Gov))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP George) (NNP W.) (NNP Bush)) (PP (IN in) (NP (DT a) (NN position)))) (VP (TO to) (VP (VB defeat) (NP (NNP Vice) (NNP President) (NNP Al) (NNP Gore)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NNP Florida)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP Gore)) (VP (VBD trailed) (NP (NNP Bush)) (PP (IN by) (NP (QP (RB only) (DT a) (JJ few) (CD hundred)) (NNS votes))) (NP (NNP Thursday))))))) (, ,) (NP (NP (DT a) (NN shift)) (PP (IN of) (NP (NP (RB just) (DT a) (NN fraction)) (PP (IN of) (NP (NP (NNP Nader) (POS 's)) (CD 95,000) (NNS votes)))))) (VP (MD could) (VP (VB have) (VP (VBN given) (NP (NP (DT the) (NN state)) (, ,) (CC and) (NP (DT the) (NNP White) (NNP House)) (, ,)) (PP (TO to) (NP (NP (NNP Gore)) (, ,) (NP (DT the) (ADJP (RBS most) (JJ likely)) (JJ major-party) (NN alternative)))) (PP (IN for) (NP (NP (NNP Nader) (POS 's)) (NNS supporters)))))) (. .)))
+
+(S1 (S (NP (NNP John) (NNP Ruth)) (, ,) (PP (IN for) (NP (NN example))) (, ,) (VP (VBD wrote) (PP (IN on) (NP (DT the) (NNP Nader2000) (NN site))) (NP (NNP Thursday) (NN morning)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD voted) (PP (IN for) (NP (NNP Nader))) (SBAR (IN because) (S (NP (PRP he)) (VP (VBD thought) (SBAR (SBAR (S (NP (PRP they)) (`` ``) (VP (VBD shared) (NP (DT a) (JJ common) (NN goal))) ('' ') ('' '))) (CC but) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD was) (VP (ADVP (RB now)) (VBG regretting) (NP (PRP it)))))))))))))) (. .)))
+
+(S1 (S (`` `) (NP (NP (`` `) (NNP Gore)) (PRN (-LRB- -LRB-) (PP (IN despite) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP have) (VP (VBN said)))))) (-RRB- -RRB-))) (VP (VBZ is) (RB NOT) (NP (NP (DT an) (JJ environmental) (NN clone)) (PP (IN of) (NP (NNP G.W.) (NNP Bush))))) (. .)))
+
+(S1 (FRAG (PP (IN Because) (PP (IN of) (NP (NP (PRP$ your) (NNS actions)) (CC and) (NP (NP (NNS statements)) (ADVP (RB prior) (PP (TO to) (NP (NNP Nov)))))))) (. .)))
+
+(S1 (S (S (ADJP (JJ 7th))) (, ,) (NP (PRP we)) (VP (VBP are) (PP (IN on) (NP (NP (DT the) (NN brink)) (PP (IN of) (NP (DT a) (NNP Bush) (NN presidency)))))) (. .)))
+
+(S1 (FRAG (NP (DT No) (NN money)) (, ,) (NP (DT no) (NN support)) (, ,) (NP (NP (DT no) (NN respect)) (PP (IN for) (NP (PRP you)))) (, ,) (NP (NNP Ralph)) (, ,) (RB ever) (RB again) (. !) ('' '')))
+
+(S1 (S (CC And) (PP (IN in) (NP (NP (NNP Oregon)) (, ,) (NP (NP (DT a) (NN state)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB still)) (ADJP (RB too) (RB close) (S (VP (TO to) (VP (VB call) (NP (NNP Thursday) (NN afternoon)))))))))))) (, ,) (NP (NNP Nader)) (VP (VBD won) (SBAR (S (NP (NP (QP (RB about) (CD 5)) (NN percent)) (PP (IN of) (NP (DT the) (NN vote)))) (VP (VBZ _) (ADJP (JJ enough) (S (VP (TO to) (VP (VB cause) (S (NP (DT some) (NNP Nader) (NNS voters)) (VP (TO to) (VP (VB feel) (NP (JJ morning-after) (NNS qualms))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Julie) (NNP Quastler)) (, ,) (NP (CD 28)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (PP (IN for) (NP (NNP Nader))) (PP (IN in) (NP (NNP Portland)))))) (, ,)) (VP (VBD said) (PP (IN on) (NP (NNP Wednesday))) (SBAR (IN that) (S (NP (PRP she)) (VP (VBD was) (VP (VBG feeling) (`` ``) (NP (NP (DT a) (RB little)) (ADJP (JJ alarmed) (CC and) (JJ disappointed) ('' '))) ('' ') (SBAR (IN that) (S (NP (NNP Bush)) (VP (VBD seemed) (PP (IN on) (NP (NP (DT the) (NN brink)) (PP (IN of) (S (VP (VBG winning) (NP (NP (DT the) (NN presidency)) (VP (VBN _) (S (VP (VBG suggesting) (SBAR (IN that) (S (NP (PRP she)) (VP (VBD did) (RB not) (VP (VB accept) (NP (NP (NNP Nader) (POS 's)) (NN assertion) (SBAR (IN that) (S (NP (DT the) (CD two) (NNS parties)) (VP (VBD were) (ADJP (RB equally) (JJ bad))))))))))))))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB just)) (ADJP (RB so) (JJ sad)))) (, ,) ('' '') (NP (PRP she)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB probably)) (VP (VBG going) (S (VP (TO to) (VP (VB be) (NP (PRP$ our) (NN president)))))))) (CC and) (S (NP (NNP Nader)) (VP (VBD did) (RB n't) (VP (VB get) (NP (PRP$ his) (CD 5) (NN percent))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ seems) (PP (IN like) (NP (DT a) (JJ lose-lose) (NN end) (NN result))) (PP (IN in) (NP (DT some) (NNS ways)))) (. .) ('' '')))
+
+(S1 (S (S (VP (VBG Winning) (NP (NP (CD 5) (NN percent)) (PP (IN of) (NP (DT the) (NN vote)))) (ADVP (JJ nationwide)))) (VP (MD would) (VP (VB have) (VP (VBN qualified) (NP (DT the) (NNP Green) (NNP Party)) (PP (IN for) (NP (NP (NNS millions)) (PP (IN of) (NP (NNS dollars))) (PP (IN in) (NP (JJ federal) (NN campaign) (NNS funds))))) (PP (IN in) (NP (CD 2004)))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNP Quastler)) (, ,) (NP (NP (DT the) (NN development) (NN director)) (PP (IN for) (NP (DT a) (JJ nonprofit) (NN cafe)))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP she)) (VP (VBD did) (RB not) (VP (VB feel) (ADJP (JJ guilty) (PP (IN about) (NP (PRP$ her) (NN vote))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Nader))) (SBAR (IN because) (S (NP (PRP he)) (VP (VBD was) (VP (ADVP (RBS most)) (VBN aligned) (PP (IN with) (NP (PRP$ my) (NNS values))))))))) (, ,) ('' '') (NP (PRP she)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN Of) (NP (NN course))) (, ,) (NP (EX there)) (VP (VBD were) (ADVP (RB also)) (NP (NP (JJ countless) (JJ verbal) (NNS high-fives)) (PP (IN among) (NP (NNP Nader) (NNS supporters)))) (NP (NNP Thursday)) (SBAR (WHNP (WP who)) (S (VP (VBD felt) (SBAR (S (NP (DT the) (NNP Green) (NNP Party)) (VP (VBD had) (VP (VBN sent) (NP (DT a) (VBG bracing) (JJ wake-up) (NN call)) (PP (TO to) (NP (DT the) (CD two) (JJ major) (NNS parties))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (VP (VB Stand) (NP (ADJP (JJ tall) (CC and) (JJ proud)) (, ,) (JJ fellow) (NNP Nader) (NNS supporters)))) (, ,) ('' '') (VP (VBD said)) (NP (CD one) (NN message)) (PP (IN on) (NP (NP (DT the) (NNP Nader2000) (NN site)) (VP (VBN signed) (S (VP (VB GO) (VP (VB LOOK) (ADVP (RB ELSEWHERE)) (PP (IN FOR) (NP (NNS SCAPEGOATS))))))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP We)) (VP (VBD fought) (NP (NP (DT the) (JJ good) (NN fight)) (PP (IN for) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBD believed) (PRT (RP in)))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBZ does) (RB not) (VP (VB make) (NP (PRP us) (NNS villains)))) (. .) ('' '')))
+
+(S1 (S (NP (JJ Such) (NNS sentiments)) (VP (VBD seemed) (ADJP (RB particularly) (JJ strong)) (PP (IN in) (NP (NNP Florida)))) (. .)))
+
+(S1 (S (NP (NP (NNP Dorothy) (NNP Byrne)) (, ,) (NP (NP (DT a) (NN state) (NN coordinator)) (PP (IN for) (NP (DT the) (NNP Florida) (NNP Green) (NNP Party)))) (, ,)) (VP (VBD said) (SBAR (S (S (NP (PRP she)) (VP (VBD had) (VP (VBN been) (VP (VBN inundated) (PP (IN with) (NP (NP (JJ angry) (NN phone) (NNS calls)) (CC and) (NP (NP (NNS e-mails)) (PP (IN from) (NP (NNPS Democrats)))))))))) (, ,) (CC but) (S (VP (VBZ has) (ADVP (RB yet)) (S (VP (TO to) (VP (VB receive) (NP (CD one) (JJ regretful) (NN note)) (PP (IN from) (NP (DT a) (NNP Nader) (NN voter))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (MD can) (VP (VB see) (S (NP (NP (NNS positives)) (PP (IN for) (NP (NP (DT the) (NNP Greens)) (PP (IN with) (NP (DT either) (NNP Bush) (CC or) (NNP Gore)))))) (VP (VBG being) (NP (NN president))))))) (, ,) ('' '') (NP (PRP she)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (SBAR (IN If) (S (NP (NNP Gore)) (VP (VBD was) (ADVP (RB in))))) (, ,) (NP (PRP we)) (VP (MD would) (RB n't) (VP (VB have) (S (VP (TO to) (VP (VB worry) (PP (IN about) (NP (NP (NNS women) (POS 's)) (JJ reproductive) (NNS rights)))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (PRP$ his) (NN record)) (PP (IN on) (NP (DT the) (NN environment)))) (VP (VBZ is) (ADJP (RB so) (JJ abysmal) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB see) (SBAR (WHADVP (WRB how)) (S (NP (NNP Bush)) (VP (MD can) (VP (VB be) (ADJP (DT any) (JJR worse)))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Barbara) (NNP Lange)) (, ,) (NP (NP (DT the) (NNS Everglades) (NN chairwoman)) (PP (IN for) (NP (NP (DT the) (NNP Florida) (NN chapter)) (PP (IN of) (NP (DT the) (NNP Sierra) (NNP Club)))))) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (PRP she)) (CC and) (NP (JJ other) (NNS environmentalists))) (VP (VBD voted) (PP (IN for) (NP (NNP Nader))) (SBAR (IN because) (S (NP (NNP Gore)) (VP (VBD had) (RB not) (VP (VBN taken) (NP (DT a) (NN stand)) (PP (IN against) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (NP (DT a) (JJ commercial) (NN airport)) (PP (IN near) (NP (DT the) (NNS Everglades))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBD voted) (NP (PRP$ my) (NN conscience)))) (, ,) ('' '') (NP (PRP she)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (CC And) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ okay) (PP (IN with) (NP (DT that))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Patricia) (NNP Newell)) (, ,) (NP (NP (DT an) (NN organizer)) (PP (IN for) (NP (NNP Nader))) (PP (IN at) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Florida))) (PP (IN in) (NP (NNP Gainesville)))))) (, ,)) (VP (VBD said) (SBAR (IN that) (S (NP (NNP Nader)) (VP (VBD had) (VP (VBN won) (NP (NP (ADJP (RB far) (JJR fewer)) (NNS votes)) (PP (IN in) (NP (NNP Florida))) (SBAR (IN than) (S (NP (PRP$ his) (NNS supporters)) (VP (VBD had) (VP (VBN expected) (S (NP (NNS _)) (ADJP (JJ due)) (PRN (, ,) (S (NP (PRP she)) (VP (VBD said))) (, ,)) (S (VP (TO to) (VP (`` ``) (VB scare) (NP (NNS tactics) (POS ')) ('' ') (PP (IN by) (NP (DT the) (NNPS Democrats))))))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (NP (NN Anyone)) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (PP (IN with) (NP (NNP Nader))) (PP (IN on) (NP (NNP Tuesday))))))) (VP (VBD knew) (SBAR (WHNP (RB exactly) (WP what)) (S (NP (PRP they)) (VP (VBD were) (VP (VBG doing))))))) (, ,) ('' '') (NP (PRP she)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (PP (IN On) (NP (NP (DT the) (NN contrary)) (PP (TO to) (S (VP (VBG feeling) (ADJP (JJ guilty))))))) (, ,) (NP (PRP they)) (VP (VBP feel) (ADJP (RB very) (JJ good) (PP (IN about) (S (VP (VBG sticking) (PP (IN with) (NP (DT the) (NN candidate))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBD felt) (SBAR (S (VP (VBD was) (ADVP (RBS best))))))))))))) (. .) ('' '')))
+
+(S1 (NP (CD NYT-11-09-00) (NN 2010EST)))
+

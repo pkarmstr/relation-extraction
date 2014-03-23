@@ -1,0 +1,74 @@
+(S1 (NP (NP (CD NYT20001111.1247.0093) (NN NEWS) (NN STORY)) (QP (CD 2000-11-11) (CD 13:18:00))))
+
+(S1 (NP (NP (CD A5549) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP i) (NNP BC-MIDEAST-VIOLENCE-NYT) (NN &LR)) (: ;) (NP (QP (CD 11-11) (CD 0834))))))
+
+(S1 (NP (NNP BC-MIDEAST-VIOLENCE-NYT)))
+
+(S1 (S (NP (NP (NN ASSASSINATION)) (PP (IN OF) (NP (NNP PALESTINIAN)))) (VP (VBZ IGNITES) (NP (JJR MORE) (NN VIOLENCE)))))
+
+(S1 (NP (NP (NP (NN &UR)) (: ;) (NP (NNP By) (NNP JOHN) (NNP KIFNER) (NNP &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR))) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (NNP JERUSALEM)) (VP (VBZ _) (NP (NP (DT The) (NN commander)) (PP (IN of) (NP (JJ Israeli) (NNS troops))) (SBAR (IN in) (S (NP (DT the) (NNP West) (NNP Bank)) (VP (VBD said) (SBAR (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (JJ simple) (NN goal)) (PP (TO to) (NP (NP (DT the) (NN helicopter) (NN assassination)) (PP (IN on) (NP (NNP Thursday))) (PP (IN of) (NP (DT a) (NN gun))) (NP (JJ -wielding) (JJ local) (JJ Palestinian) (NN leader))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (VBP hope) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VP (VB reduce) (NP (DT the) (NN violence))) (CC and) (VP (VB bring) (ADVP (RB back)) (NP (NP (NN reason)) (PP (TO to) (NP (DT this) (NN area))))))))))) (, ,) ('' '') (FW Maj) (. .)))
+
+(S1 (S (NP (NNP Gen.) (NNP Yitzhak) (NNP Eitan)) (VP (VBD told) (NP (NNS reporters)) (PP (IN at) (NP (NP (DT a) (NN briefing) (NNS hours)) (PP (IN after) (NP (NP (CD three) (NNS missiles)) (VP (VBN fired) (PP (IN from) (NP (NP (DT an) (NNP Apache) (NN helicopter)) (VP (VBN killed) (NP (NNP Hussein) (NNP Obaiyat)))))))))) (, ,) (ADVP (IN along) (PP (IN with) (S (NP (CD two) (JJ middle-aged) (NNS women)) (VP (VBG standing) (PP (IN near) (NP (PRP$ his) (NN van))) (PP (IN in) (NP (NNP Beit) (NNP Sahur))))))) (, ,) (PP (IN near) (NP (NNP Bethlehem)))) (. .)))
+
+(S1 (S (ADVP (RB Instead)) (, ,) (NP (PRP it)) (VP (VBZ has) (VP (VBN touched) (PRT (RP off)) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (JJS bloodiest) (CC and) (ADJP (RBS most) (JJ intense))) (NNS weekends)) (PP (IN of) (S (VP (VP (VBG fighting) (ADVP (RB yet)) (PP (IN in) (NP (DT the) (JJ six-week-old) (NN conflict))) (, ,) (PP (IN with) (NP (NN gunfire)))) (VP (VBG crackling) (PP (IN through) (NP (NP (DT the) (NNP West) (NNP Bank)) (CC and) (NP (NNP Gaza) (NNP Strip))))))))))))) (. .)))
+
+(S1 (S (NP (NP (CD Five) (NNPS Palestinians)) (CC and) (NP (DT an) (NNP Israeli) (NN soldier))) (VP (VBD were) (VP (VBN shot) (S (ADJP (JJ dead)) (PP (IN on) (NP (NNP Friday)))))) (. .)))
+
+(S1 (S (S (NP (NP (NN Gunfire)) (PP (IN between) (NP (NP (JJ Palestinian) (NNS positions)) (CC and) (NP (JJ Israeli) (NNS areas))))) (VP (VBD continued) (PP (IN through) (NP (NP (DT the) (NN night)) (PP (IN around) (NP (NP (NNP Ramallah)) (CC and) (NP (NNP Bethlehem)))))))) (, ,) (CC and) (S (PP (IN by) (NP (NP (NN nightfall)) (PP (IN on) (NP (NNP Saturday))))) (NP (JJR more) (NNPS Palestinians)) (VP (VBD were) (ADJP (ADJP (JJ dead)) (CC and) (ADJP (NP (DT an) (JJ Israeli) (NN soldier)) (RB critically) (VBN wounded))) (, ,) (S (VP (VBG raising) (NP (DT the) (NN death) (NN toll)) (PP (TO to) (NP (QP (IN at) (JJS least) (CD 200)))))))) (. .)))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (NP (NP (DT the) (NN escalation)) (PP (IN of) (NP (NN gunfire)))) (VP (VBZ is) (VP (VBG being) (VP (VBN described) (PP (IN by) (NP (DT both) (NNPS Palestinians) (CC and) (NNPS Israelis))) (PP (IN as) (NP (NP (DT a) (`` ``) (NX (NNP Lebanonization) (POS ')) ('' ')) (PP (IN of) (NP (NP (DT the) (NN conflict)) (PP (TO to) (NP (DT a) (NN state) (VBG resembling) (NN guerrilla) (NN war)))))))))) (. .)))
+
+(S1 (S (S (NP (CD Two) (NNPS Palestinians)) (VP (VBD were) (VP (VBN killed) (SBAR (IN as) (S (NP (PRP they)) (VP (VBD staged) (NP (NP (DT a) (JJ drive-by) (NN ambush)) (PP (IN on) (NP (DT an) (NNP Israeli) (NN jeep)))) (PP (IN in) (NP (DT the) (NNP Gaza) (NNP Strip))) (PP (IN near) (NP (NP (DT the) (JJ Israeli) (NN settlement)) (PP (IN of) (S (VP (VBP Gush) (NP (NNP Katif) (NNP Saturday) (NN afternoon))))))))))))) (, ,) (CC and) (S (NP (CD two) (NNP Israeli) (NNS soldiers)) (VP (VBD were) (VP (VBN wounded) (, ,) (NP (CD one) (RB critically))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (DT the) (NNPS Israelis)) (VP (VP (VBD retrieved)) (CC and) (VP (VBD held) (PRT (RP on)) (PP (TO to) (NP (DT the) (CD two) (NNS bodies))))))) (, ,) (NP (NP (DT a) (JJ large) (NN crowd)) (PP (IN of) (NP (NNPS Palestinians)))) (VP (VBD gathered)) (. .)))
+
+(S1 (S (S (NP (NP (NNS Men)) (PP (IN in) (NP (JJ civilian) (NNS clothes))) (PP (IN in) (NP (DT the) (NN crowd)))) (VP (VBD began) (NP (NN firing)) (PP (IN with) (NP (NNP AK-47) (NN assault) (NNS rifles))))) (CC and) (S (NP (DT a) (JJ 45-minute) (NN gun) (NN battle)) (VP (VBD broke) (PRT (RP out)))) (. .)))
+
+(S1 (S (NP (DT The) (NN situation)) (VP (VBD remained) (ADJP (JJ tense)) (SBAR (IN as) (S (NP (NN dusk)) (VP (VBD fell) (, ,) (PP (IN with) (NP (NP (DT an) (NN army) (NN helicopter)) (VP (VBG hovering) (NP (NN overhead) (SBAR (IN as) (S (NP (JJ Palestinian) (NNS police)) (VP (VBN evacuated) (NP (PRP$ their) (NN post)) (PP (IN for) (NP (NN fear) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (VP (VBN attacked) (PP (IN by) (NP (NNS rockets))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS clashes)) (VP (VBD started) (ADVP (RB early)) (PP (IN in) (NP (NNP Gaza)))) (. .)))
+
+(S1 (S (NP (DT A) (JJ 12-year-old) (NNP Palestinian) (NN boy)) (VP (VBD was) (VP (VBN shot) (ADJP (JJ dead)) (SBAR (WHADVP (WRB when)) (S (NP (NNS troops)) (VP (VBD opened) (NP (NN fire)) (PP (IN on) (NP (NP (DT a) (NN crowd)) (PP (IN of) (NP (NN stone) (NNS throwers))))) (PP (IN near) (NP (DT the) (NNP Erez) (NN checkpoint)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Jenin))) (, ,) (PP (IN on) (NP (DT the) (NNP West) (NNP Bank))) (, ,) (NP (NP (NP (DT a) (NNP Palestinian)) (VP (VBN identified) (PP (IN as) (NP (NNP Hani) (NNP Marzouq))))) (, ,) (NP (CD 37)) (, ,)) (VP (VBD died) (PP (IN in) (NP (NP (DT a) (NN hospital)) (PP (IN from) (NP (NP (NN neck) (CC and) (NN chest) (NNS wounds)) (VP (VBN suffered) (PP (IN in) (NP (NP (DT the) (JJ widespread) (NNS clashes)) (PP (IN on) (NP (NNP Friday))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Hebron))) (, ,) (NP (NP (NNS thousands)) (PP (IN of) (NP (NNS mourners)))) (VP (VBD crowded) (NP (DT the) (NNS streets)) (PP (IN for) (NP (NP (DT the) (NN funeral)) (PP (IN of) (NP (NP (NNP Raed) (NNP Mohtaseb)) (, ,) (NP (CD 27)) (, ,))))) (VP (VBG chanting) (`` ``) (S (NP (NP (DT the) (NN blood)) (PP (IN of) (NP (DT the) (NNS martyrs)))) (VP (VBZ is) (VP (VBG calling) (NP (PRP us))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Mohtaseb)) (VP (VBD was) (VP (VBN shot) (SBAR (IN while) (S (VP (VBG riding) (PRT (RP in)) (NP (NP (DT a) (NN car)) (VP (VBN driven) (PP (IN by) (NP (NP (PRP$ his) (NN father)) (, ,) (NP (NNP Saedi) (NNP Mohtaseb)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (NP (NP (NP (NP (DT a) (JJ senior) (NN official)) (PP (IN in) (NP (NNP Yasser) (NNP Arafat))) (POS 's)) (NNP Fatah) (NN organization)) (PP (IN in) (NP (NP (DT the) (JJ tense) (, ,) (JJ embattled) (NN city)) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT a) (NN handful)) (PP (IN of) (NP (JJ Jewish) (NNS settlers)))) (VP (VBP are) (VP (VBN surrounded) (PP (IN by) (NP (NP (JJ Palestinian) (NNS residents)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBN been) (VP (VBN kept) (PP (IN under) (NP (JJ frequent) (NN curfew))))))))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Palestinians)) (VP (NN charge) (SBAR (IN that) (S (NP (DT the) (NN shooting)) (VP (VBD was) (NP (DT an) (NN attempt) (S (VP (TO to) (VP (VB assassinate) (NP (DT a) (JJ Palestinian) (NN official)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN army)) (VP (VBD issued) (NP (NP (DT a) (NN statement)) (VP (VBG saying) (SBAR (S (NP (PRP it)) (`` ``) (VP (VBZ denies) (NP (DT any) (NN attempt) (S (VP (TO to) (VP (VB assassinate) (NP (NP (DT a) (NNP Fatah) (NN member)) (CC or) (NP (NP (DT a) (JJ senior) (NN official)) (PP (IN of) (NP (DT the) (JJ Palestinian) (NN authority))))))))))))))) (. .) ('' '')))
+
+(S1 (S (S (NP (NP (DT An) (NNP American) (NN news) (NN photographer)) (, ,) (NP (NNP Yola) (NNP Monakhov)) (, ,)) (VP (VBD was) (VP (VP (VBN shot)) (CC and) (VP (VBN wounded) (PP (IN by) (NP (JJ Israeli) (NNS troops))) (SBAR (IN while) (S (VP (VBG covering) (NP (DT a) (NN stone) (NN -throwing) (NN confrontation)) (PP (IN at) (NP (NP (NP (NNP Rachel) (POS 's)) (NN Tomb)) (, ,) (PP (IN near) (NP (NNP Bethlehem)))))))))))) (, ,) (NP (JJ Palestinian) (NN hospital) (NNS officials)) (VP (VBD said)) (. .)))
+
+(S1 (S (S (NP (NP (NNP Monakhov)) (, ,) (NP (NP (DT a) (JJ 26-year-old) (NN free-lancer)) (PP (IN on) (NP (NN assignment))) (PP (IN for) (NP (NNP The) (NNP Associated) (NNP Press)))) (, ,)) (VP (VBD suffered) (NP (DT a) (JJ fractured) (NN pelvis)))) (, ,) (NP (NN hospital) (NNS officials)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN assassination)) (PP (IN of) (NP (NP (DT the) (JJ once-relatively) (JJ obscure) (NNP Fatah) (NN leader) (NNP Obaiyat)) (, ,) (SBAR (WHNP (WP whom)) (S (NP (DT the) (NN army)) (VP (VBN blamed) (PP (ADVP (RB particularly)) (IN for) (NP (NP (VBG leading) (JJ nocturnal) (NN shooting)) (PP (IN on) (NP (NP (NNP Gilo)) (, ,) (NP (NP (DT a) (NN neighborhood)) (PP (IN in) (NP (JJ southeastern) (NNP Jerusalem))))))))))) (, ,)))) (VP (VBD was) (VP (VBN regarded) (PP (IN as) (NP (NP (DT a) (JJ grave) (NN step)) (PP (IN by) (NP (NNP Israeli) (NNS commentators))))))) (. .)))
+
+(S1 (S (S (VP (VBG Writing) (PP (IN in) (NP (DT the) (NN newspaper) (NNP Haaretz))) (PP (IN before) (NP (NP (NP (NNP Friday) (POS 's)) (JJ marked) (NN increase)) (PP (IN in) (NP (JJ Palestinian) (NN gunfire))))))) (, ,) (NP (NNP Amir) (NNP Oren)) (VP (VBD described) (NP (DT the) (NN strike)) (PP (IN as) (`` ``) (NP (DT a) (JJ critical) (NN point))) (, ,) (NP (NP (RB almost) (DT a) (NN point)) (PP (IN of) (NP (DT no) (NN return)))) (, ,) (PP (IN in) (NP (NP (DT the) (NN scale)) (PP (IN of) (NP (NN violence)))))) (. .) ('' '')))
+
+(S1 (S (PP (IN In) (NP (NNP Yedioth) (NNP Ahronoth))) (, ,) (NP (NNP Roni) (NNP Shaked)) (VP (VBD wrote) (: :) (`` ``) (S (NP (NP (DT The) (NN use)) (PP (IN of) (NP (NP (NN helicopter) (NNS missiles)) (PP (IN as) (NP (NP (DT a) (NN tool)) (PP (IN of) (NP (NN assassination)))))))) (VP (VBZ is) (NP (NP (DT a) (NN step)) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (TO to) (NP (NP (DT the) (`` `) (NNP Lebanonization) ('' ')) (PP (IN of) (NP (DT the) (NNS territories))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Shaked)) (VP (VBD added) (: :) (`` ``) (S (PP (IN In) (NP (DT the) (JJ short) (NN term))) (NP (NP (NN _)) (CC and) (NP (DT this))) (VP (VBD was) (ADVP (RB also)) (NP (NP (DT the) (NN assessment)) (PP (IN of) (NP (DT the) (NNP General) (NNP Staff)))) (S (VP (VBG _) (SBAR (S (NP (DT the) (NNPS Palestinians)) (VP (MD will) (VP (VB step) (PRT (RP up)) (NP (PRP$ their) (NNS hostilities)) (PP (IN in) (NP (NP (NN response)) (PP (TO to) (NP (DT the) (NN slaying)))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN army)) (VP (VBZ believes) (SBAR (S (PP (IN in) (NP (DT the) (JJ long) (NN run))) (NP (JJ such) (JJ proactive) (NNS operations)) (VP (MD will) (VP (VB lead) (PP (TO to) (NP (NP (DT a) (NN decrease)) (PP (IN in) (NP (NN terrorism)))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (DT The) (NN surge)) (PP (IN in) (NP (NN violence)))) (VP (VBD came) (SBAR (IN as) (S (NP (NNP Prime) (NNP Minister) (NNP Ehud) (NNP Barak)) (VP (VBD prepared) (PP (IN for) (NP (NP (DT a) (NN meeting)) (PP (IN on) (NP (NNP Sunday))) (PP (IN with) (NP (NNP President) (NNP Clinton))))) (PP (IN in) (NP (NNP Washington))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT no) (NN one)) (ADVP (RB here))) (VP (VBD seemed) (S (VP (TO to) (VP (VB be) (S (VP (VBG holding) (PRT (RP out)) (NP (NNS hopes) (SBAR (IN that) (S (NP (DT the) (NN meeting)) (VP (MD would) (VP (VB bring) (ADJP (JJ calm)) (ADVP (RB soon))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Barak)) (VP (VP (VBD said) (PP (IN on) (NP (NNP Friday))) (, ,) (SBAR (IN before) (S (NP (NP (RB much)) (PP (IN of) (NP (NNP Israel)))) (VP (VBD closed) (ADVP (RB down)) (PP (IN for) (NP (DT the) (NNP Sabbath))) (, ,) (SBAR (IN that) (S (NP (DT the) (NNS talks)) (VP (MD would) (VP (VB be) (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB end) (NP (DT the) (NN violence)))))))))))))) (, ,) (CC but) (VP (VBD added) (SBAR (S (NP (PRP he)) (VP (VBD did) (RB not) (VP (VB expect) (SBAR (S (NP (PRP they)) (VP (MD would) (`` ``) (VP (VB lead) (PP (TO to) (NP (NP (DT a) (NN renewal)) (PP (IN of) (NP (NNS negotiations))))))))))))))) (. .) ('' '')))
+
+(S1 (S (PP (IN With) (NP (NP (DT the) (JJ seven-year-old) (NN peace) (NN process)) (PP (IN in) (NP (NNS tatters))))) (, ,) (NP (NP (CD one) (JJ senior) (NNP Palestinian) (NN figure)) (, ,) (NP (NNP Parliament) (NN speaker) (NNP Ahmed) (NNP Korei)) (, ,) (VP (VBN known) (PP (IN as) (NP (NNP Abu) (NNP Ala)))) (, ,)) (VP (VBD insisted) (SBAR (IN that) (S (NP (NNP Israel)) (VP (MD must) (VP (VP (VB halt) (NP (DT all) (NN settlement) (NN building))) (, ,) (VP (VB accept) (NP (NP (DT an) (JJ international) (NN peacekeeping) (NN force)) (SBAR (S (VP (TO to) (VP (VP (VB protect) (NP (NNPS Palestinians))) (CC and) (VP (VB allow) (NP (DT the) (NNP United) (NNPS Nations)) (NP (NP (DT a) (NN role)) (PP (IN in) (NP (DT the) (NN peace) (NN process))))) (, ,) (SBAR (IN before) (S (NP (NNS talks)) (VP (MD could) (VP (VB be) (VP (VBN resumed))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT These)) (VP (VBP are) (NP (NP (NNS conditions)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP are) (NP (NP (NN anathema)) (PP (TO to) (NP (DT the) (NNPS Israelis))))) (CC and) (VP (VBP are) (ADJP (JJ unlikely) (S (VP (TO to) (VP (VB be) (VP (VBN met)))))))))))) (. .)))
+
+(S1 (NP (CD NYT-11-11-00) (NN 1318EST)))
+

@@ -1,0 +1,66 @@
+(S1 (NP (NP (CD APW20001019.0539.0213) (NN NEWS) (NN STORY)) (JJ 2000-10-19) (CD 07:00:43)))
+
+(S1 (NP (NN CAR-F1-Malaysian-GP)))
+
+(S1 (S (NP (NNP Schumacher)) (VP (VBZ Looks) (UCP (ADJP (RB Ahead)) (CC and) (ADVP (RB Behind))))))
+
+(S1 (S (NP (NP (NN SEPANG)) (, ,) (NP (NP (NNP Malaysia)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-)) (NP (NNP _) (NNP Michael) (NNP Schumacher)))) (VP (VBZ is) (ADVP (RB still)) (VP (VBG celebrating) (NP (NP (NP (NNP Ferrari) (POS 's)) (JJ first) (NN Formula)) (NP (CD One) (NN title))) (PP (IN since) (NP (CD 1979))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a) (JJ great) (NN relief)) (VP (VBG crossing) (NP (NP (DT the) (NN line)) (PP (IN at) (NP (NNP Suzuka)))))))) (, ,) ('' '') (NP (NNP Schumacher)) (VP (VBD said) (PP (IN of) (NP (DT the) (NNP Oct)))) (. .)))
+
+(S1 (NP (CD 8) (NNP Japanese) (NNP Grand) (NNP Prix) (. .)))
+
+(S1 (S (`` ``) (NP (EX There)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NP (NNS tons)) (PP (IN of) (S (NP (NN stone)) (VP (VBG falling) (ADVP (RB away)))))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ unable) (S (VP (TO to) (VP (VB find) (NP (NP (DT the) (JJ exact) (NNS words)) (SBAR (S (VP (TO to) (VP (VB express) (PP (IN in) (NP (NP (DT a) (JJ proper) (NN way)) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBD was) (VP (JJ like))))))))))))))))) (. .) ('' '')))
+
+(S1 (S (`` ``) (NP (DT The) (NN pressure)) (VP (MD could) (RB not) (VP (VB have) (VP (VBN been) (NP (JJR higher) (DT this) (NN year))))) (. .)))
+
+(S1 (S (ADVP (RB Now) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP have) (VP (VBN fulfilled) (NP (PRP$ our) (JJ main) (NN wish))))))) (, ,) (NP (DT the) (NN pressure)) (VP (MD will) (VP (VB be) (ADJP (JJR less)))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Schumacher)) (, ,) (NP (NP (DT the) (JJ German) (NN star)) (SBAR (WHNP (WP who)) (S (VP (VBD won) (NP (NP (NNS titles)) (PP (IN in) (NP (CD 1994) (CC and) (CD 1995)))) (PP (IN with) (NP (NNP Benetton))))))) (, ,)) (VP (VBZ enters) (NP (NP (NNP Sunday) (POS 's)) (JJ season-ending) (JJ Malaysian) (NNP Grand) (NNP Prix)) (PP (IN with) (NP (NP (DT an) (JJ insurmountable) (JJ 12-point) (NN lead)) (PP (IN over) (NP (NP (JJ two-time) (VBG defending) (NN champion) (NNP Mika) (NNP Hakkinen)) (PP (IN of) (NP (NNP McLaren)))))))) (. .)))
+
+(S1 (S (`` ``) (S (ADVP (RB Now) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP have) (VP (VBN achieved) (NP (DT the) (JJ first) (NN target))))))) (, ,) (NP (NP (DT the) (JJ next) (NN target)) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB like)))))) (VP (VBZ is) (NP (NP (DT the) (NNS constructors) (POS ')) (NN championship)))) (, ,) ('' '') (NP (NNP Schumacher)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (VBZ is) (PP (IN in) (NP (PRP$ our) (NNS hands)))) (. .)))
+
+(S1 (S (NP (PRP We)) (ADVP (RB just)) (VP (VBP need) (NP (NP (DT a) (JJ fourth) (NN place)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (PP (RB well) (IN within) (NP (PRP$ our) (NNS means)))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Ferrari)) (VP (VBZ leads) (NP (NP (NNP McLaren)) (PP (IN by) (NP (CD 13) (NNS points))))) (. .)))
+
+(S1 (S (NP (NP (NNP Hakkinen)) (CC and) (NP (NNP McLaren) (NN teammate) (NNP David) (NNP Coulthard))) (VP (VBP need) (S (VP (TO to) (VP (VP (VB finish) (PP (IN at) (NP (NP (JJS least)) (ADJP (JJ first) (CC and) (JJ third))))) (CC and) (VP (VB shut) (PRT (RP out)) (NP (NNP Ferrari))) (VP (VB grab) (S (VP (VB snatch) (NP (NP (DT the) (NNS constructors) (POS ')) (NN title))))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (SBAR (SBAR (IN if) (S (NP (NP (NNP Schumacher)) (CC and) (NP (NN teammate) (NNP Rubens) (NNP Barrichello))) (VP (VBP score) (NP (QP (IN at) (JJS least) (CD three)) (NNS points))))) (, ,) (CC or) (SBAR (IN if) (S (NP (DT a) (NNP McLaren)) (VP (VBZ does) (RB not) (VP (VB win) (NP (DT the) (NN race))))))) (, ,) (NP (NNP Ferrari)) (VP (MD will) (VP (VB have) (NP (NP (DT the) (NN constructor) (CC and) (NN driving)) (ADVP (RB double)) (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (PP (IN since) (NP (NP (CD 1979)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Jody) (NNP Scheckter)) (VP (VBD paced) (NP (NNP Ferrari)) (PP (TO to) (NP (DT both) (NNS victories))))))))))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP It)) (VP (VBZ has) (VP (VBN taken) (NP (NP (CD five) (NNS years)) (PP (IN at) (NP (NNP Ferrari)))) (S (VP (TO to) (VP (VB be) (ADJP (JJ competitive) (PP (IN from) (NP (DT the) (JJ first) (NN race)))) (PP (IN until) (NP (DT the) (JJ last))))))))) (, ,) ('' '') (NP (NNP Schumacher)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (SBAR (RB Now) (IN that) (S (NP (PRP we)) (VP (VBP have) (NP (PRP it))))) (, ,) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ nice) (S (VP (TO to) (VP (VB be) (ADVP (RB there)))))))) (CC and) (S (NP (PRP we)) (VP (VBP have) (S (VP (TO to) (VP (VB take) (NP (NP (NN advantage)) (PP (IN of) (NP (DT the) (NN situation))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Schumacher)) (VP (VBZ has) (NP (NP (NP (CD eight) (NNS victories)) (NP (DT this) (NN year))) (CC and) (NP (CD 43))) (ADVP (RB overall)) (, ,) (ADJP (JJ second) (RB only) (PP (TO to) (NP (NP (NNP Alain) (NNP Prost)) (PRN (-LRB- -LRB-) (NP (CD 53)) (-RRB- -RRB-)))) (PP (IN on) (NP (DT the) (NN career) (NN list))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP I)) (VP (VBP 'm) (ADVP (RB still)) (ADJP (JJ young))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADJP (NP (RB only) (CD 31) (NNS years)) (JJ old))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP enjoy) (VP (VBG racing))) (. .)))
+
+(S1 (S (S (NP (PRP I)) (VP (VBP enjoy) (VP (VBG working) (PP (IN with) (NP (NNP Ferrari)))))) (, ,) ('' '') (NP (NNP Schumacher)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP I)) (ADVP (RB simply)) (VP (VBP want) (S (VP (TO to) (VP (VB enjoy) (NP (NP (JJR more)) (PP (IN of) (NP (DT this) (NN time))) (SBAR (IN like) (S (NP (PRP we)) (VP (VBD had) (PP (IN at) (NP (NNP Suzuka))))))))))) (. .)))
+
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP am) (ADJP (JJ sure) (SBAR (SBAR (S (NP (PRP we)) (VP (MD will)))) (CC and) (FRAG (WHADVP (WRB why)) (RB not) (VP (VB enjoy) (NP (PRP it)) (ADVP (RB together))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Schumacher)) (VP (VBZ has) (NP (NP (DT a) (NN contract)) (PP (IN with) (NP (DT the) (NNP Italian) (NN team)))) (PP (IN through) (NP (CD 2002)))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB too) (JJ early) (S (VP (TO to) (VP (VB start) (VP (VBG speculating) (PP (IN about) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (MD will) (VP (VB do)))))) (PP (IN after) (NP (CD 2002)))))))))) (, ,) ('' '') (NP (NNP Schumacher)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP I)) (VP (MD 'll) (VP (VB start) (S (VP (VBG thinking) (PP (IN about) (NP (PRP it))))) (PP (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (CD 2001))))) (CC or) (PP (IN at) (NP (NP (DT the) (NN beginning)) (PP (IN of) (NP (CD 2002)))))))) (. .)))
+
+(S1 (FRAG (RB Not) (PP (IN before)) (. .) ('' '')))
+
+(S1 (S (S (NP (DT A) (NN practice) (NN session)) (VP (VBZ is) (VP (VBN set) (PP (IN for) (NP (NNP Friday)))))) (, ,) (CC and) (S (NP (DT the) (NNS drivers)) (VP (MD will) (VP (VB qualify) (NP (NNP Saturday)) (PP (IN for) (NP (NP (NNP Sunday) (POS 's)) (JJ 56-lap) (NN race))) (PP (IN on) (NP (JJ 3.44-mile) (NN circuit)))))) (. .)))
+
+(S1 (S (`` ``) (S (NP (PRP I)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB win) (NP (DT the) (NN race)))))))) (, ,) ('' '') (NP (NNP Schumacher)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP I)) (VP (VBP see) (NP (DT this)) (PP (IN as) (NP (NP (DT a) (NN race)) (PP (IN for) (NP (NN fun)))))) (. .) ('' '')))
+

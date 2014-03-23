@@ -1,0 +1,28 @@
+(S1 (NP (NP (CD APW20001012.1742.0694) (NN NEWS) (NN STORY)) (QP (CD 2000-10-12) (CD 18:08:09))))
+
+(S1 (NP (NNP Detective-Slain)))
+
+(S1 (S (NP (NN Cop)) (VP (VBN Killed) (SBAR (IN While) (S (VP (VBG Booking) (ADJP (JJ Suspect))))))))
+
+(S1 (S (NP (NP (NNP WARREN)) (, ,) (NP (NNP Mich.)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBZ _) (NP (NP (DT A) (NN drug) (NN suspect)) (VP (VBG being) (VP (VBN booked) (PP (IN at) (NP (NP (NN police) (NNS headquarters)) (VP (VP (VBD shot) (NP (DT a) (JJ veteran) (NN detective)) (PP (TO to) (NP (NN death)))) (CC and) (VP (ADVP (RB then)) (VBD turned) (NP (DT the) (NN gun)) (PP (IN on) (NP (PRP himself))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Ljeka) (NNP Juncaj)) (, ,) (NP (CD 29)) (, ,)) (VP (VP (VBD pulled) (NP (DT a) (NN gun)) (PP (IN out) (PP (IN of) (NP (PRP$ his) (NNS pants)))) (NP (NNP Wednesday) (NN night))) (CC and) (VP (VBD shot) (NP (NN Detective) (NNP Christopher) (NNP Wouters)) (PP (IN during) (NP (DT a) (NN struggle)))))) (, ,) (NP (NNP Police) (NNP Chief) (NNP James) (NNP Vohs)) (VP (VBD said) (NP (NNP Thursday))) (. .)))
+
+(S1 (S (NP (NP (NNP Juncaj)) (, ,) (VP (VBN arrested) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT an) (JJ undercover) (NN bust)))))) (, ,)) (ADVP (RB then)) (VP (VBD shot) (NP (PRP himself)) (PP (IN in) (NP (DT the) (NN head)))) (. .)))
+
+(S1 (S (NP (DT Both) (NNS men)) (VP (VBD died) (ADVP (RB later)) (PP (IN at) (NP (DT a) (NN hospital)))) (. .)))
+
+(S1 (S (NP (NNP Juncaj)) (VP (VBD was) (VP (VBN accused) (PP (IN of) (NP (NP (NN possession)) (PP (IN with) (NP (NN intent) (S (VP (TO to) (VP (VB deliver) (NP (NP (CD 400) (NNS pills)) (PP (IN of) (NP (DT the) (NN drug) (NN ecstasy))))))))))))) (. .)))
+
+(S1 (S (S (NP (NNS Vohs)) (VP (VBD said) (SBAR (S (NP (JJ other) (NNS officers)) (VP (VBD took) (NP (NP (NN part)) (PP (IN in) (NP (DT the) (NN arrest))))))))) (CC but) (S (NP (PRP he)) (VP (VBD did) (RB n't) (VP (VB know) (SBAR (WHNP (WP what) (NNS steps)) (S (VP (VBD had) (VP (VBN been) (VP (VBN taken) (S (VP (TO to) (VP (VB search) (NP (NNP Juncaj)) (PP (IN for) (NP (DT a) (NN weapon)))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Ordinarily)) (PRN (, ,) (S (NP (NNS officers)) (VP (VBD said))) (, ,)) (NP (DT a) (NN suspect)) (VP (MD would) (VP (VB have) (VP (VBN been) (VP (VBN frisked) (ADVP (ADVP (IN at) (JJS least)) (RB once) (RB before)) (VP (VBG arriving) (PP (IN at) (NP (NN booking)))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Wouters)) (, ,) (NP (CD 42)) (, ,)) (VP (VBD was) (NP (DT a) (JJ 19-year) (NN veteran)))) (, ,) (CC and) (S (NP (NP (PRP he)) (CC and) (NP (PRP$ his) (NN wife))) (VP (VBD had) (NP (CD three) (JJ young) (NNS children)))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (NP (DT A) (NN part)) (PP (IN of) (NP (PRP us)))) (VP (VBD died) (NP (JJ last) (NN night)))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Sgt.) (NNP Kevin) (NNP Sommers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN known) (NP (NNP Wouters)) (SBAR (IN since) (S (NP (PRP they)) (VP (VBD were) (NP (NNS children)))))))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP You)) (VP (MD could) (RB n't) (VP (VB ask) (PP (IN for) (NP (NP (DT a) (JJR better) (NN guy)) (, ,) (NP (DT a) (JJR better) (NN friend)) (, ,) (NP (DT a) (JJR better) (NN officer)))))) (. .) ('' '')))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT the) (JJ first) (NN time)) (PP (IN since) (NP (CD 1969))) (SBAR (IN that) (S (NP (DT an) (NN officer)) (VP (VBZ has) (VP (VBN been) (VP (VBN killed) (PP (IN in) (NP (NP (DT the) (NN line)) (PP (IN of) (NP (NN duty))))) (PP (IN in) (NP (NP (NNP Warren)) (, ,) (NP (DT a) (ADJP (JJ large) (JJ blue-collar)) (NNP Detroit) (NN suburb))))))))))) (. .)))
+

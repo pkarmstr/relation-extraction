@@ -1,0 +1,56 @@
+(S1 (NP (NP (CD APW20001106.1252.0310) (NN NEWS) (NN STORY)) (QP (CD 2000-11-06) (CD 13:40:39))))
+
+(S1 (NP (JJ British-Airways-Sale)))
+
+(S1 (S (NP (NNP British) (NNPS Airways)) (VP (TO To) (VP (VB Sell) (NP (NNP Go) (NNP Division))))))
+
+(S1 (S (S (NP (NP (NNP LONDON)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBD _) (SBAR (S (NP (NNP British) (NNPS Airways) (NNP PLC)) (VP (VBZ plans) (S (VP (TO to) (VP (VB sell) (NP (NP (NNP Go)) (, ,) (NP (NP (PRP$ its) (JJ profitable) (NN cut-price) (NN subsidiary)) (VP (VBN launched) (ADVP (NP (CD two) (NNS years)) (RB ago))))))))))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said) (NP (NNP Monday))) (. .)))
+
+(S1 (S (NP (NNP BA)) (VP (VBD announced) (NP (DT the) (NN sale)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBD reported) (NP (NP (NP (CD 160) (NN percent) (NN growth)) (PP (IN in) (NP (PRP$ its) (JJ second-quarter) (JJ pretax) (NN profit)))) (, ,) (NP (NP (DT an) (NN improvement)) (SBAR (WHNP (WDT that)) (S (VP (VBZ suggests) (SBAR (S (NP (NP (NNP Britain) (POS 's)) (JJ unofficial) (NN flag) (NN carrier)) (VP (MD may) (ADVP (RB finally)) (VP (VB be) (VP (VBG entering) (NP (JJR sunnier) (JJ financial) (NNS skies)))))))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (NP (NNS Thanks)) (PP (TO to) (NP (NP (NN everyone)) (SBAR (WHNP (WP who)) (S (VP (VBZ works) (PP (IN at) (NP (NNP Go))))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADVP (RB now)) (NP (DT a) (JJ leading) (JJ European) (NN brand)))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Rod) (NNP Eddington)) (, ,) (NP (NP (NNP British) (NNP Airways) (POS ')) (ADJP (RB recently) (VBN appointed)) (NN chief) (NN executive))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (VBZ has) (VP (VBN made) (NP (NP (DT a) (NN profit)) (NP (DT every) (NN month))) (NP (DT this) (NN year)))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (PP (VBN given) (NP (NP (DT the) (JJ strategic) (NNS goals)) (SBAR (S (NP (PRP we)) (VP (VBP have) (VP (VBN set) (PP (IN for) (NP (DT the) (NN group))) (PP (IN as) (NP (DT a) (NN whole))))))))) (, ,) (ADVP (RB now)) (VP (VBZ is) (NP (NP (DT the) (NN time)) (SBAR (IN for) (S (NP (NNP British) (NNPS Airways)) (VP (TO to) (VP (VP (VB gain) (NP (NP (DT the) (NNS benefits)) (PP (IN of) (NP (PRP$ its) (NN investment))))) (CC and) (VP (VB realize) (NP (NP (DT the) (JJ considerable) (NN value)) (VP (VBN created) (PP (IN in) (NP (NNP Go)))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NN Go)) (VP (VBZ is) (VP (VBN based) (PP (IN at) (NP (NP (JJ Stansted) (NN airport)) (, ,) (ADVP (RB northeast) (PP (IN of) (NP (NP (NNP London)) (, ,) (NP (NP (DT a) (JJ major) (NN base)) (PP (IN for) (NP (NP (JJ low-fare) (NNS carriers)) (VP (VBG operating) (PP (IN in) (NP (NNP Britain)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP BA)) (VP (VBD set) (PRT (RP up)) (S (VP (VB Go) (SBAR (WHADVP (WRB when)) (S (NP (JJR smaller) (NNS rivals)) (VP (VBD began) (VP (VBG nibbling) (ADVP (RB away)) (PP (IN at) (NP (PRP$ its) (NN market) (NN share))))))))) (PP (IN by) (S (VP (VBG offering) (NP (NP (JJR cheaper) (NNS flights)) (PP (IN across) (NP (NP (JJ much)) (PP (IN of) (NP (NNP Europe)))))))))) (. .)))
+
+(S1 (S (NP (NP (CD One) (JJ such) (NN competitor)) (, ,) (VP (VBN easyJet)) (, ,)) (VP (VBZ has) (ADVP (RB long)) (VP (VBN accused) (NP (NNP BA)) (PP (IN of) (S (ADVP (RB unfairly)) (VP (VBG subsidizing) (NP (NNP Go))))))) (. .)))
+
+(S1 (S (S (NP (NNP BA)) (VP (VBZ has) (VP (VBN denied) (NP (DT the) (NN accusation))))) (CC but) (S (PP (IN until) (ADVP (RB now))) (VP (VBZ has) (RB not) (VP (VBN said) (SBAR (IN whether) (S (NP (NNP Go)) (VP (VBD was) (VP (VBG making) (NP (NN money))))))))) (. .)))
+
+(S1 (S (NP (NNP British) (NNPS Airways)) (VP (VBD reported) (NP (NP (DT a) (JJ pretax) (NN profit)) (PP (IN of) (NP (NP (QP (CD 200) (CD million)) (NNS pounds)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 290) (CD million))) (-RRB- -RRB-)))) (PP (IN in) (NP (NP (DT the) (JJ second) (NN quarter)) (VP (VBG ending) (NP (NNP Sept))))))) (. .)))
+
+(S1 (S (NP (CD 30)) (, ,) (VP (VBN compared) (PP (TO to) (NP (NP (QP (CD 40) (CD million)) (NNS pounds)) (ADVP (NP (DT a) (NN year)) (RB ago))))) (. .)))
+
+(S1 (S (NP (PRP$ Its) (JJ quarterly) (NN operating) (NN profit)) (VP (VBD improved) (PP (TO to) (NP (NP (QP (CD 361) (CD million)) (NNS pounds)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 523) (CD million))) (-RRB- -RRB-)))) (PP (IN from) (NP (QP (CD 211) (CD million)) (NNS pounds)) (ADVP (NP (DT a) (NN year)) (RB ago)))) (. .)))
+
+(S1 (S (NP (DT This) (NN income) (NN growth)) (VP (VBD indicated) (SBAR (IN that) (S (NP (NP (NP (NNP BA) (POS 's)) (JJ new) (NN strategy)) (PP (IN of) (S (VP (VBG trying) (S (VP (TO to) (VP (VB attract) (NP (RBR more) (ADJP (NN business) (CC and) (JJ first-class)) (NNS passengers))))))))) (VP (VBZ has) (VP (VBN started) (S (VP (TO to) (VP (VB pay) (PRT (RP off)))))))))) (. .)))
+
+(S1 (S (NP (NNP BA)) (VP (VBD said) (SBAR (S (NP (NP (PRP$ its) (NN number)) (PP (IN of) (NP (NN premium) (NNS passengers)))) (VP (VBN increased) (PP (IN by) (NP (CD 7.7) (NN percent))) (PP (IN during) (NP (DT the) (NN quarter))) (, ,) (SBAR (IN while) (S (NP (NP (NNS revenues)) (PP (IN for) (NP (NP (DT the) (JJ first) (CD six) (NNS months)) (PP (IN of) (NP (DT the) (NN year)))))) (VP (VBD rose) (NP (CD 4.9) (NN percent)) (PP (TO to) (NP (NP (QP (CD 4.86) (CD billion)) (NNS pounds)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 7.05) (CD billion))) (-RRB- -RRB-))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP We)) (VP (VBP are) (VP (VBG taking) (NP (DT a) (JJ ruthless) (NN approach)) (PP (IN towards) (S (VP (ADVP (RB poorly)) (VBG performing) (NP (NNS routes) (CC and) (NNS assets)))))))) (, ,) ('' '') (VP (VBD said)) (NP (NNP Eddington)) (. .)))
+
+(S1 (S (`` ``) (NP (NP (DT Those) (RB not)) (VP (VBG adding) (NP (NN value)))) (VP (VBP are) (VP (VBG being) (VP (VBN removed)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ imperative)) (SBAR (IN that) (S (NP (NP (DT each)) (PP (IN of) (NP (PRP$ our) (NN aircraft)))) (VP (VBZ generates) (NP (NN shareholder) (NN value)))))) (. .) ('' '')))
+
+(S1 (S (NP (DT The) (NN airline)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ plans) (S (VP (TO to) (VP (VB cut) (NP (NP (NN capacity)) (NP (NNP worldwide))) (PP (IN by) (NP (NP (CD 10) (NN percent)) (PP (IN in) (NP (NP (JJ next) (NN summer) (POS 's)) (NN schedule)))))))))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP We)) (VP (VBP have) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (JJ different) (NNS businesses)) (VP (VBG operating) (ADVP (RB separately)) (PP (IN within) (NP (NNP Europe)))))))) (. .)))
+
+(S1 (S (S (NP (PRP We)) (VP (VBP are) (ADVP (RB currently)) (VP (VBG examining) (SBAR (WHADVP (WRB how)) (S (NP (PRP we)) (VP (MD can) (VP (VP (ADVP (RBR better)) (VB rationalize)) (CC and) (VP (VB integrate) (NP (PRP$ their) (NNS activities) (S (VP (TO to) (VP (VB deliver) (NP (JJR better) (NN value)) (PP (IN for) (NP (NP (DT the) (NN group)) (ADVP (RB overall)))))))))))))))) (, ,) ('' '') (NP (NNP Eddington)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NN Company) (NNS shares)) (VP (VBD jumped) (NP (CD 7) (NN percent)) (PP (TO to) (NP (NP (CD 352) (NN pence)) (PRN (-LRB- -LRB-) (NP ($ $) (CD 5.10)) (-RRB- -RRB-)) (NP (DT each)))) (PP (IN in) (NP (NP (NN midday) (NN trading)) (PP (IN on) (NP (DT the) (NNP London) (NNP Stock) (NNP Exchange)))))) (. .)))
+
+(S1 (S (NP (NP (NNP BA)) (, ,) (NP (NP (NP (DT the) (NN world) (POS 's)) (JJ fourth-biggest) (NN airline)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN passenger) (NN traffic)))))) (, ,)) (VP (VBZ has) (VP (VBN struggled) (S (VP (TO to) (VP (VB find) (NP (PRP$ its) (NN way)) (PP (IN in) (NP (JJ recent) (NNS years)))))))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (VBD lost) (NP (NP (QP (CD 50) (CD million)) (NNS pounds)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 75) (CD million))) (-RRB- -RRB-))) (PP (IN in) (NP (DT the) (JJ first) (NN quarter))) (, ,) (PP (JJ due) (PP (TO to) (NP (NP (JJ high) (NN fuel) (NNS costs)) (CC and) (NP (NN competition))))))) (, ,) (CC and) (S (NP (JJ last) (NN year)) (VP (VBD was) (NP (NP (NP (DT the) (NN airline) (POS 's)) (JJS worst)) (SBAR (IN since) (S (NP (DT the) (JJ British) (NN government)) (VP (VBN privatized) (NP (PRP it)))))))) (. .)))
+
+(S1 (S (S (NP (NN Competition)) (VP (VBZ has) (VP (VBN become) (ADJP (JJ intense)) (, ,) (PP (ADVP (RB particularly)) (IN on) (NP (PRP$ its) (JJ core) (JJ trans-Atlantic) (NNS flights)))))) (, ,) (CC and) (S (NP (NP (JJ former) (JJ chief) (NN executive)) (NP (NNP Bob) (NNP Ayling))) (VP (VBD resigned) (PP (IN in) (NP (NNP March))) (PP (IN after) (NP (DT a) (JJ troubled) (JJ four-year) (NN stint))))) (. .)))
+
+(S1 (S (NP (NP (NNS Talks)) (PP (IN on) (NP (NP (DT a) (JJ long-planned) (NN merger)) (PP (IN with) (NP (NNP KLM) (NNP Royal) (NNP Dutch) (NNP Airlines)))))) (VP (VBD collapsed) (PP (IN in) (NP (NNP September)))) (. .)))
+

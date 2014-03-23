@@ -1,0 +1,52 @@
+(S1 (NP (NP (CD NYT20001001.2157.0225) (NN NEWS) (NN STORY)) (QP (CD 2000-10-01) (CD 22:44:00))))
+
+(S1 (NP (NP (CD A8839) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP k) (NNP BC-EDIT-SCOTUS-NYT) (NN &LR)) (: ;) (NP (QP (CD 10-01) (CD 0557))))))
+
+(S1 (NP (NNP BC-EDIT-SCOTUS-NYT)))
+
+(S1 (S (ADJP (JJ EDITORIAL)) (: :) (NP (NP (NNS ISSUES)) (PP (IN FOR) (NP (DT THE) (NNP SUPREME) (NNP COURT))))))
+
+(S1 (NP (NP (NN &UR)) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (DT The) (NNP New) (NNP York) (NNP Times)) (VP (VBD said) (PP (IN in) (NP (NP (DT an) (NN editorial)) (PP (IN on) (NP (NP (NNP Monday)) (, ,) (NP (NNP Oct))))))) (. .)))
+
+(S1 (NP (CD 2) (: :)))
+
+(S1 (S (NP (NP (DT The) (JJ new) (NNP Supreme) (NNP Court) (NN term)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ opens) (NP (NN today))))) (, ,)) (VP (VBZ has) (NP (NP (DT no) (JJ high-profile) (NNS cases)) (SBAR (S (VP (TO to) (VP (VB match) (NP (NP (JJ last) (NN session) (POS 's)) (NNS tangles)) (PP (IN over) (NP (NP (JJ partial) (NN birth) (NN abortion)) (, ,) (NP (NP (NNS gays)) (PP (IN in) (NP (DT the) (NNP Boy) (NNP Scouts)))) (CC and) (NP (NP (VBN organized) (NN prayer)) (PP (IN at) (NP (JJ high) (NN school) (NN football) (NNS games)))))))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (RB even) (S (VP (VBN shorn) (PP (IN of) (NP (DT the) (NNP Microsoft) (NN case)))))) (, ,) (NP (DT this) (NN season)) (VP (MD will) (RB not) (VP (VBP lack) (PP (IN for) (NP (NN suspense) (CC or) (NN importance))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN court) (POS 's)) (NN docket)) (VP (VBZ includes) (NP (NP (NNS cases)) (SBAR (WHNP (WDT that)) (S (, ,) (PP (VBG depending) (PP (IN on) (NP (PRP$ their) (NN outcome)))) (, ,) (VP (MD could) (VP (VP (ADVP (RB significantly)) (VB bolster)) (CC or) (VP (VB weaken) (NP (NP (JJ environmental) (NN protection)) (, ,) (NP (JJ federal) (JJ civil) (NNS rights)) (, ,) (NP (NP (NN freedom)) (PP (IN of) (NP (DT the) (NN press)))) (CC and) (NP (NP (DT the) (JJ Fourth) (NP (NNP Amendment) (POS 's)) (NN shield)) (PP (IN against) (NP (JJ unreasonable) (NNS searches) (CC and) (NNS seizures)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Once) (RB again)) (, ,) (NP (DT a) (JJ prime) (NN battleground)) (VP (MD will) (VP (VB be) (NP (NP (DT the) (JJ constitutional) (NN allocation)) (PP (IN of) (NP (NP (NN power) (NNS _)) (PP (PP (IN between) (NP (NP (DT the) (JJ federal) (NN government)) (CC and) (NP (DT the) (NNS states)))) (, ,) (CC and) (PP (IN between) (NP (NP (NNP Congress)) (CC and) (NP (JJ federal) (JJ regulatory) (NNS agencies)))))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN term)) (, ,) (NP (DT the) (NN court)) (VP (VBD lengthened) (NP (NP (PRP$ its) (NN string)) (PP (IN of) (NP (JJ regrettable) (JJ 5-to-4) (NNS decisions))) (VP (VBG trimming) (NP (JJ federal) (NN authority)))) (PP (IN by) (S (VP (VBG striking) (PRT (RP down)) (NP (NP (NNS portions)) (PP (IN of) (NP (DT the) (NN Violence)))) (PP (IN Against) (NP (NP (NNP Women) (NNP Act)) (CC and) (NP (NP (DT the) (JJ federal) (NN law)) (VP (VBG barring) (NP (NP (NN age) (NN discrimination)) (PP (IN in) (NP (NN employment)))))))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN case)) (VP (TO to) (VP (VB be) (VP (VBN heard) (SBAR (S (NP (JJ next) (NN week)) (VP (VBZ tests) (SBAR (IN whether) (S (NP (NP (NP (DT the) (NN majority) (POS 's)) (JJ constricted) (NN view)) (PP (IN of) (NP (JJ federal) (NN power)))) (VP (VBZ extends) (PP (TO to) (S (VP (VBG shielding) (NP (NNS states)) (PP (IN from) (NP (NP (NNS lawsuits)) (VP (VBN brought) (PP (IN by) (NP (PRP$ their) (JJ public) (NNS employees))) (PP (IN under) (NP (NP (DT the) (NNPS Americans)) (PP (IN With) (NP (NNPS Disabilities) (NNP Act)))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT another) (JJ big) (NN federalism) (NN case)) (PP (IN with) (NP (NP (NNS implications)) (PP (IN for) (NP (DT the) (NN environment))))))) (, ,) (NP (DT the) (NN court)) (VP (MD will) (VP (VB consider) (SBAR (IN whether) (S (NP (NNP Congress)) (VP (VBD exceeded) (NP (PRP$ its) (NNP Commerce) (NN Clause) (NNS powers)) (PP (IN by) (S (VP (VBG allowing) (S (NP (NP (NN regulation)) (PP (IN of) (NP (JJ small) (, ,) (JJ intrastate) (NNS wetlands)))) (VP (TO to) (VP (VB protect) (NP (NP (DT the) (NNS habitats)) (PP (IN of) (NP (JJ migratory) (NNS birds))))))))))))))) (. .)))
+
+(S1 (S (NP (DT This) (NN term)) (NP (DT the) (NN court)) (VP (MD will) (ADVP (RB also)) (VP (VB weigh) (NP (NP (DT a) (NN challenge)) (PP (TO to) (NP (NP (DT the) (NN authority)) (PP (IN of) (NP (DT the) (NNP Environmental) (NNP Protection) (NNP Agency))))) (SBAR (S (VP (TO to) (VP (VB set) (NP (NP (JJ national) (NNS standards)) (PP (IN for) (NP (NN air) (NNS pollutants))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS justices)) (VP (MD should) (VP (VB resist) (NP (DT this) (NN invitation) (S (VP (TO to) (VP (VB disrupt) (NP (DT the) (JJ modern) (JJ regulatory) (NN system)) (PP (IN by) (S (VP (VP (VBG overturning) (NP (NP (NP (NNP Congress) (POS ')) (JJ broad) (NN delegation)) (PP (IN of) (NP (NP (NN authority)) (PP (TO to) (NP (DT the) (NNP EPA))))))) (CC or) (VP (ADVP (RB otherwise)) (VBG diluting) (NP (NP (DT the) (NN agency) (POS 's)) (NN power) (S (VP (TO to) (VP (VB set) (NP (`` ``) (NP (NNS uncompromising) (POS ')) ('' ') (JJ health-based) (NNS standards)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Tuesday))) (, ,) (NP (DT the) (NN court)) (VP (VBZ begins) (NP (NP (NP (DT the) (NN term) (POS 's)) (NN review)) (PP (IN of) (NP (NP (JJ Fourth) (NNP Amendment) (NNS principles)) (PP (IN with) (NP (NP (DT an) (NNP Indianapolis) (NN case)) (VP (VBG involving) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (NN police) (NNS checkpoints)) (CC and) (NP (JJ drug-sniffing) (NNS dogs)))) (S (VP (TO to) (VP (VB check) (NP (NP (NNS motorists)) (PP (IN for) (NP (JJ illicit) (NNS drugs))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN court)) (VP (MD should) (VP (VB view) (NP (DT these) (NN law) (NN enforcement) (NNS stops)) (PP (IN as) (NP (NP (DT an) (ADJP (RB overly) (JJ aggressive)) (NN leap)) (PP (IN from) (NP (NP (DT the) (JJ sobriety) (NNS checkpoints)) (SBAR (S (NP (PRP it)) (VP (VBZ has) (ADJP (RB previously) (VBN approved) (S (VP (TO to) (VP (VB remove) (NP (DT an) (JJ immediate) (NN safety) (NN hazard))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Then)) (, ,) (PP (IN on) (NP (NNP Wednesday))) (, ,) (NP (DT the) (NN court)) (VP (MD will) (VP (VB consider) (NP (NP (DT the) (JJ outrageous) (NN privacy) (NN violation)) (VP (VBN committed) (PP (IN against) (NP (NP (JJ pregnant) (NNS women)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (ADVP (RB selectively)) (VP (VP (VBN tested) (PP (IN for) (NP (NN cocaine) (NN use))) (SBAR (IN while) (S (VP (VBG seeking) (NP (NP (JJ prenatal) (NN care)) (PP (IN at) (NP (DT a) (NNP South) (NNP Carolina) (NN hospital)))))))) (, ,) (CC and) (ADVP (RB subsequently)) (VP (VBN arrested) (CC or) (VBN threatened) (PP (IN with) (NP (NN arrest)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Amicus) (NNS briefs)) (PP (IN from) (NP (VBG leading) (UCP (JJ medical) (CC and) (NN health)) (NNS groups)))) (VP (VBP caution) (SBAR (IN that) (S (NP (JJ such) (JJ punitive) (NNS policies)) (VP (MD will) (VP (VB drive) (NP (NNS women)) (ADVP (RB away) (PP (IN from) (NP (ADJP (RB critically) (VBN needed)) (JJ prenatal) (NN care) (CC and) (NN treatment) (NNS programs))))))))) (. .)))
+
+(S1 (S (ADVP (RBR Later) (NP (DT this) (NN term))) (, ,) (NP (DT the) (NN court)) (VP (MD will) (VP (VB confront) (NP (DT a) (JJ major) (NNS media) (NN case)))) (. .)))
+
+(S1 (SINV (PP (IN At) (NP (NN issue))) (VP (VBZ is) (NP (NP (DT the) (NN liability)) (PP (IN of) (NP (DT a) (NNP Pennsylvania) (NN radio) (NN station)))) (PP (IN under) (NP (DT the) (JJ federal) (NN wiretap) (NN statute))) (PP (IN for) (NP (NN broadcasting)))) (NP (NP (DT an) (ADJP (RB illegally) (VBN taped)) (NN cell) (NN phone) (NN conversation)) (PP (IN between) (NP (CD two) (NN union) (NNS officials)))) (. .)))
+
+(S1 (S (NP (DT No) (NN one)) (VP (VBZ accuses) (NP (DT the) (NN station)) (PP (IN of) (NP (NP (NN involvement)) (PP (IN in) (NP (NP (DT the) (NN taping)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN done) (PP (IN by) (NP (DT an) (JJ anonymous) (JJ third) (NN party)))))))))))) (. .)))
+
+(S1 (S (SBAR (SINV (MD Should) (NP (DT the) (NN court)) (VP (VB override) (NP (NP (NP (DT the) (NN station) (POS 's)) (NNP First) (NNP Amendment) (NN privilege)) (ADVP (RB here)))))) (, ,) (NP (NP (DT the) (JJ chilling) (NN impact)) (PP (IN on) (NP (JJ newsgathering) (NN cannot)))) (VP (VB be) (VP (VBN overstated) (, ,) (SBAR (ADVP (RB much)) (IN as) (S (NP (DT The) (NNP Times)) (VP (VBZ intends) (S (VP (TO to) (VP (VB argue) (PP (IN in) (NP (DT an) (JJ amicus) (NN brief))))))))))) (. .)))
+
+(S1 (NP (QP (CD NYT-10-01-00) (CD 2244EDT))))
+

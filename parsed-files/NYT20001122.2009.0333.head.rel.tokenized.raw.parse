@@ -1,0 +1,62 @@
+(S1 (NP (NP (CD NYT20001122.2009.0333) (NN NEWS) (NN STORY)) (QP (CD 2000-11-22) (CD 20:35:00))))
+
+(S1 (NP (NP (CD A8450) (NNS &Cx1f)) (: ;) (NP (NP (JJ taf-z) (NNP u) (NNP f) (NNP BC-EXP-LUXURY-GOODS-NYT) (NN &LR)) (: ;) (NP (QP (CD 11-22) (CD 0502))))))
+
+(S1 (NP (NNP BC-EXP-LUXURY-GOODS-NYT)))
+
+(S1 (NP (NP (DT ANOTHER) (JJ JOLLY) (NN SEASON)) (PP (IN IN) (NP (NN STORE))) (PP (IN FOR) (NP (NN LUXURY) (NNS GOODS)))))
+
+(S1 (FRAG (-LRB- -LRB-) (NP (NNP EDS)) (: :) (S (NP (DT This) (NN article)) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (NNP TIMES) (NNP EXPRESS)))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (JJ condensed) (NN version)) (PP (IN of) (NP (NP (DT a) (NN story)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB appear) (PP (IN in) (NP (NP (NN tomorrow) (POS 's)) (NNP New) (NNP York) (NNP Times))))))))))) (. .)))
+
+(S1 (NP (NP (NNP ART) (NNP ADV)) (: :) (S (NP (NNP Graphic)) (VP (VBZ is) (VP (VBG being) (VP (VBN sent) (PP (TO to) (NP (JJ NYT) (JJ graphic) (NNS clients))))))) (. .)))
+
+(S1 (S (NP (NNS Nonsubscribers)) (VP (MD can) (VP (VB make) (NP (JJ individual) (NN purchase)) (PP (IN by) (S (VP (VBG calling) (NP (NP (QP (CD 888-603-1036) (CC or) (CD 888-346-9867)) (. .) (-RRB- -RRB-) (NNS &QL)) (: ;) (NP (NP (NN &UR)) (: ;) (NP (NNP By) (NNP LESLIE) (NNP KAUFMAN) (NNP &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR)) (: ;) (NP (NP (CD c.2000)) (NP (NNP N.Y)))))))))) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (SBAR (IN While) (S (NP (JJS most) (NNPS Americans)) (VP (MD would) (VP (VB be) (ADJP (JJ content) (PP (IN with) (NP (NP (DT a) (NNP Sony) (NNP Playstation) (NNP II)) (CC or) (NP (NP (DT a) (NN sweater) (NN twin)) (VP (VBN set) (PP (IN under) (NP (DT the) (NN tree))) (NP (DT this) (NN year)) (, ,) (PP (IN for) (NP (NP (DT an) (VBG increasing) (NN number)) (PP (IN of) (NP (NNS people))))))) (JJ mere) (NN cashmere)))))))) (VP (VBZ does) (RB not) (VP (VB say) (`` ``) (S (NP (PRP I)) (VP (VBP love) (NP (PRP you)) ('' '))) ('' ') (PP (IN with) (NP (NP (RB quite) (DT the) (JJ same) (NN authority)) (PP (IN as) (NP (NN pashmina))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN economy)) (VP (MD may) (VP (VB be) (VP (VBG slowing) (ADVP (RB somewhat)))))) (, ,) (CC but) (S (NP (NP (DT the) (JJ top) (NN slice)) (PP (IN of) (NP (NN income) (NNS earners)))) (VP (VP (VBZ is) (ADVP (RB still)) (VP (VBG sitting) (PP (IN on) (NP (NP (DT a) (JJ huge) (NN pile)) (PP (IN of) (NP (NN wealth))))))) (CC and) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB propel) (NP (NP (JJ such) (NNS purveyors)) (PP (IN of) (NP (NN designer) (NNS delectables)))) (PP (IN as) (NP (NP (NNP Tiffany) (NN &AMP)) (: ;) (NP (NNP Co))))))))))) (. .)))
+
+(S1 (S (CC and) (NP (DT the) (NNP Neiman) (NNP Marcus)) (VP (NNP Group) (PP (IN into) (NP (NP (ADJP (RB yet) (DT another)) (NN banner)) (NP (JJ financial) (NN year))))) (. .)))
+
+(S1 (S (NP (DT Every) (NN shopper)) (ADVP (RB vaguely)) (VP (VBZ suspects) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (ADVP (RB as) (RB much)) (NP (NP (NN art)) (PP (IN as) (NP (NN substance)))) (PP (IN in) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (NP (DT an) (ADJP ($ $) (CD 8)) (NNP Revlon) (NN lipstick)) (CC and) (NP (DT the) (NNP By) (NNP Terry) (NN counterpart)))))) (, ,) (S (VP (VBG going) (PP (IN for) (NP ($ $) (CD 49))))))))) (. .)))
+
+(S1 (S (CC But) (NP (JJ luxury-goods) (NNS companies)) (VP (VBP guard) (NP (DT no) (NN secret)) (ADVP (ADVP (RBR more) (RB ferociously)) (PP (IN than) (NP (NP (DT the) (NN cost)) (PP (IN of) (S (VP (VBG making) (NP (PRP$ their) (NNS wares))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (PRP We)) (VP (VBP are) (ADJP (JJ uncomfortable) (PP (RB even) (IN with) (NP (DT the) (NN question)))))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Christina) (NNP Kim)) (, ,) (NP (NP (DT a) (NN spokeswoman)) (PP (IN for) (NP (NP (NNP Hermes)) (PP (IN of) (NP (NNP Paris))))))) (. .)))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ possible) (S (VP (TO to) (VP (VB gain) (NP (NP (NNS glimpses)) (PP (IN of) (NP (NN enlightenment))))))))) (. .)))
+
+(S1 (S (NP (JJ Public) (NNS companies)) (VP (VBP have) (S (VP (TO to) (VP (VB report) (NP (NP (JJ gross) (NNS margins)) (VP (VBG _) (NP (NP (DT the) (NN money)) (SBAR (S (NP (PRP they)) (VP (VBP take) (PRT (RP in)) (SBAR (IN after) (S (NP (NP (DT the) (NNS costs)) (PP (IN of) (S (VP (VBG making) (NP (PRP$ their) (NNS goods)))))) (VP (VBP are) (VP (VBN deducted))))))))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NP (DT a) (NN luxury) (NN company)) (PP (IN like) (NP (NNP Gucci) (CC or) (NNP Estee) (NNP Lauder))))) (, ,) (NP (DT that) (NN number)) (ADVP (RB usually)) (VP (VBZ runs) (PP (IN in) (NP (NP (NN excess)) (PP (IN of) (NP (NP (CD 60) (NN percent)) (PP (IN of) (NP (JJ total) (NNS revenues)))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ means) (SBAR (S (NP (NP (DT the) (JJ actual) (NN cost)) (PP (IN of) (S (VP (VBG making) (NP (PRP$ their) (NN stuff))))) (, ,) (PP (PP (IN from) (NP (NNS sweaters))) (PP (TO to) (NP (JJ thigh-high) (NN leather) (NNS boots)))) (, ,)) (VP (VBZ is) (NP (NP (QP (JJR less) (IN than) (CD 40)) (NN percent)) (PP (IN of) (NP (DT the) (JJ average) (NN price) (NN tag)))))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (PP (IN By) (NP (NN contrast))) (, ,) (NP (NP (JJ gross) (NNS margins)) (PP (IN at) (NP (DT the) (UCP (NNP Gap) (CC and) (JJ other)) (NN chain) (NN apparel) (NNS stores)))) (ADVP (RB rarely)) (VP (VBP rise) (PP (IN above) (NP (CD 45) (NN percent)))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (CC And) (SBAR (IN as) (FRAG (ADJP (JJ profitable) (SBAR (IN as) (S (NP (NNS cosmetics) (CC and) (NNS accessories)) (VP (MD can) (VP (VB be)))))))) (, ,) (NP (JJS most) (NN luxury) (NNS houses)) (VP (VBP have) (NP (NP (QP (IN at) (JJS least) (CD one)) (JJ other) (NN blockbuster)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (NP (DT a) (JJ deep) (NN well)) (PP (IN of) (NP (NN cash))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (CD one) (NN executive)) (PP (IN at) (NP (DT a) (NN luxury) (NN house)))) (VP (VBD explained) (NP (NP (DT the) (JJ rough) (NN cost)) (PP (IN of) (S (VP (VBG producing) (NP (DT a) (JJ high-quality) (NN leather) (NN handbag))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJS finest) (NN leather)) (PP (IN from) (NP (DT an) (JJ Italian) (PRN (-LRB- -LRB-) (JJ only) (. !) (-RRB- -RRB-)) (NN tannery)))) (VP (VBZ costs) (NP (QP ($ $) (CD 50) (TO to) ($ $) (CD 60)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN labor)) (PP (IN of) (NP (NP (DT a) (NN master) (NN craftsman)) (SBAR (S (VP (TO to) (VP (VB cut) (CC and) (VB stitch) (NP (DT the) (NN bag))))))))) (VP (VBZ costs) (NP (QP (RB roughly) ($ $) (CD 72)))) (. .)))
+
+(S1 (S (NP (DT The) (JJ exclusive) (NN metal) (NN hardware)) (PRN (, ,) (PP (IN like) (NP (DT the) (NN logo) (CC and) (NNS locks))) (, ,)) (VP (MD might) (VP (VB account) (NP ($ $) (CD 45)))) (. .)))
+
+(S1 (S (S (VP (VB Add) (NP (QP (DT another) (CD 5)) (NN percent)) (PP (IN for) (NP (JJ miscellaneous) (NNS costs))))) (, ,) (CC and) (S (NP (NP (DT all)) (PP (IN in) (NP (DT all) (RB there)))) (VP (VBZ is) (NP (NP ($ $) (CD 180) (NN worth)) (PP (IN of) (NP (NN bag)))))) (. .)))
+
+(S1 (S (CC And) (NP (DT that)) (VP (VBZ stays) (NP (DT the) (JJ same)) (PRN (, ,) (S (NP (DT this) (NN executive)) (VP (VBZ says))) (, ,)) (SBAR (IN whether) (S (NP (PRP you)) (VP (VBP are) (VP (VBG paying) (NP (NP (NP ($ $) (CD 460)) (PP (IN for) (NP (NP (NP (NNP Escada) (POS 's)) (JJ new) (NN handbag)) (PP (IN in) (NP (NN turquoise) (NN leather)))))) (CC or) (NP (NP ($ $) (CD 4,800)) (PP (IN for) (NP (DT that) (NN forest) (NN green))))) (S (NP (NNP Hermes) (NNP Kelly)) (VP (VB handbag) (SBAR (S (NP (DT that)) (VP (VBZ is) (ADVP (RB so) (RB frequently)) (PP (IN out) (PP (IN of) (NP (NN stock)))))))))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB be) (ADJP (JJ fair))))) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (ADJP (RB very) (JJ real)) (NNS expenses)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB cut) (NP (NP (DT the) (JJ final) (NN profit)) (PP (IN on) (NP (NP (NN luxury) (NNS products)) (: :) (NP (NN advertising)) (, ,) (NP (JJ fabulous) (NNS parties) (S (VP (TO to) (VP (VB create) (NP (NN buzz)))))) (, ,) (NP (NP (NNS rents)) (PP (IN on) (NP (DT the) (JJS fanciest) (NNS boulevards)))) (CC and) (NP (NNS salaries))))) (PP (TO to) (NP (NP (DT the) (JJ fine-boned) (NNS sales) (NNS clerks)) (SBAR (WHNP (WP who)) (S (VP (VBP speak) (PP (IN in) (NP (JJ charming) (JJ foreign) (NNS accents))) (, ,) (S (VP (TO to) (VP (VB name) (NP (DT a) (JJ few)))))))))))))))) (. .)))
+
+(S1 (SBARQ (CC But) (SQ (VBP do) (NP (NP (DT those) (NNS outlays)) (PP (IN for) (NP (NN image)))) (ADVP (RB really)) (VP (VB change) (NP (NP (DT the) (JJ intrinsic) (NN worth)) (PP (IN of) (NP (DT the) (NN product)))))) (. ?)))
+
+(S1 (S (VP (VB Suffice) (NP (PRP it)) (S (VP (TO to) (VP (VB say) (SBAR (IN that) (S (NP (JJ fine) (NNS minds)) (VP (VBP differ)))))))) (. .)))
+
+(S1 (NP (CD NYT-11-22-00) (NN 2035EST)))
+

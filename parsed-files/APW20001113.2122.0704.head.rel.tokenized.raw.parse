@@ -1,0 +1,46 @@
+(S1 (NP (NP (CD APW20001113.2122.0704) (NN NEWS) (NN STORY)) (QP (CD 2000-11-13) (CD 21:43:28))))
+
+(S1 (NP (NN ELN-Unfinished-House)))
+
+(S1 (S (NP (CD Five) (NNP House) (NNS Races)) (ADJP (RB Still) (JJ Unsettled))))
+
+(S1 (S (S (NP (NNP WASHINGTON) (PRN (-LRB- -LRB-) (NNP AP) (-RRB- -RRB-)) (NNP _) (NNS Doubts)) (VP (VBP remain) (PP (IN in) (NP (NP (CD five) (NNS races)) (PP (IN for) (NP (NP (DT the) (NNP House)) (PP (IN of) (NP (NNPS Representatives))))))))) (, ,) (CC and) (S (SBAR (IN while) (S (VP (VBZ recounts)))) (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (VB extend) (NP (NP (DT the) (NN indecision)) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (NP (DT no) (NN chance)) (PP (IN of) (S (VP (VBG erasing) (NP (NP (DT the) (JJ Republican) (NN majority)) (PP (IN for) (NP (DT the) (JJ incoming) (JJ 107th) (NNP Congress)))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP Associated) (NNP Press)) (VP (VBZ has) (VP (VBN called) (NP (NP (NNS winners)) (PP (IN in) (NP (QP (DT all) (CC but) (CD two)) (NNP House) (NNS races))))))) (: :) (S (NP (NNP New) (NNP Jersey)) (VP (VBZ 's) (NP (NP (JJ 12th) (NN district) (NN battle)) (PP (IN between) (NP (JJ incumbent) (NNP Democratic) (NNP Rep)))))) (. .)))
+
+(S1 (NP (NP (NNP Rush)) (NP (NP (NNP Holt)) (CC and) (NP (NP (NNP GOP) (NNP challenger) (NNP Dick) (NNP Zimmer)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB formerly)) (VP (VBD held) (NP (NP (DT the) (NN seat)) (PRN (: ;) (CC and) (PP (IN in) (NP (NP (NP (NNP Florida) (POS 's)) (JJ 22nd) (NN District)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NN veteran) (NNP GOP) (NNP Rep))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Clay) (NNP Shaw)) (VP (VBZ has) (VP (VBN claimed) (NP (DT a) (JJ 586-vote) (NN victory)) (PP (VBG following) (NP (NP (DT a) (NN recount)) (PP (IN over) (NP (NNP Democrat) (NNP Elaine) (NNP Bloom))))))) (. .)))
+
+(S1 (S (CC But) (NP (EX there)) (VP (VBD remained) (NP (NP (DT some) (NN doubt)) (PP (IN about) (NP (NP (JJ narrow) (NNS decisions)) (PP (IN in) (NP (NP (NNP Minnesota) (, ,) (NNP California) (CC and) (NNP Michigan)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ apparent) (NNS losers)) (VP (VBG refusing) (S (VP (TO to) (VP (VP (VB concede)) (CC and) (VP (VBZ recounts) (SBAR (S (VP (VP (VBP have) (ADVP (RB either)) (VP (VBN begun))) (CC or) (VP (VBP are) (ADJP (JJ likely))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NNP Michigan) (POS 's)) (JJ 8th) (NN District))) (, ,) (NP (NNP Republican) (NNP Mike) (NNP Rogers)) (VP (VBD was) (NP (VBG leading) (NNP Democrat) (NNP Dianne) (NNP Byrum)) (PP (IN by) (NP (QP (RB just) (CD 152)) (NNS votes))) (PP (IN during) (NP (NP (DT a) (NN recanvass)) (SBAR (WHNP (WDT that)) (S (VP (MD must) (VP (VB be) (VP (VBN completed) (PP (IN by) (NP (NNP Nov))))))))))) (. .)))
+
+(S1 (FRAG (NP (CD 21)) (. .)))
+
+(S1 (S (NP (NNP Rogers)) (VP (VP (VBZ has) (VP (VBN claimed) (NP (DT the) (NN seat)))) (CC and) (VP (VBD was) (VP (VBG taking) (NP (NP (NN part)) (PP (IN in) (NP (NN freshman) (NN orientation) (NNS events)))) (PP (IN at) (NP (DT the) (NNP Capitol))) (PP (IN on) (NP (NNP Monday)))))) (. .)))
+
+(S1 (S (`` ``) (S (PP (IN In) (NP (PRP$ my) (NN mind))) (, ,) (NP (DT the) (NN campaign)) (VP (VBZ is) (ADJP (IN over)))) (, ,) ('' '') (NP (NNP Rogers)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP I)) (VP (VBP 'm) (ADVP (RB here)) (VP (VBG trying) (S (VP (TO to) (VP (VB prepare) (PP (IN for) (NP (NP (DT the) (JJ next) (NN couple)) (PP (IN of) (NP (NNS years)))))))))) (. .) ('' '')))
+
+(S1 (S (PP (IN In) (NP (NNP Minnesota))) (, ,) (NP (NNP Republican) (NNP Mark) (NNP Kennedy)) (VP (VBD won) (NP (NP (DT a) (JJ 150-vote) (NN decision)) (PP (IN over) (NP (JJ four-term) (NNP Democratic) (NNP Rep))))) (. .)))
+
+(S1 (NP (NP (NNP David) (NNP Minge)) (PP (IN for) (NP (DT the) (JJ 2nd) (NN District) (NN seat))) (. .)))
+
+(S1 (S (S (NP (NNP Minge)) (VP (VBZ has) (VP (VBN said) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VB file) (NP (DT a) (NN lawsuit) (S (VP (TO to) (VP (VB request) (NP (DT a) (NN recount))))))))))))) (, ,) (CC but) (S (PP (IN under) (NP (NN state) (NN law))) (NP (PRP he)) (VP (MD must) (VP (VB wait) (SBAR (IN until) (S (NP (DT the) (NNS results)) (VP (VBP are) (VP (VBN certified) (NP (NNP Nov))))))))) (. .)))
+
+(S1 (FRAG (NP (CD 21)) (. .)))
+
+(S1 (FRAG (NP (NN Rep)) (. .)))
+
+(S1 (S (S (NP (NP (NNP Steve) (NNP Horn)) (, ,) (VP (SYM R) (NP (FW -Calif) (. .))) (, ,)) (VP (VBD had) (NP (NP (DT a) (ADJP (RBR more) (JJ comfortable)) (NN margin)) (PP (IN of) (NP (CD 1,616) (NNS votes)))) (PP (IN in) (NP (NP (PRP$ his) (JJ 38th) (NN District) (NN victory)) (PP (IN over) (NP (NNP Democrat) (NNP Gerrie) (NNP Schipske))))))) (, ,) (CC but) (S (NP (PRP she)) (VP (VP (VBZ has) (VP (VBN refused) (S (VP (TO to) (VP (VB concede)))))) (CC and) (VP (VBZ awaits) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (NP (NN absentee) (NNS ballots)) (CC and) (NP (NP (JJ provisional) (NNS ballots)) (VP (VBN cast) (PP (IN by) (NP (NP (NNS people)) (SBAR (WHNP (WP$ whose) (NNS names)) (S (VP (VBD did) (RB n't) (VP (ADVP (RB immediately)) (VB match) (NP (NP (NNS lists)) (PP (IN at) (NP (NN polling) (NNS stations)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (QP (IN About) (CD 2,500))) (PP (IN of) (NP (DT these) (JJ same) (JJ provisional) (NNS ballots)))) (ADVP (RB also)) (VP (ADVP (RB apparently)) (VBP hold) (NP (NP (DT the) (NN key)) (PP (TO to) (NP (DT the) (NNP New) (NNP Jersey) (NN race)))) (PP (IN between) (NP (NNP Holt) (CC and) (NNP Zimmer)))) (, ,) (CC but) (S (NP (JJ further) (NN court) (NN action)) (VP (MD could) (VP (VB delay) (NP (DT a) (JJ final) (NN result)) (PP (IN for) (NP (DT some) (NN time)))))) (. .)))
+
+(S1 (S (CC And) (PP (IN in) (NP (NNP Florida))) (, ,) (NP (NP (DT the) (JJ same) (NNP Palm) (NNP Beach) (NNP County) (NNS disputes)) (VP (VBN involved) (PP (IN in) (NP (DT the) (JJ presidential) (NN recount))))) (VP (MD could) (VP (VB lead) (PP (TO to) (NP (NP (JJ legal) (NN action)) (PP (IN by) (NP (NNP Bloom))))))) (. .)))
+
+(S1 (S (PP (RB Not) (VBG counting) (NP (DT the) (NNP Florida) (CC and) (NNP New) (NNP Jersey) (NNS races))) (, ,) (NP (NNPS Republicans)) (ADVP (RB now)) (VP (VBP hold) (SBAR (S (NP (NP (CD 220) (NNS seats)) (PP (IN in) (NP (NP (DT the) (JJ incoming) (NNP House)) (CC and) (NP (DT the) (NNPS Democrats))))) (VP (VBP have) (NP (CD 211)))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBP are) (NP (NP (CD two) (NNS independents)) (, ,) (NP (NP (CD one)) (VP (VBN aligned) (PP (IN with) (NP (DT each) (NN party)))))) (, ,) (S (ADVP (RB effectively)) (VP (VBG giving) (NP (DT the) (NNP GOP)) (NP (NP (DT an) (NN edge)) (PP (IN of) (NP (CD 221-212))))))) (. .)))
+

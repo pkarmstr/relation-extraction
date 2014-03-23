@@ -1,0 +1,66 @@
+(S1 (NP (NP (CD NYT20001027.2150.0417) (NN NEWS) (NN STORY)) (QP (CD 2000-10-27) (CD 21:53:10))))
+
+(S1 (NP (NP (CD A9154) (NN &Cx1f)) (: ;) (NP (JJ taf-z) (NNP u) (NNP i) (NNP BC-CANADA-AIRINDIA-BOMBI) (NN 10-27) (CD 0624))))
+
+(S1 (NP (NNP BC-CANADA-AIRINDIA-BOMBING-NYT)))
+
+(S1 (S (NP (NNP CANADA)) (VP (NNS ARRESTS) (NP (CD 2)) (PP (IN IN) (NP (NP (CD 1985) (NN BOMBING)) (PP (IN OF) (NP (NN JET))))))))
+
+(S1 (NP (NP (NP (NN &UR)) (: ;) (NP (NNP By) (NNP JAMES) (NNP BROOKE) (NNP &LR)) (: ;) (NP (NN &QC)) (: ;) (NP (NN &QL)) (: ;) (NP (NN &UR))) (: ;) (NP (CD c.2000) (NNP N.Y)) (. .)))
+
+(S1 (NP (NP (NNP Times) (NNP News) (NNP Service) (NN &QC)) (: ;) (NP (NN &LR)) (: ;) (NP (NN &QL)) (: ;)))
+
+(S1 (S (NP (JJ Canadian) (NNS authorities)) (VP (VP (VBN arrested) (NP (CD two) (NNP Vancouver) (JJ -area) (NNS men)) (PP (IN on) (NP (NNP Friday)))) (CC and) (VP (VBD charged) (NP (PRP them)) (PP (IN in) (NP (NP (DT the) (NNS deaths)) (PP (IN of) (NP (NP (CD 329) (NNS passengers)) (CC and) (NP (NP (NN crew) (NNS members)) (PP (IN of) (NP (DT an) (NNP Air-India) (NNP Boeing) (CD 747))) (SBAR (WHNP (WDT that)) (S (VP (VBD blew) (PRT (RP up)) (PP (IN over) (NP (DT the) (NNP Irish) (NNP Sea))) (PP (IN in) (NP (CD 1985))) (, ,) (PP (IN en) (NP (NP (NN route)) (PP (IN from) (NP (NNP Canada))) (PP (TO to) (NP (NNP London))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (CD two)) (, ,) (NP (NP (NNP Ripudan) (NNP Singh) (NNP Malik)) (, ,) (NP (CD 53)) (, ,) (CC and) (NP (NP (NNP Ajaib) (NNP Singh) (NNP Bagri)) (, ,) (NP (CD 51)))) (, ,)) (VP (VBD were) (VP (VBN arrested) (PP (IN by) (NP (NP (DT the) (NNP Royal) (NNP Canadian) (VBN Mounted) (NNS Police)) (, ,) (PP (VBG capping) (SBAR (WHNP (WP what)) (S (NP (DT the) (NNPS Mounties)) (VP (VBD called) (NP (NP (DT the) (ADJP (ADJP (JJS longest)) (CC and) (ADJP (RBS most) (JJ expensive))) (JJ criminal) (NN investigation)) (PP (IN in) (NP (NP (DT the) (NN nation) (POS 's)) (NN history)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP downing)) (PP (IN of) (NP (DT the) (NN jet)))) (VP (VBZ is) (VP (VBN considered) (S (NP (NP (DT the) (JJS deadliest) (NN act)) (PP (IN of) (NP (NP (NN sabotage)) (PP (IN in) (NP (NP (DT the) (NN history)) (PP (IN of) (NP (NN aviation))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT an) (JJ eight-count) (NN indictment))) (, ,) (NP (DT the) (NNS men)) (VP (VBD were) (VP (VBN charged) (PP (IN with) (S (VP (VBG using) (NP (NP (NNS suitcases)) (VP (VBN packed) (PP (IN with) (NP (NNS explosives))))) (S (VP (TO to) (VP (VB bomb) (NP (CD two) (NNP Air-India) (NNS jets)) (PP (IN on) (NP (NP (DT the) (JJ same) (NN day)) (, ,) (NP (NNP June) (CD 23) (, ,) (CD 1985)))))))))))) (. .)))
+
+(S1 (S (NP (NN Air-India) (NN Flight) (CD 182)) (VP (VBD blew) (PRT (RP up)) (PP (IN in) (NP (NN midair))) (, ,) (S (VP (VBG killing) (ADVP (DT all) (IN aboard))))) (. .)))
+
+(S1 (S (S (ADVP (NP (DT An) (NN hour)) (RBR earlier)) (, ,) (NP (DT a) (NN suitcase)) (VP (VBD blew) (PRT (RP up)) (PP (IN in) (NP (NNP Narita) (NNP Airport))) (, ,) (PP (IN outside) (NP (NNP Tokyo))) (, ,) (SBAR (IN as) (S (NP (PRP it)) (VP (VBD was) (VP (VBG being) (VP (VBN loaded) (PP (IN onto) (NP (NP (NNP Air-India) (NN Flight) (CD 301)) (, ,) (VP (VBN destined) (PP (IN for) (NP (NNP Bangkok))))))))))))) (: ;) (S (NP (PRP it)) (VP (VBD killed) (NP (CD two) (NN baggage) (NNS handlers)))) (. .)))
+
+(S1 (S (NP (NP (NN Animosity)) (PP (IN against) (NP (NNP Air-India)))) (VP (VBN dated) (ADVP (RB back) (PP (TO to) (NP (CD 1984)))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Indian) (NNS troops)) (VP (VBD occupied) (CC and) (VBD destroyed) (NP (NP (NP (NNP Sikhdom) (POS 's)) (JJ holy) (NN site)) (, ,) (NP (NP (DT the) (NNP Golden) (NNP Temple)) (PP (IN in) (NP (NNP Amritsar))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN temple)) (VP (VBD had) (VP (VBN become) (NP (DT a) (NN center)) (PP (IN for) (NP (NP (NNS radicals)) (VP (VBG seeking) (NP (DT an) (JJ independent) (NNP Sikh) (NN state))))) (, ,) (NP (DT an) (NN issue) (SBAR (IN that) (S (VP (VBN polarized) (NP (DT the) (NNP Sikh) (NN diaspora)) (PP (IN around) (NP (DT the) (NN world))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Malik) (CC and) (NNP Bagri)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (DT both) (NP (NNPS Sikhs))))) (, ,)) (VP (VBP are) (S (VP (TO to) (VP (VB appear) (PP (IN in) (NP (NN court))) (PP (IN on) (NP (NNP Monday))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Malik)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ runs) (NP (NP (DT a) (NN school) (CC and) (NN credit) (NN union) (NN catering)) (PP (TO to) (NP (DT the) (JJ immigrant) (NN community))))))) (, ,)) (VP (VBZ has) (ADVP (RB long)) (VP (VBN been) (NP (NP (DT a) (NN suspect)) (PP (IN in) (NP (DT the) (NN case)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Bagri)) (, ,) (NP (NP (DT a) (NN mill) (NN worker)) (PP (IN from) (NP (NP (NNP Kamloops)) (, ,) (NP (NNP British) (NNP Columbia))))) (, ,)) (VP (VBD was) (VP (VBN described) (NP (NNP Thursday)) (PP (IN in) (NP (DT The) (NNP Province))) (PP (IN in) (NP (NNP Vancouver))) (PP (IN as) (NP (NP (DT a) (JJ key) (NN lieutenant)) (PP (IN of) (NP (NP (NNP Talwinder) (NNP Singh) (NNP Parmar)) (, ,) (NP (NP (DT a) (ADJP (NNP Sikh) (JJ militant)) (NN leader)) (VP (VBD shot) (PP (TO to) (NP (NN death))) (PP (IN by) (NP (NP (DT the) (JJ Indian) (NN police)) (PP (IN in) (NP (CD 1992))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Bagri)) (VP (VBD was) (ADVP (RB also)) (VP (VBN charged) (PP (IN with) (S (VP (VBG trying) (S (VP (TO to) (VP (NN murder) (NP (NP (NNP Tara) (NNP Singh) (NNP Hayer)) (, ,) (NP (NP (NN editor)) (PP (IN of) (NP (NP (DT The) (NNP Indo-Canadian) (NNPS Times)) (, ,) (NP (NP (NNP North) (NNP America) (POS 's)) (JJS largest) (JJ Punjabi) (NN newspaper))))) (, ,)) (PP (IN in) (NP (CD 1998))))))))))) (. .)))
+
+(S1 (S (NP (NNP Hayer)) (VP (VBD survived) (SBAR (S (NP (DT the) (NN attempt)) (ADVP (NP (QP (CC but) (CD three)) (NNS weeks)) (RB later)) (VP (VBD was) (VP (VBN shot) (PP (TO to) (NP (NN death))) (PP (IN in) (NP (PRP$ his) (NN wheelchair))) (PP (IN in) (NP (PRP$ his) (NN garage)))))))) (. .)))
+
+(S1 (S (`` ``) (S (SBAR (IN Although) (S (NP (NNS arrests)) (VP (VBP have) (VP (VBN been) (VP (VBN made)))))) (, ,) (NP (DT this)) (VP (VBZ does) (RB not) (VP (VB mark) (NP (NP (DT the) (NN conclusion)) (PP (IN of) (NP (DT the) (NN police) (NN investigation))))))) (, ,) ('' '') (NP (NP (NNP Constable) (NNP Cate) (NNP Galliford)) (, ,) (NP (NP (NN spokeswoman)) (PP (IN for) (NP (NP (DT the) (NNPS Mounties) (POS ')) (NNP Air-India) (NN task) (NN force)))) (, ,)) (VP (VBD said) (PP (IN at) (NP (NP (NN news) (NN conference)) (PP (IN on) (NP (NNP Friday) (NN afternoon)))))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBD said) (, ,) (`` ``) (S (S (NP (PRP We)) (VP (VBP do) (VP (VB anticipate) (NP (JJ future) (NNS arrests))))) (, ,) (CC but) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (WHADVP (WRB when)) (S (NP (DT those)) (VP (MD will) (VP (VB take) (NP (NN place))))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (NNP Beverly) (NNP Busson)) (, ,) (NP (NP (NP (DT the) (NNPS Mounties) (POS ')) (VBG commanding) (NN officer)) (PP (IN in) (NP (NNP Vancouver)))) (, ,)) (VP (VBD told) (NP (DT the) (NN news) (NN conference)) (, ,) (`` ``) (S (NP (DT This)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (NNP worldwide) (NN investigation)) (PP (IN with) (NP (ADJP (RB extremely) (JJ challenging)) (JJ logistical) (NNS problems)))))))) (. .) ('' '')))
+
+(S1 (S (NP (NNP Canada)) (VP (VBZ is) (NP (NP (NN home)) (PP (TO to) (NP (QP (PDT half) (DT a) (CD million)) (NNS people))) (PP (IN of) (NP (JJ Indian) (NN origin)))) (, ,) (NP (NP (JJS most)) (PP (IN of) (NP (PRP them) (NNPS Sikhs))))) (. .)))
+
+(S1 (S (NP (CD Four) (NNPS Sikhs)) (VP (VBP serve) (PP (PP (IN in) (NP (NNP Parliament))) (, ,) (RB mostly) (PP (IN from) (NP (NP (DT the) (NNP Vancouver) (NN area)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NP (NN half)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (NNPS Indo-Canadians)))) (VP (VBP live)))))))) (. .)))
+
+(S1 (S (ADVP (RBR Earlier) (NP (DT this) (NN year))) (, ,) (NP (NP (DT a) (NNP Sikh)) (, ,) (NP (NNP Ujjal) (NNP Dosanjh)) (, ,)) (VP (VBD became) (NP (NP (NP (NN premier)) (PP (IN of) (NP (NNP British) (NNP Columbia)))) (CC and) (NP (NP (NNP Canada) (POS 's)) (JJ first) (JJ nonwhite) (JJ provincial) (NN premier)))) (. .)))
+
+(S1 (S (NP (NP (NNP Dosanjh)) (, ,) (NP (DT a) (JJ moderate)) (, ,)) (VP (VBD paid) (NP (NP (DT a) (NN price)) (PP (IN for) (S (VP (VBG speaking) (PRT (RP out)))))) (PP (IN against) (NP (NP (NNP Sikh) (NN extremism)) (SBAR (WHNP (WDT that)) (S (VP (VBD gripped) (NP (DT the) (NNP Vancouver) (NN community)) (PP (IN after) (NP (DT the) (NNP Golden) (NNP Temple) (NN raid))))))))) (. .)))
+
+(S1 (S (PP (NP (CD Four) (NNS months)) (IN before) (NP (DT the) (NNP AirIndia) (NN bombing))) (, ,) (NP (NNP Dosanjh)) (VP (VBD was) (VP (VBN attacked) (PP (IN outside) (NP (PRP$ his) (NN law) (NN office))) (PP (IN by) (NP (NP (DT a) (NN man)) (VP (VBG wielding) (NP (DT an) (NN iron) (NN rod))))))) (. .)))
+
+(S1 (S (NP (NNP Dosanjh)) (VP (VP (VBD suffered) (NP (DT a) (JJ broken) (NN hand))) (CC and) (VP (VBD needed) (NP (NP (CD 80) (NNS stitches)) (PP (IN for) (NP (NN head) (NNS wounds)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ recent) (NNS years))) (NP (NN radicalism)) (VP (VBZ has) (VP (VBN ebbed))) (. .)))
+
+(S1 (S (S (NP (NNS Moderates)) (VP (VBP have) (VP (VBN won) (NP (NP (NN control)) (PP (IN of) (NP (NP (NNP Vancouver) (POS 's)) (JJS largest) (JJ Sikh) (NNS temples))))))) (, ,) (S (NP (DT the) (JJ provincial) (NN government)) (VP (VBZ has) (VP (VBN cut) ('' '') (NP (NP (NN community) (NN development) ('' ')) (: ') (NP (NP (NNS grants)) (SBAR (WHNP (WDT that)) (S (ADVP (RB once)) (VP (VBD went) (PP (TO to) (NP (JJ radical) (NNS temples))))))))))) (CC and) (S (NP (DT the) (JJ federal) (NN government)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB curb) (NP (NP (NNP Punjabi) (NN hate-radio) (NNS transmissions)) (VP (VBN broadcast) (PP (IN from) (NP (NNP Washington) (NN State))))))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (NP (NNS rumors)) (PP (IN of) (NP (NP (NNS arrests)) (VP (VBN circulated) (PP (IN in) (NP (NNP Vancouver)))))))) (, ,) (NP (NNP Premier) (NNP Dosanjh)) (VP (VBD said) (SBAR (S (NP (NNS charges)) (VP (MD would) (VP (VB be) (NP (NP (DT a) (JJ large) (NN step)) (PP (IN for) (NP (NNP Canadian) (NN justice))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (, ,) (`` ``) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NP (NP (NNS people)) (PP (IN of) (NP (NNP British) (NNP Columbia)))) (, ,) (NP (NP (NNS people)) (PP (IN of) (NP (NNP Canada)))) (, ,)) (VP (MD would) (ADVP (RB finally)) (VP (VB heave) (NP (NP (DT a) (NN sigh)) (PP (IN of) (NP (NN relief))))))))))) (. .) ('' '')))
+
+(S1 (NP (QP (CD NYT-10-27-00) (CD 2153EDT))))
+

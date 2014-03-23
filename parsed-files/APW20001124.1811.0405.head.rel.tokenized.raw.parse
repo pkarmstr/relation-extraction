@@ -1,0 +1,54 @@
+(S1 (NP (NP (CD APW20001124.1811.0405) (NN NEWS) (NN STORY)) (QP (CD 2000-11-24) (CD 18:11:15))))
+
+(S1 (NP (NN Germany-Music-Piracy)))
+
+(S1 (S (NP (NNP Hewlett-Packard)) (VP (TO To) (VP (VB Pay) (NP (JJ German) (NNS Fees))))))
+
+(S1 (S (NP (NP (NNP FRANKFURT)) (, ,) (NP (NNP Germany)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (VP (VBZ _) (NP (NNP Computer) (NN giant) (NNP Hewlett-Packard) (NNP Corp))) (. .)))
+
+(S1 (S (VP (VBZ has) (VP (VBN become) (NP (NP (DT the) (JJ first) (NN company)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN snagged) (PP (IN by) (NP (NP (DT a) (NNP German) (NN law)) (VP (VBG requiring) (S (NP (NNS firms)) (VP (TO to) (VP (VB pay) (NP (NNS fees)) (PP (IN for) (S (VP (VBG making) (NP (NP (NN CD) (NNS burners)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBG being) (VP (VBN used) (S (VP (TO to) (ADVP (RB illegally)) (VP (VB lift) (NP (DT the) (JJS latest) (NNS hits)) (PP (IN off) (NP (DT the) (ADJP (NNP World) (JJ Wide)) (NNP Web))))))))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN case)) (VP (VBZ sets) (NP (DT the) (NN stage) (SBAR (IN for) (S (NP (JJ other) (JJ European) (NNS countries)) (VP (TO to) (ADVP (RB possibly)) (VP (VB adopt) (NP (JJ similar) (NNS rules)) (S (VP (TO to) (VP (VB stem) (NP (NP (DT an) (NN epidemic)) (SBAR (WHNP (WDT that)) (S (VP (VBD cost) (NP (DT the) (NN music) (NN industry)) (NP (NP (DT an) (VBN estimated) (QP ($ $) (CD 5) (CD billion))) (NP (JJ last) (NN year)))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNS analysts)) (VP (VBD blasted) (NP (NP (DT the) (NN agreement)) (VP (VBD reached) (NP (NNP Thursday)))) (PP (IN as) (NP (NP (DT another) (NN example)) (PP (IN of) (NP (NP (NP (NNP Germany) (POS 's)) (JJ notorious) (NN thatch)) (PP (IN of) (NP (NNS regulations)))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (DT The) (NNS manufacturers)) (VP (VBP are) (NP (NNS scapegoats)))) (, ,) ('' '') (VP (VBD said)) (NP (NP (NNP Robert) (NNP Labatt)) (, ,) (NP (NP (DT a) (JJ new) (NNS media) (NN analyst)) (PP (IN at) (NP (NN research) (NN group) (NNP Gartner))))) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (VBZ 's) (NP (NP (NP (DT the) (JJ individual) (NNS works)) (PP (IN of) (NP (NN art)))) (, ,) (NP (NNS books)) (, ,) (NP (NNS songs)) (, ,) (NP (NNS videos)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBP need) (S (VP (TO to) (VP (VB be) (VP (VBN protected)))))))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (JJ Many)) (PP (IN of) (NP (NP (NNP Germany) (POS 's)) (NNS neighbors))) (, ,) (PP (VBG including) (NP (NNP France) (, ,) (NNP Italy) (CC and) (NNP Greece))) (, ,)) (VP (VBP have) (NP (NP (JJ similar) (NNS laws)) (VP (VBN meant) (S (VP (TO to) (VP (VB protect) (NP (NNS authors) (CC and) (NNS musicians)) (PP (IN by) (NP (NP (NN nailing) (NNS makers)) (PP (IN of) (NP (NP (NN equipment)) (VP (VBN used) (S (VP (TO to) (VP (VB violate) (NP (JJ copyright) (NNS laws)))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NNS laws)) (VP (VP (VBP date) (ADVP (RB back) (NP (NNS decades)))) (CC and) (VP (VBP focus) (PP (IN on) (NP (NP (NNS devices)) (PP (IN like) (NP (NP (NN tape) (NNS recorders)) (CC and) (NP (NN video) (NNS players)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ German) (NN case)) (PP (IN against) (NP (NNP Hewlett-Packard)))) (VP (VBZ extends) (NP (NP (NNP Germany) (POS 's)) (JJ pre-existing) (NN law)) (PP (IN into) (NP (NP (DT the) (JJ digital) (NN age)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (JJ such) (NNS things)) (PP (IN as) (NP (NP (NN CD) (NNS burners)) (, ,) (NP (NN computer) (NNS printers)) (, ,) (NP (JJ hard) (NNS drives)) (CC and) (NP (JJ high-speed) (NNS modems))))) (VP (VB make) (S (NP (PRP it)) (ADJP (JJR easier) (S (VP (TO to) (VP (VB copy) (CC and) (VB transfer) (NP (VBN copyrighted) (NNS items))))))))))))) (. .)))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (NP (DT the) (NNP International) (NNP Federation)) (PP (IN of) (NP (DT the) (NNP Phonographic) (NNP Industry)))))) (, ,) (NP (QP (RB about) (CD 500) (CD million)) (NNS CDs)) (VP (VBP are) (VP (VBN pirated) (ADVP (RB annually)) (PP (IN by) (S (NP (NNS people)) (VP (VBG creating) (NP (PRP$ their) (JJ own) (NNS CDs)) (PP (IN from) (NP (NP (JJ downloaded) (NNS tunes)) (PP (IN off) (NP (DT the) (NNP Internet)))))))))) (. .)))
+
+(S1 (S (S (NP (QP (JJR More) (IN than) (CD 25) (CD million)) (VBN pirated) (NN music) (NNS files)) (VP (VBP are) (ADJP (JJ available)) (NP (NN online)))) (, ,) (NP (DT the) (NN group)) (VP (NNS estimates)) (. .)))
+
+(S1 (S (ADVP (DT All) (VBD told)) (, ,) (SBAR (IN that) (S (VP (VP (VBN racked) (PRT (RP up)) (NP (NP (QP (DT a) ($ $) (CD 1) (CD billion))) (PP (IN for) (NP (NP (NNP Europe) (POS 's)) (ADJP (QP ($ $) (CD 10) (CD billion))) (NN music) (NN industry)))) (NP (JJ last) (NN year))) (, ,) (CC and) (VP (VB cost) (NP (JJ EU) (NNS governments)) (NP (NP (QP (IN around) ($ $) (CD 72) (CD million))) (PP (IN in) (NP (VBN lost) (NN tax) (NNS revenues)))))))) (, ,) (NP (DT the) (NN group)) (VP (VBZ says)) (. .)))
+
+(S1 (S (S (NP (JJ Several) (NNS lawsuits)) (VP (VBP have) (VP (VBN been) (VP (VBN filed) (PP (IN around) (NP (DT the) (NN world))))))) (, ,) (S (PP (VBG including) (NP (DT an) (JJ ongoing) (NN lawsuit))) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NN record) (NNS companies)))) (VP (VBP have) (VP (VBN brought) (PP (IN against) (NP (NP (NNP Napster) (NNP Inc) (. .)) (, ,) (SBAR (WHNP (WP$ whose) (NN software)) (S (VP (VBZ allows) (S (NP (NNS users)) (VP (TO to) (VP (ADVP (RB easily)) (VB swap) (NP (NN music) (NNS files))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP GEMA)) (, ,) (NP (NP (NNP German) (POS 's)) (JJ main) (NN licensing) (NN group)) (, ,)) (VP (VBD targeted) (NP (NNP Hewlett-Packard)) (PP (IN as) (NP (DT a) (NN test) (NN case))) (PP (IN in) (NP (NNP May))) (, ,) (S (VP (NN reasoning) (SBAR (IN that) (S (NP (DT the) (NN company)) (VP (VBZ leads) (NP (NP (DT the) (NNP German) (NN market) (NN leader)) (PP (IN in) (NP (NN CD) (NNS burners)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Hewlett-Packard)) (VP (VBD dug) (PP (IN in) (NP (PRP$ its) (NNS heels))) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD was) (VP (VBN ordered) (S (VP (TO to) (VP (VB pay) (NP (NP (CD 30) (NNS marks)) (PRN (-LRB- -LRB-) (NP ($ $) (CD 12.90)) (-RRB- -RRB-))) (PP (IN for) (NP (NP (DT each) (NN CD) (NN burner)) (VP (VBN sold) (PP (IN in) (NP (NNP Germany))) (PP (IN since) (NP (NNP February) (CD 1998)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ legal) (NN battle)) (VP (VBD continued) (PP (IN until) (NP (NP (NNP Thursday)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT an) (NN agreement)) (VP (VBD was) (VP (VBN reached) (S (VP (TO to) (VP (VB have) (S (NP (NNP Hewlett-Packard)) (VP (VB pay) (NP (NP (CD 3.60) (NNS marks)) (PRN (-LRB- -LRB-) (NP ($ $) (CD 1.54)) (-RRB- -RRB-))) (PP (IN for) (NP (NP (DT each) (NN unit)) (VP (VBN sold) (PP (IN during) (NP (DT that) (NN period)))))))) (SBAR (IN while) (S (VP (VBG agreeing) (S (VP (TO to) (VP (VB pay) (NP (NP (CD 12) (NNS marks)) (PRN (-LRB- -LRB-) (NP ($ $) (CD 5.16)) (-RRB- -RRB-))) (PP (IN for) (NP (NP (DT each) (CD one)) (VP (VBN sold) (PP (IN in) (NP (DT the) (NN future)))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Hewlett-Packard) (NN spokeswoman)) (NP (NNP Jeannette) (NNP Weisschuh)) (VP (VBD refused) (S (VP (TO to) (VP (VB say) (SBAR (WHNP (WRB how) (JJ much)) (S (NP (DT that)) (VP (MD would) (VP (VB set) (NP (DT the) (NN company)) (ADVP (RB back)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP she)) (VP (VBD criticized) (NP (DT the) (NN settlement)) (PP (IN for) (S (VP (VBG putting) (NP (NNP Hewlett-Packard)) (PP (IN at) (NP (NP (DT a) (NN disadvantage)) (PP (IN against) (NP (NP (JJ foreign) (JJ online) (NNS retailers)) (SBAR (WHNP (WP who)) (S (, ,) (S (VP (VBN unburdened) (PP (IN by) (NP (JJ such) (NNS fees))))) (, ,) (VP (MD can) (VP (VB sell) (NP (JJR cheaper) (NN CD) (NNS burners)))))))))))))) (. .)))
+
+(S1 (SINV (`` ``) (S (NP (DT This)) (VP (VBD was) (NP (DT a) (NN trial) (S (VP (TO to) (VP (VB set) (NP (DT an) (NN example)) (PP (IN for) (NP (DT the) (JJ whole) (NN market))))))))) (, ,) ('' '') (VP (VBD said)) (NP (NNP Weisschuh)) (. .)))
+
+(S1 (S (`` ``) (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (JJ unfair) (PP (TO to) (NP (NP (DT the) (NNS consumers)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (S (VP (TO to) (VP (VB pay) (NP (JJR more))))))))))) (CC and) (ADJP (JJ unfair) (PP (TO to) (NP (DT the) (NNS manufacturers))))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ gives) (NP (PRP us)) (NP (DT a) (JJ competitive) (NN disadvantage)))))) (. .) ('' '')))
+
+(S1 (S (NP (NP (JJ Other) (NNS companies)) (VP (VBG selling) (NP (NP (NN CD) (NNS burners)) (PP (IN in) (NP (NNP Germany)))))) (VP (MD will) (ADVP (RB also)) (VP (VB be) (ADJP (JJ subject) (PP (TO to) (NP (NP (DT the) (NNS fees)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD could) (VP (VB vary) (PP (VBG depending) (PP (IN on) (SBAR (WHNP (WHNP (WDT what) (NN kind)) (PP (IN of) (NP (NN agreement)))) (S (NP (PRP they)) (VP (VBP reach) (PP (IN with) (NP (NNP GEMA))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Hewlett-Packard) (NN settlement)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB set) (NP (NP (DT a) (NN benchmark)) (, ,) (ADVP (RB however)))))))) (. .)))
+
+(S1 (S (ADVP (RB Currently)) (, ,) (NP (NN equipment) (NNS manufacturers)) (VP (VBP pay) (NP (NP (NP (CD 2.50) (NNS marks)) (PRN (-LRB- -LRB-) (NP ($ $) (CD 1.07)) (-RRB- -RRB-)) (PP (IN for) (NP (DT each) (NN cassette) (NN recorder)))) (CC and) (NP (NP (CD 18) (NNS marks)) (PRN (-LRB- -LRB-) (NP ($ $) (CD 7.74)) (-RRB- -RRB-)))) (PP (IN for) (NP (NP (DT each) (NN video) (NN recorder)) (VP (VBN sold) (PP (IN in) (NP (NNP Germany))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS fees)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (RB not) (VP (VBN collected) (PP (IN by) (NP (DT the) (NN government))))))) (, ,)) (VP (VBP are) (VP (VBN distributed) (PP (IN by) (NP (NNP GEMA))) (PP (TO to) (NP (NN copyright) (NNS owners))) (PP (IN through) (NP (VBG recording) (NX (NX (NNS houses)) (CC and) (NX (NN music) (NNS distributors))))))) (. .)))
+
