@@ -10,13 +10,12 @@ import sys
 class Cleaner:
     """better than a Polish maid"""
 
-    def __init__(self, input_file, tokenized, basedir):
+    def __init__(self, input_file, tokenized):
         self.data_dict = all_stanford
         self.bad_rows = 0
         self.total_rows = 0
         self.original_data = self.open_gold_data(input_file)
         self.tokenized = self.open_tokenization(tokenized)
-        self.basedir = basedir
         self.log = []
 
     def write_log(self):
