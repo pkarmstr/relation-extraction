@@ -1,0 +1,3 @@
+word: ['/', 'CBS', 'News'] | offset: (4, 6) | sentence: [u'A', u'New', u'York', u'Times', u'News', u'poll', u'taken', u'statewide', u'last', u'week', u'showed', u'Buchanan', u'with', u'1', u'percent', u'of', u'the', u'vote', u'in', u'Florida', u'.']
+word: ['/', 'CBS', 'News'] | offset: (4, 6) | sentence: [u'A', u'New', u'York', u'Times', u'News', u'poll', u'taken', u'statewide', u'last', u'week', u'showed', u'Buchanan', u'with', u'1', u'percent', u'of', u'the', u'vote', u'in', u'Florida', u'.']
+word: ['/', 'CBS', 'News'] | offset: (4, 6) | sentence: [u'A', u'New', u'York', u'Times', u'News', u'poll', u'taken', u'statewide', u'last', u'week', u'showed', u'Buchanan', u'with', u'1', u'percent', u'of', u'the', u'vote', u'in', u'Florida', u'.']

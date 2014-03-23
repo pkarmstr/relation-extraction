@@ -7,7 +7,7 @@ __author__ = 'keelan'
 class RelTester(unittest.TestCase):
 
     def setUp(self):
-        self.feats = Featurizer("resources/rel-devset.gold", [relation_type])
+        self.feats = Featurizer("resources/cleaned-dev.gold", [relation_type])
 
     def test_build_feats(self):
         self.feats.build_features()

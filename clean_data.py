@@ -4,6 +4,7 @@ provides"""
 __author__ = 'keelan'
 
 from file_reader import FeatureRow, all_stanford
+from feature_generator import Featurizer
 import sys
 
 
@@ -25,27 +26,16 @@ class Cleaner:
     def preprocess_tokenize(self, output_file):
         out = []
         for fr in self.original_data:
-            out.append("{:s} | {:s}".format(" ".join(fr.token.split("_")),
-                                            " ".join(fr.token_ref.split("_"))))
+            out.append("{:s} | {:s}".format(" ".join(fr.i_token.split("_")),
+                                            " ".join(fr.j_token.split("_"))))
         with open(output_file, "w") as f_out:
             f_out.write("\n".join(out))
 
 
     def open_gold_data(self, gold_file):
-        original_data = []
-        with open(gold_file, "r") as f_in:
-            for line in f_in:
-                line = line.rstrip().split()
-                if line == []:
-                    continue
-                if len(line) == 11:
-                    line.extend(["", "", ""])
-                else:
-                    line.insert(-1, "")
-                    line.insert(-1, "")
-                original_data.append(FeatureRow(*line))
-                self.total_rows += 1
-        return original_data
+        f = Featurizer(gold_file, [], no_tag=True)
+        self.total_rows = len(f.original_data)
+        return f.original_data
 
     def open_tokenization(self, f):
         tokenized = []
@@ -87,8 +77,8 @@ class Cleaner:
                 tokenized_referent = self.tokenized[i][1]
                 begin_ref, end_ref = self.get_correct_offset(tokenized_referent,
                                                       j_sentence,
-                                                      int(fr.offset_begin_ref)-1,
-                                                      int(fr.offset_end_ref)-1
+                                                      int(fr.j_offset_begin)-1,
+                                                      int(fr.j_offset_end)-1
                 )
                 j_offset = [tokenized_referent, begin_ref, end_ref]
                 referent_cache = referent_tmp
@@ -97,8 +87,8 @@ class Cleaner:
             i_sentence = nlp_data["sentences"][fr.i_sentence]["text"]
             offset_begin, offset_end = self.get_correct_offset(tokenized,
                                                                i_sentence,
-                                                               int(fr.offset_begin)-1,
-                                                               int(fr.offset_end)-1
+                                                               int(fr.i_offset_begin)-1,
+                                                               int(fr.i_offset_end)-1
             )
             if offset_begin == -1 or j_offset[1] == -1:
                 if offset_begin == -1:
@@ -109,10 +99,11 @@ class Cleaner:
                         j_offset[0], fr.j_offset_begin, fr.j_offset_end, j_sentence))
 
                 continue
-            new_row = " ".join([fr.article, fr.sentence, str(offset_begin), str(offset_end),
-                                fr.entity_type, "_".join(tokenized), fr.sentence_ref,
-                                str(j_offset[1]), str(j_offset[2]), fr.entity_type_ref,
-                                "_".join(j_offset[0]), fr.is_referent])
+
+            new_row = " ".join([fr.relation_type, fr.article, str(fr.i_sentence), str(offset_begin), str(offset_end),
+                                fr.i_entity_type, "_".join(tokenized), str(fr.j_sentence),
+                                str(j_offset[1]), str(j_offset[2]), fr.j_entity_type,
+                                "_".join(j_offset[0])])
             all_new.append(new_row)
         print "{:d} out of {:d} rows didn't have a match".format(self.bad_rows, self.total_rows)
         self.write_log()
@@ -123,7 +114,7 @@ class Cleaner:
             f_out.write("\n".join(data))
 
 if __name__ == "__main__":
-    c = Cleaner(sys.argv[1], sys.argv[2], sys.argv[3])
+    c = Cleaner(sys.argv[1], sys.argv[2])
     data = c.build_new_data()
-    c.write_new(sys.argv[4], data)
+    c.write_new(sys.argv[3], data)
     print "DONE"

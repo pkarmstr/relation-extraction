@@ -22,8 +22,6 @@ class Featurizer:
         line = line.rstrip().split()
         if self.no_tag:
             line.insert(0, "")
-        del line[12]
-        del line[6]
         i_token = line[6]
         j_token = line[11]
         for i in self.INT_INDEXES:
