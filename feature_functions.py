@@ -34,7 +34,7 @@ def path_enclosed_tree(fr):
     """****MONSTER FUNCTION!!!!****"""
 
     if fr.i_sentence!=fr.j_sentence:
-        return "What do we return here for the SVM? Not in the same tree!"
+        return "Not in same sentence" #just in case
     else:
         #find lowest common ancestor
         s_tree = SYNTAX_PARSE_SENTENCES[fr.article][int(fr.i_sentence)]
@@ -65,8 +65,6 @@ def path_enclosed_tree(fr):
         #print "Index of last word of later entity: ", later_entity_index
         first_tree = s_tree[i_tuple[0:-1]]
         later_tree= s_tree[j_tuple[0:-1]]
-
-
         lwca_tuple=s_tree.treeposition_spanning_leaves(first_entity_index, later_entity_index)
         lowest_common_ancestor = s_tree[lwca_tuple]
         #lowest_common_ancestor.draw()
@@ -76,7 +74,6 @@ def path_enclosed_tree(fr):
         ##and all right branches, etc; the right branch contains the M2 path and
         ##the left branches (left to M2). Finally, add the trees that might be in the middle (eg.in
         ##case of ternary trees): (S left_brach, (,,), right_brach).
-
 
         def from_root_to_m1(pos_token_tree):
             """#Get the path from root to the entity mention1 and everything right to it
@@ -137,8 +134,6 @@ def path_enclosed_tree(fr):
                     subtree = subtree.parent()
                     seen = False
                 return left_branch
-
-
 
         def from_root_to_m2(pos_token_tree):
             """Get the path from root to the entity mention3 and the preceding branches"""
