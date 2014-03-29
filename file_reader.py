@@ -112,8 +112,8 @@ def gather_entities():
                     for line in f:
                         _, article, sentence_id, i_start, i_end, i_entity_type, _, \
                         _, j_start, j_end, j_entity_type, _ = line.rstrip('\n').split()
-                        articles[article][sentence_id][(i_start,i_end)]=i_entity_type
-                        articles[article][sentence_id][(j_start,j_end)]=j_entity_type
+                        articles[article][int(sentence_id)][(int(i_start),int(i_end))]=i_entity_type
+                        articles[article][int(sentence_id)][(int(j_start),int(j_end))]=j_entity_type
 
     return articles
 
