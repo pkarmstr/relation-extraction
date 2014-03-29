@@ -33,7 +33,7 @@ class RelTester(unittest.TestCase):
         line7 = "EMP-ORG.Subsidiary.reverse NYT20001017.1908.0279 8 9 10 ORG which 8 12 13 ORG company which company".rstrip().split()
         line8 = "no_rel NYT20001017.1908.0279 9 4 5 ORG many 9 47 48 FAC headquarters many headquarters".rstrip().split()
         line9 = "no_rel NYT20001017.1908.0279 9 9 10 ORG companies 9 29 30 GPE Delaware companies Delaware".rstrip().split()
-        ##testing Anya's trees
+        ##testing Anya's augmented trees
         line10 = "no_rel APW20001007.0339.0149 3 25 26 GPE Yugoslavia 3 35 37 PER Al_Gore Yugoslavia Al_Gore".rstrip().split()
         line11 = "no_rel APW20001023.2100.0686 5 9 10 PER their 5 31 34 ORG Greenwood_Village_police their Greenwood_Village_police".rstrip().split()
         line12 = "no_rel APW20001023.2100.0686 5 0 2 PER Michele_Roy 5 19 20 FAC bedroom Michele_Roy bedroom".rstrip().split()

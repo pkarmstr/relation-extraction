@@ -84,7 +84,6 @@ def path_enclosed_tree(fr):
 
             #initiate left_branch with token and pos, and its
             #right siblings.
-            #Eg. M1= Republican. "The Republican candidate" -- left brach: "Republican candidate"
             children_to_add = []
             found = False
             same_subtree = False
@@ -103,7 +102,7 @@ def path_enclosed_tree(fr):
                 elif j_in_leaves and not same_subtree:
                     break #M2 is deep embedded in tree sibling to (POS Mention1). #from_root_to_M2 will take care of it.
                 elif found:
-                    children_to_add.append(child.copy(deep=True)) #words following (POS Mention1).
+                    children_to_add.append(child.copy(deep=True))
 
             #proto left-branch eg.
             left_branch = ParentedTree(pos_token_tree.parent().node, children_to_add)
