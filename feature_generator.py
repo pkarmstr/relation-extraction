@@ -61,6 +61,11 @@ class Featurizer:
                 for row in feature_vectors:
                     f_out.write("{}\n".format(" ".join(row)))
 
+    def write_no_tag(self, basedir, file_suffix):
+        with open(os.path.join(basedir, file_suffix), "w") as f_out:
+            for row in self.new_features:
+                f_out.write("{}\n".format(" ",join(row[1:])))
+
 if __name__ == "__main__":
     from feature_functions import *
     parser = argparse.ArgumentParser()
@@ -79,6 +84,9 @@ if __name__ == "__main__":
     data = get_original_data(all_args.input_file)
     f = Featurizer(all_args.input_file, feature_funcs, not all_args.answers)
     f.build_features()
-    f.build_relation_class_vectors()
-    f.write_multiple_vectors(all_args.output_file, all_args.file_suffix)
+    if all_args.answers:
+        f.build_relation_class_vectors()
+        f.write_multiple_vectors(all_args.output_dir, all_args.file_suffix)
+    else:
+        f.write_no_tag(all_args.output_dir, all_args.file_suffix)
     print "built your new feature vectors at {}".format(all_args.output_dir)
