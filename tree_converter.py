@@ -1,5 +1,17 @@
 __author__ = 'anya'
 
+"""
+NOTE:
+There is one tree that gives an error:
+
+article: 'NYT20001229.2047.0291'
+sentence_id: 21
+
+Problem: comma after "Washington, D.C." gets removed
+
+Can we just hardcode it when we make path-enclosed trees?
+"""
+
 import os
 import re
 import codecs
@@ -7,29 +19,6 @@ from nltk.tree import Tree, ParentedTree
 from operator import itemgetter
 from file_reader import *
 
-punct=set(['-LRB-','-RRB-','``','`','_','__','-','--','"'])
-
-"""fake_dict={}
-sent_dict={}
-entity_dict={}
-entity_dict2={}
-
-entity_dict[(0,1)]='GPE'
-entity_dict[(1,3)]='ORG'
-entity_dict[(7,10)]='PER'
-
-entity_dict2[(0,2)]='PER'
-entity_dict2[(2,5)]='FAKEV'
-entity_dict2[(31,34)]='ORG'
-
-sent_dict[3]=entity_dict
-sent_dict[4]=entity_dict2
-
-fake_dict['APW20001007.0339.0149']=sent_dict"""
-
-test_tree=Tree("(ROOT (S (NP (NP (NP (NNP WASHINGTON)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-))) (SBAR (S (NP (CD __) (NNPS Republicans)) (VP (VBP give) (NP (NNP George) (NNP W.) (NNP Bush)) (NP (NP (NN credit)) (PP (IN for) (S (VP (VBG promoting) (NP (DT a) (JJ Russian) (NN role)) (PP (IN in) (S (VP (VBG smoothing) (NP (DT the) (NN transition)) (PP (IN from) (NP (NN despot))) (PP (TO to) (NP (NP (NN democrat)) (PP (IN in) (NP (NNP Yugoslavia)))))))))))))))) (VP (VBD _) (NP (NP (DT an) (NN idea)) (VP (VBN dismissed) (PP (IN in) (NP (NN debate))) (PP (IN as) (ADJP (JJ risky))) (PP (IN by) (NP (NNP Al) (NNP Gore))))) (SBAR (RB even) (IN as) (S (NP (PRP$ his) (NN boss)) (VP (VBD was) (VP (VBG trying) (S (VP (TO to) (VP (VB get) (S (NP (NNP Moscow)) (VP (TO to) (VP (VB step) (PP (IN in))))))))))))) (. .)))")
-
-test_tree2=Tree("(ROOT (S (S (S (NP (NNP Michele) (NNP Roy)) (VP (VBD was) (RB not) (VP (VBN hurt) (PP (IN during) (NP (NP (DT the) (NN dispute)) (PP (IN at) (NP (PRP$ their) (NN home))) (NP-TMP (RB early) (NNP Sunday))))))) (, ,) (CC but) (S (NP (NNP Roy)) (VP (VP (VBD admitted) (S (VP (VBG pulling) (NP (DT a) (NN bedroom) (NN door)) (PP (IN off) (NP (NP (PRP$ its) (NNS hinges)) (CC and) (JJ damaging) (NP (DT another)))) (PP (IN after) (NP (NP (PRP$ his) (NN wife)) (VP (VBN called) (NP (NNP Greenwood) (NNP Village) (NN police)))))))) (CC and) (VP (VBD hung) (PRT (RP up)) (PP (IN without) (NP (NN speaking))))))) (, ,) (NP (DT the) (NN report)) (VP (VBD said)) (. .)))")
 
 def augment_tree(t, sent, article):
     """
@@ -43,7 +32,6 @@ def augment_tree(t, sent, article):
     (S (NP (E-PER (NNP Barack) (NNP Obama))) (VP (VBD sang)))
 
     For now, handling only the easy case where all tokens of an entity are dominated by one NP
-
     """
 
     #sort the tuples in descending order first;
@@ -51,10 +39,7 @@ def augment_tree(t, sent, article):
     tuple_list=entity_types[article][sent]
     reverse_sorted_tuples=sorted(tuple_list, key = itemgetter(0), reverse = True)
 
-    #for tpl in fake_dict[article][sent]:
-    #for tpl in entity_types[article][sent]:
     for tpl in reverse_sorted_tuples:
-        #entity_type=fake_dict[article][sent][tpl]
         entity_type=entity_types[article][sent][tpl]
         _add_entity(t,tpl,entity_type)
 
@@ -66,27 +51,14 @@ def _add_entity(t,tpl,entity_type):
     parent_positions=[]
     parents=[]
 
-    #print "len of tree ", len(t.leaves())
-    #print tpl[0]
-    #print t.leaf_treeposition(tpl[0])
-
-    #first_parent_position=t.leaf_treeposition(tpl[0])[:-1] #need to change this; first parent should be the parent of a regular word
-    first_parent_position=0
-    first_grandparent_position=0
-
-    for j in range(tpl[0],tpl[-1]):
-        if _is_regular_word(t,j):
-            first_parent_position=t.leaf_treeposition(j)[:-1]
-            first_grandparent_position=first_parent_position[:-1]
-            break
+    first_parent_position=t.leaf_treeposition(tpl[0])[:-1]
+    first_grandparent_position=first_parent_position[:-1]
 
     for i in range(tpl[0],tpl[-1]):
-        if _is_regular_word(t,i):
-            parent_position=t.leaf_treeposition(i)[:-1]
-            #print parent_position
-            parent=t[parent_position]
-            parent_positions.append(parent_position)
-            parents.append(parent)
+        parent_position=t.leaf_treeposition(i)[:-1]
+        parent=t[parent_position]
+        parent_positions.append(parent_position)
+        parents.append(parent)
 
     if 'parent_position' in locals():
         grandparent_position=parent_position[:-1]
@@ -103,7 +75,6 @@ def _add_entity(t,tpl,entity_type):
 
             if len(parent_positions)>1:
                 if parent_positions[-1][-1]!=len(grandparent.leaves())-1: #if the last member of the tuple is NOT the rightmost child
-                    #grandparent[parent_positions[0][-1]:len(parent_positions)]=[new_tree]
                     #giving up on slices; collecting all of gp's children, then adding b
                     new_leaves=new_tree.leaves()
                     new_kids=[]
@@ -123,56 +94,19 @@ def _add_entity(t,tpl,entity_type):
                 grandparent[parent_positions[0][-1]]=new_tree
 
 
-
-
-            #if there is still a leftover duplicate
-            #(if the last leaf of the newly inserted tree has the same word to its right):
-
-            #if len(new_tree)>1 and len(grandparent)>1 and grandparent[-1] != new_tree and \
-                            #grandparent.leaves().index(new_tree.leaves()[-1])<len(grandparent):
-            """print "last child of entity:"
-            print new_tree.leaves()[-1]
-            print "position of last child of entity in grandparent:"
-            print grandparent.leaves().index(new_tree.leaves()[-1])
-            print "len of gp=", len(grandparent)
-            print"""
-            """if grandparent.leaves().index(new_tree.leaves()[-1])<len(grandparent.leaves())-1:
-                if new_tree.leaves()[-1]==grandparent.leaves()[grandparent.leaves().index(new_tree.leaves()[-1])+1]:
-                    #print "found dup"
-                    subtree_to_remove=t[t.leaf_treeposition(t.leaves().index(grandparent.leaves()[grandparent.leaves().index(new_tree.leaves()[-1])+1]))[:-1]]
-
-                    new_children=[]
-                    for child in grandparent:
-                        if child != subtree_to_remove:
-                            new_children.append(child)
-                    new_grandparent=Tree(grandparent.node,new_children)
-                    ggparent=t[grandparent_position[:-1]]
-                    ggparent[grandparent_position[-1]]=new_grandparent"""
-
-def _is_regular_word(t,index):
-    """
-    We don't want to include the following in our entity nodes:
-        - backticks
-        - quotation marks
-        - dashes
-        - underscores
-        - parentheses
-    """
-    return t.leaves()[index] not in punct
-
 if __name__ == "__main__":
 
     outfile=codecs.open('test_tree_converter.txt','w','utf-8')
     #outfile=codecs.open('test_tree_converter_onesent.txt','w','utf-8')
 
     for article in entity_types:
-    #for article in ['APW20001016.1325.0321']:
+    #for article in ['NYT20001229.2047.0291']:
         print article
         outfile.write('-----------------------------------\n')
         outfile.write(article + '\n')
         outfile.write('-----------------------------------\n')
         for sent_id in entity_types[article]:
-        #for sent_id in [20]:
+        #for sent_id in [21]:
             print sent_id
             outfile.write('-----------------------------------\n')
             outfile.write("sent_id=" + str(sent_id) + '\n')
@@ -181,12 +115,14 @@ if __name__ == "__main__":
             test_tree_copy=test_tree.copy(deep=True)
             len_before=len(test_tree_copy.leaves())
             print "len of tree before = ", len_before
+
             """print "TREE BEFORE:"
             print test_tree_copy
             print
             print"""
 
             augment_tree(test_tree_copy,sent_id,article)
+
             """print "TREE AFTER:"
             print test_tree_copy
             print
