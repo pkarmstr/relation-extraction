@@ -3,8 +3,8 @@ __author__ = 'keelan'
 import os
 import re
 import codecs
-from collections import namedtuple
-from nltk.tree import ParentedTree
+from collections import defaultdict,namedtuple
+from nltk.tree import Tree,ParentedTree
 from corenlp import parse_parser_xml_results
 
 INT_INDEXES = [2, 3, 4, 7, 8, 9]
@@ -53,6 +53,19 @@ class SuperLazyDict:
             self.d[item] = res
             return res
 
+class AutoVivification(dict):
+    """
+    Implementation of perl's autovivification feature.
+    It allows one to populate all the levels of a nested dict at the same time.
+    (http://stackoverflow.com/questions/651794/whats-the-best-way-to-initialize-a-dict-of-dicts-in-python)
+    """
+    def __getitem__(self, item):
+        try:
+            return dict.__getitem__(self, item)
+        except KeyError:
+            value = self[item] = type(self)()
+            return value
+
 def stanford_raw_reader(nlp):
     all_sentences = []
     for s in nlp["sentences"]:
@@ -72,6 +85,12 @@ def stanford_tree_reader(nlp):
     all_sentences = []
     for s in nlp["sentences"]:
         all_sentences.append(ParentedTree.parse(s["parsetree"]))
+    return all_sentences
+
+def stanford_nonparented_tree_reader(nlp):
+    all_sentences = []
+    for s in nlp["sentences"]:
+        all_sentences.append(Tree(s["parsetree"]))
     return all_sentences
 
 def stanford_general_opener(file_path, f_name):
@@ -110,6 +129,33 @@ def get_original_data(file_path):
 
     return gold_data
 
+def gather_entities():
+    """
+    Loops through the training, dev, and test data and creates a dictionary that contains entity types
+    that correspond to offset indices.
+
+    Format of the dictionary:
+    {article: {sentence_id: {offset_tuple: entity_type}}}
+    """
+    articles=AutoVivification()
+
+    for root, dirs, files in os.walk('resources'):
+        for file_name in files:
+            if file_name.startswith('cleaned') and file_name.endswith('gold'):
+                file_name=os.path.join(root,file_name)
+                with open(file_name, 'r') as f:
+                    for line in f:
+                        _, article, sentence_id, i_start, i_end, i_entity_type, _, \
+                        _, j_start, j_end, j_entity_type, _ = line.rstrip('\n').split()
+                        articles[article][int(sentence_id)][(int(i_start),int(i_end))]=i_entity_type
+                        articles[article][int(sentence_id)][(int(j_start),int(j_end))]=j_entity_type
+
+    return articles
+
+
+
+
+
 
 FeatureRow = namedtuple("FeatureRow", ["relation_type", "article", "i_sentence",
                                        "i_offset_begin","i_offset_end",
@@ -128,6 +174,9 @@ all_stanford = LazyDict(basedir, stanford_general_opener)
 RAW_SENTENCES = SuperLazyDict(all_stanford, stanford_raw_reader)
 POS_SENTENCES = SuperLazyDict(all_stanford, stanford_pos_reader)
 SYNTAX_PARSE_SENTENCES = SuperLazyDict(all_stanford, stanford_tree_reader)
+NONPARENTED_SENTENCES = SuperLazyDict(all_stanford, stanford_nonparented_tree_reader)
+
+entity_types=gather_entities()
 
 TITLE_SET= {"chairman", "Chairman", "director", "Director", "president", "President", "manager", "Manager", "executive",
             "CEO", "Officer", "officer", "consultant", "Chief", "CFO", "COO", "CTO", "CMO", "founder", "shareholder",
@@ -138,3 +187,16 @@ TITLE_SET= {"chairman", "Chairman", "director", "Director", "president", "Presid
             "Congressman", "congresswoman", "Congresswoman", "analyst", "Analyst", "sen", "Sen", "Rep", "rep", "MP",
             "mp", "justice", "Justice", "co-chairwoman", "co-chair", "co-chairman", "Mr.", "mr.", "Mr", "mr", "Ms.",
             "ms.", "Mrs.", "mrs."}
+
+if __name__ == "__main__":
+    """outfile=open('test_entity_dict.txt','w')
+    for k,v in entity_types.iteritems():
+        outfile.write(k+'\n')
+        for k2,v2 in v.iteritems():
+            outfile.write('\t'+k2+'\n')
+            for k3,v3 in v2.iteritems():
+                outfile.write('\t\t'+str(k3)+'\t'+v3+'\n')
+
+    outfile.close()"""
+
+
