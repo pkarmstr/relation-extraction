@@ -64,7 +64,7 @@ class Featurizer:
     def write_no_tag(self, basedir, file_suffix):
         with open(os.path.join(basedir, file_suffix), "w") as f_out:
             for row in self.new_features:
-                f_out.write("{}\n".format(" ",join(row[1:])))
+                f_out.write("{}\n".format(" ".join(row[1:])))
 
 if __name__ == "__main__":
     from feature_functions import *
