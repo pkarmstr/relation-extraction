@@ -109,6 +109,22 @@ def _add_entity(t,tpl,entity_type):
             else:
                 grandparent[parent_positions[0][-1]]=new_tree
 
+            #if there is still a leftover duplicate
+            #(if the last leaf of the newly inserted tree has the same word to its right)
+            if len(new_tree)>1 and len(grandparent)>1 and grandparent[-1] != new_tree and \
+                            grandparent.leaves().index(new_tree.leaves()[-1])<len(grandparent):
+                if new_tree.leaves()[-1]==grandparent[grandparent.leaves().index(new_tree.leaves()[-1])][0]:
+                    subtree_to_remove=\
+                        grandparent[grandparent.leaves().index(new_tree.leaves()[-1])]
+
+                    new_children=[]
+                    for child in grandparent:
+                        if child != subtree_to_remove:
+                            new_children.append(child)
+                    new_grandparent=Tree(grandparent.node,new_children)
+                    ggparent=t[grandparent_position[:-1]]
+                    ggparent[grandparent_position[-1]]=new_grandparent
+
 def _is_regular_word(t,index):
     """
     We don't want to include the following in our entity nodes:
@@ -126,13 +142,13 @@ if __name__ == "__main__":
     #outfile=codecs.open('test_tree_converter_onesent.txt','w','utf-8')
 
     for article in entity_types:
-    #for article in ['NYT20001111.1247.0093']:
+    #for article in ['NYT20001017.1908.0279']:
         print article
         outfile.write('-----------------------------------\n')
         outfile.write(article + '\n')
         outfile.write('-----------------------------------\n')
         for sent_id in entity_types[article]:
-        #for sent_id in [31]:
+        #for sent_id in [7]:
             print sent_id
             outfile.write('-----------------------------------\n')
             outfile.write("sent_id=" + str(sent_id) + '\n')
