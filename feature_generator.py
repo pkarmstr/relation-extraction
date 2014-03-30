@@ -5,6 +5,7 @@ import os
 from collections import defaultdict
 from file_reader import FeatureRow, feature_list_reader, get_original_data
 from helper import Alphabet
+from feature_functions import *
 
 __author__ = 'keelan'
 
@@ -67,22 +68,23 @@ class Featurizer:
                 f_out.write("{}\n".format(" ".join(row[1:])))
 
 if __name__ == "__main__":
-    from feature_functions import *
     parser = argparse.ArgumentParser()
     parser.add_argument("input_file")
     parser.add_argument("output_dir")
     parser.add_argument("file_suffix")
+    parser.add_argument("tree_list")
     parser.add_argument("feature_list")
     parser.add_argument("-a", "--answers", help="the input file has the answers", action="store_true")
 
     all_args = parser.parse_args()
 
-    feature_funcs = []
-    feature_funcs.extend(feature_list_reader(all_args.feature_list))
+    tree_funcs = feature_list_reader(all_args.tree_list, locals())
+    feature_funcs = feature_list_reader(all_args.feature_list, locals())
+
     if all_args.answers:
         feature_funcs.insert(0, relation_type)
     data = get_original_data(all_args.input_file)
-    f = Featurizer(all_args.input_file, feature_funcs, not all_args.answers)
+    f = Featurizer(data, tree_funcs, feature_funcs, not all_args.answers)
     f.build_features()
     if all_args.answers:
         f.build_relation_class_vectors()

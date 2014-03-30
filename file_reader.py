@@ -15,11 +15,11 @@ def pos_split(string):
     else:
         return [string[:-2], string[-1:]]
 
-def feature_list_reader(file_path):
+def feature_list_reader(file_path, local_names):
     ls = []
     with open(file_path, "r") as f_in:
         for line in f_in:
-            ls.append(eval(line.rstrip()))
+            ls.append(local_names[line.rstrip()])
 
     return ls
 
