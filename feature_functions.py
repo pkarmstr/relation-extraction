@@ -51,11 +51,11 @@ def _get_mentions_in_order_(fr):
     """return a pair of tuples. The first one corresponds to mention1 and its info,
     the second one to mention2 and its info. i = mention1 and j=mention2 don't always hold"""
     if int(fr.i_offset_begin)<int(fr.j_offset_begin):
-        mention1 = (fr.i_token,fr.i_offset_begin,fr.i_offset_end, fr.i_entity_type, fr.i_sentence)
-        mention2 = (fr.j_token,fr.j_offset_begin,fr.j_offset_end, fr.j_entity_type,fr.j_sentence)
+        mention1 = (fr.i_token,int(fr.i_offset_begin),int(fr.i_offset_end), fr.i_entity_type, int(fr.i_sentence))
+        mention2 = (fr.j_token,int(fr.j_offset_begin),int(fr.j_offset_end), fr.j_entity_type,int(fr.j_sentence))
     else:
-        mention2 = (fr.i_token,fr.i_offset_begin,fr.i_offset_end, fr.i_entity_type, fr.i_sentence)
-        mention1 = (fr.j_token,fr.j_offset_begin,fr.j_offset_end, fr.j_entity_type, fr.j_sentence)
+        mention2 = (fr.i_token,int(fr.i_offset_begin),int(fr.i_offset_end), int(fr.i_entity_type), int(fr.i_sentence))
+        mention1 = (fr.j_token,int(fr.j_offset_begin),int(fr.j_offset_end), int(fr.j_entity_type), int(fr.j_sentence))
     return (mention1,mention2)
 
 def bow_mention1(fr):
@@ -84,39 +84,41 @@ def _get_words_in_between_(fr):
 
 def first_word_inbetween(fr):
     """return the first word between m1 and m2"""
-    return "first_word_inbetween={}".format(_get_words_in_between_(fr)[0][0])
+    return "first_word_inbetween={}".format([_get_words_in_between_(fr)[0][0]])
 
 def last_word_inbetween(fr):
     """return the last word between m1 and m2"""
     words = _get_words_in_between_(fr)
-    return "last_word_inbetween={}".format(words[len(words)-1][0])
+    return "last_word_inbetween={}".format([words[len(words)-1][0]])
 
 def other_words_inbetween(fr):
     """return words between m1 and m2 excluding the first and last words"""
     words = _get_words_in_between_(fr)
     words.pop(0)
     words.pop()
-    return "other_words_inbetween={}".format([w for w, pos in words])
+    children = [ParentedTree(w,["*"]) for w,pos in words]
+    bow_tree = ParentedTree("BOW",children)
+    return "other_words_inbetween={}".format(bow_tree)
 
 def first_word_before_m1(fr):
     """return first word before m1"""
     mention1 = _get_mentions_in_order_(fr)[0]
     sent=POS_SENTENCES[fr.article][int(mention1[4])]
-    return "first_word_before_m1={}".format(sent[int(mention1[1])-1][0])
+    return "first_word_before_m1={}".format([sent[int(mention1[1])-1][0]])
 
 
 def first_word_before_m2(fr):
     """return first word before m2"""
     mention2 = _get_mentions_in_order_(fr)[1]
     sent=POS_SENTENCES[fr.article][int(mention2[4])]
-    return "first_word_before_m2={}".format(sent[int(mention2[1])-1][0])
+    return "first_word_before_m2={}".format([sent[int(mention2[1])-1][0]])
 
 def second_word_before_m1(fr):
     """return second word before m1"""
     mention1 = _get_mentions_in_order_(fr)[0]
     sent=POS_SENTENCES[fr.article][int(mention1[4])]
     try:
-        return "second_word_before_m1={}".format(sent[int(mention1[1])-2][0])
+        return "second_word_before_m1={}".format([sent[int(mention1[1])-2][0]])
     except:
         IndexError
         return "second_word_before_m1=NONE"
@@ -126,10 +128,49 @@ def second_word_before_m2(fr):
     mention2 = _get_mentions_in_order_(fr)[1]
     sent=POS_SENTENCES[fr.article][int(mention2[4])]
     try:
-        return "second_word_before_m2={}".format(sent[int(mention2[1])-2][0])
+        return "second_word_before_m2={}".format([sent[int(mention2[1])-2][0]])
     except:
         IndexError
         return "second_word_before_m2=NONE"
+
+
+def head_word_of_m1(fr):
+    mention1 = _get_mentions_in_order_(fr)[0]
+    s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
+    m1_tuple = s_tree.leaf_treeposition(mention1[1])
+    child_index = m1_tuple[-1]
+    parent = s_tree[m1_tuple[0:-2]]
+    head = mention1[0]
+    for child in parent[child_index:]:
+        if child.node in ['NN', 'NNS', 'NNP']:
+            head = child[0]
+    return "head_word_of_m1={}".format([head])
+
+def head_word_of_m2(fr):
+    mention2 = _get_mentions_in_order_(fr)[1]
+    s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention2[4]]
+    m1_tuple = s_tree.leaf_treeposition(mention2[1])
+    child_index = m1_tuple[-1]
+    parent = s_tree[m1_tuple[0:-2]]
+    head = mention2[0]
+    for child in parent[child_index:]:
+        if child.node in ['NN', 'NNS', 'NNP']:
+            head = child[0]
+    return "head_word_of_m1={}".format([head])
+
+
+def same_heads(fr):
+    mention1_head = head_word_of_m1(fr).split("=")[1]
+    mention2_head = head_word_of_m2(fr).split("=")[1]
+    return "same_heads={}".format(mention1_head == mention2_head)
+
+
+
+
+
+
+def no_word_between(fr):
+    return "no_word_between={}".format(len(_get_words_in_between_(fr))==0)
 
 
 
@@ -171,7 +212,6 @@ i   n the feature-based methods).
         #print "printing leaves corresponding to indices"
         #print s_tree.leaves()[int(fr.i_offset_begin)] #checking indices first...
         #print s_tree.leaves()[int(fr.j_offset_begin)]
-
         mention1 = _get_mentions_in_order_(fr)[0]
         mention2= _get_mentions_in_order_(fr)[1]
         first_entity_index = int(mention1[1])
@@ -185,9 +225,9 @@ i   n the feature-based methods).
         #print "Index of last word of later entity: ", later_entity_index
         first_tree = s_tree[i_tuple[0:-1]]
         later_tree= s_tree[j_tuple[0:-1]]
-        lwca_tuple=s_tree.treeposition_spanning_leaves(first_entity_index, later_entity_index)
+        lwca_tuple=s_tree.treeposition_spanning_leaves(first_entity_index, later_entity_index+1)
         lowest_common_ancestor = s_tree[lwca_tuple]
-        #lowest_common_ancestor.draw()
+        lowest_common_ancestor.draw()
 
 
         ###The following 3 functions generate a tree where the left branch contains the M1 path (
