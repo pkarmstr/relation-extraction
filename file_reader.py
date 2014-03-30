@@ -2,9 +2,12 @@ __author__ = 'keelan'
 
 import os
 import re
+import codecs
 from collections import namedtuple
 from nltk.tree import ParentedTree
 from corenlp import parse_parser_xml_results
+
+INT_INDEXES = [2, 3, 4, 7, 8, 9]
 
 def pos_split(string):
     if not string.startswith("_"):
@@ -74,6 +77,38 @@ def stanford_tree_reader(nlp):
 def stanford_general_opener(file_path, f_name):
     with open(os.path.join(file_path, f_name+".head.coref.raw.xml"), "r") as f_in:
         return parse_parser_xml_results(f_in.read())
+
+def prepare_line(line):
+    line = line.rstrip().split()
+    if len(line) == 11:
+        line.insert(0, "")
+    i_token = line[6]
+    j_token = line[11]
+    for i in INT_INDEXES:
+        line[i] = int(line[i])
+    line.append(_clean(i_token))
+    line.append(_clean(j_token))
+
+    return line
+
+def _clean(token):
+    """
+    1) Removes non-alpha (but not the "-") from the beginning of the token
+    2) Removes possessive 's from the end
+    3) Removes O', d', and ;T from anywhere (O'Brien becomes Brien, d'Alessandro becomes Alessandro, etc.)
+    """
+    # this needs to be fixed
+    return [re.sub(r"\W", r"", word) for word in token.split("_")]
+
+
+def get_original_data(file_path):
+    gold_data = []
+    with codecs.open(file_path, "r") as f_in:
+        for line in f_in:
+            prepped = prepare_line(line)
+            gold_data.append(FeatureRow(*prepped))
+
+    return gold_data
 
 
 FeatureRow = namedtuple("FeatureRow", ["relation_type", "article", "i_sentence",
