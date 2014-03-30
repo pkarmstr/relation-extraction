@@ -103,11 +103,27 @@ def _add_entity(t,tpl,entity_type):
 
             if len(parent_positions)>1:
                 if parent_positions[-1][-1]!=len(grandparent.leaves())-1: #if the last member of the tuple is NOT the rightmost child
-                    grandparent[parent_positions[0][-1]:len(parent_positions)]=[new_tree]
-                else:
+                    #grandparent[parent_positions[0][-1]:len(parent_positions)]=[new_tree]
+                    #giving up on slices; collecting all of gp's children, then adding b
+                    new_leaves=new_tree.leaves()
+                    new_kids=[]
+                    for kid in grandparent:
+                        if kid[0] not in new_leaves:
+                            new_kids.append(kid)
+                        elif kid[0]==new_leaves[0]:
+                            new_kids.append(new_tree)
+                        else:
+                            pass
+                    new_grandparent=Tree(grandparent.node,new_kids)
+                    ggparent=t[grandparent_position[:-1]]
+                    ggparent[grandparent_position[-1]]=new_grandparent
+                else: #it is the rightmost child
                     grandparent[parent_positions[0][-1]:len(grandparent.leaves())]=[new_tree]
-            else:
+            else: #one-word node
                 grandparent[parent_positions[0][-1]]=new_tree
+
+
+
 
             #if there is still a leftover duplicate
             #(if the last leaf of the newly inserted tree has the same word to its right):
@@ -120,7 +136,7 @@ def _add_entity(t,tpl,entity_type):
             print grandparent.leaves().index(new_tree.leaves()[-1])
             print "len of gp=", len(grandparent)
             print"""
-            if grandparent.leaves().index(new_tree.leaves()[-1])<len(grandparent.leaves())-1:
+            """if grandparent.leaves().index(new_tree.leaves()[-1])<len(grandparent.leaves())-1:
                 if new_tree.leaves()[-1]==grandparent.leaves()[grandparent.leaves().index(new_tree.leaves()[-1])+1]:
                     #print "found dup"
                     subtree_to_remove=t[t.leaf_treeposition(t.leaves().index(grandparent.leaves()[grandparent.leaves().index(new_tree.leaves()[-1])+1]))[:-1]]
@@ -131,7 +147,7 @@ def _add_entity(t,tpl,entity_type):
                             new_children.append(child)
                     new_grandparent=Tree(grandparent.node,new_children)
                     ggparent=t[grandparent_position[:-1]]
-                    ggparent[grandparent_position[-1]]=new_grandparent
+                    ggparent[grandparent_position[-1]]=new_grandparent"""
 
 def _is_regular_word(t,index):
     """
@@ -150,13 +166,13 @@ if __name__ == "__main__":
     #outfile=codecs.open('test_tree_converter_onesent.txt','w','utf-8')
 
     for article in entity_types:
-    #for article in ['APW20001023.0423.0148']:
+    #for article in ['APW20001016.1325.0321']:
         print article
         outfile.write('-----------------------------------\n')
         outfile.write(article + '\n')
         outfile.write('-----------------------------------\n')
         for sent_id in entity_types[article]:
-        #for sent_id in [9]:
+        #for sent_id in [20]:
             print sent_id
             outfile.write('-----------------------------------\n')
             outfile.write("sent_id=" + str(sent_id) + '\n')
