@@ -1,7 +1,6 @@
 # coding=utf-8
 """Necessità 'l ci 'nduce, e non diletto."""
 import re
-from feature_functions import *
 from file_reader import FeatureRow, feature_list_reader, get_original_data
 
 __author__ = 'keelan'
@@ -11,7 +10,6 @@ import argparse
 class Featurizer:
 
     def __init__(self, original_data, tree_functions, features, no_tag=False):
-        self.file_path = file_path
         self.tree_functions = tree_functions
         self.feature_functions = list(enumerate(features))
         self.no_tag = no_tag
@@ -52,7 +50,7 @@ if __name__ == "__main__":
     feature_funcs.extend(feature_list_reader(all_args.feature_list))
     if all_args.answers:
         feature_funcs.insert(0, relation_type)
-    data = get_original_data(args.input_file)
+    data = get_original_data(all_args.input_file)
     f = Featurizer(all_args.input_file, feature_funcs, not all_args.answers)
     f.build_features()
     f.write_new_features(all_args.output_file)
