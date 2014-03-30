@@ -70,8 +70,15 @@ def _add_entity(t,tpl,entity_type):
     #print tpl[0]
     #print t.leaf_treeposition(tpl[0])
 
-    first_parent_position=t.leaf_treeposition(tpl[0])[:-1] #need to change this; first parent should be the parent of a regular word
-    first_grandparent_position=first_parent_position[:-1]
+    #first_parent_position=t.leaf_treeposition(tpl[0])[:-1] #need to change this; first parent should be the parent of a regular word
+    first_parent_position=0
+    first_grandparent_position=0
+
+    for j in range(tpl[0],tpl[-1]):
+        if _is_regular_word(t,j):
+            first_parent_position=t.leaf_treeposition(j)[:-1]
+            first_grandparent_position=first_parent_position[:-1]
+            break
 
     for i in range(tpl[0],tpl[-1]):
         if _is_regular_word(t,i):
@@ -95,7 +102,10 @@ def _add_entity(t,tpl,entity_type):
             new_tree=Tree(aug_node,parents)
 
             if len(parent_positions)>1:
-                grandparent[parent_positions[0][-1]:len(parent_positions)+1]=[new_tree]
+                if parent_positions[-1][-1]!=len(grandparent.leaves())-1: #if the last member of the tuple is NOT the rightmost child
+                    grandparent[parent_positions[0][-1]:len(parent_positions)]=[new_tree]
+                else:
+                    grandparent[parent_positions[0][-1]:len(parent_positions)+1]=[new_tree]
             else:
                 grandparent[parent_positions[0][-1]]=new_tree
 
@@ -116,17 +126,21 @@ if __name__ == "__main__":
     #outfile=codecs.open('test_tree_converter_onesent.txt','w','utf-8')
 
     for article in entity_types:
-    #for article in ['APW20001120.1450.0376']:
+    #for article in ['NYT20001111.1247.0093']:
+        print article
         outfile.write('-----------------------------------\n')
         outfile.write(article + '\n')
         outfile.write('-----------------------------------\n')
         for sent_id in entity_types[article]:
-        #for sent_id in [11]:
+        #for sent_id in [13]:
+            print sent_id
             outfile.write('-----------------------------------\n')
             outfile.write("sent_id=" + str(sent_id) + '\n')
             outfile.write('-----------------------------------\n')
             test_tree=NONPARENTED_SENTENCES[article][sent_id]
             test_tree_copy=test_tree.copy(deep=True)
+            len_before=len(test_tree_copy.leaves())
+            print "len of tree before = ", len_before
             """print "TREE BEFORE:"
             print test_tree_copy
             print"""
@@ -135,6 +149,10 @@ if __name__ == "__main__":
             """print "TREE AFTER:"
             print test_tree_copy
             print"""
+            len_after=len(test_tree_copy.leaves())
+            print "len of tree after = ", len_after
+            print "Kept the length? ", len_before==len_after
+            print
             outfile.write(test_tree_copy.pprint())
             outfile.write('\n\n')
 
