@@ -105,7 +105,7 @@ def _add_entity(t,tpl,entity_type):
                 if parent_positions[-1][-1]!=len(grandparent.leaves())-1: #if the last member of the tuple is NOT the rightmost child
                     grandparent[parent_positions[0][-1]:len(parent_positions)]=[new_tree]
                 else:
-                    grandparent[parent_positions[0][-1]:len(parent_positions)+1]=[new_tree]
+                    grandparent[parent_positions[0][-1]:len(grandparent.leaves())]=[new_tree]
             else:
                 grandparent[parent_positions[0][-1]]=new_tree
 
@@ -132,7 +132,7 @@ if __name__ == "__main__":
         outfile.write(article + '\n')
         outfile.write('-----------------------------------\n')
         for sent_id in entity_types[article]:
-        #for sent_id in [13]:
+        #for sent_id in [31]:
             print sent_id
             outfile.write('-----------------------------------\n')
             outfile.write("sent_id=" + str(sent_id) + '\n')
@@ -143,15 +143,18 @@ if __name__ == "__main__":
             print "len of tree before = ", len_before
             """print "TREE BEFORE:"
             print test_tree_copy
+            print
             print"""
-           # print test_tree_copy.__repr__()
+
             augment_tree(test_tree_copy,sent_id,article)
             """print "TREE AFTER:"
             print test_tree_copy
+            print
             print"""
             len_after=len(test_tree_copy.leaves())
             print "len of tree after = ", len_after
             print "Kept the length? ", len_before==len_after
+            print "Length increased? ", len_before<len_after
             print
             outfile.write(test_tree_copy.pprint())
             outfile.write('\n\n')
