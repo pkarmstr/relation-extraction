@@ -110,12 +110,20 @@ def _add_entity(t,tpl,entity_type):
                 grandparent[parent_positions[0][-1]]=new_tree
 
             #if there is still a leftover duplicate
-            #(if the last leaf of the newly inserted tree has the same word to its right)
-            if len(new_tree)>1 and len(grandparent)>1 and grandparent[-1] != new_tree and \
-                            grandparent.leaves().index(new_tree.leaves()[-1])<len(grandparent):
-                if new_tree.leaves()[-1]==grandparent[grandparent.leaves().index(new_tree.leaves()[-1])][0]:
-                    subtree_to_remove=\
-                        grandparent[grandparent.leaves().index(new_tree.leaves()[-1])]
+            #(if the last leaf of the newly inserted tree has the same word to its right):
+
+            #if len(new_tree)>1 and len(grandparent)>1 and grandparent[-1] != new_tree and \
+                            #grandparent.leaves().index(new_tree.leaves()[-1])<len(grandparent):
+            """print "last child of entity:"
+            print new_tree.leaves()[-1]
+            print "position of last child of entity in grandparent:"
+            print grandparent.leaves().index(new_tree.leaves()[-1])
+            print "len of gp=", len(grandparent)
+            print"""
+            if grandparent.leaves().index(new_tree.leaves()[-1])<len(grandparent.leaves())-1:
+                if new_tree.leaves()[-1]==grandparent.leaves()[grandparent.leaves().index(new_tree.leaves()[-1])+1]:
+                    #print "found dup"
+                    subtree_to_remove=t[t.leaf_treeposition(t.leaves().index(grandparent.leaves()[grandparent.leaves().index(new_tree.leaves()[-1])+1]))[:-1]]
 
                     new_children=[]
                     for child in grandparent:
@@ -142,13 +150,13 @@ if __name__ == "__main__":
     #outfile=codecs.open('test_tree_converter_onesent.txt','w','utf-8')
 
     for article in entity_types:
-    #for article in ['NYT20001017.1908.0279']:
+    #for article in ['APW20001023.0423.0148']:
         print article
         outfile.write('-----------------------------------\n')
         outfile.write(article + '\n')
         outfile.write('-----------------------------------\n')
         for sent_id in entity_types[article]:
-        #for sent_id in [7]:
+        #for sent_id in [9]:
             print sent_id
             outfile.write('-----------------------------------\n')
             outfile.write("sent_id=" + str(sent_id) + '\n')
@@ -167,6 +175,7 @@ if __name__ == "__main__":
             print test_tree_copy
             print
             print"""
+
             len_after=len(test_tree_copy.leaves())
             print "len of tree after = ", len_after
             print "Kept the length? ", len_before==len_after
