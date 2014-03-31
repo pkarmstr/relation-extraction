@@ -5,6 +5,7 @@ import re
 from collections import defaultdict,namedtuple
 from nltk.tree import Tree,ParentedTree
 from corenlp import parse_parser_xml_results
+from tree_converter import *
 
 def pos_split(string):
     if not string.startswith("_"):
@@ -117,8 +118,29 @@ def gather_entities():
 
     return articles
 
+def pronoun_reader():
+    ls = []
+    with open("resources/pronouns.txt", "r") as f_in:
+        for line in f_in:
+            ls.append(line.rstrip())
+    return ls
 
+def augmented_tree_reader():
+    """
+    Converts all nonparented trees into augmented trees. Stores augmented trees in a dict of the form
+    {article:{sentence_id:tree}}
+    """
+    augmented_tree_dict=AutoVivification()
+    for article in entity_types:
+        for sent_id in entity_types[article]:
+            t=NONPARENTED_SENTENCES[article][sent_id]
+            t_copy=t.copy(deep=True)
+            augment_tree(t_copy,sent_id,article)
+            augmented_tree_dict[article][sent_id]=t_copy
 
+    augmented_tree_dict['NYT20001229.2047.0291'][21]=Tree("")
+
+    return augmented_tree_dict
 
 
 
@@ -135,13 +157,16 @@ FeatureRow = namedtuple("FeatureRow", ["relation_type", "article", "i_sentence",
 
 basedir = "stanford-full-pipeline"
 
+
 all_stanford = LazyDict(basedir, stanford_general_opener)
 RAW_SENTENCES = SuperLazyDict(all_stanford, stanford_raw_reader)
 POS_SENTENCES = SuperLazyDict(all_stanford, stanford_pos_reader)
 SYNTAX_PARSE_SENTENCES = SuperLazyDict(all_stanford, stanford_tree_reader)
 NONPARENTED_SENTENCES = SuperLazyDict(all_stanford, stanford_nonparented_tree_reader)
-
+PRONOUN_SET = set(pronoun_reader())
 entity_types=gather_entities()
+AUGMENTED_TREES=augmented_tree_reader()
+
 
 TITLE_SET= {"chairman", "Chairman", "director", "Director", "president", "President", "manager", "Manager", "executive",
             "CEO", "Officer", "officer", "consultant", "Chief", "CFO", "COO", "CTO", "CMO", "founder", "shareholder",

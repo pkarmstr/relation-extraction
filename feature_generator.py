@@ -64,7 +64,7 @@ class Featurizer:
                 f_out.write("{}\n".format(" ".join(row)))
 
 if __name__ == "__main__":
-    from feature_functions import *
+    #from feature_functions import *
     parser = argparse.ArgumentParser()
     parser.add_argument("input_file")
     parser.add_argument("output_file")
@@ -73,8 +73,8 @@ if __name__ == "__main__":
 
     all_args = parser.parse_args()
 
-    feature_funcs = []
-    feature_funcs.extend(feature_list_reader(all_args.feature_list))
+    feature_funcs = [mention_overlap]
+    #feature_funcs.extend(feature_list_reader(all_args.feature_list))
     if all_args.answers:
         feature_funcs.insert(0, relation_type)
     f = Featurizer(all_args.input_file, feature_funcs, not all_args.answers)
