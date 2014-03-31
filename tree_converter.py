@@ -17,7 +17,7 @@ import re
 import codecs
 from nltk.tree import Tree, ParentedTree
 from operator import itemgetter
-from file_reader import *
+from file_reader import entity_types, NONPARENTED_SENTENCES
 
 
 def augment_tree(t, sent, article):
