@@ -54,8 +54,8 @@ def _get_mentions_in_order_(fr):
         mention1 = (fr.i_token,int(fr.i_offset_begin),int(fr.i_offset_end), fr.i_entity_type, int(fr.i_sentence))
         mention2 = (fr.j_token,int(fr.j_offset_begin),int(fr.j_offset_end), fr.j_entity_type,int(fr.j_sentence))
     else:
-        mention2 = (fr.i_token,int(fr.i_offset_begin),int(fr.i_offset_end), int(fr.i_entity_type), int(fr.i_sentence))
-        mention1 = (fr.j_token,int(fr.j_offset_begin),int(fr.j_offset_end), int(fr.j_entity_type), int(fr.j_sentence))
+        mention2 = (fr.i_token,int(fr.i_offset_begin),int(fr.i_offset_end),fr.i_entity_type, int(fr.i_sentence))
+        mention1 = (fr.j_token,int(fr.j_offset_begin),int(fr.j_offset_end), fr.j_entity_type, int(fr.j_sentence))
     return (mention1,mention2)
 
 def bow_mention1(fr):
@@ -227,7 +227,7 @@ i   n the feature-based methods).
         later_tree= s_tree[j_tuple[0:-1]]
         lwca_tuple=s_tree.treeposition_spanning_leaves(first_entity_index, later_entity_index+1)
         lowest_common_ancestor = s_tree[lwca_tuple]
-        lowest_common_ancestor.draw()
+
 
 
         ###The following 3 functions generate a tree where the left branch contains the M1 path (
