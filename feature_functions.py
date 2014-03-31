@@ -180,7 +180,7 @@ def first_phrase_head_inbetween(fr):
     found = False
     i = mention1[1]+1
     head = None
-    while i != mention2[1] or not found:
+    while i < mention2[1] and not found:
         if found: break
         word_tuple = s_tree.leaf_treeposition(i)
         pos_index = word_tuple[-2]
@@ -204,7 +204,7 @@ def last_phrase_head_inbetween(fr):
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
     i = mention1[1]+1
     head = None
-    while i != mention2[1]:
+    while i <mention2[1]:
         word_tuple = s_tree.leaf_treeposition(i)
         pos_index = word_tuple[-2]
         parent = s_tree[word_tuple[0:-2]]
@@ -212,11 +212,60 @@ def last_phrase_head_inbetween(fr):
             if child.node in ['NN', 'NNS', 'NNP'] and \
                             child[0] != head_of_m1:
                 head = child[0]
-        i += len(parent)-1
+        i += len(parent[pos_index:])+1
     return "last_phrase_head_inbetween={}".format([head])
 
 
+def heads_in_between(fr):
+    """
+    return a BOW tree with the heads of the NPs inbetween
+    mention1 and mention2
 
+    """
+    mention1= _get_mentions_in_order_(fr)[0]
+    mention2 = _get_mentions_in_order_(fr)[1]
+    head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
+    s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
+    i = mention1[1]+1
+    heads = []
+    while i < mention2[1]:
+        word_tuple = s_tree.leaf_treeposition(i)
+        pos_index = word_tuple[-2]
+        parent = s_tree[word_tuple[0:-2]]
+        head = None
+        for child in parent[pos_index:]:
+            if child.node in ['NN', 'NNS', 'NNP'] and \
+                            child[0] != head_of_m1:
+                head = child[0]
+        if isinstance(head,unicode):
+            heads.append(head)
+        i += len(parent[pos_index:])+1
+
+    children = [ParentedTree(w,["*"]) for w in heads]
+    bow_tree = ParentedTree("BOW",children)
+    return "heads_in_between={}".format(bow_tree)
+
+def first_phrase_head_before_m1(fr):
+    """
+    return the head of the first NP before mention1
+
+    """
+    mention1= _get_mentions_in_order_(fr)[0]
+    head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
+    s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
+    i = 0
+    head = None
+    while i < mention1[1]:
+        word_tuple = s_tree.leaf_treeposition(i)
+        pos_index = word_tuple[-2]
+        parent = s_tree[word_tuple[0:-2]]
+        for child in parent[pos_index:]:
+            if child.node in ['NN', 'NNS', 'NNP'] and \
+                            child[0] != head_of_m1:
+                head = child[0]
+        i += len(parent[pos_index:])+1
+
+    return "first_phrase_head_before_m1={}".format([head])
 
 def no_words_inbetween(fr):
     """return whether there are words between m1 and m2"""

@@ -101,6 +101,26 @@ class RelTester(unittest.TestCase):
         self.assertTrue(last_phrase_head_inbetween(fr1).split("=")[1]=="[u'ship']")
         self.assertTrue(last_phrase_head_inbetween(fr2).split("=")[1]=="[u'wife']")
 
+    def test_heads_inbetween(self):
+        line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
+        fr1 = FeatureRow(*line1)
+        line2 = "no_rel APW20001023.2100.0686 5 9 10 PER their 5 31 34 ORG Greenwood_Village_police their Greenwood_Village_police".rstrip().split()
+        fr2 = FeatureRow(*line2)
+        heads_in_between(fr1)
+        heads_in_between(fr2)
+        #self.assertTrue(last_phrase_head_inbetween(fr1).split("=")[1]=="[u'ship']")
+        #self.assertTrue(last_phrase_head_inbetween(fr2).split("=")[1]=="[u'wife']")
+    def test_first_phrase_head_before_m1(self):
+        line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
+        fr1 = FeatureRow(*line1)
+        line2 = "no_rel APW20001023.2100.0686 5 9 10 PER their 5 31 34 ORG Greenwood_Village_police their Greenwood_Village_police".rstrip().split()
+        fr2 = FeatureRow(*line2)
+        self.assertTrue(first_phrase_head_before_m1(fr1).split("=")[1]=="[u'host']")
+        self.assertTrue(first_phrase_head_before_m1(fr2).split("=")[1]=="[u'dispute']")
+
+
+
+
 
 
     #def test_path_enclosed_tree(self):
