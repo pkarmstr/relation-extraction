@@ -135,11 +135,13 @@ def second_word_before_m2(fr):
 
 
 def head_word_of_m1(fr):
+    """return the head of the NP in which M1 occurs"""
     mention1 = _get_mentions_in_order_(fr)[0]
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
     m1_tuple = s_tree.leaf_treeposition(mention1[1])
-    child_index = m1_tuple[-1]
+    child_index = m1_tuple[-2]
     parent = s_tree[m1_tuple[0:-2]]
+    #print parent
     head = mention1[0]
     for child in parent[child_index:]:
         if child.node in ['NN', 'NNS', 'NNP']:
@@ -147,10 +149,11 @@ def head_word_of_m1(fr):
     return "head_word_of_m1={}".format([head])
 
 def head_word_of_m2(fr):
+    """return the head of the NP in which M1 occurs"""
     mention2 = _get_mentions_in_order_(fr)[1]
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention2[4]]
     m1_tuple = s_tree.leaf_treeposition(mention2[1])
-    child_index = m1_tuple[-1]
+    child_index = m1_tuple[-2]
     parent = s_tree[m1_tuple[0:-2]]
     head = mention2[0]
     for child in parent[child_index:]:
@@ -159,18 +162,65 @@ def head_word_of_m2(fr):
     return "head_word_of_m1={}".format([head])
 
 
-def same_heads(fr):
+def same_head(fr):
+    """return whether both entities have the same head"""
     mention1_head = head_word_of_m1(fr).split("=")[1]
     mention2_head = head_word_of_m2(fr).split("=")[1]
-    return "same_heads={}".format(mention1_head == mention2_head)
+    return "same_head={}".format(mention1_head == mention2_head)
+
+def first_phrase_head_inbetween(fr):
+    """
+    if there are other NP between both entities,
+    return the head of the first one
+    """
+    mention1= _get_mentions_in_order_(fr)[0]
+    mention2 = _get_mentions_in_order_(fr)[1]
+    head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
+    s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
+    found = False
+    i = mention1[1]+1
+    head = None
+    while i != mention2[1] or not found:
+        if found: break
+        word_tuple = s_tree.leaf_treeposition(i)
+        pos_index = word_tuple[-2]
+        parent = s_tree[word_tuple[0:-2]]
+        for child in parent[pos_index:]:
+            if child.node in ['NN', 'NNS', 'NNP'] and \
+                            child[0] != head_of_m1:
+                head = child[0]
+                found = True
+        i += len(parent)
+    return "first_phrase_head_inbetween={}".format([head])
+
+def last_phrase_head_inbetween(fr):
+    """
+    if there are other NP between both entities,
+    return the head of the last one
+    """
+    mention1= _get_mentions_in_order_(fr)[0]
+    mention2 = _get_mentions_in_order_(fr)[1]
+    head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
+    s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
+    i = mention1[1]+1
+    head = None
+    while i != mention2[1]:
+        word_tuple = s_tree.leaf_treeposition(i)
+        pos_index = word_tuple[-2]
+        parent = s_tree[word_tuple[0:-2]]
+        for child in parent[pos_index:]:
+            if child.node in ['NN', 'NNS', 'NNP'] and \
+                            child[0] != head_of_m1:
+                head = child[0]
+        i += len(parent)-1
+    return "last_phrase_head_inbetween={}".format([head])
 
 
 
 
-
-
-def no_word_between(fr):
-    return "no_word_between={}".format(len(_get_words_in_between_(fr))==0)
+def no_words_inbetween(fr):
+    """return whether there are words between m1 and m2"""
+    return "no_words_inbetween={}".format(len(_get_words_in_between_(fr))==0)
 
 
 
