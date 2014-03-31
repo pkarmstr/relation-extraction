@@ -173,9 +173,10 @@ def augmented_tree_reader():
             augment_tree(t_copy,sent_id,article)
             augmented_tree_dict[article][sent_id]=t_copy
 
-    augmented_tree_dict['NYT20001229.2047.0291'][21]=Tree("")
+    augmented_tree_dict['NYT20001229.2047.0291'][21]=Tree("(ROOT (S (NP (E-PER (NNP Bush))) (VP (VBD got) (NP (NP (CD 271) (JJ electoral) (NNS votes)) (, ,) (ADJP (ADJP (NP (CD one)) (JJR more)) (SBAR (IN than) (S (NP (E-PER (PRP he))) (VP (VBD needed) (PP (IN for) (NP (NP (DT a) (NN majority)) (CC and) (NP (CD five) (JJR more)))) (PP (IN than) (NP (E-PER (NNP Gore)))))))) (, ,) (SBAR (WHNP (E-PER (WP who))) (S (VP (VBD lost) (NP (NP (CD one) (NN vote)) (PP (IN in) (NP (DT the) (E-PER (NNP Electoral) (NNP College))))) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (NAC (E-GPE (NNP Washington) (, ,) (NNP D.C.))(, ,)) (E-PER (NN elector))) (VP (VBD left) (NP (E-PER (PRP$ her)) (NN ballot) (NN blank)) (S (VP (TO to) (VP (VB protest) (NP (NP (DT the) (NNP District)) (PP (IN of) (NP (NP (NP (NNP Columbia) (POS 's)) (NN lack)) (PP (IN of) (NP (NP (VBG voting) (NN power)) (PP (IN in) (NP (E-ORG (NNP Congress)))))))))))))))))))) (. .)))")
 
     return augmented_tree_dict
+
 
 def augment_tree(t, sent, article):
     """
