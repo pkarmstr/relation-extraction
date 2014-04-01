@@ -274,7 +274,7 @@ SYNTAX_PARSE_SENTENCES = SuperLazyDict(all_stanford, stanford_tree_reader)
 NONPARENTED_SENTENCES = SuperLazyDict(all_stanford, stanford_nonparented_tree_reader)
 PRONOUN_SET = set(pronoun_reader())
 entity_types=gather_entities()
-AUGMENTED_TREES=augmented_tree_reader()
+#AUGMENTED_TREES=augmented_tree_reader()
 
 
 TITLE_SET= {"chairman", "Chairman", "director", "Director", "president", "President", "manager", "Manager", "executive",
@@ -297,5 +297,3 @@ if __name__ == "__main__":
                 outfile.write('\t\t'+str(k3)+'\t'+v3+'\n')
 
     outfile.close()"""
-
-

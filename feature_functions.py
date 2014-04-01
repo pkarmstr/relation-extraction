@@ -320,7 +320,7 @@ def first_head_inbetween(fr):
 
 def last_np_head_inbetween(fr):
     """
-    if there are other NP phrases inbetween both entities,
+    if there are other NP phrases in-between both entities,
     return the head of the last one
     """
 
