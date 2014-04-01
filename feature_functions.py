@@ -189,14 +189,12 @@ def _get_mentions_in_order_(fr):
 def bow_mention1(fr):
     """return the words in mention2 eg. [George,Bush]"""
     mention1 = _get_mentions_in_order_(fr)[0]
-    sent=POS_SENTENCES[fr.article][int(mention1[4])]
     mention_token = mention1[0]
     return "bow_mention1={}".format(mention_token.split("_"))
 
 def bow_mention2(fr):
     """return the words in mention2"""
     mention2 = _get_mentions_in_order_(fr)[1]
-    sent=POS_SENTENCES[fr.article][int(mention2[4])]
     mention_token = mention2[0]
     return "bow_mention1={}".format(mention_token.split("_"))
 
@@ -269,7 +267,6 @@ def head_word_of_m1(fr):
     m1_tuple = s_tree.leaf_treeposition(mention1[1])
     child_index = m1_tuple[-2]
     parent = s_tree[m1_tuple[0:-2]]
-    #print parent
     head = mention1[0]
     for child in parent[child_index:]:
         if child.node in ['NN', 'NNS', 'NNP', 'NNPS']:
