@@ -28,7 +28,7 @@ allies
 team
 mother
 daughter
-daughters (do pronoun + family word? also one is family, the other not, one is ORG the other PER)
+daughters
 supporter
 supporters
 opponent
@@ -73,3 +73,7 @@ institution
 mob
 gang
 community
+lawyer
+lawyers
+doctor
+doctors
