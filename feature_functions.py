@@ -362,7 +362,6 @@ def np_heads_in_between(fr):
                 sum = j
         if isinstance(head,unicode):
             heads.append(head)
-        #i += len(parent[pos_index:])+1 I have to go word by word --__--''
         i+=sum + 1
 
     children = [ParentedTree(w,["*"]) for w in heads]

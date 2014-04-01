@@ -138,8 +138,8 @@ class RelTester(unittest.TestCase):
     def test_no_phrase_inbetween(self):
         line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
         line2 = "EMP-ORG.Member-of-Group.reverse NYT20001019.2136.0319 12 4 5 ORG Republican 12 6 7 PER candidate Republican candidate".rstrip().split()
-        fr1 = FeatureRow(*line1)
-        fr2 = FeatureRow(*line2)
+        #fr1 = FeatureRow(*line1)
+        #fr2 = FeatureRow(*line2)
 
         #print head_word_of_m1(fr1)
         #print head_word_of_m2(fr1)
@@ -155,11 +155,6 @@ class RelTester(unittest.TestCase):
         #print last_head_inbetween(fr1)
         #print second_np_head_before_m2(fr1)
         #print second_head_before_m2(fr1)
-
-
-
-
-
 
 
 
