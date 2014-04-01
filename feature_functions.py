@@ -3,7 +3,10 @@ __author__ = 'keelan'
 import re
 from nltk.corpus import wordnet as wn
 from nltk.corpus.reader.wordnet import WordNetError as wn_error
-from file_reader import RAW_SENTENCES, SYNTAX_PARSE_SENTENCES, POS_SENTENCES, PRONOUN_SET, entity_types
+from nltk.tree import Tree,ParentedTree
+from file_reader import RAW_SENTENCES, SYNTAX_PARSE_SENTENCES, POS_SENTENCES, PRONOUN_SET, \
+    entity_types, RELATIONSHIPS_AND_GROUPS, COUNTRIES, NATIONALITIES, OFFICIALS, PROFESSIONS, \
+    TITLE_SET, POSSESSIVE_PRONOUNS
 
 ###################
 # basic functions #
@@ -139,9 +142,119 @@ def mention_overlap(fr):
            (int(fr.i_offset_begin)>=int(fr.j_offset_begin) and int(fr.i_offset_end)<=int(fr.j_offset_end))
     return "mention_overlap={}".format(result)
 
+#### gazetter features start here; might be useless, but they're fun to try ####
+def _is_rel_or_group(token):
+    return any(token.lower().split('_')) in RELATIONSHIPS_AND_GROUPS
 
+def _is_country(token):
+    return any(token.title().split('_')) in COUNTRIES
 
+def _is_nationality(token):
+    return any(token.title().split('_')) in NATIONALITIES
 
+def _is_official(token):
+    return any(token.lower().split('_')) in OFFICIALS
+
+def _is_profession(token):
+    return any(token.lower().split('_')) in PROFESSIONS
+
+def _is_title(token):
+    return any(token.lower().split('_')) in TITLE_SET
+
+def _is_possessive_pronoun(token):
+    return any(token.lower().split('_')) in POSSESSIVE_PRONOUNS
+
+def poss_pronoun_per(fr):
+    """
+    True if i is a possessive pronoun and j is PER.
+    From what I can see in the data, they always occur in that order and never in reverse order.
+    """
+    result=_is_possessive_pronoun(fr.i_token) and fr.j_entity_type=='PER'
+    print fr.i_token, fr.j_token, "poss_pronoun_per={}".format(result)
+    return "poss_pronoun_per={}".format(result)
+
+def poss_pronoun_relword(fr):
+    """
+    True if i is a possessive pronoun and j is a word for a family relationship or group.
+    From what I can see in the data, they always occur in that order and never in reverse order.
+    """
+    result=_is_possessive_pronoun(fr.i_token) and _is_rel_or_group(fr.j_token)
+    print fr.i_token, fr.j_token, "poss_pronoun_relword={}".format(result)
+    return "poss_pronoun_relword={}".format(result)
+
+def per_relword(fr):
+    """
+    True if i is a PER and j is a word for a family relationship or group,
+    or the other way around.
+    """
+    result=(fr.i_entity_type=="PER" and _is_rel_or_group(fr.j_token)) or \
+           (fr.j_entity_type=="PER" and _is_rel_or_group(fr.i_token))
+    print fr.i_token, fr.j_token, "per_relword={}".format(result)
+    return "per_relword={}".format(result)
+
+def per_org(fr):
+    """
+    True if i is PER and j is ORG or the other way around.
+    """
+    result=(fr.i_entity_type=='PER' and fr.j_entity_type=='ORG') or \
+           (fr.i_entity_type=='ORG' and fr.j_entity_type=='PER')
+    print fr.i_token, fr.j_token, "per_org={}".format(result)
+    return "per_org={}".format(result)
+
+def per_nns(fr):
+    """
+    True if i is PER and j is a plural noun.
+    The hope is that plural nouns will describes groups like "friends" and "neighbors."
+    Of course, that doesn't cover things like "team", "party", or "Beatles", but we can try it.
+    """
+    j_pos=POS_SENTENCES[fr.article][fr.j_sentence][fr.j_offset_begin][1]
+    result=fr.i_entity_type=='PER' and j_pos=='NNS'
+    print fr.i_token, fr.j_token, "per_nns={}".format(result)
+    return "per_nns={}".format(result)
+
+def poss_title(fr):
+    """
+    poss + profession OR title OR official
+    """
+    result=_is_possessive_pronoun(fr.i_token) and (_is_profession(fr.j_token) or _is_official(fr.j_token) or _is_title(fr.j_token))
+    print fr.i_token, fr.j_token, "poss_title={}".format(result)
+    return "poss_title={}".format(result)
+
+def per_title(fr):
+    """
+    per + profession OR title OR official
+    """
+    result=fr.i_entity_type=='PER' and (_is_profession(fr.j_token) or _is_official(fr.j_token) or _is_title(fr.j_token))
+    print fr.i_token, fr.j_token, "per_title={}".format(result)
+    return "per_title={}".format(result)
+
+def nnp_title(fr):
+    """
+    nnp + profession OR title OR official
+    or the other way around
+    """
+    i_pos=POS_SENTENCES[fr.article][fr.i_sentence][fr.i_offset_begin][1]
+    j_pos=POS_SENTENCES[fr.article][fr.j_sentence][fr.j_offset_begin][1]
+    result=(i_pos.startswith("NNP") and (_is_profession(fr.j_token) or _is_official(fr.j_token) or _is_title(fr.j_token))) or \
+           (j_pos.startswith("NNP") and (_is_profession(fr.i_token) or _is_official(fr.i_token) or _is_title(fr.i_token)))
+    print fr.i_token, fr.j_token, "nnp_title={}".format(result)
+    return "nnp_title={}".format(result)
+
+def et1_country(fr):
+    """the entity type of M1 when M2 is a country name"""
+    result=False
+    if _is_country(fr.j_token):
+        result=fr.i_entity_type
+    print fr.i_token, fr.j_token, "et1_country={}".format(result)
+    return "et1_country={}".format(result)
+
+def country_et2(fr):
+    """the entity type of M2 when M1 is a country name"""
+    result=False
+    if _is_country(fr.i_token):
+        result=fr.j_entity_type
+    print fr.i_token, fr.j_token, "country_et2={}".format(result)
+    return "country_et2={}".format(result)
 
 ######################
 # Keelan's functions #

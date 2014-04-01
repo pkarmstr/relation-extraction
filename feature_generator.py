@@ -13,7 +13,7 @@ import argparse
 
 class Featurizer:
 
-    RELATION_CLASSES = {"PHYS", "PER-SOC", "OTHER-AFF", "GPE-AFF", "DISC", "ART"}
+    RELATION_CLASSES = {"PHYS", "PER-SOC", "OTHER-AFF", "GPE-AFF", "DISC", "ART", "EMP-ORG"}
 
 
     def __init__(self, original_data, tree_functions, features, no_tag=False):
@@ -91,6 +91,8 @@ if __name__ == "__main__":
     feature_funcs = feature_list_reader(all_args.feature_list, locals())
 
     data = get_original_data(all_args.input_file)
+    #tree_funcs=[]
+    #feature_funcs=[et1_country,country_et2,poss_pronoun_per,poss_pronoun_relword,per_relword,per_org,per_nns,poss_title,per_title,nnp_title]
     f = Featurizer(data, tree_funcs, feature_funcs, not all_args.answers)
     f.build_features()
     if all_args.answers:
