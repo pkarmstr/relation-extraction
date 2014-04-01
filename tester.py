@@ -7,16 +7,16 @@ __author__ = 'keelan'
 
 class RelTester(unittest.TestCase):
 
-    def setUp(self):
-        self.feats = Featurizer("resources/cleaned-dev.gold", [relation_type])
-
-    def test_build_feats(self):
-        self.feats.build_features()
-
-    def test_lazy_dicts(self):
-        assert RAW_SENTENCES["NYT20001017.1908.0279"][0]
-        assert POS_SENTENCES["NYT20001017.1908.0279"][0]
-        assert SYNTAX_PARSE_SENTENCES["NYT20001017.1908.0279"][0]
+    #def setUp(self):
+    #    self.feats = Featurizer("resources/cleaned-dev.gold", [relation_type])
+    #
+    #def test_build_feats(self):
+    #    self.feats.build_features()
+    #
+    #def test_lazy_dicts(self):
+    #    assert RAW_SENTENCES["NYT20001017.1908.0279"][0]
+    #    assert POS_SENTENCES["NYT20001017.1908.0279"][0]
+    #    assert SYNTAX_PARSE_SENTENCES["NYT20001017.1908.0279"][0]
 
     #################
     ##JULIA'S TESTS##
@@ -90,24 +90,25 @@ class RelTester(unittest.TestCase):
         fr1 = FeatureRow(*line1)
         line2 = "no_rel APW20001023.2100.0686 5 9 10 PER their 5 31 34 ORG Greenwood_Village_police their Greenwood_Village_police".rstrip().split()
         fr2 = FeatureRow(*line2)
-        self.assertTrue(first_phrase_head_inbetween(fr1).split("=")[1]=="[u'penalty']")
-        self.assertTrue(first_phrase_head_inbetween(fr2).split("=")[1]=="[u'Sunday']")
+
+        self.assertTrue(first_np_head_inbetween(fr1).split("=")[1]=="[u'penalty']")
+        self.assertTrue(first_np_head_inbetween(fr2).split("=")[1]=="[u'Sunday']")
 
     def test_last_phrase_head_inbetween(self):
         line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
         fr1 = FeatureRow(*line1)
         line2 = "no_rel APW20001023.2100.0686 5 9 10 PER their 5 31 34 ORG Greenwood_Village_police their Greenwood_Village_police".rstrip().split()
         fr2 = FeatureRow(*line2)
-        self.assertTrue(last_phrase_head_inbetween(fr1).split("=")[1]=="[u'ship']")
-        self.assertTrue(last_phrase_head_inbetween(fr2).split("=")[1]=="[u'wife']")
+        self.assertTrue(last_np_head_inbetween(fr1).split("=")[1]=="[u'ship']")
+        self.assertTrue(last_np_head_inbetween(fr2).split("=")[1]=="[u'wife']")
 
     def test_heads_inbetween(self):
         line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
         fr1 = FeatureRow(*line1)
         line2 = "no_rel APW20001023.2100.0686 5 9 10 PER their 5 31 34 ORG Greenwood_Village_police their Greenwood_Village_police".rstrip().split()
         fr2 = FeatureRow(*line2)
-        heads_in_between(fr1)
-        heads_in_between(fr2)
+        np_heads_in_between(fr1)
+        all_heads_in_between(fr2)
         #self.assertTrue(last_phrase_head_inbetween(fr1).split("=")[1]=="[u'ship']")
         #self.assertTrue(last_phrase_head_inbetween(fr2).split("=")[1]=="[u'wife']")
     def test_first_phrase_head_before_m1(self):
@@ -115,24 +116,49 @@ class RelTester(unittest.TestCase):
         fr1 = FeatureRow(*line1)
         line2 = "no_rel APW20001023.2100.0686 5 9 10 PER their 5 31 34 ORG Greenwood_Village_police their Greenwood_Village_police".rstrip().split()
         fr2 = FeatureRow(*line2)
-        self.assertTrue(first_phrase_head_before_m1(fr1).split("=")[1]=="[u'host']")
-        self.assertTrue(first_phrase_head_before_m1(fr2).split("=")[1]=="[u'dispute']")
+        self.assertTrue(first_np_head_before_m1(fr1).split("=")[1]=="[u'host']")
+        self.assertTrue(first_np_head_before_m1(fr2).split("=")[1]=="[u'dispute']")
 
     def test_second_phrase_head_before_m1(self):
         line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
         fr1 = FeatureRow(*line1)
         line2 = "no_rel APW20001023.2100.0686 5 9 10 PER their 5 31 34 ORG Greenwood_Village_police their Greenwood_Village_police".rstrip().split()
         fr2 = FeatureRow(*line2)
-        self.assertTrue(second_phrase_head_before_m1(fr1).split("=")[1]=="[None]")
-        self.assertTrue(second_phrase_head_before_m1(fr2).split("=")[1]=="[u'Roy']")
+        self.assertTrue(second_np_head_before_m1(fr1).split("=")[1]=="[None]")
+        self.assertTrue(second_np_head_before_m1(fr2).split("=")[1]=="[u'Roy']")
 
     def test_second_phrase_head_before_m2(self):
         line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
         fr1 = FeatureRow(*line1)
         line3="no_rel NYT20001017.1908.0279 9 9 10 ORG companies 9 29 30 GPE Delaware companies Delaware".rstrip().split()
         fr2 = FeatureRow(*line3)
-        self.assertTrue(second_phrase_head_before_m2(fr1).split("=")[1]=="[u'bombing']")
-        self.assertTrue(second_phrase_head_before_m2(fr2).split("=")[1]=="[u'ruling']")
+        self.assertTrue(second_np_head_before_m2(fr1).split("=")[1]=="[u'bombing']")
+        self.assertTrue(second_np_head_before_m2(fr2).split("=")[1]=="[u'ruling']")
+
+    def test_no_phrase_inbetween(self):
+        line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
+        line2 = "EMP-ORG.Member-of-Group.reverse NYT20001019.2136.0319 12 4 5 ORG Republican 12 6 7 PER candidate Republican candidate".rstrip().split()
+        fr1 = FeatureRow(*line1)
+        fr2 = FeatureRow(*line2)
+
+        #print head_word_of_m1(fr1)
+        #print head_word_of_m2(fr1)
+        #print all_heads_in_between(fr1)
+        #print np_heads_in_between(fr1)
+        #print first_head_before_m1(fr1)
+        #print first_np_head_before_m1(fr1)
+        #print first_np_head_inbetween(fr1)
+        #print first_head_inbetween(fr1)
+        #print second_np_head_before_m1(fr1)
+        #print second_head_before_m1(fr1)
+        #print last_np_head_inbetween(fr1)
+        #print last_head_inbetween(fr1)
+        #print second_np_head_before_m2(fr1)
+        #print second_head_before_m2(fr1)
+
+
+
+
 
 
 
