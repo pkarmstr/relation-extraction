@@ -3,10 +3,14 @@ __author__ = 'keelan'
 import os
 import re
 import codecs
+import xml.etree.ElementTree as et
 from collections import defaultdict,namedtuple
 from nltk.tree import Tree,ParentedTree
 from corenlp import parse_parser_xml_results
 from operator import itemgetter
+from nltk.corpus import gazetteers as gz
+from nltk.corpus import wordnet as wn
+
 
 INT_INDEXES = [2, 3, 4, 7, 8, 9]
 
@@ -170,6 +174,25 @@ def pronoun_reader():
             ls.append(line.rstrip())
     return ls
 
+def rels_and_groups_reader():
+    ls = []
+    with open("resources/relationships_and_groups.txt", "r") as f_in:
+        for line in f_in:
+            ls.append(line.rstrip())
+    return ls
+
+def officials_reader():
+    officials=[]
+    for hyponym in wn.synset('skilled_worker.n.01').hyponyms():
+        officials.extend(hyponym.name.split('.')[0].split('_'))
+        for h1 in hyponym.hyponyms():
+            officials.extend(h1.name.split('.')[0].split('_'))
+            for h2 in h1.hyponyms():
+                officials.extend(h2.name.split('.')[0].split('_'))
+                for h3 in h2.hyponyms():
+                    officials.extend(h3.name.split('.')[0].split('_'))
+    return officials
+
 def augmented_tree_reader():
     """
     Converts all nonparented trees into augmented trees. Stores augmented trees in a dict of the form
@@ -261,6 +284,47 @@ def _add_entity(t,tpl,entity_type):
             else: #one-word node
                 grandparent[parent_positions[0][-1]]=new_tree
 
+def stanford_dependency_reader():
+    """
+    Reads in the dependency parses into a dict:
+    dependencies[article][sentence_id][(dependent_index,dependent_token)]=(governor_index,governor_token,dep_type)
+    offset_end is equivalent to the index. For multiword mentions, this will be equivalent to the last word.
+    Note that key=dependent, and value=governor, so we're basically following the arrows backwards.
+    Example:
+    APW20001001.2021.0521
+    	10
+		    ('20', 'said') : ('0', 'ROOT', 'root')
+		    ('2', 'Short') : ('3', 'term', 'amod')
+		    ('3', 'term') : ('8', 'say', 'tmod')
+		    ('5', 'anyone') : ('6', 'objective', 'nn')
+    """
+    dependencies=AutoVivification()
+    for root, dirs, files in os.walk('stanford-full-pipeline'):
+        for file_name in files:
+            article=file_name[:21]
+            #print article
+            f=os.path.join(root,file_name)
+            with open(f, 'r') as article_file:
+                xml_tree=et.parse(article_file)
+                rt=xml_tree.getroot()
+                for sentence in rt.find('document').find('sentences').findall('sentence'):
+                    sentence_id=sentence.attrib['id']
+                    #print '\t',sentence_id
+                    for dep in sentence.findall('dependencies')[0]:
+                        dep_type=dep.attrib['type']
+                        governor=dep.findall('governor')[0]
+                        dependent=dep.findall('dependent')[0]
+                        governor_index=governor.attrib['idx']
+                        dependent_index=dependent.attrib['idx']
+                        governor_token=governor.text
+                        dependent_token=dependent.text
+                        dependencies[article][sentence_id][(dependent_index,dependent_token)]=\
+                            (governor_index,governor_token,dep_type)
+                        #print '\t\t',(dependent_index,dependent_token),":",(governor_index,governor_token,dep_type)
+    return dependencies
+
+
+
 
 
 FeatureRow = namedtuple("FeatureRow", ["relation_type", "article", "i_sentence",
@@ -286,27 +350,44 @@ COREF = SuperLazyDict(all_stanford, stanford_coref_reader)
 PRONOUN_SET = set(pronoun_reader())
 entity_types=gather_entities()
 AUGMENTED_TREES=augmented_tree_reader()
-
-
-TITLE_SET= {"chairman", "Chairman", "director", "Director", "president", "President", "manager", "Manager", "executive",
-            "CEO", "Officer", "officer", "consultant", "Chief", "CFO", "COO", "CTO", "CMO", "founder", "shareholder",
+RELATIONSHIPS_AND_GROUPS=set(rels_and_groups_reader())
+COUNTRIES=set(gz.words('countries.txt'))
+NATIONALITIES=set(gz.words('nationalities.txt'))
+OFFICIALS=officials_reader() #these are bit silly; will probably discard"""
+DEPENDENCIES=stanford_dependency_reader()
+POSSESSIVE_PRONOUNS=['my','mine','your','yours','her','hers','his','our','ours','their','theirs']
+TITLE_SET= {"chairman", "Chairman", "director", "Director", "president", "President", "manager", "managers","Manager", "executive",
+            "CEO", "Officer", "officer", "consultant", "CFO", "COO", "CTO", "CMO", "founder", "shareholder",
             "researcher", "professor", "principal", "Principal", "minister", "Minister", "prime", "Prime", "chief",
             "Chief", "prosecutor", "Prosecutor", "queen", "Queen", "leader", "Leader", "secretary", "Secretary",
             "ex-Leader", "ex-leader", "coach", "Coach", "composer", "Composer", "head", "Head", "governor", "Governor",
             "judge", "Judge", "democrat", "Democrat", "republican", "Republican", "senator", "Senator", "congressman",
             "Congressman", "congresswoman", "Congresswoman", "analyst", "Analyst", "sen", "Sen", "Rep", "rep", "MP",
             "mp", "justice", "Justice", "co-chairwoman", "co-chair", "co-chairman", "Mr.", "mr.", "Mr", "mr", "Ms.",
-            "ms.", "Mrs.", "mrs."}
+            "ms.", "Mrs.", "mrs.","secretary-general","Secretary-General","doctor","Doctor"}
+
+#obtained from WordNet by getting hypernyms of hypernyms of hypernyms of 'professional.n.01'
+#lightly edited
+PROFESSIONS=set(['practitioner', 'homeopath', 'gongorist', 'clinician', 'careerist', 'career', 'man',
+                 'career', 'girl', 'publisher', 'lawyer', 'conveyancer', 'barrister', 'serjeant-at-law', 'counsel',
+                 'counsel', 'defense', 'attorney',
+                 'advocate', 'public', 'defender', 'solicitor', 'law', 'agent', 'referee',
+                 'lawyer', 'prosecutor', 'attorney', 'professional', 'nurse', 'head', 'nurse', 'scrub', 'foster-nurse', 'midwife',
+                 'practical', 'nurse', 'graduate', 'nurse', 'matron', 'visiting', 'nurse', 'registered',
+                 'nurse', 'practitioner', 'nurse-midwife', 'probationer', 'pharmacist', 'pharmacologist',
+                 'practitioner', 'inoculator', 'doctor', 'physician', 'abortionist', 'general',
+                 'practitioner', 'intern', 'physician', 'specialist', 'allergist',
+                 'angiologist', 'gastroenterologist', 'extern', 'veterinarian', 'surgeon', 'dentist', 'periodontist',
+                 'orthodontist', 'pedodontist', 'dental', 'surgeon', 'exodontist', 'prosthodontist', 'endodontist',
+                 'medical', 'officer', 'surgeon', 'surgeon', 'general', 'bonesetter', 'medical', 'assistant',
+                 'electrologist', 'librarian', 'cataloger', 'craftsman', 'critic', 'literary', 'critic', 'educator', 'schoolmaster',
+                 'lector', 'academician', 'professor', 'assistant', 'principal', 'headmistress',
+                 'chancellor', 'headmaster', 'housemaster', 'teacher', 'fellow', 'missionary', 'cyril',
+                 'dancing-master', 'instructress', 'english', 'teacher', 'catechist', 'schoolteacher', 'games-master',
+                 'schoolmarm', 'music', 'teacher', 'piano', 'teacher', 'art', 'teacher', 'governess', 'docent', 'riding',
+                 'master', 'demonstrator', 'preceptor', 'coach', 'envoy'])
 
 if __name__ == "__main__":
-    """outfile=open('test_entity_dict.txt','w')
-    for k,v in entity_types.iteritems():
-        outfile.write(k+'\n')
-        for k2,v2 in v.iteritems():
-            outfile.write('\t'+k2+'\n')
-            for k3,v3 in v2.iteritems():
-                outfile.write('\t\t'+str(k3)+'\t'+v3+'\n')
-
-    outfile.close()"""
+    pass
 
 
