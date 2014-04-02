@@ -4,7 +4,8 @@ import re
 from nltk.tree import ParentedTree
 from nltk.corpus import wordnet as wn
 from nltk.corpus.reader.wordnet import WordNetError as wn_error
-from file_reader import RAW_SENTENCES, SYNTAX_PARSE_SENTENCES, POS_SENTENCES, PRONOUN_SET, entity_types
+from nltk.tree import ParentedTree
+from file_reader import RAW_SENTENCES, SYNTAX_PARSE_SENTENCES, POS_SENTENCES, PRONOUN_SET, entity_types, COREF
 
 ###################
 # basic functions #
@@ -148,7 +149,28 @@ def mention_overlap(fr):
 # Keelan's functions #
 ######################
 
+def rule_resolve(fs):
+    dcoref = COREF[fs.article]
+    for group in dcoref:
+        found_i = False
+        found_j = False
+        for referent in group:
+            if _coref_helper(referent, fs.sentence, fs.offset_begin, fs.offset_end, fs.i_cleaned):
+                found_i = True
+            if _coref_helper(referent, fs.sentence_ref, fs.offset_begin_ref, fs.offset_end_ref, fs.j_cleaned):
+                found_j = True
 
+            if found_i and found_j:
+                return "rule_resolve=True"
+
+    return "rule_resolve=False"
+
+def _coref_helper(i, sentence, offset_begin, offset_end, cleaned):
+    """heuristically, i[2] and i[3] will have a later index, especially i[3]"""
+    cleaned = cleaned.replace("_", " ")
+    return i[1] == sentence and \
+           i[2]-2 <= offset_begin <= i[2] and \
+           i[3]-3 <= offset_end <= i[3]
 
 
 #####################
