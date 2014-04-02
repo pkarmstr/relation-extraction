@@ -434,7 +434,7 @@ def second_word_before_m1(fr):
     try:
         return "second_word_before_m1={}".format([sent[int(mention1[1])-2][0]])
     except IndexError:
-        return "second_word_before_m1=NONE"
+        return "second_word_before_m1=[None]"
 
 def second_word_before_m2(fr):
     """return second word before m2"""
@@ -443,7 +443,7 @@ def second_word_before_m2(fr):
     try:
         return "second_word_before_m2={}".format([sent[int(mention2[1])-2][0]])
     except IndexError:
-        return "second_word_before_m2=NONE"
+        return "second_word_before_m2=[None]"
 
 
 def head_word_of_m1(fr):
