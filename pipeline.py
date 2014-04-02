@@ -18,8 +18,8 @@ class Pipeline:
 
     def set_up(self):
         basedir_contents = os.listdir(self.basedir)
-        files = [f for f in basedir_contents if os.path.isfile(f)]
-        directories = [f for f in basedir_contents if os.path.isdir(f)]
+        files = [f for f in basedir_contents if os.path.isfile(os.path.join(self.basedir, f))]
+        directories = [f for f in basedir_contents if os.path.isdir(os.path.join(f))]
         if "feature_list.txt" not in files or\
             "tree_list.txt" not in files:
             sys.exit("You need feature_list.txt and tree_list.txt in the base directory")
