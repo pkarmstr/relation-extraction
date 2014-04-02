@@ -17,6 +17,7 @@ phrase_heads = {"PP":["IN"],
                 "WHNP":["WDT", "WP",],
                 "ADVP":["RB"]}
 
+
 ###################
 # basic functions #
 ###################
@@ -138,8 +139,7 @@ def same_hypernym(fr):
 
         return "same_hypernym={}".format(False)
 
-    except:
-        wn_error
+    except wn_error:
         return "same_hypernym={}".format(False)
 
 def lowest_common_hypernym(fr):
@@ -163,8 +163,7 @@ def lowest_common_hypernym(fr):
 
         return "lowest_common_hypernym={}".format(lowest_common_hypernym)
 
-    except:
-        wn_error
+    except wn_error:
         return "lowest_common_hypernym={}".format(False)
 
 def et12(fr):
@@ -431,8 +430,7 @@ def second_word_before_m1(fr):
     sent=POS_SENTENCES[fr.article][int(mention1[4])]
     try:
         return "second_word_before_m1={}".format([sent[int(mention1[1])-2][0]])
-    except:
-        IndexError
+    except IndexError:
         return "second_word_before_m1=NONE"
 
 def second_word_before_m2(fr):
@@ -441,8 +439,7 @@ def second_word_before_m2(fr):
     sent=POS_SENTENCES[fr.article][int(mention2[4])]
     try:
         return "second_word_before_m2={}".format([sent[int(mention2[1])-2][0]])
-    except:
-        IndexError
+    except IndexError:
         return "second_word_before_m2=NONE"
 
 
@@ -753,9 +750,14 @@ def phrase_labels_path_with_head(fr):
     #lwca.draw()
     return "phrase_labels_path_with_head={}".format(label_path)
 
-
-
-
+#i'm writing this right now....
+#def _get_antecedent_(mention_tuple):
+#    token = mention_tuple[0][0]
+#    if _is_pronoun(token):
+#
+#    else:
+#        return token
+#
 
 
 
