@@ -6,8 +6,8 @@ from nltk.corpus.reader.wordnet import WordNetError as wn_error
 from file_reader import RAW_SENTENCES, SYNTAX_PARSE_SENTENCES, POS_SENTENCES, PRONOUN_SET, entity_types
 from nltk.tree import ParentedTree
 
-phrase_heads = {"PP":["IN"],"NP":['NN', 'NNS', 'NNP', 'NNPS'],"VP":["VBD","VBZ","VB", "VBP","MD", "VBN"],
-                "ADJP": ["JJ"], "NP-TMP":['NN', 'NNS', 'NNP', 'NNPS']}
+phrase_heads = {"PP":["IN"],"NP":['NN', 'NNS', 'NNP', 'NNPS', 'JJ', "PRP"],"VP":["VBD","VBZ","VB", "VBP","MD", "VBN", "VBP"], #JJ as NP for examples like "many of...".
+                "ADJP": ["JJ"], "NP-TMP":['NN', 'NNS', 'NNP', 'NNPS'], "WHADVP":["WRB"], "WHNP":["WDT", "WP",], "ADVP":["RB"]}
 
 ###################
 # basic functions #
@@ -45,6 +45,34 @@ def _get_lowest_common_ancestor_(fr):
     lwca_tuple=s_tree.treeposition_spanning_leaves(first_entity_index, later_entity_index+1)
     lowest_common_ancestor = s_tree[lwca_tuple]
     return lowest_common_ancestor
+
+def _find_head_of_tree_(tree):
+    result = None
+    if tree.node == "ROOT" or tree.node.startswith("S"):
+        for child in tree:
+            if child.node in ["WHNP", "MD", "VP", "S", "SQ", "SBAR"]:
+                #print child
+                result= _find_head_of_tree_(child)
+                break
+    else:
+        for child in tree:
+            if isinstance(child,ParentedTree):
+                sibling = child.right_sibling()
+                next_is_not_head = isinstance(sibling,ParentedTree) and sibling.node not in phrase_heads[tree.node]
+                if child.node in phrase_heads[tree.node]:
+                    if next_is_not_head:
+                        result= child[0]
+                    elif not isinstance(sibling,ParentedTree):
+                        result= child[0]
+                        break
+                elif child.node == tree.node and next_is_not_head:
+                    result = _find_head_of_tree_(child)
+                    break
+            else:
+                result = child
+    return result
+
+
 
 ####################
 # Anya's functions #
@@ -275,26 +303,16 @@ def head_word_of_m1(fr):
     mention1 = _get_mentions_in_order_(fr)[0]
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
     m1_tuple = s_tree.leaf_treeposition(mention1[1])
-    child_index = m1_tuple[-2]
     parent = s_tree[m1_tuple[0:-2]]
-    head = mention1[0]
-    for child in parent[child_index:]:
-        if child.node in ['NN', 'NNS', 'NNP', 'NNPS']:
-            head = child[0]
-    return "head_word_of_m1={}".format([head])
+    return "head_word_of_m1={}".format([_find_head_of_tree_(parent)])
 
 def head_word_of_m2(fr):
     """return the head of the NP in which M1 occurs"""
     mention2 = _get_mentions_in_order_(fr)[1]
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention2[4]]
     m1_tuple = s_tree.leaf_treeposition(mention2[1])
-    child_index = m1_tuple[-2]
     parent = s_tree[m1_tuple[0:-2]]
-    head = mention2[0]
-    for child in parent[child_index:]:
-        if child.node in ['NN', 'NNS', 'NNP', 'NNPS']:
-            head = child[0]
-    return "head_word_of_m1={}".format([head])
+    return "head_word_of_m1={}".format([_find_head_of_tree_(parent)])
 
 
 def same_head(fr):
@@ -366,7 +384,7 @@ def np_heads_in_between(fr):
         head = None
         sum = 0
         for j,child in enumerate(parent[pos_index:]):
-            if child.node in ['NN', 'NNS', 'NNP', 'NNPS', 'WHNP'] and \
+            if child.node in ['NN', 'NNS', 'NNP', 'NNPS', 'WHNP', "PRP"] and \
                             child[0] != head_of_m1 and child[0]!= head_of_m2:
                 head = child[0]
                 sum = j
@@ -379,6 +397,7 @@ def np_heads_in_between(fr):
     return "np_heads_in_between={}".format(bow_tree)
 
 def all_heads_in_between(fr):
+    """doesn't use the _find_head_of_tree_ helper..."""
     mention1= _get_mentions_in_order_(fr)[0]
     mention2 = _get_mentions_in_order_(fr)[1]
     head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
@@ -394,14 +413,17 @@ def all_heads_in_between(fr):
         sum = 0
         for j,child in enumerate(parent[pos_index:]):
             if parent.node in phrase_heads.keys():
-                if child.node in phrase_heads[parent.node] and \
-                                child[0] != head_of_m1 and child[0]!= head_of_m2:
-                    head = child[0]
-                    sum = j
-
+                if parent.node in phrase_heads.keys():
+                    candidate_head = child.node in phrase_heads[parent.node]
+                    not_head_of_m1 = child[0] != head_of_m1
+                    not_head_of_m2 = child[0] != head_of_m1
+                    if not (isinstance(child.right_sibling(), ParentedTree) and
+                                    child.right_sibling().node in phrase_heads[parent.node]):
+                        if candidate_head and not_head_of_m1 and not_head_of_m2:
+                            head = child[0]
+                            sum = j
         if isinstance(head,unicode):
             heads.append(head)
-        #i += len(parent[pos_index:])+1 I have to go word by word --__--''
         i+=sum +1
 
     children = [ParentedTree(w,["*"]) for w in heads]
@@ -428,7 +450,6 @@ def first_np_head_before_m1(fr):
                             child[0] != head_of_m1:
                 head = child[0]
                 sum = j
-        #i += len(parent[pos_index:])+1
         i+=sum + 1
 
     return "first_np_head_before_m1={}".format([head])
@@ -453,7 +474,6 @@ def first_head_before_m1(fr):
                                 child[0] != head_of_m1:
                     head = child[0]
                     sum = j
-        #i += len(parent[pos_index:])+1
         i+=sum + 1
 
     return "first_head_before_m1={}".format([head])
@@ -476,7 +496,6 @@ def second_np_head_before_m1(fr):
                             child[0] != head_of_m1 and child[0]!=first_head_before_m1:
                 head = child[0]
                 sum = j
-        #i += len(parent[pos_index:])+1
         i+=sum + 1
     return "second_np_head_before_m1={}".format([head])
 
@@ -499,7 +518,6 @@ def second_head_before_m1(fr):
                                 child[0] != head_of_m1 and child[0]!=first_before_m1:
                     head = child[0]
                     sum = j
-        #i += len(parent[pos_index:])+1
         i+=sum+1
     return "second_head_before_m1={}".format([head])
 
@@ -540,29 +558,52 @@ def phrase_labels_path(fr):
     lwca=_get_lowest_common_ancestor_(fr)
     mention1 = _get_mentions_in_order_(fr)[0]
     mention2 = _get_mentions_in_order_(fr)[1]
-    first_entity_index = int(mention1[1])
-    later_entity_index = int(mention2[2])-1
-    left_tree = s_tree[s_tree.leaf_treeposition(first_entity_index)[0:-1]]
-    right_tree= s_tree[s_tree.leaf_treeposition(later_entity_index)[0:-1]]
+    left_tree = s_tree[s_tree.leaf_treeposition(int(mention1[1]))[0:-1]]
+    right_tree= s_tree[s_tree.leaf_treeposition(int(mention2[2])-1)[0:-1]]
     nodes_left_branch = []
     nodes_right_branch=[]
     curr_tree = left_tree
-    while curr_tree.parent()!=lwca:
-        if len(nodes_left_branch)>0 and nodes_left_branch[-1]== curr_tree.node:
-            continue
-        nodes_left_branch.append(curr_tree.node)
+    while curr_tree!=lwca.parent():
+        if not (len(nodes_left_branch)>0 and nodes_left_branch[-1]== curr_tree.node):
+            nodes_left_branch.append(curr_tree.node)
         curr_tree = curr_tree.parent()
     curr_tree = right_tree
-    while curr_tree.parent()!=lwca:
-        if len(nodes_right_branch)>0 and nodes_right_branch[-1]== curr_tree.node:
-            continue
-        nodes_right_branch.append(curr_tree.node)
+    while curr_tree!=lwca:
+        if not (len(nodes_right_branch)>0 and nodes_right_branch[-1]== curr_tree.node):
+            nodes_right_branch.append(curr_tree.node)
         curr_tree = curr_tree.parent()
     nodes_right_branch.reverse()
     path = nodes_left_branch + nodes_right_branch
     children = [ParentedTree(node,["*"]) for node in path]
     label_path = ParentedTree("LP",children)
     return "phrase_labels_path={}".format(label_path)
+
+def phrase_labels_path_with_head(fr):
+    s_tree = SYNTAX_PARSE_SENTENCES[fr.article][int(fr.i_sentence)]
+    lwca=_get_lowest_common_ancestor_(fr)
+    mention1 = _get_mentions_in_order_(fr)[0]
+    mention2 = _get_mentions_in_order_(fr)[1]
+    left_tree = s_tree[s_tree.leaf_treeposition(int(mention1[1]))[0:-1]]
+    right_tree= s_tree[s_tree.leaf_treeposition(int(mention2[2])-1)[0:-1]]
+    nodes_left_branch = []
+    nodes_right_branch=[]
+    curr_tree = left_tree
+    while curr_tree!=lwca:
+        if not (len(nodes_left_branch)>0 and nodes_left_branch[-1].node== curr_tree.node):
+            nodes_left_branch.append(ParentedTree(curr_tree.node,["*"]))
+        curr_tree = curr_tree.parent()
+    if nodes_left_branch[-1].node == lwca.node: nodes_left_branch.pop()
+    nodes_left_branch.append(ParentedTree(lwca.node,[_find_head_of_tree_(lwca)])) #add head of lwca
+    curr_tree = right_tree
+    while curr_tree!=lwca:
+        if not (len(nodes_right_branch)>0 and nodes_right_branch[-1].node== curr_tree.node):
+            nodes_right_branch.append(ParentedTree(curr_tree.node,["*"]))
+        curr_tree = curr_tree.parent()
+    nodes_right_branch.reverse()
+    path = nodes_left_branch + nodes_right_branch
+    label_path = ParentedTree("LP-head",path)
+    lwca.draw()
+    return "phrase_labels_path_with_head={}".format(label_path)
 
 
 

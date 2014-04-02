@@ -140,7 +140,8 @@ class RelTester(unittest.TestCase):
         line2 = "EMP-ORG.Member-of-Group.reverse NYT20001019.2136.0319 12 4 5 ORG Republican 12 6 7 PER candidate Republican candidate".rstrip().split()
         fr1 = FeatureRow(*line1)
         fr2 = FeatureRow(*line2)
-        self.assertTrue(no_phrase_in_between(fr2).endswith("True"))
+        #print all_heads_in_between(fr1)
+        #self.assertTrue(no_phrase_in_between(fr2).endswith("True"))
 
         #print head_word_of_m1(fr1)
         #print head_word_of_m2(fr1)
@@ -158,9 +159,10 @@ class RelTester(unittest.TestCase):
         #print second_head_before_m2(fr1)
 
     def test_path_phrase_labels(self):
-        line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
-        #fr1 = FeatureRow(*line1)
-        #phrase_labels_path(fr1)
+        line1 = "no_rel APW20001001.2021.0521 15 2 3 GPE government 15 35 36 ORG government government government".rstrip().split()
+        fr1 = FeatureRow(*line1)
+        #print phrase_labels_path(fr1)
+        #print phrase_labels_path_with_head(fr1)
 
 
 
@@ -168,7 +170,8 @@ class RelTester(unittest.TestCase):
 
 
     #def test_path_enclosed_tree(self):
-    #    ###doing some tests
+    #    ###SAMPLES FOR TESTING PATH AND CHUNKING FEATURES
+
     #    line1 ="EMP-ORG.Member-of-Group.reverse NYT20001019.2136.0319 12 4 5 ORG Republican 12 6 7 PER candidate Republican candidate".rstrip().split()
     #    line2 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
     #    line3 = "PHYS.Located NYT20001019.2136.0319 25 14 15 FAC preserve 25 16 17 GPE Alaska preserve Alaska".rstrip().split()
@@ -188,6 +191,9 @@ class RelTester(unittest.TestCase):
     #    line7a = "GPE-AFF.Citizen-or-Resident.reverse APW20001120.1450.0376 7 27 28 GPE country 7 33 34 PER groups country groups".rstrip().split()
     #    line33a="no_rel NYT20001123.1511.0062 33 22 23 ORG network 33 34 35 ORG its network its".rstrip().split()
     #    line34a="no_rel NYT20001123.1511.0062 34 21 22 PER columnist 34 23 25 PER ``_You columnist ``_You".rstrip().split()
+    #    line1 = "no_rel APW20001001.2021.0521 3 17 19 PER Bashar_Assad 3 38 39 GPE territories Bashar_Assad territories".rstrip().split()
+    #    line1 = "no_rel APW20001001.2021.0521 15 2 3 GPE government 15 35 36 ORG government government government".rstrip().split()
+    #    line1 = "no_rel APW20001002.0615.0146 3 2 3 GPE Indonesia 3 20 21 PER prosecutors Indonesia prosecutors".rstrip().split()
     #
     #    #fr1 = FeatureRow(*line1)
         #fr2 = FeatureRow(*line2)
