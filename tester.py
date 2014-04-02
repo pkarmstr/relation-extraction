@@ -7,16 +7,16 @@ __author__ = 'keelan'
 
 class RelTester(unittest.TestCase):
 
-    def setUp(self):
-        self.feats = Featurizer("resources/cleaned-dev.gold", [relation_type])
-
-    def test_build_feats(self):
-        self.feats.build_features()
-
-    def test_lazy_dicts(self):
-        assert RAW_SENTENCES["NYT20001017.1908.0279"][0]
-        assert POS_SENTENCES["NYT20001017.1908.0279"][0]
-        assert SYNTAX_PARSE_SENTENCES["NYT20001017.1908.0279"][0]
+    #def setUp(self):
+    #    self.feats = Featurizer("resources/cleaned-dev.gold", [relation_type])
+    #
+    #def test_build_feats(self):
+    #    self.feats.build_features()
+    #
+    #def test_lazy_dicts(self):
+    #    assert RAW_SENTENCES["NYT20001017.1908.0279"][0]
+    #    assert POS_SENTENCES["NYT20001017.1908.0279"][0]
+    #    assert SYNTAX_PARSE_SENTENCES["NYT20001017.1908.0279"][0]
 
     #################
     ##JULIA'S TESTS##
@@ -90,24 +90,25 @@ class RelTester(unittest.TestCase):
         fr1 = FeatureRow(*line1)
         line2 = "no_rel APW20001023.2100.0686 5 9 10 PER their 5 31 34 ORG Greenwood_Village_police their Greenwood_Village_police".rstrip().split()
         fr2 = FeatureRow(*line2)
-        self.assertTrue(first_phrase_head_inbetween(fr1).split("=")[1]=="[u'penalty']")
-        self.assertTrue(first_phrase_head_inbetween(fr2).split("=")[1]=="[u'Sunday']")
+
+        self.assertTrue(first_np_head_inbetween(fr1).split("=")[1]=="[u'penalty']")
+        self.assertTrue(first_np_head_inbetween(fr2).split("=")[1]=="[u'Sunday']")
 
     def test_last_phrase_head_inbetween(self):
         line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
         fr1 = FeatureRow(*line1)
         line2 = "no_rel APW20001023.2100.0686 5 9 10 PER their 5 31 34 ORG Greenwood_Village_police their Greenwood_Village_police".rstrip().split()
         fr2 = FeatureRow(*line2)
-        self.assertTrue(last_phrase_head_inbetween(fr1).split("=")[1]=="[u'ship']")
-        self.assertTrue(last_phrase_head_inbetween(fr2).split("=")[1]=="[u'wife']")
+        self.assertTrue(last_np_head_inbetween(fr1).split("=")[1]=="[u'ship']")
+        self.assertTrue(last_np_head_inbetween(fr2).split("=")[1]=="[u'wife']")
 
     def test_heads_inbetween(self):
         line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
         fr1 = FeatureRow(*line1)
         line2 = "no_rel APW20001023.2100.0686 5 9 10 PER their 5 31 34 ORG Greenwood_Village_police their Greenwood_Village_police".rstrip().split()
         fr2 = FeatureRow(*line2)
-        heads_in_between(fr1)
-        heads_in_between(fr2)
+        np_heads_in_between(fr1)
+        all_heads_in_between(fr2)
         #self.assertTrue(last_phrase_head_inbetween(fr1).split("=")[1]=="[u'ship']")
         #self.assertTrue(last_phrase_head_inbetween(fr2).split("=")[1]=="[u'wife']")
     def test_first_phrase_head_before_m1(self):
@@ -115,8 +116,53 @@ class RelTester(unittest.TestCase):
         fr1 = FeatureRow(*line1)
         line2 = "no_rel APW20001023.2100.0686 5 9 10 PER their 5 31 34 ORG Greenwood_Village_police their Greenwood_Village_police".rstrip().split()
         fr2 = FeatureRow(*line2)
-        self.assertTrue(first_phrase_head_before_m1(fr1).split("=")[1]=="[u'host']")
-        self.assertTrue(first_phrase_head_before_m1(fr2).split("=")[1]=="[u'dispute']")
+        self.assertTrue(first_np_head_before_m1(fr1).split("=")[1]=="[u'host']")
+        self.assertTrue(first_np_head_before_m1(fr2).split("=")[1]=="[u'dispute']")
+
+    def test_second_phrase_head_before_m1(self):
+        line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
+        fr1 = FeatureRow(*line1)
+        line2 = "no_rel APW20001023.2100.0686 5 9 10 PER their 5 31 34 ORG Greenwood_Village_police their Greenwood_Village_police".rstrip().split()
+        fr2 = FeatureRow(*line2)
+        self.assertTrue(second_np_head_before_m1(fr1).split("=")[1]=="[None]")
+        self.assertTrue(second_np_head_before_m1(fr2).split("=")[1]=="[u'Roy']")
+
+    def test_second_phrase_head_before_m2(self):
+        line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
+        fr1 = FeatureRow(*line1)
+        line3="no_rel NYT20001017.1908.0279 9 9 10 ORG companies 9 29 30 GPE Delaware companies Delaware".rstrip().split()
+        fr2 = FeatureRow(*line3)
+        self.assertTrue(second_np_head_before_m2(fr1).split("=")[1]=="[u'bombing']")
+        self.assertTrue(second_np_head_before_m2(fr2).split("=")[1]=="[u'ruling']")
+
+    def test_no_phrase_inbetween(self):
+        line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
+        line2 = "EMP-ORG.Member-of-Group.reverse NYT20001019.2136.0319 12 4 5 ORG Republican 12 6 7 PER candidate Republican candidate".rstrip().split()
+        fr1 = FeatureRow(*line1)
+        fr2 = FeatureRow(*line2)
+        #print all_heads_in_between(fr1)
+        #self.assertTrue(no_phrase_in_between(fr2).endswith("True"))
+
+        #print head_word_of_m1(fr1)
+        #print head_word_of_m2(fr1)
+        #print all_heads_in_between(fr1)
+        #print np_heads_in_between(fr1)
+        #print first_head_before_m1(fr1)
+        #print first_np_head_before_m1(fr1)
+        #print first_np_head_inbetween(fr1)
+        #print first_head_inbetween(fr1)
+        #print second_np_head_before_m1(fr1)
+        #print second_head_before_m1(fr1)
+        #print last_np_head_inbetween(fr1)
+        #print last_head_inbetween(fr1)
+        #print second_np_head_before_m2(fr1)
+        #print second_head_before_m2(fr1)
+
+    def test_path_phrase_labels(self):
+        line1 = "no_rel APW20001001.2021.0521 15 2 3 GPE government 15 35 36 ORG government government government".rstrip().split()
+        fr1 = FeatureRow(*line1)
+        #print phrase_labels_path(fr1)
+        #print phrase_labels_path_with_head(fr1)
 
 
 
@@ -124,7 +170,8 @@ class RelTester(unittest.TestCase):
 
 
     #def test_path_enclosed_tree(self):
-    #    ###doing some tests
+    #    ###SAMPLES FOR TESTING PATH AND CHUNKING FEATURES
+
     #    line1 ="EMP-ORG.Member-of-Group.reverse NYT20001019.2136.0319 12 4 5 ORG Republican 12 6 7 PER candidate Republican candidate".rstrip().split()
     #    line2 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
     #    line3 = "PHYS.Located NYT20001019.2136.0319 25 14 15 FAC preserve 25 16 17 GPE Alaska preserve Alaska".rstrip().split()
@@ -144,9 +191,12 @@ class RelTester(unittest.TestCase):
     #    line7a = "GPE-AFF.Citizen-or-Resident.reverse APW20001120.1450.0376 7 27 28 GPE country 7 33 34 PER groups country groups".rstrip().split()
     #    line33a="no_rel NYT20001123.1511.0062 33 22 23 ORG network 33 34 35 ORG its network its".rstrip().split()
     #    line34a="no_rel NYT20001123.1511.0062 34 21 22 PER columnist 34 23 25 PER ``_You columnist ``_You".rstrip().split()
+    #    line1 = "no_rel APW20001001.2021.0521 3 17 19 PER Bashar_Assad 3 38 39 GPE territories Bashar_Assad territories".rstrip().split()
+    #    line1 = "no_rel APW20001001.2021.0521 15 2 3 GPE government 15 35 36 ORG government government government".rstrip().split()
+    #    line1 = "no_rel APW20001002.0615.0146 3 2 3 GPE Indonesia 3 20 21 PER prosecutors Indonesia prosecutors".rstrip().split()
     #
     #    #fr1 = FeatureRow(*line1)
-    #    #fr2 = FeatureRow(*line2)
+        #fr2 = FeatureRow(*line2)
     #    #fr3 = FeatureRow(*line3)
     #    #fr4 = FeatureRow(*line4)
     #    #fr5 = FeatureRow(*line5)
@@ -163,7 +213,7 @@ class RelTester(unittest.TestCase):
     #    #fr33a=FeatureRow(*line33a)
     #    #fr34a=FeatureRow(*line34a)
     #    fr99 = FeatureRow(*line99)
-    #    path_enclosed_tree(fr9).draw()
+        #path_enclosed_tree(fr2).draw()
 
 
 
