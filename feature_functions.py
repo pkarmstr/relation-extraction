@@ -1,6 +1,7 @@
 __author__ = 'keelan'
 
 import re
+from nltk.tree import ParentedTree
 from nltk.corpus import wordnet as wn
 from nltk.corpus.reader.wordnet import WordNetError as wn_error
 from file_reader import RAW_SENTENCES, SYNTAX_PARSE_SENTENCES, POS_SENTENCES, PRONOUN_SET, entity_types

@@ -6,7 +6,6 @@ import codecs
 from collections import defaultdict,namedtuple
 from nltk.tree import Tree,ParentedTree
 from corenlp import parse_parser_xml_results
-from tree_converter import *
 
 INT_INDEXES = [2, 3, 4, 7, 8, 9]
 
