@@ -13,7 +13,7 @@ import argparse
 
 class Featurizer:
 
-    RELATION_CLASSES = {"PHYS", "PER-SOC", "OTHER-AFF", "GPE-AFF", "DISC", "ART", "EMP-ORG"}
+    RELATION_CLASSES = {"PHYS", "PER-SOC", "OTHER-AFF", "GPE-AFF", "DISC", "ART", "EMP-ORG", "no_rel"}
 
 
     def __init__(self, original_data, tree_functions, features, no_tag=False):
