@@ -6,6 +6,7 @@ from os.path import join
 from subprocess import Popen
 from feature_generator import Featurizer
 from file_reader import feature_list_reader, get_original_data
+from feature_functions import *
 
 class Pipeline:
 
@@ -20,7 +21,8 @@ class Pipeline:
     def set_up(self):
         basedir_contents = os.listdir(self.basedir)
         files = [f for f in basedir_contents if os.path.isfile(join(self.basedir, f))]
-        directories = [f for f in basedir_contents if os.path.isdir(join(f))]
+        directories = [f for f in basedir_contents if os.path.isdir(join(self.basedir, f))]
+
         if "feature_list.txt" not in files or\
             "tree_list.txt" not in files:
             sys.exit("You need feature_list.txt and tree_list.txt in the base directory")
@@ -31,18 +33,20 @@ class Pipeline:
         if "tagged_files" not in directories:
             os.mkdir(join(self.basedir, "tagged_files"))
         self.tree_funcs = feature_list_reader(
-            join(self.basedir, "tree_list.txt"), locals()
+            join(self.basedir, "tree_list.txt"), globals()
         )
         self.feature_funcs = feature_list_reader(
-            join(self.basedir, "feature_list.txt"), locals()
+            join(self.basedir, "feature_list.txt"), globals()
         )
 
     def build_features(self):
         f_training = Featurizer(self.training_data, self.tree_funcs, self.feature_funcs)
+        f_training.build_features()
         f_training.build_relation_class_vectors()
         f_training.write_multiple_vectors(join(self.base_dir, "gold_files"), "train.gold")
 
         f_test = Featurizer(self.test_data, self.tree_funcs, self.feature_funcs, no_tag=True)
+        f_test.build_features()
         f_test.write_no_tag(self.basedir, "{:s}.notag".format(self.type))
 
     def run_svm_learn(self):
