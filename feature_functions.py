@@ -6,7 +6,7 @@ from nltk.corpus.reader.wordnet import WordNetError as wn_error
 from nltk.tree import Tree,ParentedTree
 from file_reader import RAW_SENTENCES, SYNTAX_PARSE_SENTENCES, POS_SENTENCES, PRONOUN_SET, \
     entity_types, RELATIONSHIPS_AND_GROUPS, COUNTRIES, NATIONALITIES, OFFICIALS, PROFESSIONS, \
-    TITLE_SET, POSSESSIVE_PRONOUNS
+    TITLE_SET, POSSESSIVE_PRONOUNS, COREF
 
 phrase_heads = {"PP":["IN"],
                 "NP":['NN', 'NNS', 'NNP', 'NNPS', 'JJ', "PRP"],
