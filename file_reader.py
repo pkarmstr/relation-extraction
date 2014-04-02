@@ -98,6 +98,16 @@ def stanford_general_opener(file_path, f_name):
     with open(os.path.join(file_path, f_name+".head.coref.raw.xml"), "r") as f_in:
         return parse_parser_xml_results(f_in.read())
 
+def stanford_coref_reader(nlp):
+    all_coref_groups = []
+    for group in nlp["coref"]:
+        chain = set()
+        for pair in group:
+            for i in pair:
+                chain.add((i[0], i[1], i[3], i[4]))
+        all_coref_groups.append(chain)
+    return all_coref_groups
+
 def prepare_line(line):
     line = line.rstrip().split()
     if len(line) == 11:
@@ -272,6 +282,7 @@ RAW_SENTENCES = SuperLazyDict(all_stanford, stanford_raw_reader)
 POS_SENTENCES = SuperLazyDict(all_stanford, stanford_pos_reader)
 SYNTAX_PARSE_SENTENCES = SuperLazyDict(all_stanford, stanford_tree_reader)
 NONPARENTED_SENTENCES = SuperLazyDict(all_stanford, stanford_nonparented_tree_reader)
+COREF = SuperLazyDict(all_stanford, stanford_coref_reader)
 PRONOUN_SET = set(pronoun_reader())
 entity_types=gather_entities()
 AUGMENTED_TREES=augmented_tree_reader()
