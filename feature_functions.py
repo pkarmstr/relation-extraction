@@ -36,6 +36,16 @@ def _get_mentions_in_order_(fr):
         mention1 = (fr.j_token,int(fr.j_offset_begin),int(fr.j_offset_end), int(fr.j_entity_type), int(fr.j_sentence))
     return (mention1,mention2)
 
+def _get_lowest_common_ancestor_(fr):
+    s_tree = SYNTAX_PARSE_SENTENCES[fr.article][int(fr.i_sentence)]
+    mention1 = _get_mentions_in_order_(fr)[0]
+    mention2= _get_mentions_in_order_(fr)[1]
+    first_entity_index = int(mention1[1])
+    later_entity_index = int(mention2[2])-1
+    lwca_tuple=s_tree.treeposition_spanning_leaves(first_entity_index, later_entity_index+1)
+    lowest_common_ancestor = s_tree[lwca_tuple]
+    return lowest_common_ancestor
+
 ####################
 # Anya's functions #
 ####################
@@ -322,7 +332,7 @@ def last_np_head_inbetween(fr):
     """
 
     heads = ParentedTree.parse(np_heads_in_between(fr).split("=")[1])
-    head = heads[len(heads)-1].node
+    head = heads[-1].node
     return "last_np_head_inbetween={}".format([u''+head])
 
 
@@ -332,7 +342,7 @@ def last_head_inbetween(fr):
     return the head of the last one
     """
     heads = ParentedTree.parse(all_heads_in_between(fr).split("=")[1])
-    head = heads[len(heads)-1].node
+    head = heads[-1].node
     return "last_head_inbetween={}".format([u''+head])
 
 
@@ -497,65 +507,69 @@ def second_np_head_before_m2(fr):
     """
     return the second to last NP head before m2
     """
-    mention1= _get_mentions_in_order_(fr)[0]
-    mention2 = _get_mentions_in_order_(fr)[1]
-    head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
-    head_of_m2= eval(head_word_of_m2(fr).split("=")[1])[0]
-    s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
-    i = mention1[1]+1
-    last_phrase_head = eval(last_np_head_inbetween(fr).split("=")[1])[0]
-    head = None
-    result = None
-    while i <mention2[1]:
-        word_tuple = s_tree.leaf_treeposition(i)
-        pos_index = word_tuple[-2]
-        parent = s_tree[word_tuple[0:-2]]
-        sum = 0
-        for j,child in enumerate(parent[pos_index:]):
-            if child.node in ['NN', 'NNS', 'NNP', 'NNPS'] and \
-                            child[0] != head_of_m1 and child[0]!= head_of_m2:
-                head = child[0]
-                sum = j
-        i+=sum+1
-        if head != last_phrase_head:
-            result = head
-    return "second_np_head_inbetween={}".format([result])
+    heads = ParentedTree.parse(np_heads_in_between(fr).split("=")[1])
+    if len(heads)>=2:
+        head = heads[-2].node
+        return "second_np_head_before_m2={}".format([u''+head])
+    else:
+        return "second_np_head_before_m2={}".format([None])
+
 
 def second_head_before_m2(fr):
     """
     return the second to last head before m2
     """
-    mention1= _get_mentions_in_order_(fr)[0]
-    mention2 = _get_mentions_in_order_(fr)[1]
-    head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
-    head_of_m2= eval(head_word_of_m2(fr).split("=")[1])[0]
-    s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
-    i = mention1[1]+1
-    last_phrase_head = eval(last_head_inbetween(fr).split("=")[1])[0]
-    head = None
-    result = None
-    while i <mention2[1]:
-        word_tuple = s_tree.leaf_treeposition(i)
-        pos_index = word_tuple[-2]
-        parent = s_tree[word_tuple[0:-2]]
-        sum = 0
-        for j,child in enumerate(parent[pos_index:]):
-            if parent.node in phrase_heads.keys():
-                if child.node in phrase_heads[parent.node] and \
-                                child[0] != head_of_m1 and child[0]!= head_of_m2:
-                    head = child[0]
-                    sum = j
-        i+=sum+1
-        if head != last_phrase_head:
-            result = head
-    return "second_head_before_m2={}".format([result])
+    heads = ParentedTree.parse(all_heads_in_between(fr).split("=")[1])
+    if len(heads)>=2:
+        head = heads[-2].node
+        return "second_head_before_m2={}".format([u''+head])
+    else:
+        return "second_head_before_m2={}".format([None])
 
 def no_words_inbetween(fr):
     """return whether there are words between m1 and m2"""
     return "no_words_inbetween={}".format(len(_get_words_in_between_(fr))==0)
 
 def no_phrase_in_between(fr):
-    print len(ParentedTree.parse(all_heads_in_between(fr).split("=")[1]).leaves())
+    no_phrase = len(ParentedTree.parse(all_heads_in_between(fr).split("=")[1]).leaves()) == 0
+    return "no_phrase_in_between={}".format(no_phrase)
+
+
+def phrase_labels_path(fr):
+    s_tree = SYNTAX_PARSE_SENTENCES[fr.article][int(fr.i_sentence)]
+    lwca=_get_lowest_common_ancestor_(fr)
+    mention1 = _get_mentions_in_order_(fr)[0]
+    mention2 = _get_mentions_in_order_(fr)[1]
+    first_entity_index = int(mention1[1])
+    later_entity_index = int(mention2[2])-1
+    left_tree = s_tree[s_tree.leaf_treeposition(first_entity_index)[0:-1]]
+    right_tree= s_tree[s_tree.leaf_treeposition(later_entity_index)[0:-1]]
+    nodes_left_branch = []
+    nodes_right_branch=[]
+    curr_tree = left_tree
+    while curr_tree.parent()!=lwca:
+        if len(nodes_left_branch)>0 and nodes_left_branch[-1]== curr_tree.node:
+            continue
+        nodes_left_branch.append(curr_tree.node)
+        curr_tree = curr_tree.parent()
+    curr_tree = right_tree
+    while curr_tree.parent()!=lwca:
+        if len(nodes_right_branch)>0 and nodes_right_branch[-1]== curr_tree.node:
+            continue
+        nodes_right_branch.append(curr_tree.node)
+        curr_tree = curr_tree.parent()
+    nodes_right_branch.reverse()
+    path = nodes_left_branch + nodes_right_branch
+    children = [ParentedTree(node,["*"]) for node in path]
+    label_path = ParentedTree("LP",children)
+    return "phrase_labels_path={}".format(label_path)
+
+
+
+
+
+
+
 
 def path_enclosed_tree(fr):
     """****MONSTER FUNCTION!!!!****
@@ -608,8 +622,7 @@ i   n the feature-based methods).
         #print "Index of last word of later entity: ", later_entity_index
         first_tree = s_tree[i_tuple[0:-1]]
         later_tree= s_tree[j_tuple[0:-1]]
-        lwca_tuple=s_tree.treeposition_spanning_leaves(first_entity_index, later_entity_index+1)
-        lowest_common_ancestor = s_tree[lwca_tuple]
+        lowest_common_ancestor = _get_lowest_common_ancestor_(fr)
 
 
 

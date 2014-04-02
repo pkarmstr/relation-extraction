@@ -138,8 +138,9 @@ class RelTester(unittest.TestCase):
     def test_no_phrase_inbetween(self):
         line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
         line2 = "EMP-ORG.Member-of-Group.reverse NYT20001019.2136.0319 12 4 5 ORG Republican 12 6 7 PER candidate Republican candidate".rstrip().split()
-        #fr1 = FeatureRow(*line1)
-        #fr2 = FeatureRow(*line2)
+        fr1 = FeatureRow(*line1)
+        fr2 = FeatureRow(*line2)
+        self.assertTrue(no_phrase_in_between(fr2).endswith("True"))
 
         #print head_word_of_m1(fr1)
         #print head_word_of_m2(fr1)
@@ -155,6 +156,12 @@ class RelTester(unittest.TestCase):
         #print last_head_inbetween(fr1)
         #print second_np_head_before_m2(fr1)
         #print second_head_before_m2(fr1)
+
+    def test_path_phrase_labels(self):
+        line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
+        #fr1 = FeatureRow(*line1)
+        #phrase_labels_path(fr1)
+
 
 
 
@@ -183,7 +190,7 @@ class RelTester(unittest.TestCase):
     #    line34a="no_rel NYT20001123.1511.0062 34 21 22 PER columnist 34 23 25 PER ``_You columnist ``_You".rstrip().split()
     #
     #    #fr1 = FeatureRow(*line1)
-    #    #fr2 = FeatureRow(*line2)
+        #fr2 = FeatureRow(*line2)
     #    #fr3 = FeatureRow(*line3)
     #    #fr4 = FeatureRow(*line4)
     #    #fr5 = FeatureRow(*line5)
@@ -200,7 +207,7 @@ class RelTester(unittest.TestCase):
     #    #fr33a=FeatureRow(*line33a)
     #    #fr34a=FeatureRow(*line34a)
     #    fr99 = FeatureRow(*line99)
-    #    path_enclosed_tree(fr9).draw()
+        #path_enclosed_tree(fr2).draw()
 
 
 
