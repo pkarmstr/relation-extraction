@@ -3,12 +3,14 @@ __author__ = 'keelan'
 import os
 import re
 import codecs
+import xml.etree.ElementTree as et
 from collections import defaultdict,namedtuple
 from nltk.tree import Tree,ParentedTree
 from corenlp import parse_parser_xml_results
 from operator import itemgetter
 from nltk.corpus import gazetteers as gz
 from nltk.corpus import wordnet as wn
+
 
 INT_INDEXES = [2, 3, 4, 7, 8, 9]
 
@@ -272,6 +274,47 @@ def _add_entity(t,tpl,entity_type):
             else: #one-word node
                 grandparent[parent_positions[0][-1]]=new_tree
 
+def stanford_dependency_reader():
+    """
+    Reads in the dependency parses into a dict:
+    dependencies[article][sentence_id][(dependent_index,dependent_token)]=(governor_index,governor_token,dep_type)
+    offset_end is equivalent to the index. For multiword mentions, this will be equivalent to the last word.
+    Note that key=dependent, and value=governor, so we're basically following the arrows backwards.
+    Example:
+    APW20001001.2021.0521
+    	10
+		    ('20', 'said') : ('0', 'ROOT', 'root')
+		    ('2', 'Short') : ('3', 'term', 'amod')
+		    ('3', 'term') : ('8', 'say', 'tmod')
+		    ('5', 'anyone') : ('6', 'objective', 'nn')
+    """
+    dependencies=AutoVivification()
+    for root, dirs, files in os.walk('stanford-full-pipeline'):
+        for file_name in files:
+            article=file_name[:21]
+            #print article
+            f=os.path.join(root,file_name)
+            with open(f, 'r') as article_file:
+                xml_tree=et.parse(article_file)
+                rt=xml_tree.getroot()
+                for sentence in rt.find('document').find('sentences').findall('sentence'):
+                    sentence_id=sentence.attrib['id']
+                    #print '\t',sentence_id
+                    for dep in sentence.findall('dependencies')[0]:
+                        dep_type=dep.attrib['type']
+                        governor=dep.findall('governor')[0]
+                        dependent=dep.findall('dependent')[0]
+                        governor_index=governor.attrib['idx']
+                        dependent_index=dependent.attrib['idx']
+                        governor_token=governor.text
+                        dependent_token=dependent.text
+                        dependencies[article][sentence_id][(dependent_index,dependent_token)]=\
+                            (governor_index,governor_token,dep_type)
+                        #print '\t\t',(dependent_index,dependent_token),":",(governor_index,governor_token,dep_type)
+    return dependencies
+
+
+
 
 
 FeatureRow = namedtuple("FeatureRow", ["relation_type", "article", "i_sentence",
@@ -299,7 +342,8 @@ AUGMENTED_TREES=augmented_tree_reader()
 RELATIONSHIPS_AND_GROUPS=set(rels_and_groups_reader())
 COUNTRIES=set(gz.words('countries.txt'))
 NATIONALITIES=set(gz.words('nationalities.txt'))
-OFFICIALS=officials_reader() #these are bit silly; will probably discard
+OFFICIALS=officials_reader() #these are bit silly; will probably discard"""
+DEPENDENCIES=stanford_dependency_reader()
 POSSESSIVE_PRONOUNS=['my','mine','your','yours','her','hers','his','our','ours','their','theirs']
 TITLE_SET= {"chairman", "Chairman", "director", "Director", "president", "President", "manager", "managers","Manager", "executive",
             "CEO", "Officer", "officer", "consultant", "CFO", "COO", "CTO", "CMO", "founder", "shareholder",
