@@ -6,8 +6,14 @@ from nltk.corpus.reader.wordnet import WordNetError as wn_error
 from file_reader import RAW_SENTENCES, SYNTAX_PARSE_SENTENCES, POS_SENTENCES, PRONOUN_SET, entity_types
 from nltk.tree import ParentedTree
 
-phrase_heads = {"PP":["IN"],"NP":['NN', 'NNS', 'NNP', 'NNPS', 'JJ', "PRP"],"VP":["VBD","VBZ","VB", "VBP","MD", "VBN", "VBP"], #JJ as NP for examples like "many of...".
-                "ADJP": ["JJ"], "NP-TMP":['NN', 'NNS', 'NNP', 'NNPS'], "WHADVP":["WRB"], "WHNP":["WDT", "WP",], "ADVP":["RB"]}
+phrase_heads = {"PP":["IN"],
+                "NP":['NN', 'NNS', 'NNP', 'NNPS', 'JJ', "PRP"],
+                "VP":["VBD","VBZ","VB", "VBP","MD", "VBN", "VBP"], #JJ as NP for examples like "many of...".
+                "ADJP": ["JJ"],
+                "NP-TMP":['NN', 'NNS', 'NNP', 'NNPS'],
+                "WHADVP":["WRB"],
+                "WHNP":["WDT", "WP",],
+                "ADVP":["RB"]}
 
 ###################
 # basic functions #
@@ -29,11 +35,15 @@ def _get_mentions_in_order_(fr):
     """return a pair of tuples. The first one corresponds to mention1 and its info,
     the second one to mention2 and its info. i = mention1 and j=mention2 don't always hold"""
     if int(fr.i_offset_begin)<int(fr.j_offset_begin):
-        mention1 = (fr.i_token,int(fr.i_offset_begin),int(fr.i_offset_end), fr.i_entity_type, int(fr.i_sentence))
-        mention2 = (fr.j_token,int(fr.j_offset_begin),int(fr.j_offset_end), fr.j_entity_type,int(fr.j_sentence))
+        mention1 = (fr.i_token,int(fr.i_offset_begin),
+                    int(fr.i_offset_end), fr.i_entity_type, int(fr.i_sentence))
+        mention2 = (fr.j_token,int(fr.j_offset_begin),
+                    int(fr.j_offset_end), fr.j_entity_type,int(fr.j_sentence))
     else:
-        mention2 = (fr.i_token,int(fr.i_offset_begin),int(fr.i_offset_end), int(fr.i_entity_type), int(fr.i_sentence))
-        mention1 = (fr.j_token,int(fr.j_offset_begin),int(fr.j_offset_end), int(fr.j_entity_type), int(fr.j_sentence))
+        mention2 = (fr.i_token,int(fr.i_offset_begin),
+                    int(fr.i_offset_end), int(fr.i_entity_type), int(fr.i_sentence))
+        mention1 = (fr.j_token,int(fr.j_offset_begin),
+                    int(fr.j_offset_end), int(fr.j_entity_type), int(fr.j_sentence))
     return (mention1,mention2)
 
 def _get_lowest_common_ancestor_(fr):
@@ -58,7 +68,8 @@ def _find_head_of_tree_(tree):
         for child in tree:
             if isinstance(child,ParentedTree):
                 sibling = child.right_sibling()
-                next_is_not_head = isinstance(sibling,ParentedTree) and sibling.node not in phrase_heads[tree.node]
+                next_is_not_head = isinstance(sibling,ParentedTree) and \
+                                   sibling.node not in phrase_heads[tree.node]
                 if child.node in phrase_heads[tree.node]:
                     if next_is_not_head:
                         result= child[0]
@@ -217,11 +228,15 @@ def _get_mentions_in_order_(fr):
     """return a pair of tuples. The first one corresponds to mention1 and its info,
     the second one to mention2 and its info. i = mention1 and j=mention2 don't always hold"""
     if int(fr.i_offset_begin)<int(fr.j_offset_begin):
-        mention1 = (fr.i_token,int(fr.i_offset_begin),int(fr.i_offset_end), fr.i_entity_type, int(fr.i_sentence))
-        mention2 = (fr.j_token,int(fr.j_offset_begin),int(fr.j_offset_end), fr.j_entity_type,int(fr.j_sentence))
+        mention1 = (fr.i_token,int(fr.i_offset_begin),
+                    int(fr.i_offset_end), fr.i_entity_type, int(fr.i_sentence))
+        mention2 = (fr.j_token,int(fr.j_offset_begin),
+                    int(fr.j_offset_end), fr.j_entity_type,int(fr.j_sentence))
     else:
-        mention2 = (fr.i_token,int(fr.i_offset_begin),int(fr.i_offset_end),fr.i_entity_type, int(fr.i_sentence))
-        mention1 = (fr.j_token,int(fr.j_offset_begin),int(fr.j_offset_end), fr.j_entity_type, int(fr.j_sentence))
+        mention2 = (fr.i_token,int(fr.i_offset_begin),
+                    int(fr.i_offset_end),fr.i_entity_type, int(fr.i_sentence))
+        mention1 = (fr.j_token,int(fr.j_offset_begin),
+                    int(fr.j_offset_end), fr.j_entity_type, int(fr.j_sentence))
     return (mention1,mention2)
 
 def bow_mention1(fr):
