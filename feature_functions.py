@@ -617,7 +617,7 @@ def phrase_labels_path_with_head(fr):
     nodes_right_branch.reverse()
     path = nodes_left_branch + nodes_right_branch
     label_path = ParentedTree("LP-head",path)
-    lwca.draw()
+    #lwca.draw()
     return "phrase_labels_path_with_head={}".format(label_path)
 
 
