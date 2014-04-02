@@ -9,13 +9,14 @@ from file_reader import RAW_SENTENCES, SYNTAX_PARSE_SENTENCES, POS_SENTENCES, PR
     TITLE_SET, POSSESSIVE_PRONOUNS, COREF
 
 phrase_heads = {"PP":["IN"],
-                "NP":['NN', 'NNS', 'NNP', 'NNPS', 'JJ', "PRP"],
-                "VP":["VBD","VBZ","VB", "VBP","MD", "VBN", "VBP"], #JJ as NP for examples like "many of...".
+                "NP":['NN', 'NNS', 'NNP', 'NNPS', 'JJ', "PRP"], #JJ as NP for examples like "many of...".
+                "VP":["VBD","VBZ","VB", "VBP","MD", "VBN", "VBP"],
                 "ADJP": ["JJ"],
                 "NP-TMP":['NN', 'NNS', 'NNP', 'NNPS'],
                 "WHADVP":["WRB"],
                 "WHNP":["WDT", "WP",],
                 "ADVP":["RB"]}
+
 
 ###################
 # basic functions #
@@ -32,6 +33,7 @@ def _get_words_in_between_(fr):
     first_token_index = int(mention1[2])
     later_token_index = int(mention2[1])
     w_in_between = sent[first_token_index:later_token_index]
+
     return w_in_between
 def _get_mentions_in_order_(fr):
     """return a pair of tuples. The first one corresponds to mention1 and its info,
@@ -49,6 +51,8 @@ def _get_mentions_in_order_(fr):
     return (mention1,mention2)
 
 def _get_lowest_common_ancestor_(fr):
+    """return the lowest common ancestor tree """
+
     s_tree = SYNTAX_PARSE_SENTENCES[fr.article][int(fr.i_sentence)]
     mention1 = _get_mentions_in_order_(fr)[0]
     mention2= _get_mentions_in_order_(fr)[1]
@@ -59,11 +63,11 @@ def _get_lowest_common_ancestor_(fr):
     return lowest_common_ancestor
 
 def _find_head_of_tree_(tree):
+    """given a tree, return its head word"""
     result = None
     if tree.node == "ROOT" or tree.node.startswith("S"):
         for child in tree:
             if child.node in ["WHNP", "MD", "VP", "S", "SQ", "SBAR"]:
-                #print child
                 result= _find_head_of_tree_(child)
                 break
     else:
@@ -138,8 +142,7 @@ def same_hypernym(fr):
 
         return "same_hypernym={}".format(False)
 
-    except:
-        wn_error
+    except wn_error:
         return "same_hypernym={}".format(False)
 
 def lowest_common_hypernym(fr):
@@ -163,8 +166,7 @@ def lowest_common_hypernym(fr):
 
         return "lowest_common_hypernym={}".format(lowest_common_hypernym)
 
-    except:
-        wn_error
+    except wn_error:
         return "lowest_common_hypernym={}".format(False)
 
 def et12(fr):
@@ -403,14 +405,14 @@ def last_word_inbetween(fr):
     words = _get_words_in_between_(fr)
     return "last_word_inbetween={}".format([words[len(words)-1][0]])
 
-def other_words_inbetween(fr):
+def bow_tree(fr):
     """return words between m1 and m2 excluding the first and last words"""
     words = _get_words_in_between_(fr)
     words.pop(0)
     words.pop()
     children = [ParentedTree(w,["*"]) for w,pos in words]
     bow_tree = ParentedTree("BOW",children)
-    return "other_words_inbetween={}".format(bow_tree)
+    return bow_tree
 
 def first_word_before_m1(fr):
     """return first word before m1"""
@@ -431,8 +433,7 @@ def second_word_before_m1(fr):
     sent=POS_SENTENCES[fr.article][int(mention1[4])]
     try:
         return "second_word_before_m1={}".format([sent[int(mention1[1])-2][0]])
-    except:
-        IndexError
+    except IndexError:
         return "second_word_before_m1=NONE"
 
 def second_word_before_m2(fr):
@@ -441,8 +442,7 @@ def second_word_before_m2(fr):
     sent=POS_SENTENCES[fr.article][int(mention2[4])]
     try:
         return "second_word_before_m2={}".format([sent[int(mention2[1])-2][0]])
-    except:
-        IndexError
+    except IndexError:
         return "second_word_before_m2=NONE"
 
 
@@ -455,7 +455,7 @@ def head_word_of_m1(fr):
     return "head_word_of_m1={}".format([_find_head_of_tree_(parent)])
 
 def head_word_of_m2(fr):
-    """return the head of the NP in which M1 occurs"""
+    """return the head of the NP in which M2 occurs"""
     mention2 = _get_mentions_in_order_(fr)[1]
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention2[4]]
     m1_tuple = s_tree.leaf_treeposition(mention2[1])
@@ -475,9 +475,9 @@ def first_np_head_inbetween(fr):
     if there are other NP between both entities,
     return the head of the first one
     """
-    heads = ParentedTree.parse(np_heads_in_between(fr).split("=")[1])
+    heads = boh_np_tree(fr)
     head = heads[0].node
-    return "first_np_head_inbetween={}".format([u''+head])
+    return "first_np_head_inbetween={}".format([head])
 
 
 def first_head_inbetween(fr):
@@ -486,9 +486,9 @@ def first_head_inbetween(fr):
     return the head of the first one
     """
 
-    heads = ParentedTree.parse(all_heads_in_between(fr).split("=")[1])
+    heads = boh_tree(fr)
     head = heads[0].node
-    return "first_head_inbetween={}".format([u''+head])
+    return "first_head_inbetween={}".format([head])
 
 
 def last_np_head_inbetween(fr):
@@ -497,9 +497,9 @@ def last_np_head_inbetween(fr):
     return the head of the last one
     """
 
-    heads = ParentedTree.parse(np_heads_in_between(fr).split("=")[1])
+    heads = boh_np_tree(fr)
     head = heads[-1].node
-    return "last_np_head_inbetween={}".format([u''+head])
+    return "last_np_head_inbetween={}".format([head])
 
 
 def last_head_inbetween(fr):
@@ -507,14 +507,14 @@ def last_head_inbetween(fr):
     if there are other  phrases inbetween both entities,
     return the head of the last one
     """
-    heads = ParentedTree.parse(all_heads_in_between(fr).split("=")[1])
+    heads = boh_tree(fr)
     head = heads[-1].node
-    return "last_head_inbetween={}".format([u''+head])
+    return "last_head_inbetween={}".format([head])
 
 
-def np_heads_in_between(fr):
+def boh_np_tree(fr):
     """
-    return a BOW tree with the heads of the NPs inbetween
+    return a bag of heads tree with the heads of the NPs inbetween
     mention1 and mention2
 
     """
@@ -541,11 +541,12 @@ def np_heads_in_between(fr):
         i+=sum + 1
 
     children = [ParentedTree(w,["*"]) for w in heads]
-    bow_tree = ParentedTree("BOH-NPs",children)
-    return "np_heads_in_between={}".format(bow_tree)
+    boh_tree = ParentedTree("BOH-NPs",children)
+    return boh_tree
 
-def all_heads_in_between(fr):
-    """doesn't use the _find_head_of_tree_ helper..."""
+def boh_tree(fr):
+    """Return a flatten tree with all heads between m1 and m2"""
+
     mention1= _get_mentions_in_order_(fr)[0]
     mention2 = _get_mentions_in_order_(fr)[1]
     head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
@@ -575,9 +576,8 @@ def all_heads_in_between(fr):
         i+=sum +1
 
     children = [ParentedTree(w,["*"]) for w in heads]
-    bow_tree = ParentedTree("BOH",children)
-    #s_tree.draw()
-    return "all_heads_in_between={}".format(bow_tree)
+    boh_tree = ParentedTree("BOH",children)
+    return boh_tree
 
 def first_np_head_before_m1(fr):
     """
@@ -628,6 +628,7 @@ def first_head_before_m1(fr):
 
 def second_np_head_before_m1(fr):
     """return the second to last NP head before m1"""
+
     mention1= _get_mentions_in_order_(fr)[0]
     head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
@@ -649,6 +650,7 @@ def second_np_head_before_m1(fr):
 
 def second_head_before_m1(fr):
     """return the second to last head before m1"""
+
     mention1= _get_mentions_in_order_(fr)[0]
     head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
@@ -673,35 +675,39 @@ def second_np_head_before_m2(fr):
     """
     return the second to last NP head before m2
     """
-    heads = ParentedTree.parse(np_heads_in_between(fr).split("=")[1])
+    heads = boh_np_tree(fr)
     if len(heads)>=2:
         head = heads[-2].node
-        return "second_np_head_before_m2={}".format([u''+head])
+        return "second_np_head_before_m2={}".format([head])
     else:
-        return "second_np_head_before_m2={}".format([None])
+        return "second_np_head_before_m2=None"
 
 
 def second_head_before_m2(fr):
     """
     return the second to last head before m2
     """
-    heads = ParentedTree.parse(all_heads_in_between(fr).split("=")[1])
+    heads = boh_tree(fr)
     if len(heads)>=2:
         head = heads[-2].node
-        return "second_head_before_m2={}".format([u''+head])
+        return "second_head_before_m2={}".format([head])
     else:
-        return "second_head_before_m2={}".format([None])
+        return "second_head_before_m2=None"
 
 def no_words_inbetween(fr):
     """return whether there are words between m1 and m2"""
     return "no_words_inbetween={}".format(len(_get_words_in_between_(fr))==0)
 
 def no_phrase_in_between(fr):
-    no_phrase = len(ParentedTree.parse(all_heads_in_between(fr).split("=")[1]).leaves()) == 0
+    """return whether there are phrases between both entities"""
+    no_phrase = len(boh_tree(fr).leaves()) == 0
     return "no_phrase_in_between={}".format(no_phrase)
 
 
-def phrase_labels_path(fr):
+def lp_tree(fr):
+    """return a flatten tree with the nodes of the phrases in the path from m1
+    to m2 (duplicates removed)"""
+
     s_tree = SYNTAX_PARSE_SENTENCES[fr.article][int(fr.i_sentence)]
     lwca=_get_lowest_common_ancestor_(fr)
     mention1 = _get_mentions_in_order_(fr)[0]
@@ -724,9 +730,14 @@ def phrase_labels_path(fr):
     path = nodes_left_branch + nodes_right_branch
     children = [ParentedTree(node,["*"]) for node in path]
     label_path = ParentedTree("LP",children)
-    return "phrase_labels_path={}".format(label_path)
+    return label_path
 
-def phrase_labels_path_with_head(fr):
+def lp_head_tree(fr):
+    """
+    return a flatten tree with the nodes of the phrases in the path from m1
+    to m2 (duplicates removed) augmented with the head word of the lowest
+    common ancestor
+    """
     s_tree = SYNTAX_PARSE_SENTENCES[fr.article][int(fr.i_sentence)]
     lwca=_get_lowest_common_ancestor_(fr)
     mention1 = _get_mentions_in_order_(fr)[0]
@@ -750,12 +761,7 @@ def phrase_labels_path_with_head(fr):
     nodes_right_branch.reverse()
     path = nodes_left_branch + nodes_right_branch
     label_path = ParentedTree("LP-head",path)
-    #lwca.draw()
-    return "phrase_labels_path_with_head={}".format(label_path)
-
-
-
-
+    return label_path
 
 
 

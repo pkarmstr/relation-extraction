@@ -42,12 +42,6 @@ class RelTester(unittest.TestCase):
         fr1 = FeatureRow(*line1)
         self.assertTrue(last_word_inbetween(fr1).endswith("[u'in']"))
 
-    def test_other_words_inbetween(self):
-        line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
-        fr1 = FeatureRow(*line1)
-        #print other_words_inbetween(fr1)
-        #self.assertTrue(other_words_inbetween(fr1).split("=")[1] ==
-                        #"[u'candidate', u'on', u'the', u'death', u'penalty', u',', u'the', u'bombing', u'of', u'a', u'Navy', u'ship']")
 
     def test_first_word_before_m1(self):
         line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
@@ -107,10 +101,9 @@ class RelTester(unittest.TestCase):
         fr1 = FeatureRow(*line1)
         line2 = "no_rel APW20001023.2100.0686 5 9 10 PER their 5 31 34 ORG Greenwood_Village_police their Greenwood_Village_police".rstrip().split()
         fr2 = FeatureRow(*line2)
-        np_heads_in_between(fr1)
-        all_heads_in_between(fr2)
-        #self.assertTrue(last_phrase_head_inbetween(fr1).split("=")[1]=="[u'ship']")
-        #self.assertTrue(last_phrase_head_inbetween(fr2).split("=")[1]=="[u'wife']")
+        #boh_np_tree(fr1)
+        #boh_tree(fr2)
+
     def test_first_phrase_head_before_m1(self):
         line1 = "no_rel NYT20001019.2136.0319 12 4 5 ORG Republican 12 19 20 GPE Yemen Republican Yemen".rstrip().split()
         fr1 = FeatureRow(*line1)
@@ -140,13 +133,13 @@ class RelTester(unittest.TestCase):
         line2 = "EMP-ORG.Member-of-Group.reverse NYT20001019.2136.0319 12 4 5 ORG Republican 12 6 7 PER candidate Republican candidate".rstrip().split()
         fr1 = FeatureRow(*line1)
         fr2 = FeatureRow(*line2)
-        #print all_heads_in_between(fr1)
-        #self.assertTrue(no_phrase_in_between(fr2).endswith("True"))
+        #print boh_tree(fr1)
+        self.assertTrue(no_phrase_in_between(fr2).endswith("True"))
 
         #print head_word_of_m1(fr1)
         #print head_word_of_m2(fr1)
-        #print all_heads_in_between(fr1)
-        #print np_heads_in_between(fr1)
+        #print boh_tree(fr1)
+        #print boh_np_tree(fr1)
         #print first_head_before_m1(fr1)
         #print first_np_head_before_m1(fr1)
         #print first_np_head_inbetween(fr1)
@@ -161,8 +154,8 @@ class RelTester(unittest.TestCase):
     def test_path_phrase_labels(self):
         line1 = "no_rel APW20001001.2021.0521 15 2 3 GPE government 15 35 36 ORG government government government".rstrip().split()
         fr1 = FeatureRow(*line1)
-        #print phrase_labels_path(fr1)
-        #print phrase_labels_path_with_head(fr1)
+        #print lp_tree(fr1)
+        #print lp_head_tree(fr1)
 
 
 
