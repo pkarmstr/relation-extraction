@@ -10,6 +10,7 @@ you
 she
 he
 it
+its
 this
 that
 those

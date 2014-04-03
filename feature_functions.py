@@ -42,7 +42,7 @@ def _get_mentions_in_order_(fr):
         mention1 = (fr.i_token,int(fr.i_offset_begin),
                     int(fr.i_offset_end), fr.i_entity_type, int(fr.i_sentence))
         mention2 = (fr.j_token,int(fr.j_offset_begin),
-                    int(fr.j_offset_end), fr.j_entity_type,int(fr.j_sentence))
+                    int(fr.j_offset_end), fr.j_entity_type, int(fr.j_sentence))
     else:
         mention2 = (fr.i_token,int(fr.i_offset_begin),
                     int(fr.i_offset_end), int(fr.i_entity_type), int(fr.i_sentence))
@@ -344,12 +344,20 @@ def _coref_helper(i, sentence, offset_begin, offset_end, cleaned):
 
 
 def i_token(fr):
-    """return the i_token"""
-    return "i_token={}".format(fr.i_token)
+    """return the i_token or the antecedent if i is a pronoun"""
+    i_mention = (fr.i_token,int(fr.i_offset_begin),
+                 int(fr.i_offset_end), fr.i_entity_type, int(fr.i_sentence))
+    antecedent = _get_antecedent_(i_mention,fr.article)[0]
+    token = "_".join(antecedent.split())
+    return "i_token={}".format(token)
 
 def j_token(fr):
-    """ return the j_token"""
-    return "j_token={}".format(fr.j_token)
+    """ return the j_token or the antecedent if j is a pronoun"""
+    j_mention = (fr.j_token,int(fr.j_offset_begin),
+                 int(fr.j_offset_end), fr.j_entity_type, int(fr.j_sentence))
+    antecedent = _get_antecedent_(j_mention,fr.article)[0]
+    token = "_".join(antecedent.split())
+    return "j_token={}".format(token)
 
 def i_entity_type(fr):
     """return i_entity type"""
@@ -377,14 +385,16 @@ def _get_mentions_in_order_(fr):
 def bow_mention1(fr):
     """return the words in mention2 eg. [George,Bush]"""
     mention1 = _get_mentions_in_order_(fr)[0]
-    mention_token = mention1[0]
-    return "bow_mention1={}".format(mention_token.split("_"))
+    mention_token = _get_antecedent_(mention1,fr.article)[0]
+    token = mention_token.split()
+    return "bow_mention1={}".format(token)
 
 def bow_mention2(fr):
     """return the words in mention2"""
     mention2 = _get_mentions_in_order_(fr)[1]
-    mention_token = mention2[0]
-    return "bow_mention1={}".format(mention_token.split("_"))
+    mention_token = _get_antecedent_(mention2,fr.article)[0]
+    token = mention_token.split()
+    return "bow_mention2={}".format(token)
 
 def _get_words_in_between_(fr):
     """return the words between m1 and m2"""
@@ -396,14 +406,14 @@ def _get_words_in_between_(fr):
     w_in_between = sent[first_token_index:later_token_index]
     return w_in_between
 
-def first_word_inbetween(fr):
+def first_word_in_between(fr):
     """return the first word between m1 and m2"""
-    return "first_word_inbetween={}".format([_get_words_in_between_(fr)[0][0]])
+    return "first_word_in_between={}".format([_get_words_in_between_(fr)[0][0]])
 
-def last_word_inbetween(fr):
+def last_word_in_between(fr):
     """return the last word between m1 and m2"""
     words = _get_words_in_between_(fr)
-    return "last_word_inbetween={}".format([words[len(words)-1][0]])
+    return "last_word_in_between={}".format([words[len(words)-1][0]])
 
 def bow_tree(fr):
     """return words between m1 and m2 excluding the first and last words"""
@@ -446,41 +456,68 @@ def second_word_before_m2(fr):
         return "second_word_before_m2=[None]"
 
 
-def head_word_of_m1(fr):
+def head_of_m1_coref(fr):
+    """return the head of the NP in which M1 occurs"""
+    mention1 = _get_mentions_in_order_(fr)[0]
+    pos=POS_SENTENCES[fr.article][mention1[4]][mention1[1]][1]
+    if pos == "PRP": #don't check antecedent with possessive pronouns, just personal pronouns
+        antecedent = _get_antecedent_(mention1,fr.article)
+        s_tree=SYNTAX_PARSE_SENTENCES[fr.article][antecedent[3]]
+        m1_tuple = s_tree.leaf_treeposition(antecedent[1])
+    else:
+        s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
+        m1_tuple = s_tree.leaf_treeposition(mention1[1])
+    parent = s_tree[m1_tuple[0:-2]]
+    return "head_of_m1_coref={}".format([_find_head_of_tree_(parent)])
+
+def head_of_m2_coref(fr):
+    """return the head of the NP in which M2 occurs"""
+    mention2 = _get_mentions_in_order_(fr)[1]
+    pos=POS_SENTENCES[fr.article][mention2[4]][mention2[1]][1]
+    if pos == "PRP": #pronoun, do everyting for antecedent
+        antecedent = _get_antecedent_(mention2,fr.article)
+        s_tree=SYNTAX_PARSE_SENTENCES[fr.article][antecedent[3]]
+        m2_tuple = s_tree.leaf_treeposition(antecedent[1])
+    else:
+        s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention2[4]]
+        m2_tuple = s_tree.leaf_treeposition(mention2[1])
+    parent = s_tree[m2_tuple[0:-2]]
+    return "head_of_m2_coref={}".format([_find_head_of_tree_(parent)])
+
+def _head_of_m1_(fr):
     """return the head of the NP in which M1 occurs"""
     mention1 = _get_mentions_in_order_(fr)[0]
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
     m1_tuple = s_tree.leaf_treeposition(mention1[1])
     parent = s_tree[m1_tuple[0:-2]]
-    return "head_word_of_m1={}".format([_find_head_of_tree_(parent)])
+    return _find_head_of_tree_(parent)
 
-def head_word_of_m2(fr):
-    """return the head of the NP in which M2 occurs"""
+def _head_of_m2_(fr):
+    """return the head of the NP in which M1 occurs"""
     mention2 = _get_mentions_in_order_(fr)[1]
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention2[4]]
     m1_tuple = s_tree.leaf_treeposition(mention2[1])
     parent = s_tree[m1_tuple[0:-2]]
-    return "head_word_of_m1={}".format([_find_head_of_tree_(parent)])
-
+    return _find_head_of_tree_(parent)
 
 def same_head(fr):
     """return whether both entities have the same head"""
-    mention1_head = head_word_of_m1(fr).split("=")[1]
-    mention2_head = head_word_of_m2(fr).split("=")[1]
+    mention1_head = head_of_m1_coref(fr).split("=")[1]
+    mention2_head = head_of_m2_coref(fr).split("=")[1]
     return "same_head={}".format(mention1_head == mention2_head)
 
 
-def first_np_head_inbetween(fr):
+def first_np_head_in_between(fr):
     """
     if there are other NP between both entities,
     return the head of the first one
     """
     heads = boh_np_tree(fr)
     head = heads[0].node
-    return "first_np_head_inbetween={}".format([head])
+    return "first_np_head_in_between={}".format([head])
 
 
-def first_head_inbetween(fr):
+def first_head_in_between(fr):
     """
     if there are other phrases between both entities,
     return the head of the first one
@@ -488,10 +525,10 @@ def first_head_inbetween(fr):
 
     heads = boh_tree(fr)
     head = heads[0].node
-    return "first_head_inbetween={}".format([head])
+    return "first_head_in_between={}".format([head])
 
 
-def last_np_head_inbetween(fr):
+def last_np_head_in_between(fr):
     """
     if there are other NP phrases in-between both entities,
     return the head of the last one
@@ -499,29 +536,29 @@ def last_np_head_inbetween(fr):
 
     heads = boh_np_tree(fr)
     head = heads[-1].node
-    return "last_np_head_inbetween={}".format([head])
+    return "last_np_head_in_between={}".format([head])
 
 
-def last_head_inbetween(fr):
+def last_head_in_between(fr):
     """
-    if there are other  phrases inbetween both entities,
+    if there are other  phrases in_between both entities,
     return the head of the last one
     """
     heads = boh_tree(fr)
     head = heads[-1].node
-    return "last_head_inbetween={}".format([head])
+    return "last_head_in_between={}".format([head])
 
 
 def boh_np_tree(fr):
     """
-    return a bag of heads tree with the heads of the NPs inbetween
+    return a bag of heads tree with the heads of the NPs in_between
     mention1 and mention2
 
     """
     mention1= _get_mentions_in_order_(fr)[0]
     mention2 = _get_mentions_in_order_(fr)[1]
-    head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
-    head_of_m2= eval(head_word_of_m2(fr).split("=")[1])[0]
+    head_of_m1= _head_of_m1_(fr)
+    head_of_m2= _head_of_m2_(fr)
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
     i = mention1[1]+1
     heads = []
@@ -549,8 +586,8 @@ def boh_tree(fr):
 
     mention1= _get_mentions_in_order_(fr)[0]
     mention2 = _get_mentions_in_order_(fr)[1]
-    head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
-    head_of_m2= eval(head_word_of_m2(fr).split("=")[1])[0]
+    head_of_m1= _head_of_m1_(fr)
+    head_of_m2= _head_of_m2_(fr)
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
     i = mention1[1]+1
     heads = []
@@ -565,7 +602,7 @@ def boh_tree(fr):
                 if parent.node in phrase_heads.keys():
                     candidate_head = child.node in phrase_heads[parent.node]
                     not_head_of_m1 = child[0] != head_of_m1
-                    not_head_of_m2 = child[0] != head_of_m1
+                    not_head_of_m2 = child[0] != head_of_m2
                     if not (isinstance(child.right_sibling(), ParentedTree) and
                                     child.right_sibling().node in phrase_heads[parent.node]):
                         if candidate_head and not_head_of_m1 and not_head_of_m2:
@@ -584,7 +621,7 @@ def first_np_head_before_m1(fr):
     return the head of the first NP before mention1
     """
     mention1= _get_mentions_in_order_(fr)[0]
-    head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
+    head_of_m1= _head_of_m1_(fr)
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
     i = 0
     head = None
@@ -607,7 +644,7 @@ def first_head_before_m1(fr):
     return the head of the first phrase before mention1
     """
     mention1= _get_mentions_in_order_(fr)[0]
-    head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
+    head_of_m1= _head_of_m1_(fr)
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
     i = 0
     head = None
@@ -630,7 +667,7 @@ def second_np_head_before_m1(fr):
     """return the second to last NP head before m1"""
 
     mention1= _get_mentions_in_order_(fr)[0]
-    head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
+    head_of_m1= _head_of_m1_(fr)
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
     first_head_before_m1 = eval(first_np_head_before_m1(fr).split("=")[1])[0]
     i = 0
@@ -652,7 +689,7 @@ def second_head_before_m1(fr):
     """return the second to last head before m1"""
 
     mention1= _get_mentions_in_order_(fr)[0]
-    head_of_m1= eval(head_word_of_m1(fr).split("=")[1])[0]
+    head_of_m1= _head_of_m1_(fr)
     s_tree=SYNTAX_PARSE_SENTENCES[fr.article][mention1[4]]
     first_before_m1 = eval(first_head_before_m1(fr).split("=")[1])[0]
     i = 0
@@ -694,9 +731,9 @@ def second_head_before_m2(fr):
     else:
         return "second_head_before_m2=None"
 
-def no_words_inbetween(fr):
+def no_words_in_between(fr):
     """return whether there are words between m1 and m2"""
-    return "no_words_inbetween={}".format(len(_get_words_in_between_(fr))==0)
+    return "no_words_in_between={}".format(len(_get_words_in_between_(fr))==0)
 
 def no_phrase_in_between(fr):
     """return whether there are phrases between both entities"""
@@ -765,24 +802,64 @@ def lp_head_tree(fr):
 
 
 
+def _get_antecedent_(mention_tuple, article):
+    """If the token is a pronound, return its antecedent. Else,
+    return the pronoun.
+    Return as (token,start,end,sentence)"""
+
+    target_group = None
+    mention_referent = None
+    if _is_pronoun(mention_tuple[0]):
+        dcoref = COREF[article]
+        for group in dcoref:
+            for referent in group:
+                if referent[1] == mention_tuple[4] and referent[2] == mention_tuple[1]:
+                    target_group = group
+                    break
+            if isinstance(target_group,set):
+                break
+        try:
+            for referent in target_group:
+                if referent == mention_referent:
+                    continue
+                else:
+                    text = referent[0]
+                    sent = referent[1]
+                    end = referent[3]-1
+                    start = referent[2]
+                    text_tag = POS_SENTENCES[article][sent][end][1]
+                    if text_tag in ["NNP","NNPS"]:
+                        antecedent = (text,start,end,sent)
+                        break
+                    elif text_tag in ["NN","NNS"]:
+                        antecedent = (text,start,end,sent)
+            return antecedent
+        except TypeError: #sometimes sentence indices in COREF and our data don't match
+            return (mention_tuple[0], mention_tuple[1], mention_tuple[2],mention_tuple[4])
+
+    else:
+        return (mention_tuple[0], mention_tuple[1], mention_tuple[2],mention_tuple[4])
+
+
+
 
 def path_enclosed_tree(fr):
     """****MONSTER FUNCTION!!!!****
     Return the path enclosed tree between m1 and m2 as PatentedTree
     The path enclosed tree is the smallest common
-    sub-tree including the two entities, but not necessary the lowest_common_ancestor. In other
+    sub-tree including the two entities [JB:but not necessary the lowest_common_ancestor]. In other
     words, the sub-tree is enclosed by the shortest
     path linking the two entities in the parse tree (this
-    path is also commonly-used as the path tree feature
-i   n the feature-based methods).
-
+    path is also commonly-used as the path tree feature in the feature-based methods)
+    [Zhang et al. 2006]
+    [JB]:
     That is, the path enclosed tree includes mention1, and every branch to the right of it, until
-    mention2. In this function, the path enclosed tree built in the following way:
-    the left branch of it includes mention1 and branches to right of it that still are on the left child
+    mention2. In this function, the path enclosed tree is built in the following way:
+    the left branch of it includes mention1 and branches to the right of it that still are on the left child
     of the lowest common ancestor. The right branch of the path-enclosed tree includes mention2, and the
-    branches to the right of it that are on the right child of the lowest common ancestor.
+    branches to the left of it that are on the right child of the lowest common ancestor.
     Both branches are merged in one tree, with the lowest_common_ancestor node, yielding the
-    path eclosed tree.
+    path enclosed tree.
     """
 
 
