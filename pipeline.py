@@ -85,7 +85,7 @@ class Pipeline:
         return float(line.rstrip())
 
     def translate_svm_output(self):
-        relation_class = ["PHYS", "PER-SOC", "OTHER-AFF", "GPE-AFF", "DISC", "ART", "EMP-ORG", "no_rel"]
+        relation_class = ["PHYS", "PER-SOC", "OTHER-AFF", "GPE-AFF", "DISC", "ART", "EMP-ORG"]
         file_locations = [join(self.basedir, "tagged_files", "{:s}.tagged".format(f)) for f in relation_class]
         relation_ids = zip(relation_class, file_locations)
         max_type = []
@@ -112,7 +112,7 @@ class Pipeline:
         self.set_up()
         print "[DONE]"
         print "building features..."
-        #self.build_features()
+        self.build_features()
         print "built all features"
         print "building the models..."
         self.run_svm_learn()
