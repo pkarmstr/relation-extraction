@@ -30,9 +30,9 @@ class Featurizer:
             new_row = []
             if not self.no_tag:
                 new_row.append(feats.relation_type)
-            for func in self.tree_functions:
+            """for func in self.tree_functions:
                 new_row.append("|BT|")
-                new_row.append(func(feats)._pprint_flat('', '()', False))
+                new_row.append(func(feats)._pprint_flat('', '()', False))"""
             new_row.append("|ET|")
             if self.feature_functions:
                 for i,func in self.feature_functions:

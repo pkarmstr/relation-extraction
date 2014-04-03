@@ -6,7 +6,7 @@ from nltk.corpus.reader.wordnet import WordNetError as wn_error
 from nltk.tree import Tree,ParentedTree
 from file_reader import RAW_SENTENCES, SYNTAX_PARSE_SENTENCES, POS_SENTENCES, PRONOUN_SET, \
     entity_types, RELATIONSHIPS_AND_GROUPS, COUNTRIES, NATIONALITIES, OFFICIALS, PROFESSIONS, \
-    TITLE_SET, POSSESSIVE_PRONOUNS, COREF
+    TITLE_SET, POSSESSIVE_PRONOUNS, COREF, DEPENDENCIES
 
 phrase_heads = {"PP":["IN"],
                 "NP":['NN', 'NNS', 'NNP', 'NNPS', 'JJ', "PRP"],
@@ -138,8 +138,7 @@ def same_hypernym(fr):
 
         return "same_hypernym={}".format(False)
 
-    except:
-        wn_error
+    except wn_error:
         return "same_hypernym={}".format(False)
 
 def lowest_common_hypernym(fr):
@@ -163,8 +162,7 @@ def lowest_common_hypernym(fr):
 
         return "lowest_common_hypernym={}".format(lowest_common_hypernym)
 
-    except:
-        wn_error
+    except wn_error:
         return "lowest_common_hypernym={}".format(False)
 
 def et12(fr):
@@ -196,25 +194,53 @@ def mention_overlap(fr):
 
 #### gazetter features start here; might be useless, but they're fun to try ####
 def _is_rel_or_group(token):
-    return any(token.lower().split('_')) in RELATIONSHIPS_AND_GROUPS
+    result=False
+    for word in token.split('_'):
+        if word.lower() in RELATIONSHIPS_AND_GROUPS:
+            result=True
+    return result
 
 def _is_country(token):
-    return any(token.title().split('_')) in COUNTRIES
+    result=False
+    for word in token.split('_'):
+        if word.title() in COUNTRIES:
+            result=True
+    return result
 
 def _is_nationality(token):
-    return any(token.title().split('_')) in NATIONALITIES
+    result=False
+    for word in token.split('_'):
+        if word.title() in NATIONALITIES:
+            result=True
+    return result
 
 def _is_official(token):
-    return any(token.lower().split('_')) in OFFICIALS
+    result=False
+    for word in token.split('_'):
+        if word.lower() in OFFICIALS:
+            result=True
+    return result
 
 def _is_profession(token):
-    return any(token.lower().split('_')) in PROFESSIONS
+    result=False
+    for word in token.split('_'):
+        if word.lower() in PROFESSIONS:
+            result=True
+    return result
 
 def _is_title(token):
-    return any(token.lower().split('_')) in TITLE_SET
+    result=False
+    for word in token.split('_'):
+        if word.lower() in TITLE_SET:
+            result=True
+    return result
 
 def _is_possessive_pronoun(token):
-    return any(token.lower().split('_')) in POSSESSIVE_PRONOUNS
+    result=False
+    for word in token.split('_'):
+        if word.lower() in POSSESSIVE_PRONOUNS:
+            result=True
+    return result
 
 def poss_pronoun_per(fr):
     """
@@ -290,6 +316,7 @@ def nnp_title(fr):
     result=(i_pos.startswith("NNP") and (_is_profession(fr.j_token) or _is_official(fr.j_token) or _is_title(fr.j_token))) or \
            (j_pos.startswith("NNP") and (_is_profession(fr.i_token) or _is_official(fr.i_token) or _is_title(fr.i_token)))
     print fr.i_token, fr.j_token, "nnp_title={}".format(result)
+    print
     return "nnp_title={}".format(result)
 
 def et1_country(fr):
@@ -297,7 +324,7 @@ def et1_country(fr):
     result=False
     if _is_country(fr.j_token):
         result=fr.i_entity_type
-    print fr.i_token, fr.j_token, "et1_country={}".format(result)
+    #print fr.i_token, fr.j_token, "et1_country={}".format(result)
     return "et1_country={}".format(result)
 
 def country_et2(fr):
@@ -305,8 +332,59 @@ def country_et2(fr):
     result=False
     if _is_country(fr.i_token):
         result=fr.j_entity_type
-    print fr.i_token, fr.j_token, "country_et2={}".format(result)
+    #print fr.i_token, fr.j_token, "country_et2={}".format(result)
     return "country_et2={}".format(result)
+
+# dependency features
+def et1_dw1(fr):
+    """combination of the entity type and the dependent word(s) for M1"""
+    #print fr.article
+    #print DEPENDENCIES[fr.article].has_key(int(fr.i_sentence))
+    et1_dependencies=DEPENDENCIES[fr.article][int(fr.i_sentence)+1]
+
+    dep_list=[dep_word for (dep_index,dep_word),(gov_index,gov_word,dep_type) in et1_dependencies.items() if int(fr.i_offset_end)==gov_index]
+    #print fr.i_token, fr.j_token, "et1_dw1={},{}".format(fr.i_entity_type,dep_list)
+    #print et1_dependencies.items()
+    #print
+    return "et1_dw1={},{}".format(fr.i_entity_type,dep_list)
+
+def h1_dw1(fr):
+    """combination of the head word (=last word for now) and the dependent word(s) for M1"""
+    #print fr.article
+    #print DEPENDENCIES[fr.article].has_key(int(fr.i_sentence))
+    et1_dependencies=DEPENDENCIES[fr.article][int(fr.i_sentence)+1]
+
+    dep_list=[dep_word for (dep_index,dep_word),(gov_index,gov_word,dep_type) in et1_dependencies.items() if int(fr.i_offset_end)==gov_index]
+    print fr.i_token, fr.j_token, "h1_dw1={},{}".format(fr.i_token.split('_')[-1],dep_list)
+    #print et1_dependencies.items()
+    #print
+    return "h1_dw1={},{}".format(fr.i_token.split('_')[-1],dep_list)
+
+def et2_dw2(fr):
+    """combination of the entity type and the dependent word(s) for M2"""
+    #print fr.article
+    #print DEPENDENCIES[fr.article].has_key(int(fr.i_sentence))
+    et2_dependencies=DEPENDENCIES[fr.article][int(fr.i_sentence)+1]
+
+    dep_list=[dep_word for (dep_index,dep_word),(gov_index,gov_word,dep_type) in et2_dependencies.items() if int(fr.j_offset_end)==gov_index]
+    #print fr.i_token, fr.j_token, "et2_dw2={},{}".format(fr.j_entity_type,dep_list)
+    #print et1_dependencies.items()
+    #print
+    return "et2_dw2={},{}".format(fr.j_entity_type,dep_list)
+
+def h2_dw2(fr):
+    """combination of the head word (=last word for now) and the dependent word(s) for M1"""
+    #print fr.article
+    #print DEPENDENCIES[fr.article].has_key(int(fr.i_sentence))
+    et2_dependencies=DEPENDENCIES[fr.article][int(fr.i_sentence)+1]
+
+    dep_list=[dep_word for (dep_index,dep_word),(gov_index,gov_word,dep_type) in et2_dependencies.items() if int(fr.j_offset_end)==gov_index]
+    #print fr.i_token, fr.j_token, "h2_dw2={},{}".format(fr.i_token.split('_')[-1],dep_list)
+    #print et1_dependencies.items()
+    #print
+    return "h2_dw2={},{}".format(fr.j_token.split('_')[-1],dep_list)
+
+
 
 ######################
 # Keelan's functions #
