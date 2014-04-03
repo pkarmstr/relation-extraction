@@ -3,6 +3,8 @@ __author__ = 'keelan'
 import sys
 import os
 import shlex
+import linecache
+from operator import itemgetter
 from os.path import join
 from subprocess import Popen, PIPE
 from feature_generator import Featurizer
@@ -87,12 +89,23 @@ class Pipeline:
         file_locations = [join(self.basedir, "tagged_files", "{:s}.tagged".format(f)) for f in relation_class]
         relation_ids = list(enumerate(zip(relation_class, file_locations)))
         max_type = []
+        class_indices = []
+        """
+        with open(join(self.basedir, "tagged_files", "no_rel.tagged"), "r") as f_in:
+            for i,line in enumerate(f_in):
+                val = self._prepare_line(line)
+                if val <= 0:
+                    class_indices.append(i)
+                    max_type.append(("no_rel", -10000)) #giant magic number
+                else:
+                    max_type.append(("no_rel", val))
+        """
         for i,(rel_class,f) in relation_ids:
             with open(f, "r") as f_in:
                 for line_index,line in enumerate(f_in):
                     val = self._prepare_line(line)
                     try:
-                        max_type[line_index] = (rel_class, max(max_type[line_index][1], val))
+                        max_type[line_index] = max([max_type[line_index], (rel_class, val)], key=itemgetter(1))
                     except IndexError:
                         max_type.append((rel_class, val))
         return zip(*max_type)[0]
