@@ -87,10 +87,9 @@ class Pipeline:
     def translate_svm_output(self):
         relation_class = ["PHYS", "PER-SOC", "OTHER-AFF", "GPE-AFF", "DISC", "ART", "EMP-ORG", "no_rel"]
         file_locations = [join(self.basedir, "tagged_files", "{:s}.tagged".format(f)) for f in relation_class]
-        relation_ids = list(enumerate(zip(relation_class, file_locations)))
+        relation_ids = zip(relation_class, file_locations)
         max_type = []
         class_indices = []
-        """
         with open(join(self.basedir, "tagged_files", "no_rel.tagged"), "r") as f_in:
             for i,line in enumerate(f_in):
                 val = self._prepare_line(line)
@@ -99,15 +98,13 @@ class Pipeline:
                     max_type.append(("no_rel", -10000)) #giant magic number
                 else:
                     max_type.append(("no_rel", val))
-        """
-        for i,(rel_class,f) in relation_ids:
-            with open(f, "r") as f_in:
-                for line_index,line in enumerate(f_in):
-                    val = self._prepare_line(line)
-                    try:
-                        max_type[line_index] = max([max_type[line_index], (rel_class, val)], key=itemgetter(1))
-                    except IndexError:
-                        max_type.append((rel_class, val))
+
+        for rel_class,f in relation_ids:
+            for index in class_indices:
+                val = self._prepare_line(linecache.getline(f, index))
+                if val > max_type[index][1]:
+                    max_type[index] = (rel_class, val)
+            linecache.clearcache()
         return zip(*max_type)[0]
 
     def run(self):
