@@ -4,7 +4,7 @@ import sys
 import os
 import shlex
 from os.path import join
-from subprocess import Popen
+from subprocess import Popen, PIPE
 from feature_generator import Featurizer
 from file_reader import feature_list_reader, get_original_data
 from feature_functions import *
@@ -15,7 +15,7 @@ class Pipeline:
         self.basedir = basedir
         self.svmdir = svmdir
         self.type = type
-        self.svm_args = ["-t 5"]
+        self.svm_args = "-t 5"
         self.training_data = get_original_data("resources/cleaned-train.gold")
         self.test_data = get_original_data("resources/cleaned-{:s}.notag".format(type))
 
@@ -57,8 +57,8 @@ class Pipeline:
             prefix = gold_file.split("-train.gold")[0]
             train = join(self.basedir, "gold_files", gold_file)
             model = join(self.basedir, "models", "{:s}.model".format(prefix))
-            args = shlex.split("{:s} {:s} {:s}".format(svm_learn, self.svm_args, train, model))
-            p = Popen(args)
+            args = shlex.split("{:s} {:s} {:s} {:s}".format(svm_learn, self.svm_args, train, model))
+            p = Popen(args, stdout=PIPE)
             processes.append(p)
             print "Building the model for {:s}".format(prefix)
         for p in processes:
@@ -69,11 +69,11 @@ class Pipeline:
         svm_classify = join(self.svmdir, "svm_classify")
         for model in os.listdir(join(self.basedir, "models")):
             prefix = model.split(".model")[0]
-            model = join(self.basedir, "model", model)
+            model = join(self.basedir, "models", model)
             notag = join(self.basedir, "{:s}.notag".format(self.type))
             tagged = join(self.basedir, "tagged_files", "{:s}.tagged".format(prefix))
             args = shlex.split("{:s} {:s} {:s} {:s}".format(svm_classify, notag, model, tagged))
-            p = Popen(args)
+            p = Popen(args, stdout=PIPE)
             processes.append(p)
             print "Classifying with the {:s} model".format(prefix)
         for p in processes:
@@ -84,7 +84,7 @@ class Pipeline:
 
     def translate_svm_output(self):
         relation_class = ["PHYS", "PER-SOC", "OTHER-AFF", "GPE-AFF", "DISC", "ART", "EMP-ORG", "no_rel"]
-        file_locations = [join(self.basedir, "tagged_files", f) for f in relation_class]
+        file_locations = [join(self.basedir, "tagged_files", "{:s}.tagged".format(f)) for f in relation_class]
         relation_ids = list(enumerate(zip(relation_class, file_locations)))
         max_type = []
         for i,(rel_class,f) in relation_ids:
@@ -102,7 +102,7 @@ class Pipeline:
         self.set_up()
         print "[DONE]"
         print "building features..."
-        self.build_features()
+        #self.build_features()
         print "built all features"
         print "building the models..."
         self.run_svm_learn()
