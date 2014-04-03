@@ -2,6 +2,7 @@ __author__ = 'keelan'
 
 import sys
 import os
+import shlex
 from os.path import join
 from subprocess import Popen
 from feature_generator import Featurizer
@@ -56,7 +57,7 @@ class Pipeline:
             prefix = gold_file.split("-train.gold")[0]
             train = join(self.basedir, "gold_files", gold_file)
             model = join(self.basedir, "models", "{:s}.model".format(prefix))
-            args = [svm_learn, self.svm_args, train, model]
+            args = shlex.split("{:s} {:s} {:s}".format(svm_learn, self.svm_args, train, model))
             p = Popen(args)
             processes.append(p)
             print "Building the model for {:s}".format(prefix)
@@ -71,7 +72,7 @@ class Pipeline:
             model = join(self.basedir, "model", model)
             notag = join(self.basedir, "{:s}.notag".format(self.type))
             tagged = join(self.basedir, "tagged_files", "{:s}.tagged".format(prefix))
-            args = [svm_classify, notag, model, tagged]
+            args = shlex.split("{:s} {:s} {:s} {:s}".format(svm_classify, notag, model, tagged))
             p = Popen(args)
             processes.append(p)
             print "Classifying with the {:s} model".format(prefix)
