@@ -15,8 +15,8 @@ class Pipeline:
         self.svmdir = svmdir
         self.type = type
         self.svm_args = ["-t 5"]
-        self.training_data = "resources/cleaned-train.gold"
-        self.test_data = "resources/cleaned-{:s}.notag".format(type)
+        self.training_data = get_original_data("resources/cleaned-train.gold")
+        self.test_data = get_original_data("resources/cleaned-{:s}.notag".format(type))
 
     def set_up(self):
         basedir_contents = os.listdir(self.basedir)
@@ -43,7 +43,7 @@ class Pipeline:
         f_training = Featurizer(self.training_data, self.tree_funcs, self.feature_funcs)
         f_training.build_features()
         f_training.build_relation_class_vectors()
-        f_training.write_multiple_vectors(join(self.base_dir, "gold_files"), "train.gold")
+        f_training.write_multiple_vectors(join(self.basedir, "gold_files"), "train.gold")
 
         f_test = Featurizer(self.test_data, self.tree_funcs, self.feature_funcs, no_tag=True)
         f_test.build_features()

@@ -354,7 +354,7 @@ RELATIONSHIPS_AND_GROUPS=set(rels_and_groups_reader())
 COUNTRIES=set(gz.words('countries.txt'))
 NATIONALITIES=set(gz.words('nationalities.txt'))
 OFFICIALS=officials_reader() #these are bit silly; will probably discard"""
-DEPENDENCIES=stanford_dependency_reader()
+#DEPENDENCIES=stanford_dependency_reader()
 POSSESSIVE_PRONOUNS=['my','mine','your','yours','her','hers','his','our','ours','their','theirs']
 TITLE_SET= {"chairman", "Chairman", "director", "Director", "president", "President", "manager", "managers","Manager", "executive",
             "CEO", "Officer", "officer", "consultant", "CFO", "COO", "CTO", "CMO", "founder", "shareholder",
