@@ -248,7 +248,7 @@ def poss_pronoun_per(fr):
     From what I can see in the data, they always occur in that order and never in reverse order.
     """
     result=_is_possessive_pronoun(fr.i_token) and fr.j_entity_type=='PER'
-    print fr.i_token, fr.j_token, "poss_pronoun_per={}".format(result)
+    #print fr.i_token, fr.j_token, "poss_pronoun_per={}".format(result)
     return "poss_pronoun_per={}".format(result)
 
 def poss_pronoun_relword(fr):
@@ -257,7 +257,7 @@ def poss_pronoun_relword(fr):
     From what I can see in the data, they always occur in that order and never in reverse order.
     """
     result=_is_possessive_pronoun(fr.i_token) and _is_rel_or_group(fr.j_token)
-    print fr.i_token, fr.j_token, "poss_pronoun_relword={}".format(result)
+    #print fr.i_token, fr.j_token, "poss_pronoun_relword={}".format(result)
     return "poss_pronoun_relword={}".format(result)
 
 def per_relword(fr):
@@ -267,7 +267,7 @@ def per_relword(fr):
     """
     result=(fr.i_entity_type=="PER" and _is_rel_or_group(fr.j_token)) or \
            (fr.j_entity_type=="PER" and _is_rel_or_group(fr.i_token))
-    print fr.i_token, fr.j_token, "per_relword={}".format(result)
+    #print fr.i_token, fr.j_token, "per_relword={}".format(result)
     return "per_relword={}".format(result)
 
 def per_org(fr):
@@ -276,7 +276,7 @@ def per_org(fr):
     """
     result=(fr.i_entity_type=='PER' and fr.j_entity_type=='ORG') or \
            (fr.i_entity_type=='ORG' and fr.j_entity_type=='PER')
-    print fr.i_token, fr.j_token, "per_org={}".format(result)
+    #print fr.i_token, fr.j_token, "per_org={}".format(result)
     return "per_org={}".format(result)
 
 def per_nns(fr):
@@ -287,7 +287,7 @@ def per_nns(fr):
     """
     j_pos=POS_SENTENCES[fr.article][fr.j_sentence][fr.j_offset_begin][1]
     result=fr.i_entity_type=='PER' and j_pos=='NNS'
-    print fr.i_token, fr.j_token, "per_nns={}".format(result)
+    #print fr.i_token, fr.j_token, "per_nns={}".format(result)
     return "per_nns={}".format(result)
 
 def poss_title(fr):
@@ -295,7 +295,7 @@ def poss_title(fr):
     poss + profession OR title OR official
     """
     result=_is_possessive_pronoun(fr.i_token) and (_is_profession(fr.j_token) or _is_official(fr.j_token) or _is_title(fr.j_token))
-    print fr.i_token, fr.j_token, "poss_title={}".format(result)
+    #print fr.i_token, fr.j_token, "poss_title={}".format(result)
     return "poss_title={}".format(result)
 
 def per_title(fr):
@@ -303,7 +303,7 @@ def per_title(fr):
     per + profession OR title OR official
     """
     result=fr.i_entity_type=='PER' and (_is_profession(fr.j_token) or _is_official(fr.j_token) or _is_title(fr.j_token))
-    print fr.i_token, fr.j_token, "per_title={}".format(result)
+    #print fr.i_token, fr.j_token, "per_title={}".format(result)
     return "per_title={}".format(result)
 
 def nnp_title(fr):
@@ -315,8 +315,8 @@ def nnp_title(fr):
     j_pos=POS_SENTENCES[fr.article][fr.j_sentence][fr.j_offset_begin][1]
     result=(i_pos.startswith("NNP") and (_is_profession(fr.j_token) or _is_official(fr.j_token) or _is_title(fr.j_token))) or \
            (j_pos.startswith("NNP") and (_is_profession(fr.i_token) or _is_official(fr.i_token) or _is_title(fr.i_token)))
-    print fr.i_token, fr.j_token, "nnp_title={}".format(result)
-    print
+    #print fr.i_token, fr.j_token, "nnp_title={}".format(result)
+    #print
     return "nnp_title={}".format(result)
 
 def et1_country(fr):
@@ -355,7 +355,7 @@ def h1_dw1(fr):
     et1_dependencies=DEPENDENCIES[fr.article][int(fr.i_sentence)+1]
 
     dep_list=[dep_word for (dep_index,dep_word),(gov_index,gov_word,dep_type) in et1_dependencies.items() if int(fr.i_offset_end)==gov_index]
-    print fr.i_token, fr.j_token, "h1_dw1={},{}".format(fr.i_token.split('_')[-1],dep_list)
+    #print fr.i_token, fr.j_token, "h1_dw1={},{}".format(fr.i_token.split('_')[-1],dep_list)
     #print et1_dependencies.items()
     #print
     return "h1_dw1={},{}".format(fr.i_token.split('_')[-1],dep_list)
@@ -384,7 +384,9 @@ def h2_dw2(fr):
     #print
     return "h2_dw2={},{}".format(fr.j_token.split('_')[-1],dep_list)
 
-
+def _dep_path_to_root(offset_end):
+    """Returns a list of token"""
+    pass
 
 ######################
 # Keelan's functions #
