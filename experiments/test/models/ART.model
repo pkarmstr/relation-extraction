@@ -1,0 +1,509 @@
+SVM-light Version V5.01-TK-1.2
+5 # kernel type
+3 # kernel parameter -d 
+1 # kernel parameter -g 
+1 # kernel parameter -s 
+1 # kernel parameter -r 
+empty# kernel parameter -u 
+0.4 # kernel parameter -L 
+1 # kernel parameter -T 
+T # kernel parameter -C 
+1 # kernel parameter -F 
+1 # kernel parameter -S 
+1.000000 # kernel parameter -D 
+3 # kernel parameter -N 
+S # kernel parameter -V 
+S # kernel parameter -W 
+0 # highest feature index 
+16237 # number of training documents 
+490 # number of support vectors plus 1 
+1.007576 # threshold b, each following line is a SV (starting with alpha*y)
+-0.0022546894300676800781957354047336  |BT| (NP (NP (NNS groups))(PP (IN of)(S (VP (VBG mistreating)(NP (NP (NP (DT the)(NN minority))(NP (NNP Shiite)(NNPS Muslims)))))))) |ET| 
+-0.22854010044953460001337930407317  |BT| (S (NP (NNP France)(, ,)(NNP Jordan)(CC and)(NNP Yemen))(VP (VBD sent)(NP (NNS planes))(PP (TO to)(NP (NNP Baghdad))))) |ET| 
+-0.097263355763923975416673783911392  |BT| (NP (NP (NNS cars))(, ,)(VP (VBN plastered)(PP (PP (IN with)(NP (NP (NNS candidates))))))) |ET| 
+-0.16697064881889592258268351088191  |BT| (S (NP (NP (PRP$ his)(NN wife)))(VP (VBD had)(NP (CD three)(JJ young)(NNS children)))) |ET| 
+-0.56044119213402687762481946265325  |BT| (NP (NNP Jordan)(CC and)(NNP Yemen)) |ET| 
+1  |BT| (S (NP (NNP Russia)(, ,)(NNP France)(, ,)(NNP Jordan)(CC and)(NNP Yemen))(VP (VBD sent)(NP (NNS planes)))) |ET| 
+1  |BT| (S (NP (NNP France)(, ,)(NNP Jordan)(CC and)(NNP Yemen))(VP (VBD sent)(NP (NNS planes)))) |ET| 
+1  |BT| (S (NP (NNP Yemen))(VP (VBD sent)(NP (NNS planes)))) |ET| 
+1  |BT| (S (NP (NNP Syria)(CC and)(NNP Egypt))(VP (VBD were)(VP (VBG planning)(S (VP (TO to)(VP (VB send)(NP (NNS planes)))))))) |ET| 
+-0.8923427975509348186733404872939  |BT| (S (NP (NNS planes))(VP (VBD carried)(NP (NNS businessmen)))) |ET| 
+1  |BT| (NP (NP (NN base))(PP (IN for)(NP (NP (JJ low-fare)(NNS carriers))))) |ET| 
+-0.09515706789239208873709685576614  |BT| (NP (NP (NN base))(PP (IN for)(NP (NP (JJ low-fare)(NNS carriers))(VP (VBG operating)(PP (IN in)(NP (NNP Britain))))))) |ET| 
+1  |BT| (S (NP (NP (FW Ljeka))(, ,)(NP (CD 29))(, ,))(VP (VBD pulled)(NP (DT a)(NN gun)))) |ET| 
+-0.24511771253940414783123458164482  |BT| (S (NP (NNP Mubarak)(CC and)(NNP Assad))(VP (VBD met)(PP (IN after)(NP (DT a)(NN week)))(SBAR (WHADVP (WRB when))(S (NP (NNP Russia)(, ,)(NNP France)(, ,)(NNP Jordan)(CC and)(NNP Yemen))(VP (VBD sent)(NP (NNS planes))))))) |ET| 
+1  |BT| (S (NP (NP (NNS Representatives))(PP (IN of)(NP (NP (NNP Rally))(PP (IN of)(NP (DT the)(NNPS Republicans))))))(VP (VBD set)(PRT (RP out))(PP (IN on)(NP (NP (NNS motorbikes)))))) |ET| 
+-0.29658045594239235143163568864111  |BT| (S (NP (NP (NNS Representatives))(PP (IN of)(NP (NP (NNP Rally))(PP (IN of)(NP (DT the)(NNPS Republicans))))))(VP (VBD set)(PRT (RP out))(PP (IN on)(NP (NP (NNS motorbikes))(NP-TMP (NNP Saturday))(S (VP (TO to)(VP (VB urge)(NP (NP (NNS villagers)))))))))) |ET| 
+1  |BT| (NP (PRP$ his)(NN residence)) |ET| 
+-0.07006498599191730847213221977654  |BT| (NP (PRP$ his)(NN father)) |ET| 
+1  |BT| (S (NP (NNS forces))(VP (VBD patrolled)(NP (DT the)(NN city))(PP (IN in)(NP (JJ armored)(NNS vehicles))))) |ET| 
+-0.38428645796451343930044686203473  |BT| (S (S (NP (NNS forces))(VP (VBD patrolled)(NP (DT the)(NN city))(PP (IN in)(NP (JJ armored)(NNS vehicles)))))(, ,)(CC and)(S (NP (NNS officers)))) |ET| 
+1  |BT| (NP (PRP$ his)(NN country)(NN house)) |ET| 
+-0.47719533188436003001697827130556  |BT| (NP (NN country)(NN house)) |ET| 
+1  |BT| (NP (PP (NP (NNS vehicles)))(, ,)(PP (IN with)(S (VP (VBG shouting)(NP (NP (NNS supporters))))))) |ET| 
+-0.45634370472203239499364713083196  |BT| (S (NP (NP (FW Ljeka))(, ,)(NP (CD 29))(, ,))(VP (VBD pulled)(NP (DT a)(NN gun))(ADVP (IN out)(PP (IN of)(NP (PRP$ his)))))) |ET| 
+1  |BT| (NP (NN police)(NN headquarters)) |ET| 
+-0.12274843804608570607683759590145  |BT| (VP (PP (NP (PP (NP (NN jail)))))(PP (IN for)(S (VP (VBG propositioning)(NP (NP (DT a)(NN policewoman))))))) |ET| 
+1  |BT| (NP (NP (NNP Nixon))(, ,)(VP (VBN drawn)(PP (IN with)(NP (NN deep-set))))(, ,)(NP (JJ malevolent)(NNS eyes))(, ,)(NP (NP (CD five)(RB o'clock))(NP (NP (NN shadow))(CC and)(NP (PRN (, ,)(SBAR (WHADVP (WRB when))(S (NP (PRP he))(VP (VBD was)(NP (NP (NN vice)(NN president))(PP (IN in)(NP (NP (NNP Eisenhower)(POS 's))(NN administration)))))))(, ,))(PP (IN with)(NP (NP (DT a)(JJ bloodstained)(NN hatchet)))))))) |ET| 
+-0.27511807247808889309581559245999  |BT| (S (NP (NNS targets))(, ,)(ADVP (RB however))(, ,)(VP (VBD were)(ADVP (IN as))(VP (VBN favored)(PP (IN as)(NP (NP (NNP Nixon))(, ,)(VP (VBN drawn)(PP (IN with)(NP (NN deep-set))))(, ,)(NP (JJ malevolent)(NNS eyes))(, ,)(NP (NP (CD five)(RB o'clock))(NP (NP (NN shadow))(CC and)(NP (PRN (, ,)(SBAR (WHADVP (WRB when))(S (NP (PRP he))(VP (VBD was)(NP (NP (NN vice)(NN president))(PP (IN in)(NP (NP (NNP Eisenhower)(POS 's))(NN administration)))))))(, ,))(PP (IN with)(NP (NP (DT a)(JJ bloodstained)(NN hatchet)))))))))))) |ET| 
+1  |BT| (NP (NP (NN plant))(VP (VBG belonging)(PP (TO to)(NP (DT the)(NN firm))))) |ET| 
+-0.52779582282728410014271958061727  |BT| (NP (NP (NNS fighters))(VP (VBG belonging)(PP (TO to)(NP (DT the)(NN opposition))))) |ET| 
+1  |BT| (NP (NP (NNS residents))(PP (IN of)(NP (DT a)(JJ recreational)(NN vehicle)(NN park)))) |ET| 
+-0.3684262148906076728138714315719  |BT| (VP (NP (PRP him))(PP (IN at)(NP (NN police)(NN headquarters)))) |ET| 
+1  |BT| (NP (NP (NNP Time))(NN cable)(ROOT (S (S (NP (NP (DT The)(NN commission)(POS 's))(NN staff))(VP (VBZ has)(VP (VBN recommended)(SBAR (IN that)(S (NP (NNP AOL))(VP (VB be)(VP (VBN required)(S (VP (TO to)(VP (VB make)(NP (PRP$ its)(NN system)(NN work))(PP (IN with)(NP (QP (XS (IN at)(JJS least))(CD one))(JJ other)(NN provider)))))))))))))(, ,)(CC but)(S (NP (DT the)(NN requirement))(VP (MD would)(VP (VB apply)(ADVP (RB only))(PP (TO to)(NP (NP (JJ advanced)(JJ instant)(NN messaging)(NNS services))(VP (VBD offered)(PP (IN over)(NP (NP (NNP Time)(NNP Warner)(POS 's))(NN cable)(NNS lines)))))))))))) |ET| 
+-0.53070605791016522978509328822838  |BT| (S (S (NP (NP (NN commission)(POS 's))(NN staff))(VP (VBZ has)(VP (VBN recommended)(SBAR (IN that)(S (NP (NNP AOL))(VP (VB be)(VP (VBN required)(S (VP (TO to)(VP (VB make)(NP (PRP$ its)(NN system)(NN work))(PP (IN with)(NP (QP (XS (IN at)(JJS least))(CD one))(JJ other)(NN provider)))))))))))))(, ,)(CC but)(S (NP (DT the)(NN requirement))(VP (MD would)(VP (VB apply)(ADVP (RB only))(PP (TO to)(NP (NP (JJ advanced)(JJ instant)(NN messaging)(NNS services))(VP (VBD offered)(PP (IN over)(NP (NP (NNP Time)(NNP Warner)(POS 's))(NN cable)(NNS lines)))))))))) |ET| 
+1  |BT| (NP (NN PFLP-GC)(NN hide-out)) |ET| 
+-0.23373236408412223497066406707745  |BT| (S (NP (NN police))(VP (VBD entered)(NP (DT a)(NN PFLP-GC)(NN hide-out)))) |ET| 
+1  |BT| (NP (NP (NNS doctors)(POS '))(ROOT (S (ADVP (RB Separately))(, ,)(NP (NP (DT the)(NNP Department))(PP (IN of)(NP (NP (NNP Health)(CC and)(NNP Human))(NNP Services))))(VP (VBD announced)(SBAR (IN that)(S (NP (NP (DT the)(JJ monthly)(NNP Medicare)(NN premium))(VP (VP (VBN deducted)(PP (IN from)(NP (NP (JJS most))(ADJP (JJ elderly)))))(CC and)(VP (NP (NP (JJ disabled)(NNPS Americans)(POS '))(NNP Social)(NNP Security)(NNS checks))(PP (IN for)(NP (NP (NN insurance)(NN coverage))(PP (IN of)(NP (NP (NNS doctors)(POS '))(NN office)))))))))))))) |ET| 
+-0.54092565128541991725796833634377  |BT| (S (NP (NP (NNP Department))(PP (IN of)(NP (NP (NNP Health)(CC and)(NNP Human))(NNP Services))))(VP (VBD announced)(SBAR (IN that)(S (NP (NP (DT the)(JJ monthly)(NNP Medicare)(NN premium))(VP (VP (VBN deducted)(PP (IN from)(NP (NP (JJS most))(ADJP (JJ elderly)))))(CC and)(VP (NP (NP (JJ disabled)(NNPS Americans)(POS '))(NNP Social)(NNP Security)(NNS checks))(PP (IN for)(NP (NP (NN insurance)(NN coverage))(PP (IN of)(NP (NP (NNS doctors)(POS '))(NN office)))))))))))) |ET| 
+1  |BT| (S (NP (NN man))(`` ``)(VP (VBD produced)(NP (DT a)(NN gun)))) |ET| 
+-0.44718936680414755890922151593259  |BT| (S (SBAR (S (S (NP (NN man))(`` ``)(VP (VBD produced)(NP (DT a)(NN gun))))(CC and)(S (NP (EX there))(VP (VBD was)(NP (DT a)(NN struggle))))))(, ,)('' '')(NP (PRP he))) |ET| 
+1  |BT| (VP (PP (NP (NN truck)))(PP (IN by)(NP (NP (CD three)(JJ white)(NNS men))))) |ET| 
+-0.10020641064919133533805961633334  |BT| (NP (NN campaign)(NN official)) |ET| 
+-0.36102879347592531367183710244717  |BT| (NP (NN vehicle)(NN park)) |ET| 
+1  |BT| (SBAR (WHNP (WP who))(S (VP (VBD died)(NP-TMP (NNP Monday)(NN night))(PP (IN in)(NP (NP (DT the)(NN crash))(PP (IN of)(NP (DT a)(JJ small)(NN plane)))))))) |ET| 
+-0.52413576203056844171612738136901  |BT| (NP (NP (NNP Carnahan))(, ,)(SBAR (WHNP (WP who))(S (VP (VBD died)(NP-TMP (NNP Monday)(NN night))(PP (IN in)(NP (NP (DT the)(NN crash))(PP (IN of)(NP (DT a)(JJ small)(NN plane))))))))) |ET| 
+1  |BT| (NP (NN court)(NN building)) |ET| 
+-0.45884068739363703670619543117937  |BT| (NP (NN court)(NN panel)) |ET| 
+1  |BT| (S (NP (NP (NNP Solomon))(, ,)(NP (RB then)(CD 15))(, ,))(VP (VBD opened)(NP (NN fire))(PP (IN with)(NP (NP (DT a)(JJ sawed-off)(NN rifle)))))) |ET| 
+-0.70949986082457128233613730117213  |BT| (S (NP (NP (NNP Solomon))(, ,)(NP (RB then)(CD 15))(, ,))(VP (VBD opened)(NP (NN fire))(PP (IN with)(NP (NP (DT a)(JJ sawed-off)(NN rifle))(PP (IN on)(NP (NP (NNS hundreds))(PP (IN of)(NP (NP (NNS students)))))))))) |ET| 
+1  |BT| (NP (NN state)(NN prison)) |ET| 
+-0.40108606509512156890195910818875  |BT| (NP (NN state)(NN representative)) |ET| 
+1  |BT| (NP (NP (NNS Broncos)(POS '))(NN training)(ROOT (S (NP (NP (NNP John)(`` ``)(NNP Jack)('' '')(NNP Hanlon))(PP (IN of)(NP (NNP Coldwell)(NNP Banker)(NNP American)(NNP Spectrum))))(VP (VBZ is)(VP (VBG listing)(NP (NP (DT an)(NN acre))(PP (IN of)(NP (NN land))))(PP (IN about)(NP (NP (DT a)(NN mile))(PP (IN from)(NP (NP (NP (DT the)(NNS Broncos)(POS '))(NN training)(NN camp))))))))))) |ET| 
+-0.57533720419562794923251658474328  |BT| (S (NP (NP (NNP John))(PP (IN of)(NP (NNP Coldwell)(NNP Banker)(NNP American)(NNP Spectrum))))(VP (VBZ is)(VP (VBG listing)(NP (NP (DT an)(NN acre))(PP (IN of)(NP (NN land))))(PP (IN about)(NP (NP (DT a)(NN mile))(PP (IN from)(NP (NP (NP (DT the)(NNS Broncos)(POS '))(NN training)(NN camp))))))))) |ET| 
+1  |BT| (NP (NP (NNP Roy)(POS 's))(ROOT (S (NP (NNS Officers))(VP (VBD responded)(PP (TO to)(NP (DT the)(CD 911)(NN hang-up)(NN call)))(PP (IN at)(NP (NP (NNP Roy)(POS 's))(NN residence))))))) |ET| 
+-0.67706112029545006958386466067168  |BT| (S (NP (NNS Officers))(VP (VBD responded)(PP (TO to)(NP (DT the)(CD 911)(NN hang-up)(NN call)))(PP (IN at)(NP (NP (NNP Roy)(POS 's))(NN residence))))) |ET| 
+1  |BT| (S (NP (NP (NP (NN suspect)))(VP (VBG being)(VP (VBN booked)(PP (IN at)(NP (NN police)(NN headquarters))))))(VP (VP (VBD shot)(NP (DT a)(NN veteran)(NN detective))(PP (TO to)(NP (NN death))))(CC and)(VP (ADVP (RB then))(VBD turned)(NP (DT the)(NN gun))))) |ET| 
+-0.067499965564751684965472122712526  |BT| (NP (PRP$ his)(NN colleague)) |ET| 
+-0.063820250607995232527969164948445  |BT| (NP (NP (NN building))(CC and)(NP (NP (JJ other)(NNS centers)))) |ET| 
+1  |BT| (VP (ADVP (NN home))(PP (TO to)(NP (DT a)(JJ Jewish)(JJ seminary)))) |ET| 
+-0.41672729790254225967771617433755  |BT| (VP (ADVP (NN home))(PP (TO to)(NP (DT a)(JJ Jewish)))) |ET| 
+1  |BT| (NP (NP (NN army))(PP (IN with)(NP (NNS guns)))) |ET| 
+-0.20708169598495040908403552748496  |BT| (NP (NP (NN army))(PP (IN of)(NP (NNS lawyers)))) |ET| 
+1  |BT| (NP (NP (PP (NP (NNP Bush))))(: -)(NP (NP (NNP Cheney)(NN transition)(NN headquarters)))) |ET| 
+-0.16409882697700248210814777394262  |BT| (NP (NP (PP (NP (NNP Bush))))(: -)(NP (NP (NNP Cheney)(NN transition)(NN headquarters))(PP (IN in)(NP (NP (NNP McLean)))))) |ET| 
+1  |BT| (NP (PRP$ their)(NN home)) |ET| 
+-0.31767673068728430330054379737703  |BT| (NP (PRP$ their)(NN division)) |ET| 
+1  |BT| (NP (PRP$ its)(NNS weapons)) |ET| 
+-0.074722820748216900454963251831941  |BT| (NP (PRP$ its)(NNS soldiers)) |ET| 
+1  |BT| (NP (NNP Magnum)(NN revolver)) |ET| 
+-0.26314965074015828072617750876816  |BT| (NP (NNS guns)(CC or)(NNS weapons)) |ET| 
+1  |BT| (NP (WP$ whose)(NN bookstore)) |ET| 
+-0.20944573315007608549365158978617  |BT| (NP (PRP$ his)(NN football)(NN team)) |ET| 
+1  |BT| (NP (PRP$ your)(NNS homes)) |ET| 
+-0.22701735251208665644639950187411  |BT| (NP (NNP Warren)(NN police)) |ET| 
+1  |BT| (NP (NN RV)(NNS owners)) |ET| 
+-0.8269773240715675433065712240932  |BT| (NP (NN MLS)(NNS owners)) |ET| 
+1  |BT| (NP (JJ presidential)(NN palace)) |ET| 
+-0.12491653517473033652152025752002  |BT| (NP (JJ presidential)(NN candidate)) |ET| 
+1  |BT| (NP (PRP$ our)(NN aircraft)) |ET| 
+-0.24134527957860285596325411461294  |BT| (NP (PRP$ our)(NN organization)) |ET| 
+1  |BT| (NP (PRP$ their)(JJ new)(NNP Pacific)(NNP Bell)(NNP Park)) |ET| 
+-0.06877250420819946974404501816025  |BT| (NP (NP (NN clubhouse))(PP (IN at)(NP (NP (PRP$ their)(JJ new)(NNP Pacific)(NNP Bell)(NNP Park))))) |ET| 
+1  |BT| (S (NP (NP (NN plant))(VP (VBG belonging)(PP (TO to)(NP (DT the)(NN firm)))))(VP (VBZ has)(ADVP (RB already))(VP (VBN been)(VP (VBN sold)(PP (TO to)(NP (NP (DT a)(NN consortium)))))))) |ET| 
+-0.081057979016838199726180391735397  |BT| (S (NP (VP (PP (NP (NN firm)))))(VP (VBZ has)(ADVP (RB already))(VP (VBN been)(VP (VBN sold)(PP (TO to)(NP (NP (DT a)(NN consortium)))))))) |ET| 
+1  |BT| (NP (NP (NNP Giants)(POS '))(JJ spacious)(ROOT (S (PP (IN In)(NP (NP (NP (DT the)(NNP Giants)(POS '))(JJ spacious)(NN clubhouse))))))) |ET| 
+-0.054812354489324865980393042264041  |BT| (NP (NP (NNP Bush)(POS 's))(ROOT (S (NP (NP (NNP Bush)(POS 's))(NNS supporters))))) |ET| 
+1  |BT| (NP (NN police)(NN headquarters)) |ET| 
+-0.37974714931206898782534153724555  |BT| (NP (NN aircraft)(NN consortium)) |ET| 
+1  |BT| (NP (NP (NN station)(POS 's))(JJ first)(JJ permanent)(ROOT (S (NP (NP (DT The)(NN station)(POS 's))(JJ first)(JJ permanent)(NN crew))))) |ET| 
+-0.27075743165804899703630326257553  |BT| (NP (PRP$ their)(NNS campaigns)) |ET| 
+1  |BT| (NP (JJ Palestinian)(JJ terrorist)(NN base)) |ET| 
+-0.54473134871871309314883546903729  |BT| (NP (JJ terrorist)(NN base)) |ET| 
+1  |BT| (NP (PRP$ their)(NNS jails)) |ET| 
+-0.27191968653013409706886704952922  |BT| (NP (PRP$ their)(NNS counterparts)) |ET| 
+1  |BT| (S (NP (NNP Egypt))(VP (VBD were)(VP (VBG planning)(S (VP (TO to)(VP (VB send)(NP (NNS planes)))))))) |ET| 
+-0.41714463071479124245399816572899  |BT| (S (NP (NNP Egypt))(VP (VBD were)(VP (VBG planning)(S (VP (TO to)(VP (VB send)(NP (NNS planes))(PP (TO to)(NP (NNP Baghdad))))))))) |ET| 
+1  |BT| (NP (NN RV)(NNS owners)) |ET| 
+-0.2665570891087296612198542788974  |BT| (NP (NN prison)(NNS doctors)) |ET| 
+1  |BT| (NP (: -)(NP (NP (NNP Cheney)(NN transition)(NN headquarters)))) |ET| 
+-0.91682252121240592757089871156495  |BT| (NP (NP (NP (NN spokeswoman))(PP (IN in)(NP (DT the)(NNP Bush))))(: -)(NP (NP (NNP Cheney)(NN transition)(NN headquarters)))) |ET| 
+1  |BT| (S (NP (NNP Jordan)(CC and)(NNP Yemen))(VP (VBD sent)(NP (NNS planes)))) |ET| 
+-0.7345135619117680869649689157086  |BT| (S (NP (PRP he))(VP (MD would)(RB not)(VP (VB comment)(PP (IN on)(SBAR (IN whether)(S (NP (NNP Syria)(CC and)(NNP Egypt))(VP (VBD were)(VP (VBG planning)(S (VP (TO to)(VP (VB send)(NP (NNS planes))))))))))))) |ET| 
+-0.89720534117438544008393819240155  |BT| (NP (NP (NP (NN suspect)))(VP (VBG being)(VP (VBN booked)(PP (IN at)(NP (NN police)(NN headquarters)))))) |ET| 
+-0.20438805689625172412604570126859  |BT| (S (NP (JJ Palestinian))(VP (VBD told)(NP (NNS judges)))) |ET| 
+-0.48929816092396549720433540642262  |BT| (NP (NNP France)(, ,)(NNP Jordan)(CC and)(NNP Yemen)) |ET| 
+-0.25012040833276782958449757643393  |BT| (SBAR (WHNP (NP (WP$ whose)(NN bookstore))(PP (IN across)(NP (DT the)(NN street))))(S (VP (VBD was)(VP (VBN hit)(PP (IN by)(NP (NP (JJ stray)(NNS bullets)))))))) |ET| 
+-0.10764059464014419376098885550164  |BT| (NP (NP (NNS families))(SBAR (WP$ whose))) |ET| 
+-0.2677183649384842212270996242296  |BT| (NP (NP (NN commission)(POS 's))(ROOT (S (S (NP (NP (DT The)(NN commission)(POS 's))(NN staff)))))) |ET| 
+-0.17966093240173997003239492187276  |BT| (S (PP (NP (PRP$ your)(NN parole)(NN hearing)))(VP (VBD noted)(NP (PRP$ your)))) |ET| 
+-0.16924014617827576323350058373762  |BT| (NP (: -)(NP (NNP Florida)(NN line))) |ET| 
+-0.15029097446883721289623281336389  |BT| (NP (NNP Pennsylvania)(NN radio)(NN station)) |ET| 
+-0.22614357357151226857183701213216  |BT| (NP (JJ Republican)(JJ presidential)(NN nominee)) |ET| 
+-0.10513759280992052147496451652842  |BT| (NP (NP (NNP Kostunica)(POS 's))(JJ 18-party)(ROOT (S (CC And)(PP (IN with)(NP (NP (NP (NNP Kostunica)(POS 's))(JJ 18-party)(NN opposition))))))) |ET| 
+-0.32120240934150756650922176049789  |BT| (VP (ADVP (NN home))(PP (TO to)(NP (DT a)(JJ Jewish)(JJ seminary)))(, ,)(SBAR (WHADVP (WRB where)))) |ET| 
+-0.29377207938465765835189813515171  |BT| (S (NP (NN judge))(ADVP (RB recently))(VP (VBD cleared)(NP (DT the)(NN way))(PP (IN for)(NP (DT the)(NN RV)(NNS owners))))) |ET| 
+-0.28591537190436983051355923635128  |BT| (NP (NP (NNP Abdul))(, ,)(NP (NP (CD 62))(, ,)(SBAR (WHNP (NP (WP$ whose)(NN bookstore)))))) |ET| 
+-0.28090379371535045827101839677198  |BT| (NP (NP (NN farmer))(VP (VBG strolling)(NP (NN home)))) |ET| 
+-0.11758821183925549647142361209262  |BT| (NP (JJ Chinese)(NNS carriers)) |ET| 
+-0.068999803729221681480865413504944  |BT| (NP (PP (NP (NNS countries)))(, ,)(PP (VBG including)(NP (NP (CD one))))) |ET| 
+-0.1736915503789966397363286887412  |BT| (S (NP (NNP Iraq))(VP (MD must)(VP (VB eliminate)(NP (NP (PRP$ its)(NNS weapons)))))) |ET| 
+-0.095027700256113956100989526021294  |BT| (NP (NP (NNS foreigners))(PP (IN with)(NP (CD two)(NNS men)))) |ET| 
+-0.1483322964951130362720732591697  |BT| (NP (NN army)(NNS generals)) |ET| 
+-0.30321306590741037290115400537616  |BT| (VP (PP (NP (PRP$ his)(NN death)))(PP (IN from)(NP (DT a)(NN pickup)(NN truck)))(PP (IN by)(NP (NP (CD three)(JJ white)(NNS men))))) |ET| 
+-0.078917327332709730214332921605092  |BT| (S (NP (NP (NNS Bonds))(, ,)(NP (NP (DT the)(NNP San)(NNP Francisco)(NNP Giants)(POS '))(JJ left)(NN fielder))(, ,))(VP (VBZ is)(NP (NP (DT the)(JJ only)(NN player))))) |ET| 
+-0.084030602879075599886959935247432  |BT| (S (NP (NNP Russia)(, ,)(NNP France)(, ,)(NNP Jordan)(CC and)(NNP Yemen))(VP (VBD sent)(NP (NNS planes))(PP (TO to)(NP (NNP Baghdad))))) |ET| 
+-0.26332098135603798638726402714383  |BT| (VP (VP (PP (NP (PRP$ his)(NNS knees))))(CC and)(VP (VBD pointed)(NP (NP (DT a)(NN .357))(: -)(NP (NP (NN caliber))(NP (NNP Magnum)(NN revolver)))))) |ET| 
+-0.30123345873704798769665558211273  |BT| (NP (PRP$ your)(NN country)) |ET| 
+-0.29726601369677807529257052010507  |BT| (S (NP (NNS forces))(VP (VBD patrolled)(NP (DT the)(NN city)))) |ET| 
+-0.15038734162744549216483846976189  |BT| (NP (PRP$ its)(NNS suburbs)) |ET| 
+-0.22757430019273083843245331081562  |BT| (NP (NN family)(NN man)) |ET| 
+-0.27119881899071507369569644652074  |BT| (NP (PRP$ their)(NNS husbands)) |ET| 
+-0.73165241466221830890503952105064  |BT| (S (NP (NP (NN plant))(VP (VBG belonging)(PP (TO to)(NP (DT the)(NN firm)))))(VP (VBZ has)(ADVP (RB already))(VP (VBN been)(VP (VBN sold)(PP (TO to)(NP (NP (DT a)(NN consortium))(PP (IN of)(NP (ADJP (JJ local)(CC and)(JJ foreign))(NNS firms))))))))) |ET| 
+-0.10525528450961130211283034441294  |BT| (NP (PRP$ his)(NN administration)) |ET| 
+-0.11726153552439866345480368181597  |BT| (DT The) |ET| 
+-0.17018966651543354640097049923497  |BT| (S (NP (VP (VP (PP (NP (NN police)(NN headquarters))))))(VP (VP (VBD shot)(NP (DT a)(NN veteran)(NN detective))))) |ET| 
+-0.11275870710152124942737827950623  |BT| (NP (NP (NNP Indonesia)(POS 's))(JJ first)(ADJP (RB democratically)(VBN chosen))(ROOT (S (PP (IN As)(NP (NP (NP (NNP Indonesia)(POS 's))(JJ first)(ADJP (RB democratically)(VBN chosen))(NN head))))))) |ET| 
+-0.097069597648766325903579854639247  |BT| (NP (NN police)(NNP Chief)) |ET| 
+-0.16691561027889201263008089881623  |BT| (VP (ADVP (NP (NN plane)))(PP (IN with)(NP (NP (CD two)(NN crew)(NNS members))))) |ET| 
+-0.090305698013151136649412364931777  |BT| (VP (NP (NP (NNS defendants)(POS '))(NN claim))(SBAR (IN that)(S (NP (NP (PRP$ his)(NN group)))))) |ET| 
+-0.042944776534169726289746904512867  |BT| (NP (NN league)(NN president)) |ET| 
+-0.21200788109580481766158754908247  |BT| (NP (NP (NNS planes))(CC and)(NP (CD 26)(JJ new)(NN cargo)(NNS carriers))) |ET| 
+-0.10143684175047629203447741019772  |BT| (NP (NN border)(NN policeman)) |ET| 
+-0.18002590969586274027847139223013  |BT| (NP (NP (DT each))(PP (IN of)(NP (PRP$ our)(NN aircraft)))) |ET| 
+-0.15527979329487667792264460331353  |BT| (S (NP (PRP He))(ADVP (RB instead))(VP (VBD sent)(NP (DT a)(JJ legal)(NN team)))) |ET| 
+-0.16107217480732563541501178860926  |BT| (NP (NP (NNP Jefferson)(POS 's))(ROOT (S (S (VP (VBG Moving)(S (VP (TO to)(VP (VB refashion)(NP (DT the)(NN court)(S (VP (TO to)(VP (VB suit)(NP (PRP$ their)(JJ own)(NNS views)))))))))))(, ,)(NP (NP (NP (NNP Jefferson)(POS 's))(NNS friends)))))) |ET| 
+-0.13827362845325419371533826051746  |BT| (NP (JJ Palestinian)(JJ terrorist)) |ET| 
+-0.13558391610556008721744092326844  |BT| (NP (PRP$ our)(NNS martyrs)) |ET| 
+-0.57704598533829520867755036306335  |BT| (NP (: -)(NP (NP (NNP Cheney)(NN transition)(NN headquarters))(PP (IN in)(NP (NP (NNP McLean)))))) |ET| 
+-0.14101794363690031697267102117621  |BT| (SINV (NP (NN court))(VP (VB override)(NP (NP (DT the)(NN station))))) |ET| 
+-0.13968974872976591683482183725573  |BT| (WHNP (WP$ whose)(NN son)) |ET| 
+-0.23536992529478134583698079040914  |BT| (NP (NP (NNS residents))(PP (IN of)(NP (DT a)(JJ recreational)(NN vehicle)))) |ET| 
+-0.26871412392296067928043612482725  |BT| (NP (PRP$ their)(NNS users)) |ET| 
+-0.26064789022926881933983622730011  |BT| (S (NP (NN compound))(VP (VBD was)(ADVP (NN home))(PP (TO to)(NP (DT a)(JJ Jewish)(JJ seminary))))) |ET| 
+-0.24191570684759833298471676243935  |BT| (S (S (ADJP (PP (NP (JJ presidential)(NN palace)))))(, ,)(VP (VBD suspended)(NP (PRP$ its)))) |ET| 
+-0.070817851486772998015339908306487  |BT| (NP (PRP$ his)(NN nation)) |ET| 
+-0.70305761879464256924876508492162  |BT| (NP (NP (NP (NNP Giants)(POS '))(JJ spacious)(NN clubhouse))(PP (IN at)(NP (NP (PRP$ their)(JJ new)(NNP Pacific)(NNP Bell)(NNP Park))))) |ET| 
+-0.092645574758516646696193674870301  |BT| (VP (NP (NNS musicians))(PP (IN by)(S (VP (VBG nailing)(NP (NP (NNS makers))))))) |ET| 
+-0.1939478580607736646346239695049  |BT| (NP (JJ nuclear)(NNS weapons)) |ET| 
+-0.080793189642332230437915541187976  |BT| (S (NP (NN jury))(VP (VBD sided)(PP (IN with)(NP (DT the)(NNS owners))))) |ET| 
+-0.14403240662117910986239621706773  |BT| (NP (JJ Attica)(NN state)(NN prison)) |ET| 
+-0.14246588161730056043552394839935  |BT| (S (NP (PP (NP (NN residence))))(VP (VBD __)(NP (DT a)(JJ five-bedroom)(NN spread)))) |ET| 
+-0.056485443324347128779550075705629  |BT| (S (NP (NP (NN agent)(NNP Scott)(NNP Boras)))(VP (VBD were)(VP (VBN expected)(S (VP (TO to)(VP (VB meet)(NP (NAC (NNP Monday)(PP (IN with)(NP (NNPS Rangers))))))))))) |ET| 
+-0.38168717297089616025118630204815  |BT| (S (NP (NN police))(VP (VBD entered)(NP (DT a)(NN PFLP-GC)))) |ET| 
+-0.06444420531941705276857135231694  |BT| (VP (VP (NP (NNS homes)))(CC and)(VP (VBN overturned)(NP (NP (NNS cars))))) |ET| 
+-0.21069275865388759072516222659033  |BT| (NP (NP (NN GEMA))(PP (TO to)(NP (NN copyright)(NNS owners)))) |ET| 
+-0.11538968737066945813296570122475  |BT| (NP (NNP Cheney)(NN chief)) |ET| 
+-0.072561923825361418494139797985554  |BT| (PP (`` ``)(NP (PRP$ our)(JJ friendly)(NN neighbor))) |ET| 
+-0.11401467792483854779561625036877  |BT| (VP (NP (NN PFLP-GC)(NN hide-out))(PP (IN in)(NP (NNP Neuss)(, ,)(NNP Germany)))) |ET| 
+-0.12938117937362214604490873171017  |BT| (VP (PP (NP (NNS periodicals)))(PP (IN by)(NP (NP (VBG offering)(NN road))))) |ET| 
+-0.020049803836297952486233953095507  |BT| (NP (NN government)(NN spokesman)) |ET| 
+-0.095717336250955326049094651352789  |BT| (SBAR (WHNP (WP who))(S (VP (VBD vandalized)(NP (DT the)(NN tomb))(PP (IN with)(NP (PRP$ his)(NNS friends)))))) |ET| 
+-0.14093710669111936262254403118277  |BT| (NP (NP (NNP EU)(POS 's))(JJ current)(ROOT (S (PP (IN As)(NP (NP (DT the)(NNP EU)(POS 's))(JJ current)(NN chairman)))))) |ET| 
+-0.20651488440587251194102691442822  |BT| (NP (NP (PRP$ their)(JJ new)(NNP Pacific)(NNP Bell)(NNP Park))(PP (IN in)(NP (NNP San)(NNP Francisco)))) |ET| 
+-0.1829359866163915437908826788771  |BT| (S (S (NP (NP (FW Ljeka))(, ,)(NP (CD 29))(, ,))(VP (VBD pulled)(NP (DT a)(NN gun))(ADVP (IN out)(PP (IN of)(NP (PRP$ his)(NNS pants))(NP-TMP (NNP Wednesday))))(NP-TMP (NN night))))(CC and)(S (NP (NP (NN shot)(NN Detective))))) |ET| 
+-0.065947093293026837201864509552252  |BT| (NP (NP (NNP WASHINGTON)(CD __))(NN N)(ROOT (S (NP (NP (NP (NNP WASHINGTON)(CD __))(NN N)(NNS Advocates)))))) |ET| 
+-0.095873174547574324666499023805954  |BT| (NP (NP (PRP$ your)(NN advertising))(NP (NP (DT the)(NN property)))) |ET| 
+-0.12139081906828752543958671594737  |BT| (NP (JJ nine-member)(JJ inaugural)(NN committee)) |ET| 
+-0.09418456435309163765623452491127  |BT| (NP (NN Junta)(NN leader)) |ET| 
+-0.26705552299345991507095732231392  |BT| (NP (NNP Russia)(, ,)(NNP France)(, ,)(NNP Jordan)(CC and)(NNP Yemen)) |ET| 
+-0.030729442813867358097468240885064  |BT| (S (NP (NNS quarterbacks))(VP (VBD were)(NP (NP (DT the)(JJ first)(NNS players))))) |ET| 
+-0.14246553594083644078693851042772  |BT| (NP (NP (NNP Michigan)(POS 's))(JJ 8th)(ROOT (S (PP (IN In)(NP (NP (NNP Michigan)(POS 's))(JJ 8th)(NNP District)))))) |ET| 
+-0.056781409312883335260835337976459  |BT| (NP (NNP Tabasco)(NN state)) |ET| 
+-0.03219289518968387886488358162751  |BT| (S (NP (NNP Yemen))(VP (VBD sent)(NP (NNS planes))(PP (TO to)(NP (NNP Baghdad)))(, ,)(S (VP (JJ challenging)(NP (NP (NNP U.N.))))))) |ET| 
+-0.10011374217480306647587440238567  |BT| (NP (NN car)(NN bomb)) |ET| 
+-0.10110353027414098470160297438269  |BT| (S (LST (-LRB- -LRB-))(S (NP (CD _)(NNS Tornadoes))(VP (VP (VBD destroyed)(NP (NNS homes)))))) |ET| 
+-0.20436637563959902941235213802429  |BT| (NP (NP (PP (NP (NNP London))))(, ,)(NP (NP (DT a)(JJ major)(NN base))(PP (IN for)(NP (NP (JJ low-fare)(NNS carriers)))))) |ET| 
+-0.050871597392667222692352879676037  |BT| (NP (NP (NNS forces))(PP (IN of)(S (VP (VBG preventing)(NP (JJ pro-independence)(NNS residents))(PP (IN from)(S (VP (VBG reaching)(NP (NP (DT the)(NN capital)))))))))) |ET| 
+-0.179447358451240823740135965636  |BT| (NP (NP (NN court))(PP (IN with)(NP (JJ new)(NNS justices)))) |ET| 
+-0.11046738094958330478334573854227  |BT| (NP (JJ German)(NN police)) |ET| 
+-0.050270237274631757173892765422352  |BT| (NP (NP (NNS citizens)(POS '))(ROOT (S (NP (NNP Clement))(VP (VBD said)(SBAR (S (NP (NP (DT the)(NN counter-demonstration)(NN __))(VP (VBN organized)(PP (IN by)(NP (NP (NNS citizens)(POS '))(NNS groups))))))))))) |ET| 
+-0.067640713777089800373687467072159  |BT| (SBAR (WHNP (WDT that))(S (VP (VBD did)(RB not)(VP (VB send)(NP (NNS delegates)))))) |ET| 
+-0.054636553489394223959152441238984  |BT| (NP (NNP Pinochet)(NNS supporters)) |ET| 
+-0.19478735508253550157142797161214  |BT| (NP (NP (NNP Nixon))(, ,)(VP (VBN drawn)(PP (IN with)(NP (NN deep-set))))(, ,)(NP (JJ malevolent)(NNS eyes))(, ,)(NP (NP (CD five)(RB o'clock))(NP (NP (NN shadow))(CC and)(NP (PRN (, ,)(SBAR (WHADVP (WRB when))(S (NP (PRP he))(VP (VBD was)(NP (NP (NN vice)(NN president))))))))))) |ET| 
+-0.1314810909912349501382777816616  |BT| (VP (PP (NP (PP (NP (NNS owners)))))(PP (IN through)(NP (NP (VBG recording)(NNS houses))))) |ET| 
+-0.063779698575820401029723427654972  |BT| (NP (NN motorcycle)(NN magazine)) |ET| 
+-0.13594624805070829043351920972782  |BT| (NP (NP (NN police)(NNS raids))(PP (IN of)(NP (NP (DT an)(JJ alleged)(JJ Palestinian)(JJ terrorist)(NN base))))) |ET| 
+-0.096077794721299944469272702463059  |BT| (S (NP (NNP Tuscaloosa)(NN twister))(VP (VBD struck)(NP (DT a)(NN subdivision)))) |ET| 
+-0.057010791920638181906610952864867  |BT| (NP (NP (NN world)(POS 's))(JJ fourth-biggest)(ROOT (S (NP (NP (NN BA))(, ,)(NP (NP (NP (DT the)(NN world)(POS 's))(JJ fourth-biggest)(NN airline))))))) |ET| 
+-0.26534779515098350088919687550515  |BT| (S (NP (NNP Yemen))(VP (VBD sent)(NP (NNS planes))(PP (TO to)(NP (NNP Baghdad))))) |ET| 
+-0.17478820140584794273763691307977  |BT| (NP (NN prison)(NNS employees)) |ET| 
+-0.042554585271425082737550837919116  |BT| (NP (JJ Palestinian)(NNS territories)) |ET| 
+-0.14806077463446998265794718463439  |BT| (NP (PRP$ its)(NNS people)) |ET| 
+-0.15700137001136260650469012034591  |BT| (NP (PRP$ their)(NN team)) |ET| 
+-0.15971387692418503867486379022012  |BT| (S (NP (PP (NP (NP (NNP Rally))(PP (IN of)(NP (DT the)(NNPS Republicans))))))(VP (VBD set)(PRT (RP out))(PP (IN on)(NP (NP (NNS motorbikes)))))) |ET| 
+-0.19181731571184479356872998323524  |BT| (NP (PRP$ our)(NN country)) |ET| 
+-0.1475578066218965478384461675887  |BT| (NP (PRP$ its)(NNS competitors)) |ET| 
+-0.071546370154094374171904746617656  |BT| (NP (JJ Scottish)(NN prison)(NNS guards)) |ET| 
+-0.13118103415486223606301052768686  |BT| (VP (NP (NP (NNS prisoners)))(PP (IN in)(NP (PRP$ their)(NNS jails)))) |ET| 
+-0.073940989176411564542945598077495  |BT| (NP (NN state)(NNS prosecutors)) |ET| 
+-0.065941687897453915567780313722324  |BT| (NP (PRP$ my)(NNS teammates)) |ET| 
+-0.10035799039053050485392759583192  |BT| (NP (NN airport)(NN manager)) |ET| 
+-0.063404788946555434847596188774332  |BT| (NP (ADJP (NNP Phoenix))(NN radio)(NN station)(ROOT (S (NP (ADJP (NNP Phoenix))(NN radio)(NN station)(NNP KMVP))))) |ET| 
+-0.099957193379541342537208947760519  |BT| (NP (NN beach)(NN resort)) |ET| 
+-0.096720898394501153561009232362267  |BT| (WHNP (WP$ whose)(NX (NNS bodies))) |ET| 
+-0.19646199801289171427143287473882  |BT| (S (NP (CD Two))(VP (VBD were)(NP (NNS soldiers)))) |ET| 
+-0.098125641207998937076695256109815  |BT| (NP (NP (NN building))(SBAR (WHNP (WDT that)))) |ET| 
+-0.52903045575530027733179849747103  |BT| (S (NP (NNP Assad))(VP (VBD met)(PP (IN after)(NP (DT a)(NN week)))(SBAR (WHADVP (WRB when))(S (NP (NNP Russia)(, ,)(NNP France)(, ,)(NNP Jordan)(CC and)(NNP Yemen))(VP (VBD sent)(NP (NNS planes))))))) |ET| 
+-0.066636704109521938121929451881442  |BT| (S (NP (NNP Jorma))(VP (VBD told)(NP (NNS investors)))) |ET| 
+-0.80774288604061816876367174700135  |BT| (S (NP (VP (VP (PP (NP (NN police)(NN headquarters))))))(VP (VP (VBD shot)(NP (DT a)(NN veteran)(NN detective))(PP (TO to)(NP (NN death))))(CC and)(VP (ADVP (RB then))(VBD turned)(NP (DT the)(NN gun))))) |ET| 
+-0.089430456634414179362124741601292  |BT| (NP (ADJP (JJ Turkish))(ROOT (S (NP (DT The)(ADJP (NNP Russian)(, ,)(JJ Ukrainian)(CC and)(JJ Turkish))(NNS planes))))) |ET| 
+-0.066794315480466603940357117608073  |BT| (VP (PP (NP (NP (NN room))(PP (IN for)(NP (JJ private)(NNS chats)))))(PP (IN with)(NP (NP (JJ French)(NNP President))))) |ET| 
+-0.069550410816667573854488182405476  |BT| (NP (NP (NNP Gore)(POS 's))(NN press)(ROOT (S (CC And)(NP (NP (NP (NNP Gore)(POS 's))(NN press)(NN secretary)))))) |ET| 
+-0.1721677269262498199964284140151  |BT| (VP (NP (NP (NNPS Americans)(POS '))(NNP Social)(NNP Security)(NNS checks))(PP (IN for)(NP (NP (NN insurance)(NN coverage))(PP (IN of)(NP (NP (NNS doctors)(POS '))(NN office)))))) |ET| 
+-0.11824715650871753247486140026012  |BT| (S (NP (PP (NP (PRP$ our)(NN aircraft))))(VP (VBZ generates)(NP (NN shareholder)))) |ET| 
+-0.093774672867496633443806786090136  |BT| (NP (NN airline)(NN industry)) |ET| 
+-0.046937893561931343100468438933603  |BT| (NP (PRP$ his)(NNS allies)) |ET| 
+-0.041466441508787754699483230069745  |BT| (NP (NNP Georgia)(NNS appeals)(NN court)) |ET| 
+-0.080811010170858343926170164195355  |BT| (NP (NN XFL)(NN player)) |ET| 
+-0.12186837195630428887227481027367  |BT| (NP (PRN (SBAR (S (VP (NP (PP (NP (NN administration)))))))(, ,))(PP (IN with)(NP (NP (DT a)(JJ bloodstained)(NN hatchet))))) |ET| 
+-0.093955711121159746213038488349412  |BT| (S (NP (NNP Israel))(VP (VBZ insists)(PP (IN on)(S (VP (VBG waiting)(S (VP (TO to)(VP (VB settle)(NP (NNS borders)))))))))) |ET| 
+-0.070770558473932876353273968561552  |BT| (NP (PRP$ his)(NN boss)) |ET| 
+-0.059412252773640122915921324420196  |BT| (S (`` ``)(S (NP (NNP Alex))(VP (VBZ needs)(S (VP (TO to)(VP (VB buy)(NP (DT this)(NN house)))))))) |ET| 
+-0.0701661260874963943479087902233  |BT| (NP (PRP$ his)(NN opponent)) |ET| 
+-0.089745718577407318505834155075718  |BT| (NP (JJ European)(NN aircraft)) |ET| 
+-0.086059673739990988350356815317355  |BT| (NP (NP (NNS Neighbors))(PP (IN of)(NP (CD one)(JJ available)(NN residence)))) |ET| 
+-0.10751316162803056797336864747194  |BT| (VP (NP (NP (NNP Fisher))(PP (IN of)(NP (NN masterminding))))(SBAR (NP (DT the)(NN challenge))(IN because)(S (NP (DT the)(NN RV)(NNS owners))))) |ET| 
+-0.23572727042174879130698172957636  |BT| (NP (PRP$ their)(NN candidate)) |ET| 
+-0.065471984686956918864098042831756  |BT| (S (NP (NN district))(ADVP (RB also))(VP (VBZ is)(ADVP (NN home)))) |ET| 
+-0.090868004484734754555574909318238  |BT| (NP (NN estate)(NN agent)) |ET| 
+-0.067763698540303618500502125243656  |BT| (NP (NP (NN parliament))(, ,)(NP (DT the)(NN state)(NN television)(NN building))) |ET| 
+-0.070888258907756185323023601085879  |BT| (NP (NP (JJS most))(VP (VBG representing)(NP (NP (NNS unions))))) |ET| 
+-0.072780141900450123770838217751589  |BT| (NP (NN state)(NNS waters)) |ET| 
+-0.087840986888661598541716557519976  |BT| (NP (NN group)(NN OutRage)) |ET| 
+-0.058808823339487281689486053437577  |BT| (VP (VP (SBAR (S (VP (NP (NP (NN place))(PP (IN for)(NP (DT a)(NNS sports)(NN bar))))))))(CC and)(VP (VBZ has)(VP (VBN put)(PRT (RP up))(NP (NP (DT a)(JJ blue-and-orange)(NN sign)(NN reading))(, ,)(`` ``)(SINV (VP (VBD Wanted)(NP (NNS Broncos)))))))) |ET| 
+-0.066329388957292900741435914824251  |BT| (VP (ADVP (NP (NN government)))(PP (IN with)(IN as)(NP (NP (JJ few)(JJ old)(NNS faces))))) |ET| 
+-0.13849787531417345753936842811527  |BT| (NP (PRP$ its)(NNS players)) |ET| 
+-0.068629460662879226973132062994409  |BT| (S (NP (NN army))(VP (VBD evacuated)(NP (DT the)(NN outpost)))) |ET| 
+-0.030819991992609541142655871226452  |BT| (NP (NP (PRP$ his)(JJ first)(NN trip))(ADVP (RB abroad))) |ET| 
+-0.06842619440366570771061560662929  |BT| (VP (PP (NP (NNS canisters)))(S (VP (TO to)(VP (VB be)(VP (VBN taken)(PP (TO to)(NP (NP (DT a)(JJ vapor-tight)(NN building))))))))) |ET| 
+-0.1319592035423784448511241862434  |BT| (NP (PRP$ our)(NNS courts)) |ET| 
+-0.067707462086544101254048655391671  |BT| (NP (PRP$ his)(NN republic)) |ET| 
+-0.056388158535277899119364519719966  |BT| (NP (PRP$ his)(NN lawyer)) |ET| 
+-0.068986553833256802903406423865817  |BT| (NP (NP (NNP Cheney)(POS 's))(VBG examining)(ROOT (S (NP (NP (DT The)(JJ 59-year-old)(NNP Cheney)(POS 's))(VBG examining)(NN physician))))) |ET| 
+-0.063798718672634979753865991369821  |BT| (VP (NP (NP (NP (NNP Magnum)(NN revolver))(, ,)(ADVP (RB first))))(PP (IN at)(NP (NP (PRP$ his))))) |ET| 
+-0.022671232524829054710835407604463  |BT| (WHNP (WP who)) |ET| 
+-0.056938080392034295940106858324725  |BT| (NP (NN station)(NNP KMVP)) |ET| 
+-0.084888253585885031782254372956231  |BT| (NP (NN county)(NN jail)) |ET| 
+-0.075311537964919628151960750983562  |BT| (NP (NP (NNS supporters))(PP (IN outside)(NP (DT the)(NN court)(NN building)))) |ET| 
+-0.042245741856328899999084569572005  |BT| (NP (NNP U.S.)(NN labor)(NN pool)) |ET| 
+-0.059135496292733215339954000455691  |BT| (S (NP (NNS airlines))(VP (MD will)(VP (VB need)(NP (NP (CD 1,570)(JJ new)(NN passenger)(NNS planes)))))) |ET| 
+-0.07594107825479556872494413255481  |BT| (ROOT (S (VP (NP (PRP$ your)(JJ continued)(NN interest))(PP (IN in)(S (VP (VBG maintaining)(NP (PRP$ your)(NN notoriety))))))(. .)('' ''))) |ET| 
+-0.054212400532126281404998735524714  |BT| (S (NP (NP (NNP Wouters))(, ,)(NP (CD 42))(, ,))(VP (VBD was)(NP (DT a)(JJ 19-year)(NN veteran)))) |ET| 
+-0.059278000423488741432720416923985  |BT| (NP (NP (NN wife))(VP (VBN called)(NP (NNP Greenwood)(NNP Village)(NN police)))) |ET| 
+-0.15346339252777263517657502234215  |BT| (NP (JJ presidential)(NN nominee)) |ET| 
+-0.13177215113841267424277248210274  |BT| (NP (PRP$ its)(NNS citizens)) |ET| 
+-0.072961700330603118658245875849389  |BT| (ADJP (PP (NP (NN park)))(PP (IN from)(NP (DT the)(JJ presidential)(NN palace)))) |ET| 
+-0.064827825606779909684007634496083  |BT| (NP (NP (NN autocrat)(POS 's))(ROOT (S (NP (NP (NP (DT The)(JJ disgraced)(NN autocrat)(POS 's))(NNP Socialist)(NNP Party)))))) |ET| 
+-0.097344988789809017148968450783286  |BT| (S (NP (NN officer))(VP (VBD was)(VP (VBG booking)(NP (PRP him))(PP (IN at)(NP (NN police)(NN headquarters)))))) |ET| 
+-0.069561830486247089311291347257793  |BT| (NP (NP (NNS hospitals))(CC and)(NP (NN nursing)(NNS homes))) |ET| 
+-0.071587769500613976370040347774193  |BT| (S (NP (NNS owners))(VP (VBD conspired)(PP (IN with)(NP (DT the)(NNP U.S.)(NNP Soccer)(NNP Federation))))) |ET| 
+-0.05539431386254610456543190366574  |BT| (NP (JJ gay)(NNS men)) |ET| 
+-0.068046351659919013243893459730316  |BT| (S (S (VP (SBAR (S (NP (NNS vehicles))(VP (VBD were)(VP (VBN overturned)))))))(CC and)(S (NP (NNS homes)))) |ET| 
+-0.11939696458176385363003646489233  |BT| (VP (PP (NP (NP (NN army))(PP (IN of)(NP (NNS lawyers)))))(PP (IN than)(NP (NP (DT an)(NN outrage))(VP (VBN led)(PP (IN by)(NP (NP (DT an)(NN army))(PP (IN with)(NP (NNS guns))))))))) |ET| 
+-0.03115476903675857417441719121598  |BT| (SINV (`` ``)(S (NP (NNP Joe))(VP (VBD was)(NP (NP (DT a)(JJ true)(NN pioneer)))))) |ET| 
+-0.068949862799224298504086050343176  |BT| (SBAR (WHNP (WP who))(S (VP (VBD called)(NP (NP (DT the)(NN sheriff)(POS 's))(NN department))))) |ET| 
+-0.01443066866534098435792543568823  |BT| (NP (NP (PRP$ their)(`` ``)(NX (NNS bosses))(, ,)('' ''))(NP (NP (NNP George)(NNP W.)(NNP Bush)))) |ET| 
+-0.0675945532323818376596591406269  |BT| (NP (PRP$ his)(NN doctor)) |ET| 
+-0.043131500532663430425017736524751  |BT| (S (NP (NNP Ex-Maryland)(NN quarterback)(NNP Scott)(NNP Milanovich))(VP (VBD had)(NP (NP (DT the)(NN distinction))(PP (IN of)(S (VP (VBG being)(NP (NP (DT the)(JJ first)(NN XFL)(NN player))))))))) |ET| 
+-0.03639629185633186381210180115886  |BT| (NP (NNS Broncos)(NN fan)) |ET| 
+-0.10720632153286269172554057149682  |BT| (NP (NN school)(NN president)) |ET| 
+-0.015421926350658088367140408081468  |BT| (NP (PRP$ His)(NN office)) |ET| 
+-0.046315619425736143099925357091706  |BT| (NP (PRP$ his)(NNS parents)) |ET| 
+-0.040307493070071087615247051871847  |BT| (S (NP (PP (NP (NP (NN world)(POS 's))(JJ first)(NNS ladies))))(VP (VBD joined)(NP (NP (NNS activists))))) |ET| 
+-0.047558590728991489982036000583321  |BT| (S (NP (NNP Chapman))(VP (VBD recalled)(NP (DT a)(CD 1987)(NN interview))(PP (IN with)(NP (NP (NNS People)(NN magazine)))))) |ET| 
+-0.041846423456253001305071848037187  |BT| (NP (NP (PRP$ its)(JJ bloated)(NNS businesses))(NP (JJ inefficient)(JJ financial)(NN sector))) |ET| 
+-0.042645217502902399431263802398462  |BT| (NP (NP (NNPS Mets)(POS '))(ROOT (S (S (S (NP (PRP He))(VP (VBZ 's)(ADJP (JJ due)(S (VP (TO to)(VP (VB break)(PRT (RP out))(PP (IN with)(NP (NP (DT a)(NN barrage))(PP (IN against)(NP (DT the)(NNPS Mets)))))))))))(: ;)(RB then)(S (ADVP (RB again))(, ,)(NP (NP (DT the)(NNPS Mets)(POS '))(NNS pitchers))))))) |ET| 
+-0.042605556294325275246137607609853  |BT| (NP (JJ Palestinian)(NNS gunmen)) |ET| 
+-0.056778274089868130403147006290965  |BT| (NP (NN police)(NNP Chief)(NNP James)(NNP Vohs)) |ET| 
+-0.041783826529843803854191719437949  |BT| (SBAR (WP$ whose)(S (NP (NNS breadwinners)))) |ET| 
+-0.032537486188744635384750836237799  |BT| (NP (PRP$ its)(NN coach)) |ET| 
+-0.12133399750007778372662414767547  |BT| (S (NP (NNP Jordan)(CC and)(NNP Yemen))(VP (VBD sent)(NP (NNS planes))(PP (TO to)(NP (NNP Baghdad))))) |ET| 
+-0.03954271584848090270725151640363  |BT| (NP (PRP$ her)(NN husband)) |ET| 
+-0.083734473755340044220929485163651  |BT| (NP (NN Labor)(NN government)) |ET| 
+-0.055035067796406121620744755773558  |BT| (S (NP (NNP Goeran))(VP (VBD told)(NP (NNS reporters)))) |ET| 
+-0.02827571680782337004700366378529  |BT| (NP (JJ Palestinian)(NN security)(NNS officials)) |ET| 
+-0.090574923579456623201622278429568  |BT| (NP (NN board)(NN spokesman)) |ET| 
+-0.091596742579580725518439976440277  |BT| (VP (NP (NN PFLP-GC)(NN hide-out))(PP (IN in)(NP (NNP Neuss)))) |ET| 
+-0.047139439925650838958404165168758  |BT| (NP (NP (NNP Ouattara)(POS 's))(ROOT (S (NP (NP (NP (NNP Ouattara)(POS 's))(NN party)))))) |ET| 
+-0.027997917706875652399389764468651  |BT| (NP (NP (NN police)(NNS raids))(PP (IN of)(NP (NP (DT an)(JJ alleged)(JJ Palestinian))))) |ET| 
+-0.026674821379733870685413421597332  |BT| (NP (NNP Golan)(NN land)) |ET| 
+-0.046188909496169272550503137608757  |BT| (S (NP (NNS militias))(VP (VBP continue)(S (VP (TO to)(VP (VB attack)(NP (NNS peacekeepers))))))) |ET| 
+-0.055498672247186825456921610566496  |BT| (NP (NP (NNP Bush)(POS 's))(JJ chief)(ROOT (S (NP (DT Those)(NNS words))(VP (VBD were)(VP (VBN used)(NP-TMP (NNP Sunday))(PP (IN by)(NP (NP (NP (NP (NNP Bush)(POS 's))(JJ chief)(NN strategist)))))))))) |ET| 
+-0.042101051388758081728269644372631  |BT| (NP (JJ Many)(JJ suspect)(NNS supporters)) |ET| 
+-0.052387165748825681443889834554284  |BT| (NP (NP (NN state)(POS 's))(JJ rural)(JJ southeastern)(ROOT (S (NP (NNS Twisters))(VP (VBD struck)(SBAR (RB just)(IN before)(S (NP (NP (NN noon))(PP (IN in)(NP (NP (NP (DT the)(NN state)(POS 's))(JJ rural)(JJ southeastern)(NN corner))))))))))) |ET| 
+-0.044843917258502896672212045814376  |BT| (NP (PRP$ his)(NNS teams)) |ET| 
+-0.067437587047279645702246853034012  |BT| (NP (PRP$ his)(NN company)) |ET| 
+-0.0067892590335002292456501038486749  |BT| (S (NP (NP (NNS defendants))(, ,)(SBAR (WHNP (WP who))(S (VP (VBP are)(VP (VBN alleged)(S (VP (TO to)(VP (VB be)(NP (JJ Libyan)(JJ secret)(NNS agents)))))))))(, ,))(VP (VP (VBD sent)(NP (DT a)(NN suitcase))(PP (IN from)(S (NP (NP (DT the)(JJ Mediterranean)(NN island)))))))) |ET| 
+-0.034076289492689149085435929009691  |BT| (S (S (VP (NP (NP (NNS constructors)(POS '))(NN championship))))(, ,)('' '')(NP (NNP Schumacher))) |ET| 
+-0.054469623746872031233579036779702  |BT| (VP (PP (NP (PP (NP (NNS planes)))))(SBAR (IN since)(S (NP (DT the)(NNP United)(NNPS States))))) |ET| 
+-0.036385724470749281067583069670945  |BT| (NP (ADJP (NN Hawker))(JJ corporate)(ROOT (S (NP (NP (DT The)(ADJP (NN twin-engine)(NN Hawker))(JJ corporate)(NN jet)))))) |ET| 
+-0.047134824358800342380959591537248  |BT| (NP (NNS backers)) |ET| 
+-0.030116131729286843565773779118899  |BT| (NP (PRP$ their)(JJ combined)(NN business)) |ET| 
+-0.052070080777822089213024980836053  |BT| (S (NP (NN man))(VP (VBD was)(VP (VBN dragged)(PP (TO to)(NP (PRP$ his)(NN death)))(PP (IN from)(NP (DT a)(NN pickup)(NN truck)))(PP (IN by)(NP (NP (CD three)(JJ white)(NNS men))))))) |ET| 
+-0.040324489834449250835746170196217  |BT| (S (NP (NP (NNS groups)))(VP (VBD rallied)(NP (NP (QP (RB about)(CD 15,000))(NNS workers))))) |ET| 
+-0.045031084208045690786548220785335  |BT| (S (`` ``)(NP (NNP Governor)(NNP Bush))) |ET| 
+-0.013830946161460744292526214849204  |BT| (NP (NNP Comoros)(, ,)(NNP Egypt)(, ,)(NNP Jordan)) |ET| 
+-0.034826219914164437130299489808749  |BT| (S (NP (NP (PRN (-LRB- -LRB-))(NP (CD __)(NNP Saddam)(NNP International)(NNP Airport))))(VP (VBD was)(ADJP (JJR busier))(PP (IN than)(NP-TMP (JJ usual)(NNP Saturday)))(PP (IN with)(NP (NP (DT the)(JJS largest)(NN movement))(PP (IN of)(NP (NNS planes))))))) |ET| 
+-0.052742106065380649215779129690418  |BT| (S (NP (NNPS Palestinians))(VP (MD will)(VP (VB send)(NP (DT a)(NN plane))))) |ET| 
+-0.036145985093208016225574397140008  |BT| (S (NP (NP (NNS audiences)))(ADVP (RB also))(VP (VBD gave)(NP (DT the)(NN vice))(NP (NP (JJ presidential)(NNS candidates))))) |ET| 
+-0.046554891458325364794745837571099  |BT| (SBAR (WHNP (WP who))(S (VP (VBP own)(NP (DT this)(NN house))))) |ET| 
+-0.034509541867715168295127625697205  |BT| (S (NP (NP (NNS banks)))(VP (VBD named)(NP (NP (CD 52)(ADJP (RB financially)(JJ weak))(NNS companies))))) |ET| 
+-0.032095893805001107779162339284085  |BT| (NP (NP (NNP NFL)(NN lawyer)(NNP David))(ROOT (S (NP (NP (NNP NFL)(NN lawyer)(NNP David))(JJ Proper))))) |ET| 
+-0.041638429150391953470489170285873  |BT| (NP (JJ Palestinian)(NNS civilians)) |ET| 
+-0.064290851507205148962498242326546  |BT| (NP (NN go-cart)(NN magazine)) |ET| 
+-0.022089535342067367906793151632883  |BT| (NP (NNP Republican)(NNP Dick)(NNP Cheney)) |ET| 
+-0.075400465720103948541463978472166  |BT| (NP (NN league)(NN office)) |ET| 
+-0.034956436127704382244019143399782  |BT| (NP (NN court)(S (VP (TO to)(VP (VB buttress)(NP (NP (PRP$ their))))))) |ET| 
+-0.023635775742399722787467908347026  |BT| (NP (NP (NNP ABC)(POS 's))(ROOT (S (NP (NP (NNP ABC)(POS 's))(NNP Sam)(NNP Donaldson))))) |ET| 
+-0.036796402102052969129708515083621  |BT| (S (S (S (NP (PP (NP (PRP$ your)(NNS homes))))(, ,)(VP (VBP play)(NP (NN soccer))))(, ,)(CC or)(S (PP (IN till)(NP (DT the)(NNS fields)))(, ,)(NP (CC but))(VP (VBP do)(RB n't)(VP (VB vote)))))(, ,)('' '')(NP (NN party))) |ET| 
+-0.055052234791180154616085928864777  |BT| (NP (NNP Washington)(NN state)) |ET| 
+-0.025728054040375036848331546934787  |BT| (S (NP (NP (JJ Democratic)(NNP Vice)(NNP President)(NNP Al)(NNP Gore)))(VP (VBD remained)(ADJP (JJ undecided))(NP-TMP (NNP Monday))(PP (IN with)(NP (NP (DT the)(NN state)))))) |ET| 
+-0.065381453565307001696282895863988  |BT| (NP (NP (NNS forces))(PP (IN of)(S (VP (VBG preventing)(NP (JJ pro-independence)(NNS residents)))))) |ET| 
+-0.067706505326649013554174416640308  |BT| (NP (PRP$ his)(NN MVP)) |ET| 
+-0.034230763469757383155034347055334  |BT| (NP (PRP$ their)(NX (NNS bosses))) |ET| 
+-0.010031365277163306615193505422212  |BT| (NP (NNP Suharto)(NN clan)) |ET| 
+-0.037838409963472097174985719902907  |BT| (S (NP (NNP Marshall))(VP (VBD established)(NP (NP (DT the)(NN court))))) |ET| 
+-0.044111305917895249351090569689404  |BT| (NP (PRP$ his)(NNS colleagues)) |ET| 
+-0.029698577600672404486203959095292  |BT| (S (NP (NP (NNS officers))(PP (IN with)(NP (NN sniffer)(NNS dogs))))(VP (VBD searched)(NP (DT the)(NNS premises)))) |ET| 
+-0.01819417247702359574645925022196  |BT| (NP (PRN (SBAR (S (VP (NP (PP (NP (NP (NNP Eisenhower)(POS 's))(NN administration)))))))(, ,))(PP (IN with)(NP (NP (DT a)(JJ bloodstained)(NN hatchet))))) |ET| 
+-0.026908642937972571118621090136003  |BT| (NP (JJ Palestinian)(NN leader)(NNP Yasser)(NNP Arafat)) |ET| 
+-0.022976601338015711917250882834196  |BT| (NP (PRP$ his)(NNS aides)) |ET| 
+-0.043317414187105995893034560140222  |BT| (VP (PP (NP (NP (NNP Roy)(POS 's))(NN residence)))(, ,)(SBAR (WHADVP (WRB where)))) |ET| 
+-0.33078674737157820473498759383801  |BT| (S (NP (NNP Syria)(CC and)(NNP Egypt))(VP (VBD were)(VP (VBG planning)(S (VP (TO to)(VP (VB send)(NP (NNS planes))(PP (TO to)(NP (NNP Baghdad))))))))) |ET| 
+-0.031058245342670431909937178716063  |BT| (VP (NP (PP (NP (NN man))))(PP (IN with)(NP (DT a)(JJ tearful)))(: :)(`` ``)(S (INTJ (UH Oh))(, ,)(NP (PRP$ my)(NNP God)))) |ET| 
+-0.027962984361087350748675817158073  |BT| (NP (NP (NNS victims))(SBAR (WHNP (WP$ whose)))) |ET| 
+-0.023812498621497049655637567866506  |BT| (VP (NP (NNS schools))(S (VP (TO to)(VP (VB find)(PRT (RP out))(NP (NP (JJ undergraduate))))))) |ET| 
+-0.078275173115784468791389372199774  |BT| (NP (PP (NP (NNS countries)))(, ,)(PP (VBG including)(NP (NNP Jordan)(, ,)(NNP Egypt)))) |ET| 
+-0.017966000497417589087945088976994  |BT| (S (NP (NP (NNP Todd))(, ,)(NP (DT a)(JJ three-term)(NN state)(NN representative))(, ,))(VP (VBZ faces)(NP (JJ Democratic)))) |ET| 
+-0.034949834387823841552744852378964  |BT| (NP (JJ Jewish)(JJ seminary)) |ET| 
+-0.056765527745258115288606859394349  |BT| (VP (ADVP (NN home))(PP (TO to)(NP (NNP Jasper)))) |ET| 
+-0.027069532529260031950002485245932  |BT| (NP (NN mate)(NNP Dick)(NNP Cheney)) |ET| 
+-0.032895275609655411086507115214772  |BT| (NP (NP (NN state)(POS 's))(JJ 100,000-strong)(NN police)(ROOT (S (NP (DT The)(JJ Serbian)(NN presidency))(VP (VBZ has)(NP (NP (JJ sweeping)(NNS powers))(, ,)(PP (VBG including)(NP (NP (JJ direct)(NN control))(PP (IN over)(NP (NP (DT the)(NN state)(POS 's))(JJ 100,000-strong)(NN police)(NN force)))))))))) |ET| 
+-0.032295713063857700575454146019183  |BT| (NP (PRP$ its)(NN population)) |ET| 
+-0.022388253832982263347162188438233  |BT| (NP (NN member)(NNS states)) |ET| 
+-0.023280176817821240931039028509986  |BT| (NP (NN area)(NNS voters)) |ET| 
+-0.027664546069547490958484559087083  |BT| (S (NP (NNP AOL))(VP (VB be)(VP (VBN required)(S (VP (TO to)(VP (VB make)(NP (PRP$ its)(NN system)(NN work))(PP (IN with)(NP (QP (XS (IN at)(JJS least))(CD one))(JJ other)(NN provider))))))))) |ET| 
+-0.023304130009184076399719742767047  |BT| (NP (NN fishery)(NNS scientists)) |ET| 
+-0.040329324210293115982040035305545  |BT| (NP (JJ Palestinian)(NNS lawmakers)) |ET| 
+-0.0083282712962506888487723699654453  |BT| (NP (NP (NNP Arab)(NN world)(POS 's))(JJ first)(ROOT (S (NP (NP (NP (NNP CAIRO)(, ,)(NNP Egypt))(PRN (-LRB- -LRB-)(NP (NNP AP))(-RRB- -RRB-)))(PP (NP (CD __)(CD Ten))(IN of)(NP (NP (DT the)(NNP Arab)(NN world)(POS 's))(JJ first)(NNS ladies))))))) |ET| 
+-0.019746237593116111597169037850108  |BT| (S (NP (SBAR (WHNP (WP who))(S (VP (VBP are)(VP (VBN alleged)(S (VP (TO to)(VP (VB be)(NP (JJ Libyan)(JJ secret)(NNS agents)))))))))(, ,))(VP (VP (VBD sent)(NP (DT a)(NN suitcase))(PP (IN from)(S (NP (NP (DT the)(JJ Mediterranean)(NN island)))))))) |ET| 
+-0.022119068168167999033357773441821  |BT| (S (: -)(S (NP (NP (JJ Palestinian)(NN violence))(ADJP (RB __)(JJ many)))(ADVP (RB here)))) |ET| 
+-0.022929872957594410465276268951129  |BT| (NP (PRP$ his)(JJ terrorist)) |ET| 
+-0.024822017168765420080944750225171  |BT| (NP (NP (NN plane))(VP (VBG carrying)(NP (NP (NN actress))))) |ET| 
+-0.023167437818348401989965168468188  |BT| (NP (NP (NNP NBC)(POS 's))(ROOT (S (NP (NP (NP (NNP NBC)(POS 's))(NNP Tim)(NNP Russert)))))) |ET| 
+-0.019679595741497468708303131279536  |BT| (S (NP (NNP Swedish)(NNP Prime)(NNP Minister)(NNP Goeran)(NNP Persson))(VP (VBD told)(NP (NNS reporters)))) |ET| 
+-0.010870401545077346128209683229215  |BT| (NP (NNP Secretary)(NNP Jack)(NNP Straw)) |ET| 
+-0.033574072872909255238482728600502  |BT| (WHNP (NP (WP$ whose)(NN appearance))(PP (IN at)(NP (NP (DT the)(JJ special)(JJ Scottish))))) |ET| 
+-0.032106868297461232941714115440845  |BT| (NP (NN commission)(NN chairman)) |ET| 
+-0.016187674472081026166847550484817  |BT| (S (NP (NP (NNP Robert))(, ,)(NP (DT the)(NNP Wisconsin)(NNP Progressive))(, ,))(VP (VBD proposed)(S (VP (VBG overriding)(NP (DT the)(NN court)))))) |ET| 
+-0.023388714276243754985884493180492  |BT| (S (NP (NNS members))(VP (VBD met)(NP-TMP (NNP Wednesday))(PP (IN with)(NP (NP (NNS representatives)))))) |ET| 
+-0.02454766835040889105812311754562  |BT| (NP (JJ Palestinian)(NN command)(NNS centers)) |ET| 
+-0.021224731558082049476254837827582  |BT| (SINV (S (S (VP (SBAR (S (VP (ADJP (RB here)(S (VP (TO to)(VP (VB show)(NP (PRP$ my)(NN support))))))))))))(, ,)('' '')(VP (VBD said)(NP (JJ well-known)(JJ Egyptian)(NN actress)))) |ET| 
+-0.02032969787971300457130041650089  |BT| (NP (NP (NNS commissions))(PP (IN with)(NP (JJ key)(NNS countries)))) |ET| 
+-0.02947611411249151380786770459963  |BT| (NP (NP (`` ``))(NP (NP (NNP George)(NNP W.)(NNP Bush)))) |ET| 
+-0.020213032199112856979184016381623  |BT| (VP (PP (NP (NNS in-laws)))(, ,)(PP (VBG according)(PP (TO to)(NP (DT a)(NN police))))) |ET| 
+-0.018457090231748463082794842193834  |BT| (NP (NNP Kostunica)(NNS supporters)) |ET| 
+-0.0091837017183582503321304102428257  |BT| (NP (NNP CBS)(NN anchor)) |ET| 
+-0.036472710661590079794791563472245  |BT| (NP (NP (NNP Gore)(POS 's))(ROOT (S (CC But)(NP (NP (NP (NNP Gore)(POS 's))(NNS surrogates)))))) |ET| 
+-0.0073016887150481046830918785417452  |BT| (NP (NNP Texas)(NN governor)) |ET| 
+-0.0089659927109031929692850582114261  |BT| (PP (NP (NN state))(NP (NP (NNP Supreme)(NNP Court)))) |ET| 
+-0.018261898574114754367769819509704  |BT| (NP (PRP$ their)(CD two)(JJ baseball-playing)(NNS sons)) |ET| 
+-0.0072215446113468306776894678478129  |BT| (NP (NNP Detroit)(NN suburb)) |ET| 
+-0.015432757617218406664960639318451  |BT| (NP (NP (NN product))(PP (IN for)(NP (NP (NNP Yahoo)(. !))))) |ET| 
+-0.01651348376076914800658634874253  |BT| (NP (NP (NNS astronauts))(VP (VP (VBN clamped)(NP (NN power)(NN equipment))(PP (IN onto)(NP (NP (DT the)(JJ international)(NN space)(NN station))))))) |ET| 
+-0.021002485797772640907510321994778  |BT| (S (NP (NP (NN competitor))(, ,)(NP (NNP easyJet))(, ,))(VP (VBZ has)(ADVP (RB long))(VP (VBN accused)(NP (NP (NN BA)))))) |ET| 
+-0.017882562273683788589551113545895  |BT| (NP (NP (NNS retailers))(X (NP (WHNP (WP who))))) |ET| 
+-0.035536749184291116510081565138535  |BT| (NP (NP (PRP$ his)(JJ first)(NN trip))(ADVP (RB abroad)(PP (IN since)(S (VP (VBG becoming)(NP (NN president))))))) |ET| 
+-0.010636460523310464765245342277922  |BT| (NP (NNP Milosevic)(NN regime)) |ET| 
+-0.018107646871085236739418178331107  |BT| (NP (NP (NNS hotels))(PP (IN for)(NP (NNS Americans)))) |ET| 
+-0.017296699762970865754674321124185  |BT| (NP (NP (NNP Lennon)(POS 's))(ROOT (S (PP (IN In)(NP (NP (DT a)(ADJP (RB somewhat)(JJ rambling))(NN apology))(PP (TO to)(NP (NP (NNP Lennon)(POS 's))(NN widow)))))))) |ET| 
+-0.023351086841095325397077431262005  |BT| (NP (NN court)(S (VP (TO to)(VP (VB suit)(NP (PRP$ their)))))) |ET| 
+-0.027991849389500833567012705316301  |BT| (S (NP (NP (NN agent)(NNP Scott)(NNP Boras)))(VP (VBD were)(VP (VBN expected)(S (VP (TO to)(VP (VB meet)(NP (NAC (NNP Monday)(PP (IN with)(NP (NNPS Rangers)(NN owner))))(NNP Tom)(NNP Hicks)))))))) |ET| 
+-0.016879413774013349303082520691532  |BT| (NP (NP (NN party)(POS 's))(ROOT (S (CC But)(NP (NP (NP (DT the)(VBG ruling)(NN party)(POS 's))(NN representative)))))) |ET| 
+-0.010555661930451876173719938378781  |BT| (NP (JJ Israeli)(NN army)) |ET| 
+-0.016870295946755042848508310271427  |BT| (S (NP (NP (NNP Chase))(, ,)(NP (DT a)(NNP Dow)(NNP Jones)(JJ industrial))(, ,))(VP (VBZ is)(VP (VBG buying)(NP (NNP J.P.)(NNP Morgan))))) |ET| 
+-0.016143262079856279811451713612769  |BT| (NP (PRP$ his)(NN staff)) |ET| 
+-0.013000657074610399988046083308291  |BT| (S (NP (NP (NP (NNS Police))))(VP (VBD searched)(PP (IN for)(NP (NP (NN separatist)(NNS activists)))))) |ET| 
+-0.076478991936820089891924112635024  |BT| (S (NP (NNP France)(, ,)(NNP Jordan)(CC and)(NNP Yemen))(VP (VBD sent)(NP (NNS planes))(PP (TO to)(NP (NNP Baghdad)))(, ,)(S (VP (JJ challenging)(NP (NP (NNP U.N.))))))) |ET| 
+-0.010901493804334361215069293393753  |BT| (NP (NN Company)(NNS officials)) |ET| 
+-0.16547914822442733040475104644429  |BT| (S (S (NP (NN staff))(VP (VBZ has)(VP (VBN recommended)(SBAR (IN that)(S (NP (NNP AOL))(VP (VB be)(VP (VBN required)(S (VP (TO to)(VP (VB make)(NP (PRP$ its)(NN system)(NN work))(PP (IN with)(NP (QP (XS (IN at)(JJS least))(CD one))(JJ other)(NN provider)))))))))))))(, ,)(CC but)(S (NP (DT the)(NN requirement))(VP (MD would)(VP (VB apply)(ADVP (RB only))(PP (TO to)(NP (NP (JJ advanced)(JJ instant)(NN messaging)(NNS services))(VP (VBD offered)(PP (IN over)(NP (NP (NNP Time)(NNP Warner)(POS 's))(NN cable)(NNS lines)))))))))) |ET| 
+-0.039770328503689222898742627876345  |BT| (VP (NP (NNS residents))(PP (IN from)(S (VP (VBG reaching)(NP (NP (DT the)(NN capital))))))) |ET| 
+-0.010188449155275369414908048781854  |BT| (S (NP (JJ pro-Indonesian)(NNS militias))(VP (VBP continue)(S (VP (TO to)(VP (VB attack)(NP (NNS peacekeepers))))))) |ET| 
+-0.020182588076888885453286093252245  |BT| (S (NP (NN quarterback)(NNP Scott)(NNP Milanovich))(VP (VBD had)(NP (NP (DT the)(NN distinction))(PP (IN of)(S (VP (VBG being)(NP (NP (DT the)(JJ first)(NN XFL)(NN player))))))))) |ET| 
+-0.01308926871050219986614138178993  |BT| (NP (NP (NN specialist))(PP (IN with)(NP (DT the)(NNP National)(NNP Marine)(NNPS Fisheries)(NNP Service)))) |ET| 
+-0.007933955124890035293105938762892  |BT| (S (NP (NNS Snowplows))(VP (VBD were)(VP (VBN pulled)(PRT (RP off))(NP (NP (DT the)(NNS roads)))))) |ET| 
+-0.01110271540092666597843162890058  |BT| (NP (JJ Democratic)(NN state)(NNP Sen.)) |ET| 
+-0.0082158565070902037086320035541576  |BT| (NP (NP (NNP Iran)(POS 's))(JJ only)(JJ Jewish)(ROOT (S (NP (NP (NNP TEHRAN)(, ,)(NNP Iran))(PRN (-LRB- -LRB-)(NP (NNP AP))(-RRB- -RRB-)))(NP-TMP (CD __)(NN N))(NP (NP (NP (NNP Iran)(POS 's))(JJ only)(JJ Jewish)(NN legislator)))))) |ET| 
+-0.010926849064624821750157934729941  |BT| (NP (NNP McLaren)(NN teammate)) |ET| 
+-0.011685944500792189160165435168892  |BT| (NP (NP (NN mansion))(PP (IN for)(NP (NP (PRP$ his)(NN staff))))) |ET| 
+-0.00970248890829061849672143580392  |BT| (NP (NNP Algerian)(NN asylum-seeker)) |ET| 
+-0.0081865381941774728602467803284526  |BT| (NP (NNP Aceh)(NN province)) |ET| 
+-0.010859353763188916985882315202616  |BT| (S (NP (NNP Minister)(NNP Goeran)(NNP Persson))(VP (VBD told)(NP (NNS reporters)))) |ET| 
+-0.015228784327968813983034124248661  |BT| (NP (NNP Egypt)(, ,)(NNP Jordan)(, ,)(NNP Kuwait)) |ET| 
+-0.010686396975676970555468869861215  |BT| (NP (NNP GOP)(NN challenger)) |ET| 
+-0.010186950880121082088636264018078  |BT| (SBAR (WHNP (WP who))(S (VP (VBD was)(NP (NP (NP (NN finance)(NN chairman))))))) |ET| 
+-0.0096215520300226842209667665883899  |BT| (NP (NNP Taliban)(NN militia)) |ET| 
+-0.0081119541886787160933636187110096  |BT| (NP (NP (NNP Fox))(ROOT (S (NP (NP (NNP Fox)(NNP News)(NNP Channel)(POS 's))(NNP Mort)(NNP Kondracke))))) |ET| 
+-0.011460904040005617798847481481062  |BT| (S (NP (NNP Pinochet))(, ,)(ADVP (RB meanwhile))(, ,)(VP (VBD remained)(PP (IN at)(NP (NP (PRP$ his)(NN country)(NN house)))))) |ET| 
+-0.010118309418550852640805715054739  |BT| (NP (NNP Stars)(NN center)) |ET| 
+-0.0093954675243776986093280356726609  |BT| (VP (NP (DT all))(VP (VBN screened)(PRT (RP out))(NP (NP (DT all))))) |ET| 
+-0.010521116893827953120421625499148  |BT| (NP (NNP Florida)(JJ high)(NN court)) |ET| 
+-0.010916370145697795734918145171832  |BT| (S (NP (NNS organizers))(VP (VBD accused)(NP (NP (NN security)(NNS forces))))) |ET| 
+-0.0092447821038119659675658112973906  |BT| (NP (NNP Tokyo)(NN subway)) |ET| 
+-0.017013028240546290703605336602777  |BT| (NP (NNP Bahrain)(, ,)(NNP Comoros)(, ,)(NNP Egypt)) |ET| 
+-0.0089432989756039749096316882059909  |BT| (NP (NNP Coca-Cola)(NN executive)) |ET| 
+-0.0085488970113021256480578813352622  |BT| (NP (NNP Yabloko)(NN faction)) |ET| 
+-0.022479090931790679519508557859808  |BT| (VP (PP (NP (NP (NN room))(PP (IN for)(NP (JJ private)(NNS chats)))))(PP (IN with)(NP (NP (JJ French)(NNP President)(NNP Jacques)(NNP Chirac))))) |ET| 
+-0.093587746656644946185998890086921  |BT| (S (NP (NNP Herblock)(NNS targets))(, ,)(ADVP (RB however))(, ,)(VP (VBD were)(ADVP (IN as))(VP (VBN favored)(PP (IN as)(NP (NP (NNP Nixon))(, ,)(VP (VBN drawn)(PP (IN with)(NP (NN deep-set))))(, ,)(NP (JJ malevolent)(NNS eyes))(, ,)(NP (NP (CD five)(RB o'clock))(NP (NP (NN shadow))(CC and)(NP (PRN (, ,)(SBAR (WHADVP (WRB when))(S (NP (PRP he))(VP (VBD was)(NP (NP (NN vice)(NN president))(PP (IN in)(NP (NP (NNP Eisenhower)(POS 's))(NN administration)))))))(, ,))(PP (IN with)(NP (NP (DT a)(JJ bloodstained)(NN hatchet)))))))))))) |ET| 
+-0.014119412153517005986680388218701  |BT| (S (NP (NP (JJ Republican)(NNP Todd)(NNP Staples))(, ,)(NP (DT a)(JJ three-term)(NN state)(NN representative))(, ,))(VP (VBZ faces)(NP (JJ Democratic)))) |ET| 
+-0.0076977120288410638693221699213609  |BT| (NP (NP (NNP Herblock)(POS 's))(JJ first)(NP (JJ full-time)(NN cartoonist))) |ET| 
+-0.008045511998268651751575752939516  |BT| (NP (NP (NAC (NNP University))(NN paleobiologist))(NP (NP (NNS specialists)))) |ET| 
+-0.011275279802416271479614806594327  |BT| (NP (PRP$ my)(NN grandson)) |ET| 
+-0.0096105448655936509538832979160361  |BT| (NP (NNP CEO)(NNP Jack)(NNP Welch)) |ET| 
+-0.009840719455988411468183585384395  |BT| (NP (NN union)(NNS officials)) |ET| 
+-0.0078503651142267320134360275574181  |BT| (NP (PP (NP (NNS neighbors)))(, ,)(PP (VBG including)(NP (NNP France)(, ,)(NNP Italy)))) |ET| 
+-0.0083955154821304667223103024298325  |BT| (NP (NN state)(NN utility)(NN labor)) |ET| 
+-0.015588887193157541233290430682246  |BT| (S (NP (NNP Executive)(NNP Jorma)(NNP Ollila))(VP (VBD told)(NP (NNS investors)))) |ET| 
+-0.010478189286444422601007886441948  |BT| (S (NP (NNP Shea))(VP (ADVP (RB then))(VBD held)(NP (DT a)(NN meeting))(PP (IN with)(NP (PRP$ his)(NN football)(NN team))))) |ET| 
+-0.025133318029646911639929385273717  |BT| (NP (NP (NN world)(POS 's))(JJ first)(ROOT (S (NP (NP (NP (NNP CAIRO)(, ,)(NNP Egypt))(PRN (-LRB- -LRB-)(NP (NNP AP))(-RRB- -RRB-)))(PP (NP (CD __)(CD Ten))(IN of)(NP (NP (DT the)(NNP Arab)(NN world)(POS 's))(JJ first)(NNS ladies))))))) |ET| 
+-0.0099786427180021952665356366196647  |BT| (NP (NNP Duma)(NN speaker)) |ET| 
+-0.0090255707550539465700012442539446  |BT| (NP (NNP California)(NN investor)) |ET| 
+-0.0090929897927396474699435202637687  |BT| (NP (NNP Rochester)(NN journalist)) |ET| 
+-0.0048081783698663820708629756950359  |BT| (NP (NP (NN school)(NN shooting))(SBAR (WHNP (WDT that))(S (VP (VBD left)(NP (NP (CD six)(JJ fellow)(NNS students))))))) |ET| 
+-0.0058492875014026779467712913174182  |BT| (NP (NP (NNS co-chairs))(PP (IN of)(NP (NP (DT the)(ADJP (JJ Ohio-based))(NN investment)(NN firm))))) |ET| 
+-0.0075426869454038314444233037647791  |BT| (VP (NP (PRP$ their)(JJ obvious)(NN dismay))(PP (IN with)(NP (NP (NNP Friday)(POS 's))(CD 4-3)(NN state))(NP (NP (NNP Supreme)(NNP Court))))) |ET| 
+-0.010436604754288248547711148717099  |BT| (VP (PP (NP (NNP United)))(PP (IN by)(NP (NP (JJ top)(NNS members))))) |ET| 
+-0.014027017321973200836282558157109  |BT| (S (NP (NN judge))(ADVP (RB recently))(VP (VBD cleared)(NP (DT the)(NN way))(PP (IN for)(NP (DT the)(NN RV))))) |ET| 
+-0.014731393241240306121730974098227  |BT| (S (NP (NNP Russia)(, ,)(NNP France)(, ,)(NNP Jordan)(CC and)(NNP Yemen))(VP (VBD sent)(NP (NNS planes))(PP (TO to)(NP (NNP Baghdad)))(, ,)(S (VP (JJ challenging)(NP (NP (NNP U.N.))))))) |ET| 
+-0.0098020783119821403017724037454173  |BT| (S (NP (NP (NN agent)(NNP Scott)(NNP Boras)))(VP (VBD were)(VP (VBN expected)(S (VP (TO to)(VP (VB meet)(NP (NAC (NNP Monday)(PP (IN with)(NP (NNPS Rangers)(NN owner))))))))))) |ET| 
+-0.0077300868163283631417925789719447  |BT| (NP (NNP Egypt)(, ,)(NNP Jordan)) |ET| 
+-0.0080470863163347138014014348073033  |BT| (S (S (NP (NNS forces))(VP (VBD patrolled)(NP (DT the)(NN city))(PP (IN in)(NP (JJ armored)(NNS vehicles)))))(, ,)(CC and)(S (NP (NNS officers))(VP (VBD carried)(PRT (RP out))(NP (JJ random)(NN identification)(NNS checks))(, ,)(S (VP (VBG looking)(PP (IN for)(NP (NN separatist)(NNS leaders)))))))) |ET| 
+-0.0059378503899314427627587065217085  |BT| (NP (NNP Dallas)(NN suburb)) |ET| 
+-0.0062940992836144626920713562867604  |BT| (S (NP (NN compound))(VP (VBD was)(ADVP (NN home))(PP (TO to)(NP (DT a)(JJ Jewish)(JJ seminary)))(, ,)(SBAR (WHADVP (WRB where))))) |ET| 
+-0.0042762521746566584113224962493405  |BT| (VP (PP (NP (NP (NNP Roy)(POS 's))(NN residence)))(SBAR (WHADVP (WRB where))(S (NP (NNP Michele)(NNP Roy))))) |ET| 
+-0.0056044898839080481423025048570707  |BT| (NP (JJ Egyptian)(NN army)) |ET| 
+-0.007557207834152146475048539286945  |BT| (NP (ADJP (NNP Phoenix))(NN radio)(ROOT (S (NP (ADJP (NNP Phoenix))(NN radio)(NN station))))) |ET| 
+-0.014761587268020261859424735462198  |BT| (S (NP (PP (NP (NNP Coldwell))))(VP (VBZ is)(VP (VBG listing)(NP (NP (DT an)(NN acre))(PP (IN of)(NP (NN land))))(PP (IN about)(NP (NP (DT a)(NN mile))(PP (IN from)(NP (NP (NP (DT the)(NNS Broncos)(POS '))(NN training)(NN camp))))))))) |ET| 
+-0.0037944332822754667233766667777672  |BT| (NP (NP (NNP House)(NNS races))(: :)(NP (NP (NP (NNP New)(NNP Jersey)(POS 's))(JJ 12th)(NN district)))) |ET| 
+-0.0055634915813309593346502879285254  |BT| (NP (NNP Texas)(NN ranch)) |ET| 
+-0.007542013241872203010984776483383  |BT| (NP (NP (NNP Pinochet)(POS 's))(ROOT (S (NP (NP (NNP Pinochet)(POS 's))(NN defense))))) |ET| 
+-0.0050841083809010090277524795965292  |BT| (S (NP (NNP Georgia))(VP (VBD fired)(NP (NN football)(NN coach)))) |ET| 
+-0.0054534184719756684245339783956297  |BT| (NP (NNP Bamyan)(NN province)) |ET| 
+-0.0068880560318003158926103424164467  |BT| (SBAR (WHNP (WP who))(S (VP (VBD founded)(NP (DT the)(NN motorcycle))))) |ET| 
+-0.0030753206586890957652258293819614  |BT| (NP (JJ Democratic)(NN state)(NNP Sen.)(NNP Ellen)(NNP Anderson)) |ET| 
+-0.0034839325565777321674909572379875  |BT| (S (NP (NNP Clinton))(VP (VP (VBD sent)(NP (DT a)(NN letter))(PP (TO to)(NP (NP (NNP Russian)(NNP President)(NNP Vladimir)(NNP Putin))))))) |ET| 
+-0.0036322863636175650725590458023362  |BT| (S (NP (PP (NP (CD Ten))(IN of)(NP (NP (DT the)(NNP Arab)(NN world)(POS 's))(JJ first)(NNS ladies))))(VP (VBD joined)(NP (NP (NNS activists))))) |ET| 
+-0.0041975236232085037790806580915159  |BT| (NP (NP (NNP Britain)(POS 's))(ROOT (S (NP (NP (NP (NNP Britain)(POS 's))(NNP High)(NNP Court)))))) |ET| 
+-0.0027753331511317647084524651290849  |BT| (NP (NNP ABC)(NN anchorman)) |ET| 
+-0.0023093396592772652553549050935544  |BT| (S (NP (NNP Cheney)(CC and)(NNP Lieberman))(, ,)(PP (IN with)(NP (NN moderator)))) |ET| 
+-0.0021265535345684500462271060428066  |BT| (S (NP (NP (JJ Republican)(NNP Todd)(NNP Staples))(, ,)(NP (DT a)(JJ three-term)(NN state)(NN representative))(, ,))(VP (VBZ faces)(NP (JJ Democratic)(NN lawyer)(NNP David)(NNP Fisher)))) |ET| 
+-0.021914081152115086337239802105614  |BT| (NP (PRP$ his)(NNS aides)) |ET| 
+-0.0042167492566063113912377957603894  |BT| (NP (PRP$ his)(NN campaign)) |ET| 
+-0.0021116615933851612396665586857125  |BT| (NP (NN opposition)(NN block)) |ET| 
+-0.0019318732833102369994549007969908  |BT| (S (PRN (-LRB- -LRB-))(NP (NP (NNP __)(NNP Gov.)(NNP Jesse)(NNP Ventura)))) |ET| 
+-0.0022668799419817966742107806510376  |BT| (S (NP (NNS men))(PRN (, ,)(S (NP (DT all))(VP (VBD said)(S (VP (TO to)(VP (VB be)(NP (NP (NNS fighters))(VP (VBG belonging)(PP (TO to)(NP (DT the)(NN opposition)))))))))))) |ET| 
+-0.0022661477979324384790515978238545  |BT| (NP (NP (NN sarin))(, ,)(VP (VBN designed)(S (VP (TO to)(VP (VB kill)(NP (NN everyone))))))) |ET| 
+-0.0018474246503976665678692370420322  |BT| (S (NP (NP (NNP Koetter))(, ,)(NP (CD 41))(, ,))(VP (VBZ replaces)(NP (NP (NNP Bruce)(NNP Snyder))))) |ET| 
+-0.0017378375266727807968436536611989  |BT| (NP (NNP Bush)(NN camp)) |ET| 
+-0.0015570570750080836575079956674017  |BT| (NP (NN opposition)(NN alliance)) |ET| 
+-0.0015624078634870475212892415584065  |BT| (NP (NP (NNS schools))(, ,)(ADVP (RB chiefly))(NP (NN community)(NNS colleges))) |ET| 
+-0.0013670629280675417049906172906049  |BT| (S (NP (JJ Proper)(NNS states))(`` ``)(VP (VBZ gives)(NP (DT the)(JJ false)(NN impression))(SBAR (IN that)(S (NP (DT the)(NN bar)))))) |ET| 
+-0.0016808043457464637293607978563159  |BT| (NP (NNP Senate)(NNP Foreign)(NNP Relations)(NNP Committee)) |ET| 
+-0.0013568049341698973364600533386692  |BT| (NP (NNP Egypt)(, ,)(NNP Jordan)(, ,)(NNP Kuwait)(, ,)(NNP Lebanon)) |ET| 
+-0.0012615141411125296855288979713805  |BT| (NP (NN state)(NNP Sen.)(NNP Ellen)(NNP Anderson)) |ET| 
+-0.0012079297943312639063151436857879  |BT| (VP (VP (SBAR (S (VP (NP (NP (NN place))(PP (IN for)(NP (DT a)(NNS sports)(NN bar))))))))(CC and)(VP (VBZ has)(VP (VBN put)(PRT (RP up))(NP (NP (DT a)(JJ blue-and-orange)(NN sign)(NN reading))(, ,)(`` ``)(SINV (VP (VBD Wanted)(NP (NNS Broncos)))(NP (NNP Sports)(NNP Bar))))))) |ET| 
+-0.0012105543586213851625643656007014  |BT| (NP (NNP Justice)(NNP William)(NNP H.)(NNP Rehnquist)) |ET| 
+-0.0011777643044432739571902857278474  |BT| (NP (NN paper)) |ET| 
+-0.0012450762983520387294777975739635  |BT| (S (NP (NP (NP (PP (NP (NNP Tinley)))))(, ,))(VP (VBZ is)(VP (VBG attempting)(S (VP (TO to)(VP (VB acquire)(NP (NP (NP (DT The)(NNP News)(NNP Sun)))))))))) |ET| 
+-0.001159311468032185599152938948464  |BT| (S (NP (NNP Bush))(VP (VBD criticized)(NP (NP (PRP$ his)(NN opponent))))) |ET| 
