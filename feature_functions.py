@@ -69,13 +69,16 @@ def _get_lowest_common_ancestor_(fr, s_tree):
 
 
 def _find_head_of_tree_(tree):
-    """given a tree, return its head word"""
+    """ given a tree, return its head word """
     result = "None"
     if tree.node not in phrase_heads.keys():
         for child in tree:
-            if child.node in ["WHNP", "MD", "VP", "S", "SQ", "SBAR"]:
-                result = _find_head_of_tree_(child)
-                break
+            if isinstance(child,ParentedTree):
+                if child.node in ["WHNP", "MD", "VP", "S", "SQ", "SBAR"]:
+                    result= _find_head_of_tree_(child)
+                    break
+            else:
+                result = child
     else:
         for child in tree:
             if isinstance(child, ParentedTree):
@@ -907,20 +910,24 @@ def lp_tree(fr):
     nodes_left_branch = []
     nodes_right_branch = []
     curr_tree = left_tree
-    while curr_tree != lwca.parent():
-        if not (len(nodes_left_branch) > 0 and nodes_left_branch[-1] == curr_tree.node):
-            nodes_left_branch.append(curr_tree.node)
-        curr_tree = curr_tree.parent()
-    curr_tree = right_tree
-    while curr_tree != lwca:
-        if not (len(nodes_right_branch) > 0 and nodes_right_branch[-1] == curr_tree.node):
-            nodes_right_branch.append(curr_tree.node)
-        curr_tree = curr_tree.parent()
-    nodes_right_branch.reverse()
-    path = nodes_left_branch + nodes_right_branch
-    children = [ParentedTree(node, ["*"]) for node in path]
-    label_path = ParentedTree("LP", children)
-    return label_path
+    if isinstance(lwca,ParentedTree):
+        while curr_tree!=lwca.parent():
+            if not (len(nodes_left_branch)>0 and nodes_left_branch[-1]== curr_tree.node):
+                nodes_left_branch.append(curr_tree.node)
+            curr_tree = curr_tree.parent()
+        curr_tree = right_tree
+        while curr_tree!=lwca:
+            if not (len(nodes_right_branch)>0 and nodes_right_branch[-1]== curr_tree.node):
+                nodes_right_branch.append(curr_tree.node)
+            curr_tree = curr_tree.parent()
+        nodes_right_branch.reverse()
+        path = nodes_left_branch + nodes_right_branch
+        children = [ParentedTree(node,["*"]) for node in path]
+        label_path = ParentedTree("LP",children)
+        return label_path
+    else:
+        label_path = ParentedTree("LP",[lwca])
+        return label_path
 
 
 def lp_head_tree(fr):
@@ -938,20 +945,23 @@ def lp_head_tree(fr):
     nodes_left_branch = []
     nodes_right_branch = []
     curr_tree = left_tree
-    while curr_tree != lwca:
-        if not (len(nodes_left_branch) > 0 and nodes_left_branch[-1].node == curr_tree.node):
-            nodes_left_branch.append(ParentedTree(curr_tree.node, ["*"]))
-        curr_tree = curr_tree.parent()
-    if nodes_left_branch[-1].node == lwca.node: nodes_left_branch.pop()
-    nodes_left_branch.append(ParentedTree(lwca.node, [_find_head_of_tree_(lwca)]))  #add head of lwca
-    curr_tree = right_tree
-    while curr_tree != lwca:
-        if not (len(nodes_right_branch) > 0 and nodes_right_branch[-1].node == curr_tree.node):
-            nodes_right_branch.append(ParentedTree(curr_tree.node, ["*"]))
-        curr_tree = curr_tree.parent()
-    nodes_right_branch.reverse()
-    path = nodes_left_branch + nodes_right_branch
-    label_path = ParentedTree("LP-head", path)
+    if isinstance(lwca,ParentedTree):
+        while curr_tree!=lwca:
+            if not (len(nodes_left_branch)>0 and nodes_left_branch[-1].node== curr_tree.node):
+                nodes_left_branch.append(ParentedTree(curr_tree.node,["*"]))
+            curr_tree = curr_tree.parent()
+        if nodes_left_branch[-1].node == lwca.node: nodes_left_branch.pop()
+        nodes_left_branch.append(ParentedTree(lwca.node,[_find_head_of_tree_(lwca)])) #add head of lwca
+        curr_tree = right_tree
+        while curr_tree!=lwca:
+            if not (len(nodes_right_branch)>0 and nodes_right_branch[-1].node== curr_tree.node):
+                nodes_right_branch.append(ParentedTree(curr_tree.node,["*"]))
+            curr_tree = curr_tree.parent()
+        nodes_right_branch.reverse()
+        path = nodes_left_branch + nodes_right_branch
+        label_path = ParentedTree("LP-head",path)
+    else:
+        label_path = ParentedTree("LP-head",[lwca])
     return label_path
 
 
@@ -961,7 +971,7 @@ def _get_antecedent_(mention_tuple, article):
     """If the token is a pronound, return its antecedent. Else,
     return the pronoun.
     Return as (token,start,end,sentence)"""
-    #        return token
+    antecedent = (mention_tuple[0], mention_tuple[1], mention_tuple[2],mention_tuple[4])
     target_group = None
     mention_referent = None
     if _is_pronoun(mention_tuple[0]):
