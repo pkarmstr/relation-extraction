@@ -16,7 +16,8 @@ phrase_heads = {"PP":["IN"],
                 "NP-TMP":['NN', 'NNS', 'NNP', 'NNPS'],
                 "WHADVP":["WRB"],
                 "WHNP":["WDT", "WP",],
-                "ADVP":["RB"]}
+                "ADVP":["RB"],
+                }
 
 
 ###################
@@ -65,7 +66,7 @@ def _get_lowest_common_ancestor_(fr,s_tree):
 def _find_head_of_tree_(tree):
     """given a tree, return its head word"""
     result = None
-    if tree.node == "ROOT" or tree.node.startswith("S"):
+    if tree.node not in phrase_heads.keys():
         for child in tree:
             if child.node in ["WHNP", "MD", "VP", "S", "SQ", "SBAR"]:
                 result= _find_head_of_tree_(child)
@@ -498,12 +499,10 @@ def last_word_in_between(fr):
     return "last_word_in_between={}".format([words[len(words)-1][0]])
 
 def bow_tree(fr):
-    """return words between m1 and m2 excluding the first and last words"""
+    """ return words between m1 and m2 excluding the first and last words"""
     words = _get_words_in_between_(fr)
-    if len(words)>=1:
-    	words.pop()
-    if len(words)>=1: 
-    	words.pop()
+    if len(words)>=1: words.pop(0)
+    if len(words)>=1: words.pop()
     children = [ParentedTree(w,["*"]) for w,pos in words]
     bow_tree = ParentedTree("BOW",children)
     return bow_tree
@@ -597,7 +596,10 @@ def first_np_head_in_between(fr):
     return the head of the first one
     """
     heads = boh_np_tree(fr)
-    head = heads[0].node
+    if len(heads)>=1:
+       head = heads[0].node
+    else:
+        head = None
     return "first_np_head_in_between={}".format([head])
 
 
@@ -608,7 +610,10 @@ def first_head_in_between(fr):
     """
 
     heads = boh_tree(fr)
-    head = heads[0].node
+    if len(heads)>=1:
+       head = heads[0].node
+    else:
+        head = None
     return "first_head_in_between={}".format([head])
 
 
@@ -619,7 +624,10 @@ def last_np_head_in_between(fr):
     """
 
     heads = boh_np_tree(fr)
-    head = heads[-1].node
+    if len(heads)>=1:
+       head = heads[-1].node
+    else:
+        head = None
     return "last_np_head_in_between={}".format([head])
 
 
@@ -629,7 +637,10 @@ def last_head_in_between(fr):
     return the head of the last one
     """
     heads = boh_tree(fr)
-    head = heads[-1].node
+    if len(heads)>=1:
+       head = heads[-1].node
+    else:
+        head = None
     return "last_head_in_between={}".format([head])
 
 
