@@ -65,7 +65,7 @@ def _get_lowest_common_ancestor_(fr,s_tree):
 
 def _find_head_of_tree_(tree):
     """given a tree, return its head word"""
-    result = None
+    result = "None"
     if tree.node not in phrase_heads.keys():
         for child in tree:
             if child.node in ["WHNP", "MD", "VP", "S", "SQ", "SBAR"]:
@@ -497,12 +497,21 @@ def _get_words_in_between_(fr):
 
 def first_word_in_between(fr):
     """return the first word between m1 and m2"""
-    return "first_word_in_between={}".format([_get_words_in_between_(fr)[0][0]])
+    words_in_between = _get_words_in_between_(fr)
+    if len(words_in_between)>=1:
+        first = words_in_between[0][0]
+    else:
+        first = "None"
+    return "first_word_in_between={}".format([first])
 
 def last_word_in_between(fr):
     """return the last word between m1 and m2"""
     words = _get_words_in_between_(fr)
-    return "last_word_in_between={}".format([words[len(words)-1][0]])
+    if len(words)>=1:
+        last = words[len(words)-1][0]
+    else:
+        last = "None"
+    return "last_word_in_between={}".format([last])
 
 def bow_tree(fr):
     """ return words between m1 and m2 excluding the first and last words"""
