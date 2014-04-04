@@ -500,8 +500,8 @@ def last_word_in_between(fr):
 def bow_tree(fr):
     """return words between m1 and m2 excluding the first and last words"""
     words = _get_words_in_between_(fr)
-    words.pop(0)
-    words.pop()
+    if len(words)>=1: words.pop(0)
+    if len(words)>=1: words.pop()
     children = [ParentedTree(w,["*"]) for w,pos in words]
     bow_tree = ParentedTree("BOW",children)
     return bow_tree
