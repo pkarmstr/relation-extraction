@@ -318,8 +318,8 @@ def stanford_dependency_reader():
                         dependent_index=dependent.attrib['idx']
                         governor_token=governor.text
                         dependent_token=dependent.text
-                        dependencies[article][sentence_id][(dependent_index,dependent_token)]=\
-                            (governor_index,governor_token,dep_type)
+                        dependencies[article][int(sentence_id)][(int(dependent_index),dependent_token)]=\
+                            (int(governor_index),governor_token,dep_type)
                         #print '\t\t',(dependent_index,dependent_token),":",(governor_index,governor_token,dep_type)
     return dependencies
 

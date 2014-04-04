@@ -6,7 +6,8 @@ from nltk.corpus.reader.wordnet import WordNetError as wn_error
 from nltk.tree import Tree,ParentedTree
 from file_reader import RAW_SENTENCES, SYNTAX_PARSE_SENTENCES, POS_SENTENCES, PRONOUN_SET, \
     entity_types, RELATIONSHIPS_AND_GROUPS, COUNTRIES, NATIONALITIES, OFFICIALS, PROFESSIONS, \
-    TITLE_SET, POSSESSIVE_PRONOUNS, COREF, AUGMENTED_TREES
+    TITLE_SET, POSSESSIVE_PRONOUNS, COREF, DEPENDENCIES, AUGMENTED_TREES
+
 
 phrase_heads = {"PP":["IN"],
                 "NP":['NN', 'NNS', 'NNP', 'NNPS', 'JJ', "PRP"], #JJ as NP for examples like "many of...".
@@ -52,6 +53,7 @@ def _get_mentions_in_order_(fr):
 
 def _get_lowest_common_ancestor_(fr,s_tree):
     """return the lowest common ancestor tree """
+    s_tree = SYNTAX_PARSE_SENTENCES[fr.article][int(fr.i_sentence)]
     mention1 = _get_mentions_in_order_(fr)[0]
     mention2= _get_mentions_in_order_(fr)[1]
     first_entity_index = int(mention1[1])
@@ -196,25 +198,53 @@ def mention_overlap(fr):
 
 #### gazetter features start here; might be useless, but they're fun to try ####
 def _is_rel_or_group(token):
-    return any(token.lower().split('_')) in RELATIONSHIPS_AND_GROUPS
+    result=False
+    for word in token.split('_'):
+        if word.lower() in RELATIONSHIPS_AND_GROUPS:
+            result=True
+    return result
 
 def _is_country(token):
-    return any(token.title().split('_')) in COUNTRIES
+    result=False
+    for word in token.split('_'):
+        if word.title() in COUNTRIES:
+            result=True
+    return result
 
 def _is_nationality(token):
-    return any(token.title().split('_')) in NATIONALITIES
+    result=False
+    for word in token.split('_'):
+        if word.title() in NATIONALITIES:
+            result=True
+    return result
 
 def _is_official(token):
-    return any(token.lower().split('_')) in OFFICIALS
+    result=False
+    for word in token.split('_'):
+        if word.lower() in OFFICIALS:
+            result=True
+    return result
 
 def _is_profession(token):
-    return any(token.lower().split('_')) in PROFESSIONS
+    result=False
+    for word in token.split('_'):
+        if word.lower() in PROFESSIONS:
+            result=True
+    return result
 
 def _is_title(token):
-    return any(token.lower().split('_')) in TITLE_SET
+    result=False
+    for word in token.split('_'):
+        if word.lower() in TITLE_SET:
+            result=True
+    return result
 
 def _is_possessive_pronoun(token):
-    return any(token.lower().split('_')) in POSSESSIVE_PRONOUNS
+    result=False
+    for word in token.split('_'):
+        if word.lower() in POSSESSIVE_PRONOUNS:
+            result=True
+    return result
 
 def poss_pronoun_per(fr):
     """
@@ -222,7 +252,7 @@ def poss_pronoun_per(fr):
     From what I can see in the data, they always occur in that order and never in reverse order.
     """
     result=_is_possessive_pronoun(fr.i_token) and fr.j_entity_type=='PER'
-    print fr.i_token, fr.j_token, "poss_pronoun_per={}".format(result)
+    #print fr.i_token, fr.j_token, "poss_pronoun_per={}".format(result)
     return "poss_pronoun_per={}".format(result)
 
 def poss_pronoun_relword(fr):
@@ -231,7 +261,7 @@ def poss_pronoun_relword(fr):
     From what I can see in the data, they always occur in that order and never in reverse order.
     """
     result=_is_possessive_pronoun(fr.i_token) and _is_rel_or_group(fr.j_token)
-    print fr.i_token, fr.j_token, "poss_pronoun_relword={}".format(result)
+    #print fr.i_token, fr.j_token, "poss_pronoun_relword={}".format(result)
     return "poss_pronoun_relword={}".format(result)
 
 def per_relword(fr):
@@ -241,7 +271,7 @@ def per_relword(fr):
     """
     result=(fr.i_entity_type=="PER" and _is_rel_or_group(fr.j_token)) or \
            (fr.j_entity_type=="PER" and _is_rel_or_group(fr.i_token))
-    print fr.i_token, fr.j_token, "per_relword={}".format(result)
+    #print fr.i_token, fr.j_token, "per_relword={}".format(result)
     return "per_relword={}".format(result)
 
 def per_org(fr):
@@ -250,7 +280,7 @@ def per_org(fr):
     """
     result=(fr.i_entity_type=='PER' and fr.j_entity_type=='ORG') or \
            (fr.i_entity_type=='ORG' and fr.j_entity_type=='PER')
-    print fr.i_token, fr.j_token, "per_org={}".format(result)
+    #print fr.i_token, fr.j_token, "per_org={}".format(result)
     return "per_org={}".format(result)
 
 def per_nns(fr):
@@ -261,7 +291,7 @@ def per_nns(fr):
     """
     j_pos=POS_SENTENCES[fr.article][fr.j_sentence][fr.j_offset_begin][1]
     result=fr.i_entity_type=='PER' and j_pos=='NNS'
-    print fr.i_token, fr.j_token, "per_nns={}".format(result)
+    #print fr.i_token, fr.j_token, "per_nns={}".format(result)
     return "per_nns={}".format(result)
 
 def poss_title(fr):
@@ -269,7 +299,7 @@ def poss_title(fr):
     poss + profession OR title OR official
     """
     result=_is_possessive_pronoun(fr.i_token) and (_is_profession(fr.j_token) or _is_official(fr.j_token) or _is_title(fr.j_token))
-    print fr.i_token, fr.j_token, "poss_title={}".format(result)
+    #print fr.i_token, fr.j_token, "poss_title={}".format(result)
     return "poss_title={}".format(result)
 
 def per_title(fr):
@@ -277,7 +307,7 @@ def per_title(fr):
     per + profession OR title OR official
     """
     result=fr.i_entity_type=='PER' and (_is_profession(fr.j_token) or _is_official(fr.j_token) or _is_title(fr.j_token))
-    print fr.i_token, fr.j_token, "per_title={}".format(result)
+    #print fr.i_token, fr.j_token, "per_title={}".format(result)
     return "per_title={}".format(result)
 
 def nnp_title(fr):
@@ -289,7 +319,8 @@ def nnp_title(fr):
     j_pos=POS_SENTENCES[fr.article][fr.j_sentence][fr.j_offset_begin][1]
     result=(i_pos.startswith("NNP") and (_is_profession(fr.j_token) or _is_official(fr.j_token) or _is_title(fr.j_token))) or \
            (j_pos.startswith("NNP") and (_is_profession(fr.i_token) or _is_official(fr.i_token) or _is_title(fr.i_token)))
-    print fr.i_token, fr.j_token, "nnp_title={}".format(result)
+    #print fr.i_token, fr.j_token, "nnp_title={}".format(result)
+    #print
     return "nnp_title={}".format(result)
 
 def et1_country(fr):
@@ -297,7 +328,7 @@ def et1_country(fr):
     result=False
     if _is_country(fr.j_token):
         result=fr.i_entity_type
-    print fr.i_token, fr.j_token, "et1_country={}".format(result)
+    #print fr.i_token, fr.j_token, "et1_country={}".format(result)
     return "et1_country={}".format(result)
 
 def country_et2(fr):
@@ -305,8 +336,61 @@ def country_et2(fr):
     result=False
     if _is_country(fr.i_token):
         result=fr.j_entity_type
-    print fr.i_token, fr.j_token, "country_et2={}".format(result)
+    #print fr.i_token, fr.j_token, "country_et2={}".format(result)
     return "country_et2={}".format(result)
+
+# dependency features
+def et1_dw1(fr):
+    """combination of the entity type and the dependent word(s) for M1"""
+    #print fr.article
+    #print DEPENDENCIES[fr.article].has_key(int(fr.i_sentence))
+    et1_dependencies=DEPENDENCIES[fr.article][int(fr.i_sentence)+1]
+
+    dep_list=[dep_word for (dep_index,dep_word),(gov_index,gov_word,dep_type) in et1_dependencies.items() if int(fr.i_offset_end)==gov_index]
+    #print fr.i_token, fr.j_token, "et1_dw1={},{}".format(fr.i_entity_type,dep_list)
+    #print et1_dependencies.items()
+    #print
+    return "et1_dw1={},{}".format(fr.i_entity_type,dep_list)
+
+def h1_dw1(fr):
+    """combination of the head word (=last word for now) and the dependent word(s) for M1"""
+    #print fr.article
+    #print DEPENDENCIES[fr.article].has_key(int(fr.i_sentence))
+    et1_dependencies=DEPENDENCIES[fr.article][int(fr.i_sentence)+1]
+
+    dep_list=[dep_word for (dep_index,dep_word),(gov_index,gov_word,dep_type) in et1_dependencies.items() if int(fr.i_offset_end)==gov_index]
+    #print fr.i_token, fr.j_token, "h1_dw1={},{}".format(fr.i_token.split('_')[-1],dep_list)
+    #print et1_dependencies.items()
+    #print
+    return "h1_dw1={},{}".format(fr.i_token.split('_')[-1],dep_list)
+
+def et2_dw2(fr):
+    """combination of the entity type and the dependent word(s) for M2"""
+    #print fr.article
+    #print DEPENDENCIES[fr.article].has_key(int(fr.i_sentence))
+    et2_dependencies=DEPENDENCIES[fr.article][int(fr.i_sentence)+1]
+
+    dep_list=[dep_word for (dep_index,dep_word),(gov_index,gov_word,dep_type) in et2_dependencies.items() if int(fr.j_offset_end)==gov_index]
+    #print fr.i_token, fr.j_token, "et2_dw2={},{}".format(fr.j_entity_type,dep_list)
+    #print et1_dependencies.items()
+    #print
+    return "et2_dw2={},{}".format(fr.j_entity_type,dep_list)
+
+def h2_dw2(fr):
+    """combination of the head word (=last word for now) and the dependent word(s) for M1"""
+    #print fr.article
+    #print DEPENDENCIES[fr.article].has_key(int(fr.i_sentence))
+    et2_dependencies=DEPENDENCIES[fr.article][int(fr.i_sentence)+1]
+
+    dep_list=[dep_word for (dep_index,dep_word),(gov_index,gov_word,dep_type) in et2_dependencies.items() if int(fr.j_offset_end)==gov_index]
+    #print fr.i_token, fr.j_token, "h2_dw2={},{}".format(fr.i_token.split('_')[-1],dep_list)
+    #print et1_dependencies.items()
+    #print
+    return "h2_dw2={},{}".format(fr.j_token.split('_')[-1],dep_list)
+
+def _dep_path_to_root(offset_end):
+    """Returns a list of token"""
+    pass
 
 ######################
 # Keelan's functions #
