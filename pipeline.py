@@ -109,7 +109,7 @@ class Pipeline:
 
     def evaluate(self):
         output = join(self.basedir, "final_output.tagged")
-        gold = "resources/cleaned-{:s}.gold"
+        gold = "resources/cleaned-{:s}.gold".format(self.type)
         redirect = "> {:s}/eval.txt".format(self.basedir)
         args = shlex.split("{:s} {:s} {:s} {:s} {:s}".format("python2.7",
                                                              "evaluator_finegrained.py",
