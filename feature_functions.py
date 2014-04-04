@@ -16,7 +16,8 @@ phrase_heads = {"PP":["IN"],
                 "NP-TMP":['NN', 'NNS', 'NNP', 'NNPS'],
                 "WHADVP":["WRB"],
                 "WHNP":["WDT", "WP",],
-                "ADVP":["RB"]}
+                "ADVP":["RB"],
+                }
 
 
 ###################
@@ -65,7 +66,7 @@ def _get_lowest_common_ancestor_(fr,s_tree):
 def _find_head_of_tree_(tree):
     """given a tree, return its head word"""
     result = None
-    if tree.node == "ROOT" or tree.node.startswith("S"):
+    if tree.node not in phrase_heads.keys():
         for child in tree:
             if child.node in ["WHNP", "MD", "VP", "S", "SQ", "SBAR"]:
                 result= _find_head_of_tree_(child)
