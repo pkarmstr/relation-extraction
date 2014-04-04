@@ -64,7 +64,7 @@ def _get_lowest_common_ancestor_(fr,s_tree):
     return lowest_common_ancestor
 
 def _find_head_of_tree_(tree):
-    """given a tree, return its head word"""
+    """ given a tree, return its head word """
     result = "None"
     if tree.node not in phrase_heads.keys():
         for child in tree:
