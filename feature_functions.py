@@ -72,8 +72,8 @@ def _find_head_of_tree_(tree):
                 if child.node in ["WHNP", "MD", "VP", "S", "SQ", "SBAR"]:
                     result= _find_head_of_tree_(child)
                     break
-                else:
-                    result = child
+            else:
+                result = child
     else:
         for child in tree:
             if isinstance(child,ParentedTree):
