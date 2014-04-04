@@ -595,7 +595,10 @@ def first_np_head_in_between(fr):
     return the head of the first one
     """
     heads = boh_np_tree(fr)
-    head = heads[0].node
+    if len(heads)>=1:
+       head = heads[0].node
+    else:
+        head = None
     return "first_np_head_in_between={}".format([head])
 
 
@@ -606,7 +609,10 @@ def first_head_in_between(fr):
     """
 
     heads = boh_tree(fr)
-    head = heads[0].node
+    if len(heads)>=1:
+       head = heads[0].node
+    else:
+        head = None
     return "first_head_in_between={}".format([head])
 
 
@@ -617,7 +623,10 @@ def last_np_head_in_between(fr):
     """
 
     heads = boh_np_tree(fr)
-    head = heads[-1].node
+    if len(heads)>=1:
+       head = heads[-1].node
+    else:
+        head = None
     return "last_np_head_in_between={}".format([head])
 
 
@@ -627,7 +636,10 @@ def last_head_in_between(fr):
     return the head of the last one
     """
     heads = boh_tree(fr)
-    head = heads[-1].node
+    if len(heads)>=1:
+       head = heads[-1].node
+    else:
+        head = None
     return "last_head_in_between={}".format([head])
 
 
