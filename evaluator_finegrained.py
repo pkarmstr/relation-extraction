@@ -1,6 +1,7 @@
 #!/usr/bin/python
 """
 Compute the accuracy of a relation classifier:
+(copy of evaluate_per_label, except with "no_rel")
     - Overall precision, recall, and F-Measure
     - Precision, recall, and F-Measure for each label
 """
