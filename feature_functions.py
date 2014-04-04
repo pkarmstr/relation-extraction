@@ -50,9 +50,9 @@ def _get_mentions_in_order_(fr):
                     int(fr.j_offset_end), fr.j_entity_type, int(fr.j_sentence))
     else:
         mention2 = (fr.i_token, int(fr.i_offset_begin),
-                    int(fr.i_offset_end), int(fr.i_entity_type), int(fr.i_sentence))
+                    int(fr.i_offset_end), fr.i_entity_type, int(fr.i_sentence))
         mention1 = (fr.j_token, int(fr.j_offset_begin),
-                    int(fr.j_offset_end), int(fr.j_entity_type), int(fr.j_sentence))
+                    int(fr.j_offset_end), fr.j_entity_type, int(fr.j_sentence))
     return (mention1, mention2)
 
 
