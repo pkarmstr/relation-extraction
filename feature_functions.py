@@ -919,6 +919,7 @@ def _get_antecedent_(mention_tuple, article):
     return the pronoun.
     Return as (token,start,end,sentence)"""
 #        return token
+    antecedent = (mention_tuple[0], mention_tuple[1], mention_tuple[2],mention_tuple[4])
     target_group = None
     mention_referent = None
     if _is_pronoun(mention_tuple[0]):
