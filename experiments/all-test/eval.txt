@@ -1,0 +1,14 @@
+6
+521
+3
+
+
+          	Precision	Recall	F-Measure
+OVERALL		0.5		0.01	0.01
+ART		0.0		0.0	0.0
+DISC		0.0		0.0	0.0
+EMP-ORG		1.0		0.0	0.01
+GPE-AFF		0.0		0.0	0.0
+OTHER-AFF		0.0		0.0	0.0
+PER-SOC		1.0		0.03	0.06
+PHYS		0.0		0.0	0.0

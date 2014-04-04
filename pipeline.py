@@ -111,11 +111,12 @@ class Pipeline:
         output = join(self.basedir, "final_output.tagged")
         gold = "resources/cleaned-{:s}.gold"
         redirect = "> {:s}/eval.txt".format(self.basedir)
-        args = shlex.split("{:s} {:s} {:s} {:s} {:s}".format("python27",
+        args = shlex.split("{:s} {:s} {:s} {:s} {:s}".format("python2.7",
                                                              "evaluator_finegrained.py",
                                                              gold,
                                                              output,
                                                              redirect))
+        print args
         p = Popen(args, stdout=PIPE)
         p.wait()
 
