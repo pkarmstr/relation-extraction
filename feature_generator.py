@@ -23,6 +23,7 @@ class Featurizer:
         self.original_data = original_data
         self.value_alphabet = Alphabet()
         self.value_alphabet.add("__NULL__") #SVMlight doesn't like 0 value for features
+        self.percent_buffer = int(len(self.original_data)*.18)
 
     def build_mallet_features(self):
         self.new_features = []
@@ -66,13 +67,15 @@ class Featurizer:
     def build_relation_class_vectors(self):
         self.all_vectors = defaultdict(list)
         for relation_class in self.RELATION_CLASSES:
+            no_rel_seen = 0
             vector_append = self.all_vectors[relation_class].append
             for row in self.new_features:
                 if row[0].startswith(relation_class):
                     new_row = ["+1"] + row[1:]
-                else:
+                elif no_rel_seen <= self.percent_buffer:
                     new_row = ["-1"] + row[1:]
                 vector_append(new_row)
+                no_rel_seen += 1
 
     def write_multiple_vectors(self, basedir, file_suffix):
         for relation,feature_vectors in self.all_vectors.iteritems():

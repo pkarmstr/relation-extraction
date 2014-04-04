@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0ae4589-d25f-4c52-9e17-bbdc8716d21e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mallet_pipeline.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/feature_functions.py" afterPath="$PROJECT_DIR$/feature_functions.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/feature_generator.py" afterPath="$PROJECT_DIR$/feature_generator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/experiments/test/feature_list.txt" afterPath="$PROJECT_DIR$/experiments/test/feature_list.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file_reader.py" afterPath="$PROJECT_DIR$/file_reader.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pipeline.py" afterPath="$PROJECT_DIR$/pipeline.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="relation-extraction.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +31,7 @@
       <file leaf-file-name="feature_generator.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/feature_generator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="49" selection-start="999" selection-end="999" vertical-scroll-proportion="0.0" vertical-offset="1353" max-vertical-offset="1845">
+            <state line="77" column="32" selection-start="2923" selection-end="2923" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1890">
               <folding>
                 <element signature="e#60#69#0" expanded="true" />
               </folding>
@@ -41,30 +39,46 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="cleaned-train.gold" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/cleaned-train.gold">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="1" selection-start="0" selection-end="1" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="243630">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="mallet_pipeline.sh" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mallet_pipeline.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="69" selection-start="1223" selection-end="1223" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+            <state line="33" column="69" selection-start="1182" selection-end="1182" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pipeline.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pipeline.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pipeline.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="70" selection-start="4896" selection-end="4896" vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="2265">
+            <state line="112" column="57" selection-start="4827" selection-end="4827" vertical-scroll-proportion="0.0794702" vertical-offset="1485" max-vertical-offset="2265">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="feature_functions.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="feature_functions.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/feature_functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="41" selection-start="959" selection-end="959" vertical-scroll-proportion="0.28301886" vertical-offset="180" max-vertical-offset="16485">
+            <state line="25" column="0" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="16800">
               <folding>
                 <element signature="e#23#32#0" expanded="true" />
+                <marker date="1396584611013" expanded="true" signature="4980:5138" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1396584611013" expanded="true" signature="6055:6119" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1396584611013" expanded="true" signature="23561:23622" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1396584611013" expanded="true" signature="23841:23904" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1396584611013" expanded="true" signature="24150:24214" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1396584611013" expanded="true" signature="24528:24581" placeholder="..." />
+                <marker date="1396584611013" expanded="true" signature="24420:24478" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
               </folding>
             </state>
           </provider>
@@ -73,16 +87,7 @@
       <file leaf-file-name="evaluator_finegrained.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/evaluator_finegrained.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="0" selection-start="1357" selection-end="1357" vertical-scroll-proportion="0.0" vertical-offset="1526" max-vertical-offset="2040">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="file_reader.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file_reader.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="356" column="0" selection-start="13670" selection-end="13670" vertical-scroll-proportion="0.0" vertical-offset="4905" max-vertical-offset="5820">
+            <state line="52" column="0" selection-start="1357" selection-end="1357" vertical-scroll-proportion="0.0" vertical-offset="1263" max-vertical-offset="2040">
               <folding />
             </state>
           </provider>
@@ -114,12 +119,12 @@
         <option value="$PROJECT_DIR$/test-dir/feature_list.txt" />
         <option value="$PROJECT_DIR$/test-dir/dev.notag" />
         <option value="$PROJECT_DIR$/evaluator_finegrained.py" />
-        <option value="$PROJECT_DIR$/pipeline.py" />
         <option value="$PROJECT_DIR$/mallet_pipeline.sh" />
         <option value="$PROJECT_DIR$/experiments/test/feature_list.txt" />
         <option value="$PROJECT_DIR$/file_reader.py" />
-        <option value="$PROJECT_DIR$/feature_generator.py" />
         <option value="$PROJECT_DIR$/feature_functions.py" />
+        <option value="$PROJECT_DIR$/pipeline.py" />
+        <option value="$PROJECT_DIR$/feature_generator.py" />
       </list>
     </option>
   </component>
@@ -170,6 +175,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="relation-extraction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="relation-extraction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="relation-extraction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -499,14 +518,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="34" width="1267" height="920" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24839228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24839228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33582088" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -779,28 +798,9 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="764" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/cleaned-train.gold">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="1" selection-start="9435" selection-end="9436" vertical-scroll-proportion="0.33286715" vertical-offset="1787" max-vertical-offset="243630" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/cleaned-dev.gold">
       <provider selected="true" editor-type-id="text-editor">
         <state line="230" column="1" selection-start="16229" selection-end="16230" vertical-scroll-proportion="-106.48653" vertical-offset="82463" max-vertical-offset="83205">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipeline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="70" selection-start="4896" selection-end="4896" vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="2265">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mallet_pipeline.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="69" selection-start="1223" selection-end="1223" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
           <folding />
         </state>
       </provider>
@@ -833,21 +833,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mallet_pipeline.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="69" selection-start="1182" selection-end="1182" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/cleaned-train.gold">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="1" selection-start="0" selection-end="1" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="243630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="16800">
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+            <marker date="1396584611013" expanded="true" signature="4980:5138" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1396584611013" expanded="true" signature="6055:6119" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1396584611013" expanded="true" signature="23561:23622" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1396584611013" expanded="true" signature="23841:23904" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1396584611013" expanded="true" signature="24150:24214" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1396584611013" expanded="true" signature="24528:24581" placeholder="..." />
+            <marker date="1396584611013" expanded="true" signature="24420:24478" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/feature_generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="49" selection-start="999" selection-end="999" vertical-scroll-proportion="0.0" vertical-offset="1353" max-vertical-offset="1845">
+        <state line="77" column="32" selection-start="2923" selection-end="2923" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1890">
           <folding>
             <element signature="e#60#69#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feature_functions.py">
+    <entry file="file://$PROJECT_DIR$/pipeline.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="41" selection-start="959" selection-end="959" vertical-scroll-proportion="0.28301886" vertical-offset="180" max-vertical-offset="16485">
-          <folding>
-            <element signature="e#23#32#0" expanded="true" />
-          </folding>
+        <state line="112" column="57" selection-start="4827" selection-end="4827" vertical-scroll-proportion="0.0794702" vertical-offset="1485" max-vertical-offset="2265">
+          <folding />
         </state>
       </provider>
     </entry>

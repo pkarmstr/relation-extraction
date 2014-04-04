@@ -93,7 +93,7 @@ class Pipeline:
         with open(join(self.basedir, "tagged_files", "no_rel.tagged"), "r") as f_in:
             for i,line in enumerate(f_in):
                 val = self._prepare_line(line)
-                if val <= 0:
+                if val <= 0.5:
                     class_indices.append(i)
                     max_type.append(("no_rel", -10000)) #giant magic number
                 else:
