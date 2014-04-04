@@ -112,7 +112,7 @@ def general_pos_ij(fr):
     return "general_pos_ij=[{},{}]".format(i_pos,j_pos)
 
 def _is_pronoun(word):
-    return word.lower() in PRONOUN_SET
+    return word is not None and word.lower() in PRONOUN_SET
 
 def same_hypernym(fr):
     """
@@ -126,6 +126,9 @@ def same_hypernym(fr):
 
         i_final=wn.morphy(re.sub(r"\W", r"",fr.i_token.split('_')[-1]))
         j_final=wn.morphy(re.sub(r"\W", r"",fr.j_token.split('_')[-1]))
+
+        if i_final is None or j_final is None:
+            return "same_hypernym={}".format(False)
 
         if _is_pronoun(i_final) or _is_pronoun(j_final):
             return "same_hypernym={}".format(False)
@@ -155,6 +158,9 @@ def lowest_common_hypernym(fr):
 
         i_final=wn.morphy(re.sub(r"\W", r"",fr.i_token.split('_')[-1]))
         j_final=wn.morphy(re.sub(r"\W", r"",fr.j_token.split('_')[-1]))
+
+        if i_final is None or j_final is None:
+            return "lowest_common_hypernym={}".format(False)
 
         if _is_pronoun(i_final) or _is_pronoun(j_final):
             return "lowest_common_hypernym={}".format(False)
@@ -500,8 +506,10 @@ def last_word_in_between(fr):
 def bow_tree(fr):
     """return words between m1 and m2 excluding the first and last words"""
     words = _get_words_in_between_(fr)
-    words.pop(0)
-    words.pop()
+    if len(words)>=1:
+    	words.pop()
+    if len(words)>=1: 
+    	words.pop()
     children = [ParentedTree(w,["*"]) for w,pos in words]
     bow_tree = ParentedTree("BOW",children)
     return bow_tree
