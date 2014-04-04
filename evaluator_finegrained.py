@@ -35,7 +35,7 @@ for gline in goldfh.readlines():
     else:
         parts = gline.split()
         #print parts
-        gold_tags_for_line.append(parts[0])
+        gold_tags_for_line.append(parts[0].split(".")[0])
 
 for tline in testfh.readlines():
     if  emptyline_pattern.match(tline):
