@@ -107,6 +107,18 @@ class Pipeline:
             linecache.clearcache()
         return zip(*max_type)[0]
 
+    def evaluate(self):
+        output = join(self.basedir, "final_output.tagged")
+        gold = "resources/cleaned-{:s}.gold"
+        redirect = "> {:s}/eval.txt".format(self.basedir)
+        args = shlex.split("{:s} {:s} {:s} {:s} {:s}".format("python27",
+                                                             "evaluator_finegrained.py",
+                                                             gold,
+                                                             output,
+                                                             redirect))
+        p = Popen(args, stdout=PIPE)
+        p.wait()
+
     def run(self):
         print "setting up...",
         self.set_up()
@@ -124,6 +136,10 @@ class Pipeline:
         with open(join(self.basedir, "final_output.tagged"), "w") as f_out:
             f_out.write("\n".join(answers))
         print "wrote the output into final_output.tagged [DONE]"
+        self.evaluate()
+        print "wrote the evaluation into eval.txt"
+
+
 
 if __name__ == "__main__":
     import argparse

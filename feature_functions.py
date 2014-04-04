@@ -24,7 +24,7 @@ phrase_heads = {"PP":["IN"],
 ###################
 
 def relation_type(fr):
-    return "relation_type={}".format(fr.relation_type)
+    return fr.relation_type.split(".")[0]
 
 def _get_words_in_between_(fr):
     """return the words between m1 and m2"""

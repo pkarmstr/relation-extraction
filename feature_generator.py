@@ -25,7 +25,13 @@ class Featurizer:
         self.value_alphabet.add("__NULL__") #SVMlight doesn't like 0 value for features
 
     def build_mallet_features(self):
-        pass
+        self.new_features = []
+        for feats in self.original_data:
+            new_row = []
+            for i,func in self.feature_functions:
+                new_row.append(re.sub(r"\s", "", func(feats))) #just to be sure!
+
+            self.new_features.append(new_row)
 
     def build_features(self):
         self.new_features = []
@@ -87,20 +93,26 @@ if __name__ == "__main__":
     parser.add_argument("tree_list")
     parser.add_argument("feature_list")
     parser.add_argument("-a", "--answers", help="the input file has the answers", action="store_true")
+    parser.add_argument("-m", "--mallet", help="prepare mallet output", action="store_true")
 
     all_args = parser.parse_args()
 
     tree_funcs = feature_list_reader(all_args.tree_list, locals())
     feature_funcs = feature_list_reader(all_args.feature_list, locals())
 
+    if all_args.mallet:
+        feature_funcs.insert(0, relation_type)
+
     data = get_original_data(all_args.input_file)
-    #tree_funcs=[]
-    #feature_funcs=[et1_country,country_et2,poss_pronoun_per,poss_pronoun_relword,per_relword,per_org,per_nns,poss_title,per_title,nnp_title]
     f = Featurizer(data, tree_funcs, feature_funcs, not all_args.answers)
-    f.build_features()
-    if all_args.answers:
-        f.build_relation_class_vectors()
-        f.write_multiple_vectors(all_args.output_dir, all_args.file_suffix)
-    else:
+    if all_args.mallet:
+        f.build_mallet_features()
         f.write_no_tag(all_args.output_dir, all_args.file_suffix)
-    print "built your new feature vectors at {}".format(all_args.output_dir)
+    else:
+        f.build_features()
+        if all_args.answers:
+            f.build_relation_class_vectors()
+            f.write_multiple_vectors(all_args.output_dir, all_args.file_suffix)
+        else:
+            f.write_no_tag(all_args.output_dir, all_args.file_suffix)
+        print "built your new feature vectors at {}".format(all_args.output_dir)
